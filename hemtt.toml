@@ -1,6 +1,6 @@
-name = "TMTM Texturepack"
-prefix = "tmtm_texturepack"
-author = "Superxpdude"
+name = "TMTMPack"
+prefix = "tmtm_pack"
+author = "TMTM"
 files = [
 	"mod.cpp",
 	"README.md"
