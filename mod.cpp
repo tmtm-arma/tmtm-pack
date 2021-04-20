@@ -1,0 +1,14 @@
+name = "TMTM Texturepack";
+//picture = "";
+actionName = "Github";
+action = "https://github.com/tmtm-arma/tmtm-texturepack";
+description = "TMTM Texturepack";
+//logoSmall = "";
+//logo = "";
+//logoOver = "";
+tooltip = "TFAR Texturepack";
+tooltipOwned = "TFAR Texturepack";
+overview = "A collection of asset retextures for TMTM";
+author = "TMTM";
+hideName = 0;
+hidePicture = 0;
