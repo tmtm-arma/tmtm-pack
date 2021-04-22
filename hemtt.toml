@@ -7,7 +7,7 @@ files = [
 ]
 
 key_name = "{{prefix}}_{{version}}"
-authority = "{{prefix}}_{{version}}"
+authority = "{{prefix}}_{{version}}-{{git \"id 8\"}}"
 
 [header_exts]
 version= "{{git \"id 8\"}}"
