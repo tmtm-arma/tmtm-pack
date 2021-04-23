@@ -1,4 +1,4 @@
-class CfgVehicles
+class CfgWeapons
 {
 	class HeadgearItem;
 	class HelmetBase: ItemCore
