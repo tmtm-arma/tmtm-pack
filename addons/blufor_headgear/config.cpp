@@ -15,15 +15,4 @@ class CfgPatches {
 	};
 };
 
-class cfgFactionClasses
-{
-	class tmtm_blufor_units
-	{
-		displayName="TMTM Units";
-		priority=1;
-		side=1;
-		icon="";
-	};
-};
-
 #include "CfgWeapons.hpp"
