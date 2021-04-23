@@ -29,14 +29,12 @@ class CfgVehicles
 			"\A3\Characters_F\BLUFOR\Data\clothing1.rvmat"
 		};
 	};
-	
 	class tmtm_combatUniform_black_rs: tmtm_combatUniform_black
 	{
 		displayName="Soldier (Black) (RS)";
 		model="\A3\Characters_F\BLUFOR\b_soldier_03.p3d";
 		uniformClass="tmtm_u_combatUniform_black_rs";
 	};
-	
 	class tmtm_combatUniform_blackTan: tmtm_combatUniform_black
 	{
 		displayName="Soldier (Black/Tan)";
@@ -46,14 +44,12 @@ class CfgVehicles
 			"\tmtm\pack\blufor_uniforms\Data\tmtm_combatUniform_blackTan_co.paa"
 		};
 	};
-	
 	class tmtm_combatUniform_blackTan_rs: tmtm_combatUniform_blackTan
 	{
 		displayName="Soldier (Black/Tan) (RS)";
 		model="\A3\Characters_F\BLUFOR\b_soldier_03.p3d";
 		uniformClass="tmtm_u_combatUniform_blackTan_rs";
 	};
-	
 	class tmtm_combatUniform_tan: tmtm_combatUniform_black
 	{
 		displayName="Soldier (Tan)";
@@ -63,14 +59,12 @@ class CfgVehicles
 			"\tmtm\pack\blufor_uniforms\Data\tmtm_combatUniform_tan_co.paa"
 		};
 	};
-	
 	class tmtm_combatUniform_tan_rs: tmtm_combatUniform_tan
 	{
 		displayName="Soldier (Tan) (RS)";
 		model="\A3\Characters_F\BLUFOR\b_soldier_03.p3d";
 		uniformClass="tmtm_u_combatUniform_tan_rs";
 	};
-	
 	class tmtm_combatUniform_erdl_arvn: tmtm_combatUniform_black
 	{
 		displayName="Soldier (ERDL ARVN)";
@@ -80,14 +74,12 @@ class CfgVehicles
 			"\tmtm\pack\blufor_uniforms\Data\tmtm_combatUniform_erdl_arvn_co.paa"
 		};
 	};
-	
 	class tmtm_combatUniform_erdl_arvn_rs: tmtm_combatUniform_erdl_arvn
 	{
 		displayName="Soldier (ERDL ARVN) (RS)";
 		model="\A3\Characters_F\BLUFOR\b_soldier_03.p3d";
 		uniformClass="tmtm_u_combatUniform_erdl_arvn_rs";
 	};
-	
 	class tmtm_combatUniform_erdl_oce: tmtm_combatUniform_black
 	{
 		displayName="Soldier (ERDL Ocean)";
@@ -97,14 +89,12 @@ class CfgVehicles
 			"\tmtm\pack\blufor_uniforms\Data\tmtm_combatUniform_erdl_oce_co.paa"
 		};
 	};
-	
 	class tmtm_combatUniform_erdl_oce_rs: tmtm_combatUniform_erdl_oce
 	{
 		displayName="Soldier (ERDL Ocean) (RS)";
 		model="\A3\Characters_F\BLUFOR\b_soldier_03.p3d";
 		uniformClass="tmtm_u_combatUniform_erdl_oce_rs";
 	};
-	
 	class tmtm_combatUniform_ghost: tmtm_combatUniform_black
 	{
 		displayName="Soldier (Ghost)";
@@ -114,14 +104,12 @@ class CfgVehicles
 			"\tmtm\pack\blufor_uniforms\Data\tmtm_combatUniform_ghost_co.paa"
 		};
 	};
-	
 	class tmtm_combatUniform_ghost_rs: tmtm_combatUniform_ghost
 	{
 		displayName="Soldier (Ghost) (RS)";
 		model="\A3\Characters_F\BLUFOR\b_soldier_03.p3d";
 		uniformClass="tmtm_u_combatUniform_ghost_rs";
 	};
-	
 	class tmtm_combatUniform_nwupat: tmtm_combatUniform_black
 	{
 		displayName="Soldier (NWUPAT)";
@@ -131,14 +119,12 @@ class CfgVehicles
 			"\tmtm\pack\blufor_uniforms\Data\tmtm_combatUniform_nwupat_co.paa"
 		};
 	};
-	
 	class tmtm_combatUniform_nwupat_rs: tmtm_combatUniform_nwupat
 	{
 		displayName="Soldier (NWUPAT) (RS)";
 		model="\A3\Characters_F\BLUFOR\b_soldier_03.p3d";
 		uniformClass="tmtm_u_combatUniform_nwupat_rs";
 	};
-	
 	// VANILLA TEXTURE
 	class tmtm_combatUniform_sage: tmtm_combatUniform_black
 	{
@@ -149,7 +135,6 @@ class CfgVehicles
 			"\a3\characters_f\BLUFOR\Data\clothing_sage_co.paa"
 		};
 	};
-	
 	// VANILLA TEXTURE
 	class tmtm_combatUniform_sage_rs: tmtm_combatUniform_sage
 	{
@@ -157,7 +142,6 @@ class CfgVehicles
 		model="\A3\Characters_F\BLUFOR\b_soldier_03.p3d";
 		uniformClass="tmtm_u_combatUniform_sage_rs";
 	};
-	
 	// VANILLA TEXTURE
 	class tmtm_combatUniform_erdl: tmtm_combatUniform_black
 	{
@@ -168,7 +152,6 @@ class CfgVehicles
 			"\a3\characters_f\BLUFOR\Data\clothing_wdl_co.paa"
 		};
 	};
-	
 	// VANILLA TEXTURE
 	class tmtm_combatUniform_erdl_rs: tmtm_combatUniform_erdl
 	{
@@ -176,7 +159,6 @@ class CfgVehicles
 		model="\A3\Characters_F\BLUFOR\b_soldier_03.p3d";
 		uniformClass="tmtm_u_combatUniform_erdl_rs";
 	};
-	
 	class tmtm_combatUniform_mcamb: tmtm_combatUniform_black
 	{
 		displayName="Soldier (Mutlicam Black)";
@@ -186,7 +168,6 @@ class CfgVehicles
 			"\tmtm\pack\blufor_uniforms\Data\tmtm_combatUniform_mcamb_co.paa"
 		};
 	};
-	
 	class tmtm_combatUniform_mcamb_rs: tmtm_combatUniform_mcamb
 	{
 		displayName="Soldier (Multicam Black) (RS)";
@@ -202,14 +183,12 @@ class CfgVehicles
 			"\tmtm\pack\blufor_uniforms\Data\tmtm_combatUniform_softshellblack_mcamb_co.paa"
 		};
 	};
-	
 	class tmtm_combatUniform_mcamb_black_rs: tmtm_combatUniform_mcamb_black
 	{
 		displayName="Soldier (Multicam Black/Black) (RS)";
 		model="\A3\Characters_F\BLUFOR\b_soldier_03.p3d";
 		uniformClass="tmtm_u_combatUniform_mcamb_black_rs";
 	};
-	
 	class tmtm_combatUniform_mcamb_grey: tmtm_combatUniform_black
 	{
 		displayName="Soldier (Mutlicam Black/Grey)";
@@ -219,7 +198,6 @@ class CfgVehicles
 			"\tmtm\pack\blufor_uniforms\Data\tmtm_combatUniform_softshellgrey_mcamb_co.paa"
 		};
 	};
-	
 	class tmtm_combatUniform_mcamb_grey_rs: tmtm_combatUniform_mcamb_grey
 	{
 		displayName="Soldier (Multicam Black/Grey) (RS)";
@@ -235,7 +213,7 @@ class CfgVehicles
 		author="Trenchgun";
 		scope=1;
 		displayName="Soldier (MTP) (Black Tee)";
-		picture="\tg\blu\Data\logo_small.paa";
+		picture="";
 		model="a3\characters_F\BLUFOR\b_soldier_02.p3d";
 		modelSides[]={3,1};
 		uniformClass="tmtm_u_combatUniformT_mcam_black";
@@ -255,7 +233,6 @@ class CfgVehicles
 			"\A3\Characters_F\BLUFOR\Data\clothing1.rvmat"
 		};
 	};
-	
 	class tmtm_combatUniformT_ctrg_black: tmtm_combatUniformT_mcam_black
 	{
 		displayName="Soldier (CTRG) (Black Tee)";
@@ -266,8 +243,7 @@ class CfgVehicles
 			"a3\characters_f\common\data\basicbody_black_co.paa"
 		};
 	};
-	
-	class tmtm_combatUniformT_erdl_t_black: tmtm_combatUniformT_mcam_t_black
+	class tmtm_combatUniformT_erdl_black: tmtm_combatUniformT_mcam_black
 	{
 		displayName="Soldier (ERDL) (Black Tee)";
 		uniformClass="tmtm_u_combatUniformT_erdl_black";
@@ -277,8 +253,7 @@ class CfgVehicles
 			"a3\characters_f\common\data\basicbody_black_co.paa"
 		};
 	};
-	
-	class tmtm_combatUniformT_sage_t_black: tmtm_combatUniformT_mcam_t_black
+	class tmtm_combatUniformT_sage_black: tmtm_combatUniformT_mcam_black
 	{
 		displayName="Soldier (Sage) (Black Tee)";
 		uniformClass="tmtm_u_combatUniformT_sage_black";
@@ -288,8 +263,7 @@ class CfgVehicles
 			"a3\characters_f\common\data\basicbody_black_co.paa"
 		};
 	};
-	
-	class tmtm_combatUniformT_tropic_t_black: tmtm_combatUniformT_mcam_t_black
+	class tmtm_combatUniformT_tropic_black: tmtm_combatUniformT_mcam_black
 	{
 		displayName="Soldier (Tropic) (Black Tee)";
 		uniformClass="tmtm_u_combatUniformT_tropic_black";
@@ -299,8 +273,7 @@ class CfgVehicles
 			"a3\characters_f\common\data\basicbody_black_co.paa"
 		};
 	};
-	
-	class tmtm_combatUniformT_ctrg_stealth_t_black: tmtm_combatUniformT_mcam_t_black
+	class tmtm_combatUniformT_ctrg_stealth_black: tmtm_combatUniformT_mcam_black
 	{
 		displayName="Soldier (CTRG Stealth) (Black Tee)";
 		uniformClass="tmtm_u_combatUniformT_ctrg_tropic_black";
@@ -310,7 +283,6 @@ class CfgVehicles
 			"a3\characters_f\common\data\basicbody_black_co.paa"
 		};
 	};
-	
 	class tmtm_combatUniformT_mcamb: tmtm_combatUniformT_mcam_black
 	{
 		displayName="Soldier (Multicam Black) (Tee)";
@@ -322,7 +294,6 @@ class CfgVehicles
 		};
 	};
 	
-	
 	// CTRG Stealth Fatigues -----------------------------------------------
 	// advanced Gen3 fatigues with the collar up
 	
@@ -332,10 +303,10 @@ class CfgVehicles
 		author="Trenchgun";
 		scope=1;
 		displayName="Soldier ERDL (Collar)";
-		picture="\tg\blu\Data\logo_small.paa";
+		picture="";
 		model="\A3\Characters_F_Exp\BLUFOR\B_CTRG_Soldier_01_F.p3d";
 		modelSides[]+={0,1,2,3,6};
-		uniformClass="tg_b_u_erdl_collar";
+		uniformClass="tmtm_u_erdl_collar";
 		hiddenSelectionsTextures[]=
 		{
 			"\a3\characters_f\BLUFOR\Data\clothing_wdl_co.paa"
@@ -345,97 +316,87 @@ class CfgVehicles
 			"\A3\Characters_F\BLUFOR\Data\clothing1.rvmat"
 		};
 	};
-	
 	class tmtm_combatUniformC_sage: tmtm_combatUniformC_erdl
 	{
 		displayName="Soldier Sage (Collar)";
-		uniformClass="tg_b_u_erdl_collar";
+		uniformClass="tmtm_u_erdl_collar";
 		hiddenSelectionsTextures[]=
 		{
 			"\a3\characters_f\BLUFOR\Data\clothing_sage_co.paa"
 		};
 	};
-	
 	class tmtm_combatUniformC_mtp: tmtm_combatUniformC_erdl
 	{
 		displayName="Soldier MTP (Collar)";
-		uniformClass="tg_b_u_mtp_collar";
+		uniformClass="tmtm_u_mtp_collar";
 		hiddenSelectionsTextures[]=
 		{
 			"A3\Characters_F\BLUFOR\Data\clothing1_co.paa"
 		};
 	};
-	
 	class tmtm_combatUniformC_black: tmtm_combatUniformC_erdl
 	{
 		displayName="Soldier Black (Collar)";
-		uniformClass="tg_b_u_black_collar";
+		uniformClass="tmtm_u_black_collar";
 		hiddenSelectionsTextures[]=
 		{
 			"\tmtm\pack\blufor_uniforms\Data\tmtm_combatUniform_black_co.paa"
 		};
 	};
-	
 	class tmtm_combatUniformC_blackTan: tmtm_combatUniformC_erdl
 	{
 		displayName="Soldier Black/Tan (Collar)";
-		uniformClass="tg_b_u_blackTan_collar";
+		uniformClass="tmtm_u_blackTan_collar";
 		hiddenSelectionsTextures[]=
 		{
 			"\tmtm\pack\blufor_uniforms\Data\tmtm_combatUniform_blackTan_co.paa"
 		};
 	};
-	
 	class tmtm_combatUniformC_ghost: tmtm_combatUniformC_erdl
 	{
 		displayName="Soldier Ghost (Collar)";
-		uniformClass="tg_b_u_ghost_collar";
+		uniformClass="tmtm_u_ghost_collar";
 		hiddenSelectionsTextures[]=
 		{
 			"\tmtm\pack\blufor_uniforms\Data\tmtm_combatUniform_ghost_co.paa"
 		};
 	};
-	
 	class tmtm_combatUniformC_tan: tmtm_combatUniformC_erdl
 	{
 		displayName="Soldier Tan (Collar)";
-		uniformClass="tg_b_u_soldier_tan_collar";
+		uniformClass="tmtm_u_soldier_tan_collar";
 		hiddenSelectionsTextures[]=
 		{
 			"\tmtm\pack\blufor_uniforms\Data\tmtm_combatUniform_tan_co.paa"
 		};
 	};
-	
 	class tmtm_combatUniformC_mcamb: tmtm_combatUniformC_erdl
 	{
 		displayName="Soldier Multicam Black (Collar)";
-		uniformClass="tg_b_u_mcamb_collar";
+		uniformClass="tmtm_u_mcamb_collar";
 		hiddenSelectionsTextures[]=
 		{
 			"\tmtm\pack\blufor_uniforms\Data\tmtm_combatUniform_mcamb_co.paa"
 		};
 	};
-	
 	class tmtm_combatUniformC_mcamb_black: tmtm_combatUniformC_erdl
 	{
 		displayName="Soldier Multicam Black (Softshell Black) (Collar)";
-		uniformClass="tg_b_u_mcamb_black_collar";
+		uniformClass="tmtm_u_mcamb_black_collar";
 		hiddenSelectionsTextures[]=
 		{
 			"\tmtm\pack\blufor_uniforms\Data\tmtm_combatUniform_softshellblack_mcamb_co.paa"
 		};
 	};
-	
 	class tmtm_combatUniformC_mcamb_grey: tmtm_combatUniformC_erdl
 	{
 		displayName="Soldier Multicam Black (Softshell Grey) (Collar)";
-		uniformClass="tg_b_u_mcamb_grey_collar";
+		uniformClass="tmtm_u_mcamb_grey_collar";
 		hiddenSelectionsTextures[]=
 		{
 			"\tmtm\pack\blufor_uniforms\Data\tmtm_combatUniform_softshellgrey_mcamb_co.paa"
 		};
 	};
-	
 	
 	// Survival Fatigues ----------------------------------------------------------
 	// various retextures of the survival fatigues (T-Shirt, Gen3 pants, diving fins)
@@ -443,14 +404,13 @@ class CfgVehicles
 	class B_soldier_survival_F: B_Soldier_base_F
 	{
 	};
-	
 	class tmtm_survival_black: B_soldier_survival_F
 	{
 		author="Trenchgun";
 		_generalMacro="B_soldier_survival_F";
 		scope=1;
-		displayName="Survival (Black/Tan)";
-		picture="\tg\blu\Data\logo_small.paa";
+		displayName="Survival (Black)";
+		picture="";
 		model="a3\characters_F_epa\BLUFOR\b_soldier_survival_01.p3d";
 		modelSides[]={3,1};
 		uniformClass="U_B_survival_uniform";
@@ -478,7 +438,7 @@ class CfgVehicles
 		};
 		hiddenSelectionsTextures[]=
 		{
-			"\tmtm\pack\blufor_uniforms\Data\tmtm_combatUniform_blackTan_co.paa",
+			"\tmtm\pack\blufor_uniforms\Data\tmtm_combatUniform_black_co.paa",
 			"a3\characters_f\common\data\diver_suit_co",
 			"a3\characters_f\common\data\basicbody_black_co.paa"
 		};
@@ -489,18 +449,16 @@ class CfgVehicles
 			""
 		};
 	};
-	
 	class tmtm_survival_blackTan: tmtm_survival_black
 	{
-		displayName="Survival (Black)";
+		displayName="Survival (Black/Tan)";
 		hiddenSelectionsTextures[]=
 		{
-			"\tmtm\pack\blufor_uniforms\Data\tmtm_combatUniform_black_co.paa",
+			"\tmtm\pack\blufor_uniforms\Data\tmtm_combatUniform_blackTan_co.paa",
 			"a3\characters_f\common\data\diver_suit_co",
 			"a3\characters_f\common\data\basicbody_black_co.paa"
 		};
 	};
-	
 	class tmtm_survival_tan: tmtm_survival_black
 	{
 		displayName="Survival (Tan)";
@@ -511,7 +469,6 @@ class CfgVehicles
 			"a3\characters_f\common\data\basicbody_black_co.paa"
 		};
 	};
-	
 	class tmtm_survival_erdl_arvn: tmtm_survival_black
 	{
 		displayName="Survival (ERDL ARVN)";
@@ -522,7 +479,6 @@ class CfgVehicles
 			"a3\characters_f\common\data\basicbody_black_co.paa"
 		};
 	};
-	
 	class tmtm_survival_erdl_oce: tmtm_survival_black
 	{
 		displayName="Survival (ERDL Ocean)";
@@ -533,7 +489,6 @@ class CfgVehicles
 			"a3\characters_f\common\data\basicbody_blue_co.paa"
 		};
 	};
-	
 	class tmtm_survival_ghost: tmtm_survival_black
 	{
 		displayName="Survival (Ghost)";
@@ -544,7 +499,6 @@ class CfgVehicles
 			"a3\characters_f\common\data\basicbody_black_co.paa"
 		};
 	};
-	
 	class tmtm_survival_nwupat: tmtm_survival_black
 	{
 		displayName="Survival (NWUPAT)";
@@ -555,7 +509,6 @@ class CfgVehicles
 			"a3\characters_f\common\data\basicbody_black_co.paa"
 		};
 	};
-	
 	class tmtm_survival_sage: tmtm_survival_black
 	{
 		displayName="Survival (Sage)";
@@ -566,7 +519,6 @@ class CfgVehicles
 			"a3\characters_f\common\data\basicbody_black_co.paa"
 		};
 	};
-	
 	class tmtm_survival_erdl: tmtm_survival_black
 	{
 		displayName="Survival (ERDL)";
@@ -577,7 +529,6 @@ class CfgVehicles
 			"a3\characters_f\common\data\basicbody_black_co.paa"
 		};
 	};
-	
 	class tmtm_survival_mcamb: tmtm_survival_black
 	{
 		displayName="Survival (Multicam Black)";
@@ -588,5 +539,4 @@ class CfgVehicles
 			"a3\characters_f\common\data\basicbody_black_co.paa"
 		};
 	};
-
 };

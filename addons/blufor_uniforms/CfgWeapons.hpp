@@ -35,7 +35,7 @@ class CfgWeapons
 			mass=50;
 		};
 	};
-	class tmtm_u_combatUniform_black2: Uniform_Base
+	class tmtm_u_combatUniform_blackTan: Uniform_Base
 	{
 		scope=2;
 		displayName="Fatigues (Black/Tan)";
@@ -44,12 +44,12 @@ class CfgWeapons
 		class ItemInfo: UniformItem
 		{
 			uniformModel="-";
-			uniformClass="tmtm_combatUniform_black2";
+			uniformClass="tmtm_combatUniform_blackTan";
 			containerClass="Supply50";
 			mass=50;
 		};
 	};
-	class tmtm_u_combatUniform_black2_rs: Uniform_Base
+	class tmtm_u_combatUniform_blackTan_rs: Uniform_Base
 	{
 		scope=2;
 		displayName="Fatigues (Black/Tan) (Rolled Sleeves)";
@@ -58,7 +58,7 @@ class CfgWeapons
 		class ItemInfo: UniformItem
 		{
 			uniformModel="-";
-			uniformClass="tmtm_combatUniform_black2_rs";
+			uniformClass="tmtm_combatUniform_blackTan_rs";
 			containerClass="Supply50";
 			mass=50;
 		};
@@ -445,6 +445,139 @@ class CfgWeapons
 		};
 	};
 	
+	// Combat Fatigues (Collar) -------------------------------------------------------
+	
+	class tmtm_u_combatUniformC_erdl: Uniform_Base
+	{
+		scope = 2;
+		displayName = "Fatigues (M81) (Collar)";
+		picture = "";
+        model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+        class ItemInfo : UniformItem {
+			uniformModel="-";
+            uniformClass = "tmtm_combatUniformC_erdl"; // name of linked character
+            containerClass = "Supply50";
+            mass = 50;
+        };
+	};
+	class tmtm_u_combatUniformC_sage: Uniform_Base
+	{
+		scope = 2;
+		displayName = "Fatigues (Sage) (Collar)";
+		picture = "";
+        model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+        class ItemInfo : UniformItem {
+			uniformModel="-";
+            uniformClass = "tmtm_combatUniformC_sage"; // name of linked character
+            containerClass = "Supply50";
+            mass = 50;
+        };
+	};
+	class tmtm_u_combatUniformC_mtp: Uniform_Base
+	{
+		scope = 2;
+		displayName = "Fatigues (MTP) (Collar)";
+		picture = "";
+        model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+        class ItemInfo : UniformItem {
+			uniformModel="-";
+            uniformClass = "tmtm_combatUniformC_mtp"; // name of linked character
+            containerClass = "Supply50";
+            mass = 50;
+        };
+	};
+	class tmtm_u_combatUniformC_black: Uniform_Base
+	{
+		scope = 2;
+		displayName = "Fatigues (Black) (Collar)";
+		picture = "";
+        model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+        class ItemInfo : UniformItem {
+			uniformModel="-";
+            uniformClass = "tmtm_combatUniformC_black"; // name of linked character
+            containerClass = "Supply50";
+            mass = 50;
+        };
+	};
+	class tmtm_u_combatUniformC_blackTan: Uniform_Base
+	{
+		scope = 2;
+		displayName = "Fatigues (Black/Tan) (Collar)";
+		picture = "";
+        model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+        class ItemInfo : UniformItem {
+			uniformModel="-";
+            uniformClass = "tmtm_combatUniformC_blackTan"; // name of linked character
+            containerClass = "Supply50";
+            mass = 50;
+        };
+	};
+	class tmtm_u_combatUniformC_ghost: Uniform_Base
+	{
+		scope = 2;
+		displayName = "Fatigues (Ghost) (Collar)";
+		picture = "";
+        model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+        class ItemInfo : UniformItem {
+			uniformModel="-";
+            uniformClass = "tmtm_combatUniformC_ghost"; // name of linked character
+            containerClass = "Supply50";
+            mass = 50;
+        };
+	};
+	class tmtm_u_combatUniformC_tan: Uniform_Base
+	{
+		scope = 2;
+		displayName = "Fatigues (Tan) (Collar)";
+		picture = "";
+        model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+        class ItemInfo : UniformItem {
+			uniformModel="-";
+            uniformClass = "tmtm_combatUniformC_tan"; // name of linked character
+            containerClass = "Supply50";
+            mass = 50;
+        };
+	};
+	class tmtm_u_combatUniformC_mcamb: Uniform_Base
+	{
+		scope = 2;
+		displayName = "Fatigues (Multicam Black) (Collar)";
+		picture = "";
+        model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+        class ItemInfo : UniformItem {
+			uniformModel="-";
+            uniformClass = "tmtm_combatUniformC_mcamb"; // name of linked character
+            containerClass = "Supply50";
+            mass = 50;
+        };
+	};
+	class tmtm_u_combatUniformC_mcamb_black: Uniform_Base
+	{
+		scope = 2;
+		displayName = "Fatigues (Multicam Black/Black) (Collar)";
+		picture = "";
+        model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+        class ItemInfo : UniformItem {
+			uniformModel="-";
+            uniformClass = "tmtm_combatUniformC_mcamb_black"; // name of linked character
+            containerClass = "Supply50";
+            mass = 50;
+        };
+	};
+	class tmtm_u_combatUniformC_mcamb_grey: Uniform_Base
+	{
+		scope = 2;
+		displayName = "Fatigues (Multicam Black/Grey) (Collar)";
+		picture = "";
+        model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+        class ItemInfo : UniformItem {
+			uniformModel="-";
+            uniformClass = "tmtm_combatUniformC_mcamb_grey"; // name of linked character
+            containerClass = "Supply50";
+            mass = 50;
+        };
+	};
+	
 	// Survival Fatigues -------------------------------------------------------------------
 	
 	class U_B_survival_uniform: Uniform_Base
@@ -454,7 +587,7 @@ class CfgWeapons
 	{
 		author="Trenchgun";
 		scope=2;
-		displayName="Survival Fatigues (Black/Tan)";
+		displayName="Survival Fatigues (Black)";
 		picture="";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_blufor_diver";
 		class ItemInfo: UniformItem
@@ -465,15 +598,15 @@ class CfgWeapons
 			mass=50;
 		};
 	};
-	class tmtm_u_survival_black2: U_B_survival_uniform
+	class tmtm_u_survival_blackTan: U_B_survival_uniform
 	{
 		scope=2;
-		displayName="Survival Fatigues (Black)";
+		displayName="Survival Fatigues (Black/Tan)";
 		picture="";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_blufor_diver";
 		class ItemInfo: UniformItem
 		{
-			uniformClass="tmtm_survival_black2";
+			uniformClass="tmtm_survival_blackTan";
 			containerClass="Supply50";
 			mass=50;
 			uniformType="Neopren";
@@ -577,7 +710,6 @@ class CfgWeapons
 			uniformType="Neopren";
 		};
 	};
-	
 	class tmtm_u_survival_mcamb: U_B_survival_uniform
 	{
 		scope=2;
@@ -592,150 +724,4 @@ class CfgWeapons
 			uniformType="Neopren";
 		};
 	};
-	
-	
-	// Combat Fatigues (Collar) -------------------------------------------------------
-	
-	class tmtm_u_combatUniformC_erdl: Uniform_Base
-	{
-		scope = 2;
-		displayName = "Fatigues (M81) (Collar)";
-		picture = "";
-        model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
-        class ItemInfo : UniformItem {
-			uniformModel="-";
-            uniformClass = "tmtm_combatUniformC_erdl"; // name of linked character
-            containerClass = "Supply50";
-            mass = 50;
-        };
-	};
-	
-	class tmtm_u_combatUniformC_sage: Uniform_Base
-	{
-		scope = 2;
-		displayName = "Fatigues (Sage) (Collar)";
-		picture = "";
-        model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
-        class ItemInfo : UniformItem {
-			uniformModel="-";
-            uniformClass = "tmtm_combatUniformC_sage"; // name of linked character
-            containerClass = "Supply50";
-            mass = 50;
-        };
-	};
-	
-	class tmtm_u_combatUniformC_mtp: Uniform_Base
-	{
-		scope = 2;
-		displayName = "Fatigues (MTP) (Collar)";
-		picture = "";
-        model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
-        class ItemInfo : UniformItem {
-			uniformModel="-";
-            uniformClass = "tmtm_combatUniformC_mtp"; // name of linked character
-            containerClass = "Supply50";
-            mass = 50;
-        };
-	};
-	
-	class tmtm_u_combatUniformC_black: Uniform_Base
-	{
-		scope = 2;
-		displayName = "Fatigues (Black) (Collar)";
-		picture = "";
-        model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
-        class ItemInfo : UniformItem {
-			uniformModel="-";
-            uniformClass = "tmtm_combatUniformC_black"; // name of linked character
-            containerClass = "Supply50";
-            mass = 50;
-        };
-	};
-	
-	class tmtm_u_combatUniformC_black_tan: Uniform_Base
-	{
-		scope = 2;
-		displayName = "Fatigues (Black/Tan) (Collar)";
-		picture = "";
-        model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
-        class ItemInfo : UniformItem {
-			uniformModel="-";
-            uniformClass = "tmtm_combatUniformC_black_tan"; // name of linked character
-            containerClass = "Supply50";
-            mass = 50;
-        };
-	};
-	
-	class tmtm_u_combatUniformC_ghost: Uniform_Base
-	{
-		scope = 2;
-		displayName = "Fatigues (Ghost) (Collar)";
-		picture = "";
-        model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
-        class ItemInfo : UniformItem {
-			uniformModel="-";
-            uniformClass = "tmtm_combatUniformC_ghost"; // name of linked character
-            containerClass = "Supply50";
-            mass = 50;
-        };
-	};
-	
-	class tmtm_u_combatUniformC_tan: Uniform_Base
-	{
-		scope = 2;
-		displayName = "Fatigues (Tan) (Collar)";
-		picture = "";
-        model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
-        class ItemInfo : UniformItem {
-			uniformModel="-";
-            uniformClass = "tmtm_combatUniformC_tan"; // name of linked character
-            containerClass = "Supply50";
-            mass = 50;
-        };
-	};
-	
-	class tmtm_u_combatUniformC_mcamb: Uniform_Base
-	{
-		scope = 2;
-		displayName = "Fatigues (Multicam Black) (Collar)";
-		picture = "";
-        model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
-        class ItemInfo : UniformItem {
-			uniformModel="-";
-            uniformClass = "tmtm_combatUniformC_mcamb"; // name of linked character
-            containerClass = "Supply50";
-            mass = 50;
-        };
-	};
-	
-	class tmtm_u_combatUniformC_mcamb_black: Uniform_Base
-	{
-		scope = 2;
-		displayName = "Fatigues (Multicam Black/Black) (Collar)";
-		picture = "";
-        model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
-        class ItemInfo : UniformItem {
-			uniformModel="-";
-            uniformClass = "tmtm_combatUniformC_mcamb_black"; // name of linked character
-            containerClass = "Supply50";
-            mass = 50;
-        };
-	};
-	
-	class tmtm_u_combatUniformC_mcamb_grey: Uniform_Base
-	{
-		scope = 2;
-		displayName = "Fatigues (Multicam Black/Grey) (Collar)";
-		picture = "";
-        model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
-        class ItemInfo : UniformItem {
-			uniformModel="-";
-            uniformClass = "tmtm_combatUniformC_mcamb_grey"; // name of linked character
-            containerClass = "Supply50";
-            mass = 50;
-        };
-	};
-
-
-	
 };
