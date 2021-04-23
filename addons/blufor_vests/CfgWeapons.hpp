@@ -1,9 +1,16 @@
-class CfgVehicles
+class CfgWeapons
 {
+	class ItemCore;
+	class Vest_Camo_Base: ItemCore
+	{
+		class ItemInfo;
+	};
 	class tmtm_v_platecarrier1_cbr: Vest_Camo_Base
 	{
 		author="Trenchgun";
-		scope=2;
+		scope=1;
+		scopeArsenal=2;
+		scopeCurator=0;
 		displayName="Carrier Lite (Coyote)";
 		picture="\A3\characters_f\Data\UI\icon_V_plate_carrier_1_CA.paa";
 		model="\A3\Characters_F\BLUFOR\equip_b_vest02";
@@ -52,11 +59,12 @@ class CfgVehicles
 			};
 		};
 	};
-	
 	class tmtm_v_platecarrier2_cbr: tmtm_v_platecarrier1_cbr
 	{
 		author="Trenchgun";
-		scope=2;
+		scope=1;
+		scopeArsenal=2;
+		scopeCurator=0;
 		displayName="Carrier Rig (Coyote)";
 		picture="\A3\characters_f\Data\UI\icon_V_plate_carrier_2_CA.paa";
 		model="\A3\Characters_F\BLUFOR\equip_b_vest01.p3d";
@@ -104,39 +112,41 @@ class CfgVehicles
 				};
 			};
 		};
-		
-		class tmtm_v_platecarrier1_khk: tmtm_v_platecarrier1_cbr
+	};
+	class tmtm_v_platecarrier1_khk: tmtm_v_platecarrier1_cbr
+	{
+		author="Trenchgun";
+		scope=1;
+		scopeArsenal=2;
+		scopeCurator=0;
+		displayName="Carrier Lite (Khaki)";
+		picture="\A3\characters_f\Data\UI\icon_V_plate_carrier_2_CA.paa";
+		model="\A3\Characters_F\BLUFOR\equip_b_vest01.p3d";
+		hiddenSelections[]=
 		{
-			author="Trenchgun";
-			scope=2;
-			displayName="Carrier Lite (Khaki)";
-			picture="\A3\characters_f\Data\UI\icon_V_plate_carrier_2_CA.paa";
-			model="\A3\Characters_F\BLUFOR\equip_b_vest01.p3d";
-			hiddenSelections[]=
-			{
-				"camo"
-			};
-			hiddenSelectionsTextures[]=
-			{
-				"\A3\Characters_F\BLUFOR\Data\vests_khk_co.paa"
-			};
+			"camo"
 		};
-		
-		class tmtm_v_platecarrier2_khk: tmtm_v_platecarrier2_cbr
+		hiddenSelectionsTextures[]=
 		{
-			author="Trenchgun";
-			scope=2;
-			displayName="Carrier Rig (Khaki)";
-			picture="\A3\characters_f\Data\UI\icon_V_plate_carrier_2_CA.paa";
-			model="\A3\Characters_F\BLUFOR\equip_b_vest01.p3d";
-			hiddenSelections[]=
-			{
-				"camo"
-			};
-			hiddenSelectionsTextures[]=
-			{
-				"\A3\Characters_F\BLUFOR\Data\vests_khk_co.paa"
-			};
+			"\A3\Characters_F\BLUFOR\Data\vests_khk_co.paa"
+		};
+	};
+	class tmtm_v_platecarrier2_khk: tmtm_v_platecarrier2_cbr
+	{
+		author="Trenchgun";
+		scope=1;
+		scopeArsenal=2;
+		scopeCurator=0;
+		displayName="Carrier Rig (Khaki)";
+		picture="\A3\characters_f\Data\UI\icon_V_plate_carrier_2_CA.paa";
+		model="\A3\Characters_F\BLUFOR\equip_b_vest01.p3d";
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+			"\A3\Characters_F\BLUFOR\Data\vests_khk_co.paa"
 		};
 	};
 };
