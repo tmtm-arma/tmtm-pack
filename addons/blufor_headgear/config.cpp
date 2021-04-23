@@ -6,7 +6,7 @@ class CfgPatches {
 		units[] = {};
 		weapons[] = {};
 		requiredVersion = REQUIRED_VERSION;
-		requiredAddons[] = {};
+		requiredAddons[] = {"tmtmpack_main"};
 		author = MOD_AUTHOR;
 		url = MOD_URL;
 		version = VERSION; 
