@@ -6,7 +6,11 @@ class CfgPatches {
 		units[] = {};
 		weapons[] = {};
 		requiredVersion = REQUIRED_VERSION;
-		requiredAddons[] = {"tmtmpack_main"};
+		requiredAddons[] = {
+			"tmtmpack_main",
+			"A3_Characters_F",
+			"A3_Characters_F_Bootcamp"
+		};
 		author = MOD_AUTHOR;
 		url = MOD_URL;
 		version = VERSION; 
