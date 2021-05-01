@@ -4,7 +4,7 @@ class CfgVehicles
 	
 	// Rangemaster Belt (Backpack)
 	
-	class tmtm_bp_rangemaster_belt_rgr: Bag_Base
+	class tmtm_b_rangemasterBelt_rgr: Bag_Base
 	{
 		author = "Trenchgun";
 		displayName = "Rangemaster Belt (Green)";
@@ -22,7 +22,7 @@ class CfgVehicles
 			"\A3\Characters_F\BLUFOR\Data\vests_rgr_co.paa"
 		};
 	};
-	class tmtm_bp_rangemaster_belt_blk: tmtm_bp_rangemaster_belt_rgr
+	class tmtm_b_rangemasterBelt_blk: tmtm_b_rangemasterBelt_rgr
 	{
 		author = "Trenchgun";
 		displayName = "Rangemaster Belt (Black)";
@@ -36,7 +36,7 @@ class CfgVehicles
 			"\A3\Characters_F\BLUFOR\Data\vests_blk_co.paa"
 		};
 	};
-	class tmtm_bp_rangemaster_belt_cbr: tmtm_bp_rangemaster_belt_rgr
+	class tmtm_b_rangemasterBelt_cbr: tmtm_b_rangemasterBelt_rgr
 	{
 		author = "Trenchgun";
 		displayName = "Rangemaster Belt (Coyote)";
@@ -50,7 +50,7 @@ class CfgVehicles
 			"\A3\Characters_F\BLUFOR\Data\vests_cbr_co.paa"
 		};
 	};
-	class tmtm_bp_rangemaster_belt_khk: tmtm_bp_rangemaster_belt_rgr
+	class tmtm_b_rangemasterBelt_khk: tmtm_b_rangemasterBelt_rgr
 	{
 		author = "Trenchgun";
 		displayName = "Rangemaster Belt (Khaki)";
