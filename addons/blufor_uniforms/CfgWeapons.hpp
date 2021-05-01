@@ -21,7 +21,7 @@ class CfgWeapons
 			mass=50;
 		};
 	};
-	class tmtm_u_combatUniform_black_rs: Uniform_Base
+	class tmtm_u_combatUniformRS_black: Uniform_Base
 	{
 		scope=2;
 		displayName="Fatigues (Black) (Rolled Sleeves)";
@@ -30,7 +30,7 @@ class CfgWeapons
 		class ItemInfo: UniformItem
 		{
 			uniformModel="-";
-			uniformClass="tmtm_combatUniform_black_rs";
+			uniformClass="tmtm_combatUniformRS_black";
 			containerClass="Supply50";
 			mass=50;
 		};
@@ -49,7 +49,7 @@ class CfgWeapons
 			mass=50;
 		};
 	};
-	class tmtm_u_combatUniform_blackTan_rs: Uniform_Base
+	class tmtm_u_combatUniformRS_blackTan: Uniform_Base
 	{
 		scope=2;
 		displayName="Fatigues (Black/Tan) (Rolled Sleeves)";
@@ -58,7 +58,7 @@ class CfgWeapons
 		class ItemInfo: UniformItem
 		{
 			uniformModel="-";
-			uniformClass="tmtm_combatUniform_blackTan_rs";
+			uniformClass="tmtm_combatUniformRS_blackTan";
 			containerClass="Supply50";
 			mass=50;
 		};
@@ -77,7 +77,7 @@ class CfgWeapons
 			mass=50;
 		};
 	};
-	class tmtm_u_combatUniform_tan_rs: Uniform_Base
+	class tmtm_u_combatUniformRS_tan: Uniform_Base
 	{
 		scope=2;
 		displayName="Fatigues (Tan) (Rolled Sleeves)";
@@ -86,12 +86,12 @@ class CfgWeapons
 		class ItemInfo: UniformItem
 		{
 			uniformModel="-";
-			uniformClass="tmtm_combatUniform_tan_rs";
+			uniformClass="tmtm_combatUniformRS_tan";
 			containerClass="Supply50";
 			mass=50;
 		};
 	};
-	class tmtm_u_combatUniform_erdl_arvn: Uniform_Base
+	class tmtm_u_combatUniform_erdlArvn: Uniform_Base
 	{
 		scope=2;
 		displayName="Fatigues (ERDL ARVN)";
@@ -100,12 +100,12 @@ class CfgWeapons
 		class ItemInfo: UniformItem
 		{
 			uniformModel="-";
-			uniformClass="tmtm_combatUniform_erdl_arvn";
+			uniformClass="tmtm_combatUniform_erdlArvn";
 			containerClass="Supply50";
 			mass=50;
 		};
 	};
-	class tmtm_u_combatUniform_erdl_arvn_rs: Uniform_Base
+	class tmtm_u_combatUniformRS_erdlArvn: Uniform_Base
 	{
 		scope=2;
 		displayName="Fatigues (ERDL ARVN) (Rolled Sleeves)";
@@ -114,12 +114,12 @@ class CfgWeapons
 		class ItemInfo: UniformItem
 		{
 			uniformModel="-";
-			uniformClass="tmtm_combatUniform_erdl_arvn_rs";
+			uniformClass="tmtm_combatUniformRS_erdlArvn";
 			containerClass="Supply50";
 			mass=50;
 		};
 	};
-	class tmtm_u_combatUniform_erdl_oce: Uniform_Base
+	class tmtm_u_combatUniform_erdlOcean: Uniform_Base
 	{
 		scope=2;
 		displayName="Fatigues (ERDL Ocean)";
@@ -128,12 +128,12 @@ class CfgWeapons
 		class ItemInfo: UniformItem
 		{
 			uniformModel="-";
-			uniformClass="tmtm_combatUniform_erdl_oce";
+			uniformClass="tmtm_combatUniform_erdlOcean";
 			containerClass="Supply50";
 			mass=50;
 		};
 	};
-	class tmtm_u_combatUniform_erdl_oce_rs: Uniform_Base
+	class tmtm_u_combatUniformRS_erdlOcean: Uniform_Base
 	{
 		scope=2;
 		displayName="Fatigues (ERDL Ocean) (Rolled Sleeves)";
@@ -142,7 +142,7 @@ class CfgWeapons
 		class ItemInfo: UniformItem
 		{
 			uniformModel="-";
-			uniformClass="tmtm_combatUniform_erdl_oce_rs";
+			uniformClass="tmtm_combatUniformRS_erdlOcean";
 			containerClass="Supply50";
 			mass=50;
 		};
@@ -161,7 +161,7 @@ class CfgWeapons
 			mass=50;
 		};
 	};
-	class tmtm_u_combatUniform_ghost_rs: Uniform_Base
+	class tmtm_u_combatUniformRS_ghost: Uniform_Base
 	{
 		scope=2;
 		displayName="Fatigues (Ghost) (Rolled Sleeves)";
@@ -170,7 +170,7 @@ class CfgWeapons
 		class ItemInfo: UniformItem
 		{
 			uniformModel="-";
-			uniformClass="tmtm_combatUniform_ghost_rs";
+			uniformClass="tmtm_combatUniformRS_ghost";
 			containerClass="Supply50";
 			mass=50;
 		};
@@ -189,7 +189,7 @@ class CfgWeapons
 			mass=50;
 		};
 	};
-	class tmtm_u_combatUniform_nwupat_rs: Uniform_Base
+	class tmtm_u_combatUniformRS_nwupat: Uniform_Base
 	{
 		scope=2;
 		displayName="Fatigues (NWUPAT) (Rolled Sleeves)";
@@ -198,12 +198,12 @@ class CfgWeapons
 		class ItemInfo: UniformItem
 		{
 			uniformModel="-";
-			uniformClass="tmtm_combatUniform_nwupat_rs";
+			uniformClass="tmtm_combatUniformRS_nwupat";
 			containerClass="Supply50";
 			mass=50;
 		};
 	};
-	class tmtm_u_combatUniform_sage: Uniform_Base
+	class tmtm_u_combatUniform_sage: Uniform_Base		// VANILLA TEXTURE
 	{
 		scope=2;
 		displayName="Fatigues (Sage)";
@@ -217,7 +217,7 @@ class CfgWeapons
 			mass=50;
 		};
 	};
-	class tmtm_u_combatUniform_sage_rs: Uniform_Base
+	class tmtm_u_combatUniformRS_sage: Uniform_Base		// VANILLA TEXTURE
 	{
 		scope=2;
 		displayName="Fatigues (Sage) (Rolled Sleeves)";
@@ -226,15 +226,15 @@ class CfgWeapons
 		class ItemInfo: UniformItem
 		{
 			uniformModel="-";
-			uniformClass="tmtm_combatUniform_sage_rs";
+			uniformClass="tmtm_combatUniformRS_sage";
 			containerClass="Supply50";
 			mass=50;
 		};
 	};
-	class tmtm_u_combatUniform_erdl: Uniform_Base
+	class tmtm_u_combatUniform_erdl: Uniform_Base		// VANILLA TEXTURE
 	{
 		scope=2;
-		displayName="Fatigues (M81)";
+		displayName="Fatigues (ERDL)";
 		picture="";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
 		class ItemInfo: UniformItem
@@ -245,21 +245,21 @@ class CfgWeapons
 			mass=50;
 		};
 	};
-	class tmtm_u_combatUniform_erdl_rs: Uniform_Base
+	class tmtm_u_combatUniformRS_erdl: Uniform_Base		// VANILLA TEXTURE
 	{
 		scope=2;
-		displayName="Fatigues (M81) (Rolled Sleeves)";
+		displayName="Fatigues (ERDL) (Rolled Sleeves)";
 		picture="";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
 		class ItemInfo: UniformItem
 		{
 			uniformModel="-";
-			uniformClass="tmtm_combatUniform_erdl_rs";
+			uniformClass="tmtm_combatUniformRS_erdl";
 			containerClass="Supply50";
 			mass=50;
 		};
 	};
-	class tmtm_u_combatUniform_mcamb: Uniform_Base
+	class tmtm_u_combatUniform_mcamB: Uniform_Base
 	{
 		scope=2;
 		displayName="Fatigues (Multicam Black)";
@@ -268,12 +268,12 @@ class CfgWeapons
 		class ItemInfo: UniformItem
 		{
 			uniformModel="-";
-			uniformClass="tmtm_combatUniform_mcamb";
+			uniformClass="tmtm_combatUniform_mcamB";
 			containerClass="Supply50";
 			mass=50;
 		};
 	};
-	class tmtm_u_combatUniform_mcamb_rs: Uniform_Base
+	class tmtm_u_combatUniformRS_mcamB: Uniform_Base
 	{
 		scope=2;
 		displayName="Fatigues (Multicam Black) (Rolled Sleeves)";
@@ -282,12 +282,12 @@ class CfgWeapons
 		class ItemInfo: UniformItem
 		{
 			uniformModel="-";
-			uniformClass="tmtm_combatUniform_mcamb_rs";
+			uniformClass="tmtm_combatUniformRS_mcamB";
 			containerClass="Supply50";
 			mass=50;
 		};
 	};
-	class tmtm_u_combatUniform_mcamb_black: Uniform_Base
+	class tmtm_u_combatUniform_mcamBBlack: Uniform_Base
 	{
 		scope=2;
 		displayName="Fatigues (Multicam Black/Black)";
@@ -296,12 +296,12 @@ class CfgWeapons
 		class ItemInfo: UniformItem
 		{
 			uniformModel="-";
-			uniformClass="tmtm_combatUniform_mcamb_black";
+			uniformClass="tmtm_combatUniform_mcamBBlack";
 			containerClass="Supply50";
 			mass=50;
 		};
 	};
-	class tmtm_u_combatUniform_mcamb_black_rs: Uniform_Base
+	class tmtm_u_combatUniformRS_mcamBBlack: Uniform_Base
 	{
 		scope=2;
 		displayName="Fatigues (Multicam Black/Black) (Rolled Sleeves)";
@@ -310,12 +310,12 @@ class CfgWeapons
 		class ItemInfo: UniformItem
 		{
 			uniformModel="-";
-			uniformClass="tmtm_combatUniform_mcamb_black_rs";
+			uniformClass="tmtm_combatUniformRS_mcamBBlack";
 			containerClass="Supply50";
 			mass=50;
 		};
 	};
-	class tmtm_u_combatUniform_mcamb_grey: Uniform_Base
+	class tmtm_u_combatUniform_mcamBGrey: Uniform_Base
 	{
 		scope=2;
 		displayName="Fatigues (Multicam Black/Grey)";
@@ -324,12 +324,12 @@ class CfgWeapons
 		class ItemInfo: UniformItem
 		{
 			uniformModel="-";
-			uniformClass="tmtm_combatUniform_mcamb_grey";
+			uniformClass="tmtm_combatUniform_mcamBGrey";
 			containerClass="Supply50";
 			mass=50;
 		};
 	};
-	class tmtm_u_combatUniform_mcamb_grey_rs: Uniform_Base
+	class tmtm_u_combatUniformRS_mcamBGrey: Uniform_Base
 	{
 		scope=2;
 		displayName="Fatigues (Multicam Black/Grey) (Rolled Sleeves)";
@@ -338,7 +338,7 @@ class CfgWeapons
 		class ItemInfo: UniformItem
 		{
 			uniformModel="-";
-			uniformClass="tmtm_combatUniform_mcamb_grey_rs";
+			uniformClass="tmtm_combatUniformRS_mcamBGrey";
 			containerClass="Supply50";
 			mass=50;
 		};
@@ -346,7 +346,7 @@ class CfgWeapons
 	
 	// Combat Fatigues (Tee) -----------------------------------------------------------------------
 	
-	class tmtm_u_combatUniformT_mcam_black: Uniform_Base
+	class tmtm_u_combatUniformT_mcamBlack: Uniform_Base		// VANILLA TEXTURE
 	{
 		scope=2;
 		displayName="Combat Fatigues (MTP) (Black Tee)";
@@ -355,12 +355,12 @@ class CfgWeapons
 		class ItemInfo: UniformItem
 		{
 			uniformModel="-";
-			uniformClass="tmtm_combatUniformT_mcam_black";
+			uniformClass="tmtm_combatUniformT_mcamBlack";
 			containerClass="Supply50";
 			mass=50;
 		};
 	};
-	class tmtm_u_combatUniformT_ctrg_black: Uniform_Base
+	class tmtm_u_combatUniformT_ctrgBlack: Uniform_Base		// VANILLA TEXTURE
 	{
 		scope=2;
 		displayName="CTRG Combat Uniform (Black Tee)";
@@ -369,26 +369,26 @@ class CfgWeapons
 		class ItemInfo: UniformItem
 		{
 			uniformModel="-";
-			uniformClass="tmtm_combatUniformT_ctrg_black";
+			uniformClass="tmtm_combatUniformT_ctrgBlack";
 			containerClass="Supply50";
 			mass=50;
 		};
 	};
-	class tmtm_u_combatUniformT_erdl_black: Uniform_Base
+	class tmtm_u_combatUniformT_erdlBlack: Uniform_Base		// VANILLA TEXTURE
 	{
 		scope=2;
-		displayName="Fatigues (M81) (Tee)";
+		displayName="Fatigues (ERDL) (Tee)";
 		picture="";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
 		class ItemInfo: UniformItem
 		{
 			uniformModel="-";
-			uniformClass="tmtm_combatUniformT_erdl_black";
+			uniformClass="tmtm_combatUniformT_erdlBlack";
 			containerClass="Supply50";
 			mass=50;
 		};
 	};
-	class tmtm_u_combatUniformT_sage_black: Uniform_Base
+	class tmtm_u_combatUniformT_sageBlack: Uniform_Base		// VANILLA TEXTURE
 	{
 		scope=2;
 		displayName="Fatigues (Sage) (Tee)";
@@ -397,12 +397,12 @@ class CfgWeapons
 		class ItemInfo: UniformItem
 		{
 			uniformModel="-";
-			uniformClass="tmtm_combatUniformT_sage_black";
+			uniformClass="tmtm_combatUniformT_sageBlack";
 			containerClass="Supply50";
 			mass=50;
 		};
 	};
-	class tmtm_u_combatUniformT_tropic_black: Uniform_Base
+	class tmtm_u_combatUniformT_tropicBlack: Uniform_Base	// VANILLA TEXTURE
 	{
 		scope=2;
 		displayName="Combat Fatigues (Tropic) (Black Tee)";
@@ -411,12 +411,12 @@ class CfgWeapons
 		class ItemInfo: UniformItem
 		{
 			uniformModel="-";
-			uniformClass="tmtm_combatUniformT_tropic_black";
+			uniformClass="tmtm_combatUniformT_tropicBlack";
 			containerClass="Supply50";
 			mass=50;
 		};
 	};
-	class tmtm_u_combatUniformT_ctrg_stealth_black: Uniform_Base
+	class tmtm_u_combatUniformT_ctrgStealthBlack: Uniform_Base	// VANILLA TEXTURE
 	{
 		scope=2;
 		displayName="CTRG Stealth Uniform (Black Tee)";
@@ -425,12 +425,12 @@ class CfgWeapons
 		class ItemInfo: UniformItem
 		{
 			uniformModel="-";
-			uniformClass="tmtm_combatUniformT_ctrg_stealth_black";
+			uniformClass="tmtm_combatUniformT_ctrgStealthBlack";
 			containerClass="Supply50";
 			mass=50;
 		};
 	};
-	class tmtm_u_combatUniformT_mcamb: Uniform_Base
+	class tmtm_u_combatUniformT_mcamBBlack: Uniform_Base
 	{
 		scope=2;
 		displayName="Fatigues (Multicam Black) (Tee)";
@@ -439,7 +439,7 @@ class CfgWeapons
 		class ItemInfo: UniformItem
 		{
 			uniformModel="-";
-			uniformClass="tmtm_combatUniformT_mcamb";
+			uniformClass="tmtm_combatUniformT_mcamBBlack";
 			containerClass="Supply50";
 			mass=50;
 		};
@@ -447,10 +447,10 @@ class CfgWeapons
 	
 	// Combat Fatigues (Collar) -------------------------------------------------------
 	
-	class tmtm_u_combatUniformC_erdl: Uniform_Base
+	class tmtm_u_combatUniformC_erdl: Uniform_Base	// VANILLA TEXTURE
 	{
 		scope = 2;
-		displayName = "Fatigues (M81) (Collar)";
+		displayName = "Fatigues (ERDL) (Collar)";
 		picture = "";
         model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
         class ItemInfo : UniformItem {
@@ -460,7 +460,7 @@ class CfgWeapons
             mass = 50;
         };
 	};
-	class tmtm_u_combatUniformC_sage: Uniform_Base
+	class tmtm_u_combatUniformC_sage: Uniform_Base	// VANILLA TEXTURE
 	{
 		scope = 2;
 		displayName = "Fatigues (Sage) (Collar)";
@@ -473,7 +473,7 @@ class CfgWeapons
             mass = 50;
         };
 	};
-	class tmtm_u_combatUniformC_mtp: Uniform_Base
+	class tmtm_u_combatUniformC_mtp: Uniform_Base	// VANILLA TEXTURE
 	{
 		scope = 2;
 		displayName = "Fatigues (MTP) (Collar)";
@@ -538,7 +538,7 @@ class CfgWeapons
             mass = 50;
         };
 	};
-	class tmtm_u_combatUniformC_mcamb: Uniform_Base
+	class tmtm_u_combatUniformC_mcamB: Uniform_Base
 	{
 		scope = 2;
 		displayName = "Fatigues (Multicam Black) (Collar)";
@@ -546,12 +546,12 @@ class CfgWeapons
         model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
         class ItemInfo : UniformItem {
 			uniformModel="-";
-            uniformClass = "tmtm_combatUniformC_mcamb"; // name of linked character
+            uniformClass = "tmtm_combatUniformC_mcamB"; // name of linked character
             containerClass = "Supply50";
             mass = 50;
         };
 	};
-	class tmtm_u_combatUniformC_mcamb_black: Uniform_Base
+	class tmtm_u_combatUniformC_mcamBBlack: Uniform_Base
 	{
 		scope = 2;
 		displayName = "Fatigues (Multicam Black/Black) (Collar)";
@@ -559,12 +559,12 @@ class CfgWeapons
         model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
         class ItemInfo : UniformItem {
 			uniformModel="-";
-            uniformClass = "tmtm_combatUniformC_mcamb_black"; // name of linked character
+            uniformClass = "tmtm_combatUniformC_mcamBBlack"; // name of linked character
             containerClass = "Supply50";
             mass = 50;
         };
 	};
-	class tmtm_u_combatUniformC_mcamb_grey: Uniform_Base
+	class tmtm_u_combatUniformC_mcamBGrey: Uniform_Base
 	{
 		scope = 2;
 		displayName = "Fatigues (Multicam Black/Grey) (Collar)";
@@ -572,7 +572,7 @@ class CfgWeapons
         model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
         class ItemInfo : UniformItem {
 			uniformModel="-";
-            uniformClass = "tmtm_combatUniformC_mcamb_grey"; // name of linked character
+            uniformClass = "tmtm_combatUniformC_mcamBGrey"; // name of linked character
             containerClass = "Supply50";
             mass = 50;
         };
@@ -626,7 +626,7 @@ class CfgWeapons
 			uniformType="Neopren";
 		};
 	};
-	class tmtm_u_survival_erdl_arvn: U_B_survival_uniform
+	class tmtm_u_survival_erdlArvn: U_B_survival_uniform
 	{
 		scope=2;
 		displayName="Survival Fatigues (ERDL ARVN)";
@@ -634,13 +634,13 @@ class CfgWeapons
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_blufor_diver";
 		class ItemInfo: UniformItem
 		{
-			uniformClass="tmtm_survival_erdl_arvn";
+			uniformClass="tmtm_survival_erdlArvn";
 			containerClass="Supply50";
 			mass=50;
 			uniformType="Neopren";
 		};
 	};
-	class tmtm_u_survival_erdl_oce: U_B_survival_uniform
+	class tmtm_u_survival_erdlOcean: U_B_survival_uniform
 	{
 		scope=2;
 		displayName="Survival Fatigues (ERDL Ocean)";
@@ -648,7 +648,7 @@ class CfgWeapons
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_blufor_diver";
 		class ItemInfo: UniformItem
 		{
-			uniformClass="tmtm_survival_erdl_oce";
+			uniformClass="tmtm_survival_erdlOcean";
 			containerClass="Supply50";
 			mass=50;
 			uniformType="Neopren";
@@ -682,7 +682,7 @@ class CfgWeapons
 			uniformType="Neopren";
 		};
 	};
-	class tmtm_u_survival_sage: U_B_survival_uniform
+	class tmtm_u_survival_sage: U_B_survival_uniform	// VANILLA TEXTURE
 	{
 		scope=2;
 		displayName="Survival Fatigues (Sage)";
@@ -696,10 +696,10 @@ class CfgWeapons
 			uniformType="Neopren";
 		};
 	};
-	class tmtm_u_survival_erdl: U_B_survival_uniform
+	class tmtm_u_survival_erdl: U_B_survival_uniform	// VANILLA TEXTURE
 	{
 		scope=2;
-		displayName="Survival Fatigues (M81)";
+		displayName="Survival Fatigues (ERDL)";
 		picture="";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_blufor_diver";
 		class ItemInfo: UniformItem
@@ -710,7 +710,7 @@ class CfgWeapons
 			uniformType="Neopren";
 		};
 	};
-	class tmtm_u_survival_mcamb: U_B_survival_uniform
+	class tmtm_u_survival_mcamB: U_B_survival_uniform
 	{
 		scope=2;
 		displayName="Survival Fatigues (Multicam Black)";
@@ -718,7 +718,7 @@ class CfgWeapons
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_blufor_diver";
 		class ItemInfo: UniformItem
 		{
-			uniformClass="tmtm_survival_mcamb";
+			uniformClass="tmtm_survival_mcamB";
 			containerClass="Supply50";
 			mass=50;
 			uniformType="Neopren";

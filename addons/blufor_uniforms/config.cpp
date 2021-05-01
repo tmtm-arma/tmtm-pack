@@ -21,13 +21,13 @@ class UniformSlotInfo
 	linkProxy="-";
 };
 
-class cfgFactionClasses
+class CfgFactionClasses
 {
-	class tmtm_blufor_units
+	class tmtm_blufor_uniforms
 	{
-		displayName="TMTM Units";
+		displayName="TMTM Uniforms";
 		priority=1;
-		side=1;
+		side=BLUFOR;
 		icon="";
 	};
 };
