@@ -1,12 +1,11 @@
 class CfgWeapons
 {
+	class ItemCore;
 	class HeadgearItem;
 	class HelmetBase: ItemCore
 	{
 		class ItemInfo;
 	};
-	
-	// Combat Helmet ------------------------------------------------------------------------------
 	
 	class tmtm_h_helmet_black: ItemCore
 	{
@@ -44,37 +43,7 @@ class CfgWeapons
 		};
 	};
 	
-	class tmtm_h_helmet_grey: tmtm_h_helmet_black
-	{
-		displayName="Combat Helmet (Grey)";
-		hiddenSelectionsTextures[]=
-		{
-			"\tmtm\pack\blufor_headgear\Data\tmtm_helmet_grey_co.paa"
-		};
-	};
-	
-	class tmtm_h_helmet_olive: tmtm_h_helmet_black
-	{
-		displayName="Combat Helmet (Olive)";
-		hiddenSelectionsTextures[]=
-		{
-			"\tmtm\pack\blufor_headgear\Data\tmtm_helmet_olive_co.paa"
-		};
-	};
-	
-	class tmtm_h_helmet_coyote: tmtm_h_helmet_black
-	{
-		displayName="Combat Helmet (Coyote)";
-		hiddenSelectionsTextures[]=
-		{
-			"\tmtm\pack\blufor_headgear\Data\tmtm_helmet_coyote_co.paa"
-		};
-	};
-	
-	
-	// Enhanced Combat Helmet ---------------------------------------------------
-	
-	class tmtm_h_helmet_enhanced_black: tmtm_h_helmet_black
+	class tmtm_h_helmetEnhanced_black: tmtm_h_helmet_black
 	{
 		scope=2;
 		picture="\A3\characters_f\Data\UI\icon_H_HelmetB_CA.paa";
@@ -97,38 +66,9 @@ class CfgWeapons
 		};
 	};
 	
-	class tmtm_h_helmet_enhanced_grey: tmtm_h_helmet_enhanced_black
+	class tmtm_h_helmetLight_black: tmtm_h_helmet_black
 	{
-		displayName="ECH (Grey)";
-		hiddenSelectionsTextures[]=
-		{
-			"\tmtm\pack\blufor_headgear\Data\tmtm_helmet_grey_co.paa"
-		};
-	};
-	
-	class tmtm_h_helmet_enhanced_olive: tmtm_h_helmet_enhanced_black
-	{
-		displayName="ECH (Olive)";
-		hiddenSelectionsTextures[]=
-		{
-			"\tmtm\pack\blufor_headgear\Data\tmtm_helmet_olive_co.paa"
-		};
-	};
-	
-	class tmtm_h_helmet_enhanced_coyote: tmtm_h_helmet_enhanced_black
-	{
-		displayName="ECH (Coyote)";
-		hiddenSelectionsTextures[]=
-		{
-			"\tmtm\pack\blufor_headgear\Data\tmtm_helmet_coyote_co.paa"
-		};
-	};
-	
-	
-	// Light Combat Helmet -----------------------------------------------------------
-	
-	class tmtm_h_helmet_light_black: tmtm_h_helmet_black
-	{
+		scope=2;
 		author="Trenchgun";
 		picture="\A3\Characters_F\data\ui\icon_H_HelmetB_light_ca.paa";
 		displayName="LCH (Black)";
@@ -150,8 +90,29 @@ class CfgWeapons
 		};
 	};
 	
-	class tmtm_h_helmet_light_grey: tmtm_h_helmet_light_black
+	class tmtm_h_helmet_grey: tmtm_h_helmet_black
 	{
+		scope=2;
+		displayName="Combat Helmet (Grey)";
+		hiddenSelectionsTextures[]=
+		{
+			"\tmtm\pack\blufor_headgear\Data\tmtm_helmet_grey_co.paa"
+		};
+	};
+	
+	class tmtm_h_helmetEnhanced_grey: tmtm_h_helmetEnhanced_black
+	{
+		scope=2;
+		displayName="ECH (Grey)";
+		hiddenSelectionsTextures[]=
+		{
+			"\tmtm\pack\blufor_headgear\Data\tmtm_helmet_grey_co.paa"
+		};
+	};
+	
+	class tmtm_h_helmetLight_grey: tmtm_h_helmetLight_black
+	{
+		scope=2;
 		displayName="LCH (Grey)";
 		hiddenSelectionsTextures[]=
 		{
@@ -159,8 +120,29 @@ class CfgWeapons
 		};
 	};
 	
-	class tmtm_h_helmet_light_olive: tmtm_h_helmet_light_black
+	class tmtm_h_helmet_olive: tmtm_h_helmet_black
 	{
+		scope=2;
+		displayName="Combat Helmet (Olive)";
+		hiddenSelectionsTextures[]=
+		{
+			"\tmtm\pack\blufor_headgear\Data\tmtm_helmet_olive_co.paa"
+		};
+	};
+	
+	class tmtm_h_helmetEnhanced_olive: tmtm_h_helmetEnhanced_black
+	{
+		scope=2;
+		displayName="ECH (Olive)";
+		hiddenSelectionsTextures[]=
+		{
+			"\tmtm\pack\blufor_headgear\Data\tmtm_helmet_olive_co.paa"
+		};
+	};
+	
+	class tmtm_h_helmetLight_olive: tmtm_h_helmetLight_black
+	{
+		scope=2;
 		displayName="LCH (Olive)";
 		hiddenSelectionsTextures[]=
 		{
@@ -168,13 +150,33 @@ class CfgWeapons
 		};
 	};
 	
-	class tmtm_h_helmet_light_coyote: tmtm_h_helmet_light_black
+	class tmtm_h_helmet_coyote: tmtm_h_helmet_black
 	{
-		displayName="LCH (Coyote)";
+		scope=2;
+		displayName="Combat Helmet (Coyote)";
 		hiddenSelectionsTextures[]=
 		{
 			"\tmtm\pack\blufor_headgear\Data\tmtm_helmet_coyote_co.paa"
 		};
 	};
 	
+	class tmtm_h_helmetEnhanced_coyote: tmtm_h_helmetEnhanced_black
+	{
+		scope=2;
+		displayName="ECH (Coyote)";
+		hiddenSelectionsTextures[]=
+		{
+			"\tmtm\pack\blufor_headgear\Data\tmtm_helmet_coyote_co.paa"
+		};
+	};
+	
+	class tmtm_h_helmetLight_coyote: tmtm_h_helmetLight_black
+	{
+		scope=2;
+		displayName="LCH (Coyote)";
+		hiddenSelectionsTextures[]=
+		{
+			"\tmtm\pack\blufor_headgear\Data\tmtm_helmet_coyote_co.paa"
+		};
+	};
 };
