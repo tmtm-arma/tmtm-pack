@@ -7,16 +7,13 @@ class CfgWeapons
 	
 	class tmtm_u_granit_base: Uniform_Base
 	{
-		scope=1;
-		scopeArsenal=2;
-		scopeCurator=0;
+		scope=0;
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
 		hiddenSelections[] = {"camo"};
 		DLC = "Enoch";
 		class ItemInfo: UniformItem
 		{
 			uniformModel="-";
-			uniformClass="tmtm_granit_3cd";
 			containerClass="Supply40";
 			mass=40;
 		};
@@ -27,7 +24,6 @@ class CfgWeapons
 		scopeArsenal=2;
 		scopeCurator=0;
 		displayName="Granit (DCU)";
-		picture="";
 		hiddenSelectionsTextures[] = {"\tmtm\pack\contact_uniforms\Data\tmtm_granit_3cd_co.paa"};
 		class ItemInfo: UniformItem
 		{
@@ -43,7 +39,6 @@ class CfgWeapons
 		scopeArsenal=2;
 		scopeCurator=0;
 		displayName="Granit (DBDU)";
-		picture="";
 		hiddenSelectionsTextures[] = {"\tmtm\pack\contact_uniforms\Data\tmtm_granit_6cd_co.paa"};
 		class ItemInfo: UniformItem
 		{
@@ -59,7 +54,6 @@ class CfgWeapons
 		scopeArsenal=2;
 		scopeCurator=0;
 		displayName="Granit (Afghan)";
-		picture="";
 		hiddenSelectionsTextures[] = {"\tmtm\pack\contact_uniforms\Data\tmtm_granit_afghan_co.paa"};
 		class ItemInfo: UniformItem
 		{
@@ -75,7 +69,6 @@ class CfgWeapons
 		scopeArsenal=2;
 		scopeCurator=0;
 		displayName="Granit (ATACS AU)";
-		picture="";
 		hiddenSelectionsTextures[] = {"\tmtm\pack\contact_uniforms\Data\tmtm_granit_atacsAu_co.paa"};
 		class ItemInfo: UniformItem
 		{
@@ -91,7 +84,6 @@ class CfgWeapons
 		scopeArsenal=2;
 		scopeCurator=0;
 		displayName="Granit (ATACS AU/Black)";
-		picture="";
 		hiddenSelectionsTextures[] = {"\tmtm\pack\contact_uniforms\Data\tmtm_granit_atacsAuBlack_co.paa"};
 		class ItemInfo: UniformItem
 		{
@@ -107,7 +99,6 @@ class CfgWeapons
 		scopeArsenal=2;
 		scopeCurator=0;
 		displayName="Granit (ATACS AU/Ranger)";
-		picture="";
 		hiddenSelectionsTextures[] = {"\tmtm\pack\contact_uniforms\Data\tmtm_granit_atacsAuRanger_co.paa"};
 		class ItemInfo: UniformItem
 		{
@@ -123,7 +114,6 @@ class CfgWeapons
 		scopeArsenal=2;
 		scopeCurator=0;
 		displayName="Granit (ATACS FG)";
-		picture="";
 		hiddenSelectionsTextures[] = {"\tmtm\pack\contact_uniforms\Data\tmtm_granit_atacsFg_co.paa"};
 		class ItemInfo: UniformItem
 		{
@@ -139,7 +129,6 @@ class CfgWeapons
 		scopeArsenal=2;
 		scopeCurator=0;
 		displayName="Granit (ATACS FG/Black)";
-		picture="";
 		hiddenSelectionsTextures[] = {"\tmtm\pack\contact_uniforms\Data\tmtm_granit_atacsFgBlack_co.paa"};
 		class ItemInfo: UniformItem
 		{
@@ -155,7 +144,6 @@ class CfgWeapons
 		scopeArsenal=2;
 		scopeCurator=0;
 		displayName="Granit (ATACS FG/Ranger)";
-		picture="";
 		hiddenSelectionsTextures[] = {"\tmtm\pack\contact_uniforms\Data\tmtm_granit_atacsFgRanger_co.paa"};
 		class ItemInfo: UniformItem
 		{
@@ -171,7 +159,6 @@ class CfgWeapons
 		scopeArsenal=2;
 		scopeCurator=0;
 		displayName="Granit (Black/DCU)";
-		picture="";
 		hiddenSelectionsTextures[] = {"\tmtm\pack\contact_uniforms\Data\tmtm_granit_black3cd_co.paa"};
 		class ItemInfo: UniformItem
 		{
@@ -187,7 +174,6 @@ class CfgWeapons
 		scopeArsenal=2;
 		scopeCurator=0;
 		displayName="Granit (Black/Khaki)";
-		picture="";
 		hiddenSelectionsTextures[] = {"\tmtm\pack\contact_uniforms\Data\tmtm_granit_blackKhaki_co.paa"};
 		class ItemInfo: UniformItem
 		{
@@ -203,7 +189,6 @@ class CfgWeapons
 		scopeArsenal=2;
 		scopeCurator=0;
 		displayName="Granit (Black/M81)";
-		picture="";
 		hiddenSelectionsTextures[] = {"\tmtm\pack\contact_uniforms\Data\tmtm_granit_blackM81_co.paa"};
 		class ItemInfo: UniformItem
 		{
@@ -219,7 +204,6 @@ class CfgWeapons
 		scopeArsenal=2;
 		scopeCurator=0;
 		displayName="Granit (Black/Multicam)";
-		picture="";
 		hiddenSelectionsTextures[] = {"\tmtm\pack\contact_uniforms\Data\tmtm_granit_blackMulticam_co.paa"};
 		class ItemInfo: UniformItem
 		{
@@ -235,7 +219,6 @@ class CfgWeapons
 		scopeArsenal=2;
 		scopeCurator=0;
 		displayName="Granit (Blue)";
-		picture="";
 		hiddenSelectionsTextures[] = {"\tmtm\pack\contact_uniforms\Data\tmtm_granit_blue_co.paa"};
 		class ItemInfo: UniformItem
 		{
@@ -251,7 +234,6 @@ class CfgWeapons
 		scopeArsenal=2;
 		scopeCurator=0;
 		displayName="Granit (Blue/DCU)";
-		picture="";
 		hiddenSelectionsTextures[] = {"\tmtm\pack\contact_uniforms\Data\tmtm_granit_blue3cd_co.paa"};
 		class ItemInfo: UniformItem
 		{
@@ -267,7 +249,6 @@ class CfgWeapons
 		scopeArsenal=2;
 		scopeCurator=0;
 		displayName="Granit (Blue Alt)";
-		picture="";
 		hiddenSelectionsTextures[] = {"\tmtm\pack\contact_uniforms\Data\tmtm_granit_blueAlt_co.paa"};
 		class ItemInfo: UniformItem
 		{
@@ -283,7 +264,6 @@ class CfgWeapons
 		scopeArsenal=2;
 		scopeCurator=0;
 		displayName="Granit (Blue/Khaki)";
-		picture="";
 		hiddenSelectionsTextures[] = {"\tmtm\pack\contact_uniforms\Data\tmtm_granit_blueKhaki_co.paa"};
 		class ItemInfo: UniformItem
 		{
@@ -299,7 +279,6 @@ class CfgWeapons
 		scopeArsenal=2;
 		scopeCurator=0;
 		displayName="Granit (Blue/M81)";
-		picture="";
 		hiddenSelectionsTextures[] = {"\tmtm\pack\contact_uniforms\Data\tmtm_granit_blueM81_co.paa"};
 		class ItemInfo: UniformItem
 		{
@@ -315,7 +294,6 @@ class CfgWeapons
 		scopeArsenal=2;
 		scopeCurator=0;
 		displayName="Granit (Blue/Multicam)";
-		picture="";
 		hiddenSelectionsTextures[] = {"\tmtm\pack\contact_uniforms\Data\tmtm_granit_blueMulticam_co.paa"};
 		class ItemInfo: UniformItem
 		{
@@ -331,7 +309,6 @@ class CfgWeapons
 		scopeArsenal=2;
 		scopeCurator=0;
 		displayName="Granit (Brown/DCU)";
-		picture="";
 		hiddenSelectionsTextures[] = {"\tmtm\pack\contact_uniforms\Data\tmtm_granit_brown3cd_co.paa"};
 		class ItemInfo: UniformItem
 		{
@@ -347,7 +324,6 @@ class CfgWeapons
 		scopeArsenal=2;
 		scopeCurator=0;
 		displayName="Granit (Brown/Khaki)";
-		picture="";
 		hiddenSelectionsTextures[] = {"\tmtm\pack\contact_uniforms\Data\tmtm_granit_brownKhaki_co.paa"};
 		class ItemInfo: UniformItem
 		{
@@ -363,7 +339,6 @@ class CfgWeapons
 		scopeArsenal=2;
 		scopeCurator=0;
 		displayName="Granit (Brown/M81)";
-		picture="";
 		hiddenSelectionsTextures[] = {"\tmtm\pack\contact_uniforms\Data\tmtm_granit_brownM81_co.paa"};
 		class ItemInfo: UniformItem
 		{
@@ -379,7 +354,6 @@ class CfgWeapons
 		scopeArsenal=2;
 		scopeCurator=0;
 		displayName="Granit (Brown/Multicam)";
-		picture="";
 		hiddenSelectionsTextures[] = {"\tmtm\pack\contact_uniforms\Data\tmtm_granit_brownMulticam_co.paa"};
 		class ItemInfo: UniformItem
 		{
@@ -395,7 +369,6 @@ class CfgWeapons
 		scopeArsenal=2;
 		scopeCurator=0;
 		displayName="Granit (CBRN)";
-		picture="";
 		hiddenSelectionsTextures[] = {"\tmtm\pack\contact_uniforms\Data\tmtm_granit_cbrn_co.paa"};
 		class ItemInfo: UniformItem
 		{
@@ -411,7 +384,6 @@ class CfgWeapons
 		scopeArsenal=2;
 		scopeCurator=0;
 		displayName="Granit (CBRN Black)";
-		picture="";
 		hiddenSelectionsTextures[] = {"\tmtm\pack\contact_uniforms\Data\tmtm_granit_cbrnBlack_co.paa"};
 		class ItemInfo: UniformItem
 		{
@@ -427,7 +399,6 @@ class CfgWeapons
 		scopeArsenal=2;
 		scopeCurator=0;
 		displayName="Granit (CBRN Black Alt)";
-		picture="";
 		hiddenSelectionsTextures[] = {"\tmtm\pack\contact_uniforms\Data\tmtm_granit_cbrnBlackAlt_co.paa"};
 		class ItemInfo: UniformItem
 		{
@@ -443,7 +414,6 @@ class CfgWeapons
 		scopeArsenal=2;
 		scopeCurator=0;
 		displayName="Granit (Flecktarn)";
-		picture="";
 		hiddenSelectionsTextures[] = {"\tmtm\pack\contact_uniforms\Data\tmtm_granit_flecktarn_co.paa"};
 		class ItemInfo: UniformItem
 		{
@@ -459,7 +429,6 @@ class CfgWeapons
 		scopeArsenal=2;
 		scopeCurator=0;
 		displayName="Granit (Flecktarn Alt)";
-		picture="";
 		hiddenSelectionsTextures[] = {"\tmtm\pack\contact_uniforms\Data\tmtm_granit_flecktarnAlt_co.paa"};
 		class ItemInfo: UniformItem
 		{
@@ -475,7 +444,6 @@ class CfgWeapons
 		scopeArsenal=2;
 		scopeCurator=0;
 		displayName="Granit (Green/DCU)";
-		picture="";
 		hiddenSelectionsTextures[] = {"\tmtm\pack\contact_uniforms\Data\tmtm_granit_green3cd_co.paa"};
 		class ItemInfo: UniformItem
 		{
@@ -491,7 +459,6 @@ class CfgWeapons
 		scopeArsenal=2;
 		scopeCurator=0;
 		displayName="Granit (Green/Khaki)";
-		picture="";
 		hiddenSelectionsTextures[] = {"\tmtm\pack\contact_uniforms\Data\tmtm_granit_greenKhaki_co.paa"};
 		class ItemInfo: UniformItem
 		{
@@ -507,7 +474,6 @@ class CfgWeapons
 		scopeArsenal=2;
 		scopeCurator=0;
 		displayName="Granit (Green/M81)";
-		picture="";
 		hiddenSelectionsTextures[] = {"\tmtm\pack\contact_uniforms\Data\tmtm_granit_greenM81_co.paa"};
 		class ItemInfo: UniformItem
 		{
@@ -523,7 +489,6 @@ class CfgWeapons
 		scopeArsenal=2;
 		scopeCurator=0;
 		displayName="Granit (Green/Multicam)";
-		picture="";
 		hiddenSelectionsTextures[] = {"\tmtm\pack\contact_uniforms\Data\tmtm_granit_greenMulticam_co.paa"};
 		class ItemInfo: UniformItem
 		{
@@ -539,7 +504,6 @@ class CfgWeapons
 		scopeArsenal=2;
 		scopeCurator=0;
 		displayName="Granit (Grey)";
-		picture="";
 		hiddenSelectionsTextures[] = {"\tmtm\pack\contact_uniforms\Data\tmtm_granit_grey_co.paa"};
 		class ItemInfo: UniformItem
 		{
@@ -555,7 +519,6 @@ class CfgWeapons
 		scopeArsenal=2;
 		scopeCurator=0;
 		displayName="Granit (KLMK)";
-		picture="";
 		hiddenSelectionsTextures[] = {"\tmtm\pack\contact_uniforms\Data\tmtm_granit_klmk_co.paa"};
 		class ItemInfo: UniformItem
 		{
@@ -571,7 +534,6 @@ class CfgWeapons
 		scopeArsenal=2;
 		scopeCurator=0;
 		displayName="Granit (KLMK Alt)";
-		picture="";
 		hiddenSelectionsTextures[] = {"\tmtm\pack\contact_uniforms\Data\tmtm_granit_klmkAlt_co.paa"};
 		class ItemInfo: UniformItem
 		{
@@ -587,7 +549,6 @@ class CfgWeapons
 		scopeArsenal=2;
 		scopeCurator=0;
 		displayName="Granit (KLMK Reverse)";
-		picture="";
 		hiddenSelectionsTextures[] = {"\tmtm\pack\contact_uniforms\Data\tmtm_granit_klmkReverse_co.paa"};
 		class ItemInfo: UniformItem
 		{
@@ -603,7 +564,6 @@ class CfgWeapons
 		scopeArsenal=2;
 		scopeCurator=0;
 		displayName="Granit (KLMK Reverse Alt)";
-		picture="";
 		hiddenSelectionsTextures[] = {"\tmtm\pack\contact_uniforms\Data\tmtm_granit_klmkReverseAlt_co.paa"};
 		class ItemInfo: UniformItem
 		{
@@ -619,7 +579,6 @@ class CfgWeapons
 		scopeArsenal=2;
 		scopeCurator=0;
 		displayName="Granit (M81)";
-		picture="";
 		hiddenSelectionsTextures[] = {"\tmtm\pack\contact_uniforms\Data\tmtm_granit_m81_co.paa"};
 		class ItemInfo: UniformItem
 		{
@@ -635,7 +594,6 @@ class CfgWeapons
 		scopeArsenal=2;
 		scopeCurator=0;
 		displayName="Granit (M81/Winter)";
-		picture="";
 		hiddenSelectionsTextures[] = {"\tmtm\pack\contact_uniforms\Data\tmtm_granit_m81Winter_co.paa"};
 		class ItemInfo: UniformItem
 		{
@@ -651,7 +609,6 @@ class CfgWeapons
 		scopeArsenal=2;
 		scopeCurator=0;
 		displayName="Granit (Night/DCU)";
-		picture="";
 		hiddenSelectionsTextures[] = {"\tmtm\pack\contact_uniforms\Data\tmtm_granit_night3cd_co.paa"};
 		class ItemInfo: UniformItem
 		{
@@ -667,7 +624,6 @@ class CfgWeapons
 		scopeArsenal=2;
 		scopeCurator=0;
 		displayName="Granit (Night/DBDU)";
-		picture="";
 		hiddenSelectionsTextures[] = {"\tmtm\pack\contact_uniforms\Data\tmtm_granit_night6cd_co.paa"};
 		class ItemInfo: UniformItem
 		{
@@ -683,7 +639,6 @@ class CfgWeapons
 		scopeArsenal=2;
 		scopeCurator=0;
 		displayName="Granit (Night/M81)";
-		picture="";
 		hiddenSelectionsTextures[] = {"\tmtm\pack\contact_uniforms\Data\tmtm_granit_nightM81_co.paa"};
 		class ItemInfo: UniformItem
 		{
@@ -699,7 +654,6 @@ class CfgWeapons
 		scopeArsenal=2;
 		scopeCurator=0;
 		displayName="Granit (Olive/DCU)";
-		picture="";
 		hiddenSelectionsTextures[] = {"\tmtm\pack\contact_uniforms\Data\tmtm_granit_olive3cd_co.paa"};
 		class ItemInfo: UniformItem
 		{
@@ -715,7 +669,6 @@ class CfgWeapons
 		scopeArsenal=2;
 		scopeCurator=0;
 		displayName="Granit (Olive/Khaki)";
-		picture="";
 		hiddenSelectionsTextures[] = {"\tmtm\pack\contact_uniforms\Data\tmtm_granit_oliveKhaki_co.paa"};
 		class ItemInfo: UniformItem
 		{
@@ -731,7 +684,6 @@ class CfgWeapons
 		scopeArsenal=2;
 		scopeCurator=0;
 		displayName="Granit (Olive/M81)";
-		picture="";
 		hiddenSelectionsTextures[] = {"\tmtm\pack\contact_uniforms\Data\tmtm_granit_oliveM81_co.paa"};
 		class ItemInfo: UniformItem
 		{
@@ -747,7 +699,6 @@ class CfgWeapons
 		scopeArsenal=2;
 		scopeCurator=0;
 		displayName="Granit (Olive/Multicam)";
-		picture="";
 		hiddenSelectionsTextures[] = {"\tmtm\pack\contact_uniforms\Data\tmtm_granit_oliveMulticam_co.paa"};
 		class ItemInfo: UniformItem
 		{
@@ -763,7 +714,6 @@ class CfgWeapons
 		scopeArsenal=2;
 		scopeCurator=0;
 		displayName="Granit (Partizan)";
-		picture="";
 		hiddenSelectionsTextures[] = {"\tmtm\pack\contact_uniforms\Data\tmtm_granit_partizan_co.paa"};
 		class ItemInfo: UniformItem
 		{
@@ -779,7 +729,6 @@ class CfgWeapons
 		scopeArsenal=2;
 		scopeCurator=0;
 		displayName="Granit (Partizan Alt)";
-		picture="";
 		hiddenSelectionsTextures[] = {"\tmtm\pack\contact_uniforms\Data\tmtm_granit_partizanAlt_co.paa"};
 		class ItemInfo: UniformItem
 		{
@@ -795,7 +744,6 @@ class CfgWeapons
 		scopeArsenal=2;
 		scopeCurator=0;
 		displayName="Granit (Partizan Autumn)";
-		picture="";
 		hiddenSelectionsTextures[] = {"\tmtm\pack\contact_uniforms\Data\tmtm_granit_partizanAutumn_co.paa"};
 		class ItemInfo: UniformItem
 		{
@@ -811,7 +759,6 @@ class CfgWeapons
 		scopeArsenal=2;
 		scopeCurator=0;
 		displayName="Granit (Partizan Autumn Alt)";
-		picture="";
 		hiddenSelectionsTextures[] = {"\tmtm\pack\contact_uniforms\Data\tmtm_granit_partizanAutumnAlt_co.paa"};
 		class ItemInfo: UniformItem
 		{
@@ -827,7 +774,6 @@ class CfgWeapons
 		scopeArsenal=2;
 		scopeCurator=0;
 		displayName="Granit (Winter/M81)";
-		picture="";
 		hiddenSelectionsTextures[] = {"\tmtm\pack\contact_uniforms\Data\tmtm_granit_winterM81_co.paa"};
 		class ItemInfo: UniformItem
 		{
