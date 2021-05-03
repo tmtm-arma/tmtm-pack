@@ -3,7 +3,8 @@ name: Arma
 on:
   push:
     branches:
-    - master
+    - main
+    - github_actions
   pull_request:
 
 jobs:
