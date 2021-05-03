@@ -3,11 +3,16 @@ prefix = "tmtm_pack"
 author = "TMTM"
 files = [
 	"mod.cpp",
-	"README.md"
+	"README.md",
+	"LICENSE.md"
 ]
 
 key_name = "{{prefix}}_{{version}}"
 authority = "{{prefix}}_{{version}}-{{git \"id 8\"}}"
+
+releasebuild = [
+    "@zip tmtmpack_{{semver.major}}.{{semver.minor}}.{{semver.patch}}"
+]
 
 [header_exts]
 version= "{{git \"id 8\"}}"
