@@ -8,7 +8,7 @@ class CfgWeapons
 	
 	// Flak Vest -----------------------------------------------------------------------------
 	
-	class tmtm_v_flakVest_black: Vest_Camo_Base
+	class tmtm_v_flakVest_base: Vest_Camo_Base
 	{
 		author="Trenchgun";
 		scope=0;
