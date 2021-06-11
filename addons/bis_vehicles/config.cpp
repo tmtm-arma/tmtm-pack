@@ -3,7 +3,12 @@
 class CfgPatches {
 	class ADDON {
 		name = COMPONENT_NAME;
-		units[] = {};
+		units[] = {
+			"TMTM_B_APC_Wheeled_03_F",
+			"TMTM_B_MRAP_03_F",
+			"TMTM_B_MRAP_03_hmg_F",
+			"TMTM_B_MRAP_03_gmg_F"
+		};
 		weapons[] = {};
 		requiredVersion = REQUIRED_VERSION;
 		requiredAddons[] = {
