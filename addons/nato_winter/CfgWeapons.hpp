@@ -30,6 +30,16 @@ class CfgWeapons {
 		hiddenSelectionsTextures[] = {"\tmtm\pack\nato_winter\data\tmtm_combat_helmet_white.paa"};
 	};
 	
+	// Booniehat
+	class H_Booniehat_khk;
+	class tmtm_h_booniehat_winter: H_Booniehat_khk {
+		author = "Superxpdude";
+		scope = 2;
+		weaponPoolAvailable = 1;
+		displayName = "Booniehat (Winter)";
+		picture="\tmtm\pack\nato_winter\data\ui\icon_tmtm_h_booniehat_winter.paa";
+		hiddenSelectionsTextures[] = {"\tmtm\pack\nato_winter\data\tmtm_booniehat_winter.paa"};
+	};
 	
 	// Vests
 	class V_PlateCarrier1_blk;
