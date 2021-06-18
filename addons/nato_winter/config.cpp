@@ -3,11 +3,14 @@
 class CfgPatches {
 	class ADDON {
 		name = COMPONENT_NAME;
-		units[] = {};
+		units[] = {
+			"TMTM_B_natowinter_base"
+		};
 		weapons[] = {
 			"tmtm_h_helmetb_white",
 			"tmtm_h_helmetspecb_white",
 			"tmtm_h_helmetb_light_white",
+			"tmtm_u_combatuniform_winter",
 			"tmtm_v_platecarrier1_darkgreen",
 			"tmtm_v_platecarrier2_darkgreen"
 		};
