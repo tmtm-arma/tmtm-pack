@@ -7,6 +7,7 @@ class CfgPatches {
 			"TMTM_B_natowinter_base"
 		};
 		weapons[] = {
+			"tmtm_h_booniehat_winter",
 			"tmtm_h_helmetb_white",
 			"tmtm_h_helmetspecb_white",
 			"tmtm_h_helmetb_light_white",
