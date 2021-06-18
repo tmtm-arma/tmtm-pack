@@ -59,4 +59,25 @@ class CfgWeapons {
 		displayName = "Carrier Rig (Dark Green)";
 		hiddenSelectionsTextures[] = {"\tmtm\pack\nato_winter\data\tmtm_plate_carrier_darkgreen.paa"};
 	};
+	
+	// Uniforms
+	class UniformItem;
+	class Uniform_Base;
+	class tmtm_u_combatuniform_winter: Uniform_Base {
+		author = "Superxpdude";
+		scope = 2;
+		displayName = "Combat Fatigues (Winter)";
+		picture = "\A3\characters_f\data\ui\icon_U_B_CombatUniform_mcam_ca.paa"; // TODO
+		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+		hiddenSelections[] = {"camo"};
+		hiddenSelectionsTextures[] = {"\A3\Characters_F\Common\Suitpacks\data\suitpack_soldier_blufor_co.paa"}; // TODO
+		
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="TMTM_B_natowinter_base";
+			containerClass="Supply40";
+			mass=40;
+		};
+	};
 };
