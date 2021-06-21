@@ -204,7 +204,7 @@ class CfgVehicles
 	// Fatigues, T-Shirt --------------------------------------------------------------
 	// adds some black T-Shirt variants to the vanilla Combat Fatigues (Tee)
 	
-	class tmtm_combatUniformT_mcamBlack: B_Soldier_base_F		// VANILLA TEXTURE
+	class tmtm_combatUniformT_mcamBlack: B_Soldier_base_F		
 	{
 		author="Trenchgun";
 		scope=1;
@@ -229,7 +229,7 @@ class CfgVehicles
 			"\A3\Characters_F\BLUFOR\Data\clothing1.rvmat"
 		};
 	};
-	class tmtm_combatUniformT_ctrgBlack: tmtm_combatUniformT_mcamBlack	// VANILLA TEXTURE
+	class tmtm_combatUniformT_ctrgBlack: tmtm_combatUniformT_mcamBlack	
 	{
 		displayName="Soldier (CTRG) (Black Tee)";
 		uniformClass="tmtm_u_combatUniformT_ctrgBlack";
@@ -239,7 +239,7 @@ class CfgVehicles
 			"a3\characters_f\common\data\basicbody_black_co.paa"
 		};
 	};
-	class tmtm_combatUniformT_erdlBlack: tmtm_combatUniformT_mcamBlack		// VANILLA TEXTURE
+	class tmtm_combatUniformT_erdlBlack: tmtm_combatUniformT_mcamBlack		
 	{
 		displayName="Soldier (ERDL) (Black Tee)";
 		uniformClass="tmtm_u_combatUniformT_erdlBlack";
