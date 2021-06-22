@@ -1,7 +1,7 @@
-##BLUFOR Uniforms
+## BLUFOR Uniforms
 Retextures of the vanilla BLUFOR faction uniforms.
 
-#Combat Fatigues (Rolled-up, Tee, and Collar variants)
+# Combat Fatigues (Rolled-up, Tee, and Collar variants)
 	- Black
 	- Tan
 	- Black/Tan
