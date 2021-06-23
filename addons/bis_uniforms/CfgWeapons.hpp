@@ -1493,12 +1493,42 @@ class CfgWeapons
 		};
 		class ItemInfo: VestItem
 		{
-			uniformModel="\A3\Characters_F\Common\equip_rebreather";
-			containerClass="Supply0";
-			mass=80;
-			vestType="Rebreather";
+			uniformModel = "\A3\Characters_F\Common\equip_rebreather";
+			containerClass = "Supply0";
+			mass = 80;
+			vestType = "Rebreather";
+			//hiddenUnderwaterSelections[] = {"hide"};
+			//shownUnderwaterSelections[] = {"unhide", "unhide2"};
+			//hiddenUnderwaterSelectionsTextures[] = {"\A3\characters_f\common\data\diver_equip_nato_co.paa", "\A3\characters_f\common\data\diver_equip_nato_co.paa", "\A3\characters_f\data\visors_ca.paa"};
+			class HitpointsProtectionInfo
+			{
+				class Diaphragm
+				{
+					hitpointName = "HitDiaphragm";
+					armor = 8;
+					passThrough = 0.5;
+				};
+				class Abdomen
+				{
+					hitpointName = "HitAbdomen";
+					armor = 8;
+					passThrough = 0.5;
+				};
+				class Pelvis
+				{
+					hitpointName = "HitPelvis";
+					armor = 8;
+					passThrough = 0.5;
+				};
+				class Body
+				{
+					hitpointName = "HitBody";
+					passThrough = 0.5;
+				};
+			};
 		};
 	};
+	/* Does not display textures correctly. Only shows the NATO version for some reason.
 	class V_RebreatherIR;
 	class tmtm_v_rebreather_aaf: V_RebreatherIR
 	{
@@ -1506,12 +1536,48 @@ class CfgWeapons
 		scopeArsenal=2;
 		scopeCurator=0;
 		author="Trenchgun";
-		displayName = "Rebreather [CSAT] (Alt)";
+		displayName = "Rebreather [AAF] (Alt)";
 		hiddenSelectionsTextures[]=
 		{
 			"\A3\characters_f\common\data\diver_equip_rus_co.paa", 
 			"\A3\characters_f\common\data\diver_equip_rus_co.paa", 
 			"\A3\characters_f\data\visors_ca.paa"
+		};
+		class ItemInfo: VestItem
+		{
+			uniformModel = "\A3\Characters_F\Common\equip_rebreather";
+			containerClass = "Supply0";
+			mass = 80;
+			vestType = "Rebreather";
+			//hiddenUnderwaterSelections[] = {"hide"};
+			//shownUnderwaterSelections[] = {"unhide", "unhide2"};
+			//hiddenUnderwaterSelectionsTextures[] = {"\A3\characters_f\common\data\diver_equip_nato_co.paa", "\A3\characters_f\common\data\diver_equip_nato_co.paa", "\A3\characters_f\data\visors_ca.paa"};
+			class HitpointsProtectionInfo
+			{
+				class Diaphragm
+				{
+					hitpointName = "HitDiaphragm";
+					armor = 8;
+					passThrough = 0.5;
+				};
+				class Abdomen
+				{
+					hitpointName = "HitAbdomen";
+					armor = 8;
+					passThrough = 0.5;
+				};
+				class Pelvis
+				{
+					hitpointName = "HitPelvis";
+					armor = 8;
+					passThrough = 0.5;
+				};
+				class Body
+				{
+					hitpointName = "HitBody";
+					passThrough = 0.5;
+				};
+			};
 		};
 	};
 	class V_RebreatherIA;
@@ -1521,12 +1587,49 @@ class CfgWeapons
 		scopeArsenal=2;
 		scopeCurator=0;
 		author="Trenchgun";
-		displayName = "Rebreather [AAF] (Alt)";
+		displayName = "Rebreather [CSAT] (Alt)";
 		hiddenSelectionsTextures[]=
 		{
 			"\A3\characters_f\common\data\diver_equip_iran_co.paa", 
 			"\A3\characters_f\common\data\diver_equip_iran_co.paa", 
 			"\A3\characters_f\data\visors_ca.paa"
 		};
+		class ItemInfo: VestItem
+		{
+			uniformModel = "\A3\Characters_F\Common\equip_rebreather";
+			containerClass = "Supply0";
+			mass = 80;
+			vestType = "Rebreather";
+			//hiddenUnderwaterSelections[] = {"hide"};
+			//shownUnderwaterSelections[] = {"unhide", "unhide2"};
+			//hiddenUnderwaterSelectionsTextures[] = {"\A3\characters_f\common\data\diver_equip_nato_co.paa", "\A3\characters_f\common\data\diver_equip_nato_co.paa", "\A3\characters_f\data\visors_ca.paa"};
+			class HitpointsProtectionInfo
+			{
+				class Diaphragm
+				{
+					hitpointName = "HitDiaphragm";
+					armor = 8;
+					passThrough = 0.5;
+				};
+				class Abdomen
+				{
+					hitpointName = "HitAbdomen";
+					armor = 8;
+					passThrough = 0.5;
+				};
+				class Pelvis
+				{
+					hitpointName = "HitPelvis";
+					armor = 8;
+					passThrough = 0.5;
+				};
+				class Body
+				{
+					hitpointName = "HitBody";
+					passThrough = 0.5;
+				};
+			};
+		};
 	};
+	*/
 };
