@@ -7,7 +7,8 @@ class CfgVehicles {
 		uniformClass = "tmtm_u_combatuniform_winter";
 		//hiddenSelections[] = {"Camo","Insignia"};
 		hiddenSelectionsTextures[] = {"\tmtm\pack\nato_winter\data\tmtm_combatfatigues_winter.paa"};
-		model = "\A3\Characters_F\BLUFOR\b_soldier_01.p3d";
+		//model = "\A3\Characters_F\BLUFOR\b_soldier_01.p3d";
+		model = "\A3\Characters_F_Exp\BLUFOR\B_CTRG_Soldier_01_F.p3d";
 		
 		linkedItems[] = {
 			"tmtm_v_platecarrier1_darkgreen", 
