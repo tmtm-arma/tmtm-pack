@@ -47,7 +47,7 @@ class CfgWeapons
 	{
 		scope=2;
 		picture="\A3\characters_f\Data\UI\icon_H_HelmetB_CA.paa";
-		displayName="ECH (Black)";
+		displayName="Enhanced Combat Helmet (Black)";
 		model="\A3\Characters_F\BLUFOR\headgear_b_helmet_ballistic";
 		class ItemInfo: ItemInfo
 		{
@@ -71,7 +71,7 @@ class CfgWeapons
 		scope=2;
 		author="Trenchgun";
 		picture="\A3\Characters_F\data\ui\icon_H_HelmetB_light_ca.paa";
-		displayName="LCH (Black)";
+		displayName="Light Combat Helmet (Black)";
 		model="\A3\Characters_F\BLUFOR\headgear_b_helmet_light";
 		descriptionShort="$STR_A3_SP_AL_I";
 		class ItemInfo: ItemInfo
@@ -103,7 +103,7 @@ class CfgWeapons
 	class tmtm_h_helmetEnhanced_grey: tmtm_h_helmetEnhanced_black
 	{
 		scope=2;
-		displayName="ECH (Grey)";
+		displayName="Enhanced Combat Helmet (Grey)";
 		hiddenSelectionsTextures[]=
 		{
 			"\tmtm\pack\blufor_headgear\Data\tmtm_helmet_grey_co.paa"
@@ -113,7 +113,7 @@ class CfgWeapons
 	class tmtm_h_helmetLight_grey: tmtm_h_helmetLight_black
 	{
 		scope=2;
-		displayName="LCH (Grey)";
+		displayName="Light Combat Helmet (Grey)";
 		hiddenSelectionsTextures[]=
 		{
 			"\tmtm\pack\blufor_headgear\Data\tmtm_helmet_grey_co.paa"
@@ -133,7 +133,7 @@ class CfgWeapons
 	class tmtm_h_helmetEnhanced_olive: tmtm_h_helmetEnhanced_black
 	{
 		scope=2;
-		displayName="ECH (Olive)";
+		displayName="Enhanced Combat Helmet (Olive)";
 		hiddenSelectionsTextures[]=
 		{
 			"\tmtm\pack\blufor_headgear\Data\tmtm_helmet_olive_co.paa"
@@ -143,7 +143,7 @@ class CfgWeapons
 	class tmtm_h_helmetLight_olive: tmtm_h_helmetLight_black
 	{
 		scope=2;
-		displayName="LCH (Olive)";
+		displayName="Light Combat Helmet (Olive)";
 		hiddenSelectionsTextures[]=
 		{
 			"\tmtm\pack\blufor_headgear\Data\tmtm_helmet_olive_co.paa"
@@ -163,7 +163,7 @@ class CfgWeapons
 	class tmtm_h_helmetEnhanced_coyote: tmtm_h_helmetEnhanced_black
 	{
 		scope=2;
-		displayName="ECH (Coyote)";
+		displayName="Enhanced Combat Helmet (Coyote)";
 		hiddenSelectionsTextures[]=
 		{
 			"\tmtm\pack\blufor_headgear\Data\tmtm_helmet_coyote_co.paa"
@@ -173,7 +173,7 @@ class CfgWeapons
 	class tmtm_h_helmetLight_coyote: tmtm_h_helmetLight_black
 	{
 		scope=2;
-		displayName="LCH (Coyote)";
+		displayName="Light Combat Helmet (Coyote)";
 		hiddenSelectionsTextures[]=
 		{
 			"\tmtm\pack\blufor_headgear\Data\tmtm_helmet_coyote_co.paa"
