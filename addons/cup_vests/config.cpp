@@ -7,9 +7,7 @@ class CfgPatches {
 		weapons[] = {};
 		requiredVersion = REQUIRED_VERSION;
 		requiredAddons[] = {
-			"tmtmpack_main",
-			"A3_Characters_F_Enoch",
-			
+			"CUP_Creatures_People_LoadOrder"
 		};
 		author = MOD_AUTHOR;
 		url = MOD_URL;
@@ -18,5 +16,4 @@ class CfgPatches {
 		versionAr[] = {VERSION_AR};
 	};
 };
-
 #include "CfgWeapons.hpp"
