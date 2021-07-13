@@ -75,6 +75,20 @@ class CfgWeapons
 			"\tmtm\pack\contact_vests\Data\tmtm_modularVest_coyote_co.paa"
 		};
 	};
+	class tmtm_v_modularVest_tan: tmtm_v_modularVest_base
+	{
+		author="Trenchgun";
+		scope=1;
+		scopeArsenal=2;
+		scopeCurator=0;
+		displayName="Modular Carrier Vest (Tan)";
+		picture="\tmtm\pack\contact_vests\Data\UI\icon_modularVest_tan_ca.paa";
+
+		hiddenSelectionsTextures[]=
+		{
+			"\tmtm\pack\contact_vests\Data\tmtm_modularVest_tan_co.paa"
+		};
+	};
 	class tmtm_v_modularVest_ranger: tmtm_v_modularVest_base
 	{
 		author="Trenchgun";
@@ -153,6 +167,20 @@ class CfgWeapons
 		hiddenSelectionsTextures[]=
 		{
 			"\tmtm\pack\contact_vests\Data\tmtm_modularVest_coyote_co.paa"
+		};
+	};
+	class tmtm_v_modularVestLite_tan: tmtm_v_modularVestLite_base
+	{
+		author="Trenchgun";
+		scope=1;
+		scopeArsenal=2;
+		scopeCurator=0;
+		displayName="Modular Carrier Lite (Tan)";
+		picture="\tmtm\pack\contact_vests\Data\UI\icon_modularVestLite_tan_ca.paa";
+
+		hiddenSelectionsTextures[]=
+		{
+			"\tmtm\pack\contact_vests\Data\tmtm_modularVest_tan_co.paa"
 		};
 	};
 	class tmtm_v_modularVestLite_ranger: tmtm_v_modularVestLite_base
@@ -279,6 +307,20 @@ class CfgWeapons
 			"\tmtm\pack\contact_vests\Data\tmtm_modularVest_coyote_co.paa"
 		};
 	};
+	class tmtm_v_modularVestGL_tan: tmtm_v_modularVestGL_base
+	{
+		author="Trenchgun";
+		scope=1;
+		scopeArsenal=2;
+		scopeCurator=0;
+		displayName="Modular Carrier GL Rig (Tan)";
+		picture="\tmtm\pack\contact_vests\Data\UI\icon_modularVestGL_tan_ca.paa";
+
+		hiddenSelectionsTextures[]=
+		{
+			"\tmtm\pack\contact_vests\Data\tmtm_modularVest_tan_co.paa"
+		};
+	};
 	class tmtm_v_modularVestGL_ranger: tmtm_v_modularVestGL_base
 	{
 		author="Trenchgun";
@@ -363,46 +405,46 @@ class CfgWeapons
 			"\tmtm\pack\contact_vests\Data\tmtm_modularVest_blackYellow_co.paa"
 		};
 	};
-	class tmtm_v_modularVestGL_rangerOrange: tmtm_v_modularVestGL_base
+	class tmtm_v_modularVestGL_blackOrange: tmtm_v_modularVestGL_base
 	{
 		author="Trenchgun";
 		scope=1;
 		scopeArsenal=2;
 		scopeCurator=0;
-		displayName="Modular Carrier GL Rig (Ranger/Orange)";
-		picture="\tmtm\pack\contact_vests\Data\UI\icon_modularVestGL_ranger_ca.paa";
+		displayName="Modular Carrier GL Rig (Black/Orange)";
+		picture="\tmtm\pack\contact_vests\Data\UI\icon_modularVestGL_black_ca.paa";
 
 		hiddenSelectionsTextures[]=
 		{
-			"\tmtm\pack\contact_vests\Data\tmtm_modularVest_rangerOrange_co.paa"
+			"\tmtm\pack\contact_vests\Data\tmtm_modularVest_blackOrange_co.paa"
 		};
 	};
-	class tmtm_v_modularVestGL_rangerPurple: tmtm_v_modularVestGL_base
+	class tmtm_v_modularVestGL_blackPurple: tmtm_v_modularVestGL_base
 	{
 		author="Trenchgun";
 		scope=1;
 		scopeArsenal=2;
 		scopeCurator=0;
-		displayName="Modular Carrier GL Rig (Ranger/Purple)";
-		picture="\tmtm\pack\contact_vests\Data\UI\icon_modularVestGL_ranger_ca.paa";
+		displayName="Modular Carrier GL Rig (Black/Purple)";
+		picture="\tmtm\pack\contact_vests\Data\UI\icon_modularVestGL_black_ca.paa";
 
 		hiddenSelectionsTextures[]=
 		{
-			"\tmtm\pack\contact_vests\Data\tmtm_modularVest_rangerPurple_co.paa"
+			"\tmtm\pack\contact_vests\Data\tmtm_modularVest_blackPurple_co.paa"
 		};
 	};
-	class tmtm_v_modularVestGL_rangerRed: tmtm_v_modularVestGL_base
+	class tmtm_v_modularVestGL_blackRed: tmtm_v_modularVestGL_base
 	{
 		author="Trenchgun";
 		scope=1;
 		scopeArsenal=2;
 		scopeCurator=0;
-		displayName="Modular Carrier GL Rig (Ranger/Red)";
-		picture="\tmtm\pack\contact_vests\Data\UI\icon_modularVestGL_ranger_ca.paa";
+		displayName="Modular Carrier GL Rig (Black/Red)";
+		picture="\tmtm\pack\contact_vests\Data\UI\icon_modularVestGL_black_ca.paa";
 
 		hiddenSelectionsTextures[]=
 		{
-			"\tmtm\pack\contact_vests\Data\tmtm_modularVest_rangerRed_co.paa"
+			"\tmtm\pack\contact_vests\Data\tmtm_modularVest_blackRed_co.paa"
 		};
 	};
 	class V_SmershVest_01_base_F;
