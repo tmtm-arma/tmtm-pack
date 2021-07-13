@@ -831,7 +831,7 @@ class CfgWeapons
 		picture="\A3\Characters_F_Bootcamp\Data\UI\icon_U_G_guerrilla1_1_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
-		hiddenSelectionsTextures[] = {"\A3\Characters_F_Bootcamp\Guerilla\Data\ig_guerilla_6_1_co.paa"};
+		hiddenSelectionsTextures[] = {"\a3\characters_f_bootcamp\guerrilla\data\ig_guerrilla_6_1_co.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel="-";
@@ -847,7 +847,7 @@ class CfgWeapons
 		picture="\A3\Characters_F_Bootcamp\Data\UI\icon_U_G_guerrilla1_1_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
-		hiddenSelectionsTextures[] = {"\A3\Characters_F_Bootcamp\Guerilla\Data\ig_guerilla_6_1_co.paa"};
+		hiddenSelectionsTextures[] = {"\a3\characters_f_bootcamp\guerrilla\data\ig_guerrilla_6_1_co.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel="-";
@@ -863,7 +863,7 @@ class CfgWeapons
 		picture="\A3\Characters_F_Bootcamp\Data\UI\icon_U_G_guerrilla1_1_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
-		hiddenSelectionsTextures[] = {"\A3\Characters_F_Bootcamp\Guerilla\Data\ig_guerilla_6_1_co.paa"};
+		hiddenSelectionsTextures[] = {"\a3\characters_f_bootcamp\guerrilla\data\ig_guerrilla_6_1_co.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel="-";
@@ -879,7 +879,7 @@ class CfgWeapons
 		picture="\A3\Characters_F_Bootcamp\Data\UI\icon_U_G_guerrilla1_1_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
-		hiddenSelectionsTextures[] = {"\A3\Characters_F_Bootcamp\Guerilla\Data\ig_guerilla_6_1_co.paa"};
+		hiddenSelectionsTextures[] = {"\a3\characters_f_bootcamp\guerrilla\data\ig_guerrilla_6_1_co.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel="-";
@@ -895,7 +895,7 @@ class CfgWeapons
 		picture="\A3\Characters_F_Bootcamp\Data\UI\icon_U_G_guerrilla1_1_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
-		hiddenSelectionsTextures[] = {"\A3\Characters_F_Bootcamp\Guerilla\Data\ig_guerilla_6_1_co.paa"};
+		hiddenSelectionsTextures[] = {"\a3\characters_f_bootcamp\guerrilla\data\ig_guerrilla_6_1_co.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel="-";
@@ -911,7 +911,7 @@ class CfgWeapons
 		picture="\A3\Characters_F_Bootcamp\Data\UI\icon_U_G_guerrilla1_1_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
-		hiddenSelectionsTextures[] = {"\A3\Characters_F_Bootcamp\Guerilla\Data\ig_guerilla_6_1_co.paa"};
+		hiddenSelectionsTextures[] = {"\a3\characters_f_bootcamp\guerrilla\data\ig_guerrilla_6_1_co.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel="-";
@@ -927,7 +927,7 @@ class CfgWeapons
 		picture="\A3\Characters_F_Bootcamp\Data\UI\icon_U_G_guerrilla1_1_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
-		hiddenSelectionsTextures[] = {"\A3\Characters_F_Bootcamp\Guerilla\Data\ig_guerilla_6_1_co.paa"};
+		hiddenSelectionsTextures[] = {"\a3\characters_f_bootcamp\guerrilla\data\ig_guerrilla_6_1_co.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel="-";
@@ -943,7 +943,7 @@ class CfgWeapons
 		picture="\A3\Characters_F_Bootcamp\Data\UI\icon_U_G_guerrilla1_1_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
-		hiddenSelectionsTextures[] = {"\A3\Characters_F_Bootcamp\Guerilla\Data\ig_guerilla_6_1_co.paa"};
+		hiddenSelectionsTextures[] = {"\a3\characters_f_bootcamp\guerrilla\data\ig_guerrilla_6_1_co.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel="-";
@@ -959,7 +959,7 @@ class CfgWeapons
 		picture="\A3\Characters_F_Bootcamp\Data\UI\icon_U_G_guerrilla1_1_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
-		hiddenSelectionsTextures[] = {"\A3\Characters_F_Bootcamp\Guerilla\Data\ig_guerilla_6_1_co.paa"};
+		hiddenSelectionsTextures[] = {"\a3\characters_f_bootcamp\guerrilla\data\ig_guerrilla_6_1_co.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel="-";
@@ -975,7 +975,7 @@ class CfgWeapons
 		picture="\A3\Characters_F_Bootcamp\Data\UI\icon_U_G_guerrilla1_1_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
-		hiddenSelectionsTextures[] = {"\A3\Characters_F_Bootcamp\Guerilla\Data\ig_guerilla_6_1_co.paa"};
+		hiddenSelectionsTextures[] = {"\a3\characters_f_bootcamp\guerrilla\data\ig_guerrilla_6_1_co.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel="-";
