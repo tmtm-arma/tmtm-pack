@@ -4,7 +4,11 @@ author = "TMTM"
 files = [
 	"mod.cpp",
 	"README.md",
-	"LICENSE.md"
+	"LICENSE.md",
+	"tmtm_logo.paa",
+	"tmtm_pack.paa",
+	"tmtm_pack_over.paa",
+	"tmtm_pack_picture.paa"
 ]
 
 key_name = "{{prefix}}_{{version}}"

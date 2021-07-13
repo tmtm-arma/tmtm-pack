@@ -1,11 +1,11 @@
 name = "TMTMPack";
-//picture = "";
+picture = "tmtm_pack_picture.paa";
 actionName = "Github";
 action = "https://github.com/tmtm-arma/tmtm-pack";
 description = "TMTMPack";
-//logoSmall = "";
-//logo = "";
-//logoOver = "";
+logoSmall = "tmtm_logo.paa";
+logo = "tmtm_pack.paa";
+logoOver = "tmtm_pack_over.paa";
 tooltip = "TMTMPack";
 tooltipOwned = "TMTMPack";
 overview = "A collection of asset retextures for TMTM";
