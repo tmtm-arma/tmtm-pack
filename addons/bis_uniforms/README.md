@@ -1,4 +1,4 @@
-# BLUFOR Headgear
+# BIS Uniforms
 Unhides a variety of unused uniform textures.
 
 
