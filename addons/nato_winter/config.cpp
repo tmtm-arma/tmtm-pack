@@ -4,6 +4,8 @@ class CfgPatches {
 	class ADDON {
 		name = COMPONENT_NAME;
 		units[] = {
+			"TMTM_B_RadioBag_01_darkgreen_b",
+			"TMTM_B_RadioBag_01_winter_b",
 			"TMTM_B_natowinter_base"
 		};
 		weapons[] = {
@@ -18,7 +20,8 @@ class CfgPatches {
 		requiredVersion = REQUIRED_VERSION;
 		requiredAddons[] = {
 			"tmtmpack_main",
-			"A3_Characters_F"
+			"A3_Characters_F",
+			"A3_Supplies_F_Enoch_Bags"
 		};
 		author = MOD_AUTHOR;
 		url = MOD_URL;

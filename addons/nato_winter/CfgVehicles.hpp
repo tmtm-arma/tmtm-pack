@@ -1,4 +1,25 @@
 class CfgVehicles {
+	// Backpacks
+	class B_RadioBag_01_base_F;
+	class TMTM_B_RadioBag_01_winter_b: B_RadioBag_01_base_F {
+		author = "Superxpdude";
+		scope = 2;
+		displayName = "Radio Pack (Winter) [BLU]";
+		picture = "\a3\Supplies_F_Enoch\Bags\Data\UI\icon_B_RadioBag_01_black_F_ca.paa"; // TODO: Replace
+		hiddenSelectionsTextures[] = {"\tmtm\pack\nato_winter\data\tmtm_radiobag_01_winter.paa"};
+		TFAR_BACKPACK_BLUFOR
+	};
+	
+	class TMTM_B_RadioBag_01_darkgreen_b: B_RadioBag_01_base_F {
+		author = "Superxpdude";
+		scope = 2;
+		displayName = "Radio Pack (Dark Green) [BLU]";
+		picture = "\a3\Supplies_F_Enoch\Bags\Data\UI\icon_B_RadioBag_01_black_F_ca.paa"; // TODO: Replace
+		hiddenSelectionsTextures[] = {"\tmtm\pack\nato_winter\data\tmtm_radiobag_01_darkgreen.paa"};
+		TFAR_BACKPACK_BLUFOR
+	};
+	
+	// Units
 	class B_Soldier_base_F;
 	class TMTM_B_natowinter_base: B_Soldier_base_F {
 		author = "TMTM";
