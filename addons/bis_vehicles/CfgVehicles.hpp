@@ -1,6 +1,7 @@
 class CfgVehicles {
 	// Base classes
 	class Helicopter_Base_F;
+	class Helicopter_Base_H;
 	class Plane_Base_F;
 	class Wheeled_APC_F;
 	
@@ -117,6 +118,7 @@ class CfgVehicles {
 	};
 	
 	// Zamak MRL
+	class Truck_02_base_F;
 	class Truck_02_MRL_base_F: Truck_02_base_F {
 		class textureSources {
 			class Opfor {
