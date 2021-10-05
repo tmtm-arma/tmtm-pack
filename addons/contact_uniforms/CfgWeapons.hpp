@@ -908,7 +908,7 @@ class CfgWeapons
 		hiddenSelectionsTextures[] = {"\tmtm\pack\contact_uniforms\Data\tmtm_granit_winterKamysh_co.paa"};
 		class ItemInfo: UniformItem
 		{
-			uniformClass="tmtm_granit_winter";
+			uniformClass="tmtm_granit_winterKamysh";
 			uniformModel="-";
 			containerClass="Supply40";
 			mass=40;
@@ -1004,7 +1004,7 @@ class CfgWeapons
 		hiddenSelectionsTextures[] = {"\tmtm\pack\contact_uniforms\Data\tmtm_granit_emrAlt_co.paa"};
 		class ItemInfo: UniformItem
 		{
-			uniformClass="tmtm_granit_";
+			uniformClass="tmtm_granit_emrAlt";
 			uniformModel="-";
 			containerClass="Supply40";
 			mass=40;

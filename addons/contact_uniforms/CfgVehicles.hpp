@@ -693,7 +693,7 @@ class CfgVehicles
 		
 		hiddenSelectionsTextures[] =
 		{
-			"\tmtm\pack\contact_uniforms\Data\tmtm_granit__co.paa"
+			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_partizanAutumnAltWinter_co.paa"
 		};
 	};
 	class tmtm_granit_winterM81: tmtm_granit_base
