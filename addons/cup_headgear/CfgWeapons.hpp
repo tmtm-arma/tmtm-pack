@@ -148,7 +148,8 @@ class CfgWeapons
 		scope=2;
 		displayName="MICH 2000 (Black/Goggles)";
 		hiddenSelectionsTextures[]={
-			"\tmtm\pack\cup_headgear\Data\tmtm_mich2000_black_co.paa"
+			"\tmtm\pack\cup_headgear\Data\tmtm_mich2000_black_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_USArmy\data\h_gear_01_rgr_co.paa"
 		};
 	};
 	class tmtm_h_helmetACHGoggles_atacsAu: CUP_H_USArmy_HelmetACH_ESS_UCP
@@ -157,7 +158,8 @@ class CfgWeapons
 		scope=2;
 		displayName="MICH 2000 (ATACS AU/Goggles)";
 		hiddenSelectionsTextures[]={
-			"\tmtm\pack\cup_headgear\Data\tmtm_mich2000_atacsAu_co.paa"
+			"\tmtm\pack\cup_headgear\Data\tmtm_mich2000_atacsAu_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_USArmy\data\h_gear_01_rgr_co.paa"
 		};
 	};
 	class tmtm_h_helmetACHGoggles_atacsFg: CUP_H_USArmy_HelmetACH_ESS_UCP
@@ -166,7 +168,8 @@ class CfgWeapons
 		scope=2;
 		displayName="MICH 2000 (ATACS FG/Goggles)";
 		hiddenSelectionsTextures[]={
-			"\tmtm\pack\cup_headgear\Data\tmtm_mich2000_atacsFg_co.paa"
+			"\tmtm\pack\cup_headgear\Data\tmtm_mich2000_atacsFg_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_USArmy\data\h_gear_01_rgr_co.paa"
 		};
 	};
 	class tmtm_h_helmetACHGoggles_emr: CUP_H_USArmy_HelmetACH_ESS_UCP
@@ -175,7 +178,8 @@ class CfgWeapons
 		scope=2;
 		displayName="MICH 2000 (EMR/Goggles)";
 		hiddenSelectionsTextures[]={
-			"\tmtm\pack\cup_headgear\Data\tmtm_mich2000_emr_co.paa"
+			"\tmtm\pack\cup_headgear\Data\tmtm_mich2000_emr_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_USArmy\data\h_gear_01_rgr_co.paa"
 		};
 	};
 	class tmtm_h_helmetACHGoggles_emrWinter: CUP_H_USArmy_HelmetACH_ESS_UCP
@@ -184,7 +188,8 @@ class CfgWeapons
 		scope=2;
 		displayName="MICH 2000 (EMR Winter/Goggles)";
 		hiddenSelectionsTextures[]={
-			"\tmtm\pack\cup_headgear\Data\tmtm_mich2000_emrWinter_co.paa"
+			"\tmtm\pack\cup_headgear\Data\tmtm_mich2000_emrWinter_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_USArmy\data\h_gear_01_rgr_co.paa"
 		};
 	};
 	class tmtm_h_helmetACHGoggles_surpat: CUP_H_USArmy_HelmetACH_ESS_UCP
@@ -193,7 +198,8 @@ class CfgWeapons
 		scope=2;
 		displayName="MICH 2000 (SURPAT/Goggles)";
 		hiddenSelectionsTextures[]={
-			"\tmtm\pack\cup_headgear\Data\tmtm_mich2000_surpat_co.paa"
+			"\tmtm\pack\cup_headgear\Data\tmtm_mich2000_surpat_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_USArmy\data\h_gear_01_rgr_co.paa"
 		};
 	};
 	class tmtm_h_helmetACHGoggles_white: CUP_H_USArmy_HelmetACH_ESS_UCP
@@ -202,7 +208,8 @@ class CfgWeapons
 		scope=2;
 		displayName="MICH 2000 (White/Goggles)";
 		hiddenSelectionsTextures[]={
-			"\tmtm\pack\cup_headgear\Data\tmtm_mich2000_whiteGrey_co.paa"
+			"\tmtm\pack\cup_headgear\Data\tmtm_mich2000_whiteGrey_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_USArmy\data\h_gear_01_rgr_co.paa"
 		};
 	};
 	
@@ -214,7 +221,8 @@ class CfgWeapons
 		scope=2;
 		displayName="MICH 2000 (Black/Goggles/Headset)";
 		hiddenSelectionsTextures[]={
-			"\tmtm\pack\cup_headgear\Data\tmtm_mich2000_black_co.paa"
+			"\tmtm\pack\cup_headgear\Data\tmtm_mich2000_black_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_USArmy\data\h_gear_01_rgr_co.paa"
 		};
 	};
 	class tmtm_h_helmetACHGogglesHeadset_atacsAu: CUP_H_USArmy_HelmetACH_ESS_Headset_UCP
@@ -223,7 +231,8 @@ class CfgWeapons
 		scope=2;
 		displayName="MICH 2000 (ATACS AU/Goggles/Headset)";
 		hiddenSelectionsTextures[]={
-			"\tmtm\pack\cup_headgear\Data\tmtm_mich2000_atacsAu_co.paa"
+			"\tmtm\pack\cup_headgear\Data\tmtm_mich2000_atacsAu_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_USArmy\data\h_gear_01_rgr_co.paa"
 		};
 	};
 	class tmtm_h_helmetACHGogglesHeadset_atacsFg: CUP_H_USArmy_HelmetACH_ESS_Headset_UCP
@@ -232,7 +241,8 @@ class CfgWeapons
 		scope=2;
 		displayName="MICH 2000 (ATACS FG/Goggles/Headset)";
 		hiddenSelectionsTextures[]={
-			"\tmtm\pack\cup_headgear\Data\tmtm_mich2000_atacsFg_co.paa"
+			"\tmtm\pack\cup_headgear\Data\tmtm_mich2000_atacsFg_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_USArmy\data\h_gear_01_rgr_co.paa"
 		};
 	};
 	class tmtm_h_helmetACHGogglesHeadset_emr: CUP_H_USArmy_HelmetACH_ESS_Headset_UCP
@@ -241,7 +251,8 @@ class CfgWeapons
 		scope=2;
 		displayName="MICH 2000 (EMR/Goggles/Headset)";
 		hiddenSelectionsTextures[]={
-			"\tmtm\pack\cup_headgear\Data\tmtm_mich2000_emr_co.paa"
+			"\tmtm\pack\cup_headgear\Data\tmtm_mich2000_emr_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_USArmy\data\h_gear_01_rgr_co.paa"
 		};
 	};
 	class tmtm_h_helmetACHGogglesHeadset_emrWinter: CUP_H_USArmy_HelmetACH_ESS_Headset_UCP
@@ -250,7 +261,8 @@ class CfgWeapons
 		scope=2;
 		displayName="MICH 2000 (EMR Winter/Goggles/Headset)";
 		hiddenSelectionsTextures[]={
-			"\tmtm\pack\cup_headgear\Data\tmtm_mich2000_emrWinter_co.paa"
+			"\tmtm\pack\cup_headgear\Data\tmtm_mich2000_emrWinter_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_USArmy\data\h_gear_01_rgr_co.paa"
 		};
 	};
 	class tmtm_h_helmetACHGogglesHeadset_surpat: CUP_H_USArmy_HelmetACH_ESS_Headset_UCP
@@ -259,7 +271,8 @@ class CfgWeapons
 		scope=2;
 		displayName="MICH 2000 (SURPAT/Goggles/Headset)";
 		hiddenSelectionsTextures[]={
-			"\tmtm\pack\cup_headgear\Data\tmtm_mich2000_surpat_co.paa"
+			"\tmtm\pack\cup_headgear\Data\tmtm_mich2000_surpat_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_USArmy\data\h_gear_01_rgr_co.paa"
 		};
 	};
 	class tmtm_h_helmetACHGogglesHeadset_white: CUP_H_USArmy_HelmetACH_ESS_Headset_UCP
@@ -268,7 +281,8 @@ class CfgWeapons
 		scope=2;
 		displayName="MICH 2000 (White/Goggles/Headset)";
 		hiddenSelectionsTextures[]={
-			"\tmtm\pack\cup_headgear\Data\tmtm_mich2000_whiteGrey_co.paa"
+			"\tmtm\pack\cup_headgear\Data\tmtm_mich2000_whiteGrey_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_USArmy\data\h_gear_01_rgr_co.paa"
 		};
 	};
 	
