@@ -7,6 +7,7 @@ class CfgPatches {
 		weapons[] = {};
 		requiredVersion = REQUIRED_VERSION;
 		requiredAddons[] = {
+			"tmtmpack_main",
 			"CUP_Creatures_People_LoadOrder"
 		};
 		author = MOD_AUTHOR;
