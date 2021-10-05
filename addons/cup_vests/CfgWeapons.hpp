@@ -674,53 +674,406 @@ class CfgWeapons
 	};
 	
 	
-	/* TODO
 	// german protective vest
-	class CUP_V_B_GER_PVest_Fleck_Gren
+	class CUP_V_B_GER_PVest_Fleck_Gren: ItemCore {class ItemInfo;};
+	class CUP_V_B_GER_PVest_Fleck_Gren_LT: ItemCore {class ItemInfo;};
+	class CUP_V_B_GER_PVest_Fleck_MG: ItemCore {class ItemInfo;};
+	class CUP_V_B_GER_PVest_Fleck_MG_LT: ItemCore {class ItemInfo;};
+	class CUP_V_B_GER_PVest_Fleck_Med: ItemCore {class ItemInfo;};
+	class CUP_V_B_GER_PVest_Fleck_Med_LT: ItemCore {class ItemInfo;};
+	class CUP_V_B_GER_PVest_Fleck_OFC: ItemCore {class ItemInfo;};
+	class CUP_V_B_GER_PVest_Fleck_RFL: ItemCore {class ItemInfo;};
+	class CUP_V_B_GER_PVest_Fleck_RFL_LT: ItemCore {class ItemInfo;};
+	class CUP_V_B_GER_PVest_Fleck_TL: ItemCore {class ItemInfo;};
+	class CUP_V_B_GER_PVest_Fleck_TL_LT: ItemCore {class ItemInfo;};
+	
+	class tmtm_v_GER_PVest_Gren_black: CUP_V_B_GER_PVest_Fleck_Gren 
 	{
-		class ItemInfo;
+		author="Trenchgun";
+		scope=2;
+		displayName="Protection Vest Grenadier (Black)";
+		hiddenSelectionsTextures[] = {
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_first_aid_black_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_bullet_vest_black_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_backpack_black_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_cartridge_pouch_black_co.paa"
+		};
 	};
-	class CUP_V_B_GER_PVest_Fleck_Gren_LT
+	class tmtm_v_GER_PVest_Gren_LT_black: CUP_V_B_GER_PVest_Fleck_Gren_LT
 	{
-		class ItemInfo;
+		author="Trenchgun";
+		scope=2;
+		displayName="Protection Vest Grenadier (Black/Light)";
+		hiddenSelectionsTextures[] = {
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_first_aid_black_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_bullet_vest_black_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_cartridge_pouch_black_co.paa"
+		};
 	};
-	class CUP_V_B_GER_PVest_Fleck_MG
+	class tmtm_v_GER_PVest_MG_black: CUP_V_B_GER_PVest_Fleck_MG
 	{
-		class ItemInfo;
+		author="Trenchgun";
+		scope=2;
+		displayName="Protection Vest Machine Gunner (Black)";
+		hiddenSelectionsTextures[] = {
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_first_aid_black_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_bullet_vest_black_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_backpack_black_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_cartridge_pouch_black_co.paa" // might be an issue
+		};
 	};
-	class CUP_V_B_GER_PVest_Fleck_MG_LT
+	class tmtm_v_GER_PVest_MG_LT_black: CUP_V_B_GER_PVest_Fleck_MG_LT
 	{
-		class ItemInfo;
+		author="Trenchgun";
+		scope=2;
+		displayName="Protection Vest Machine Gunner (Black/Light)";
+		hiddenSelectionsTextures[] = {
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_first_aid_black_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_bullet_vest_black_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_cartridge_pouch_black_co.paa" // might be an issue
+		};
 	};
-	class CUP_V_B_GER_PVest_Fleck_Med
+	class tmtm_v_GER_PVest_Med_black: CUP_V_B_GER_PVest_Fleck_Med
 	{
-		class ItemInfo;
+		author="Trenchgun";
+		scope=2;
+		displayName="Protection Vest Medic (Black)";
+		hiddenSelectionsTextures[] = {
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_first_aid_black_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_bullet_vest_black_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_backpack_black_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_cartridge_pouch_black_co.paa"
+		};
 	};
-	class CUP_V_B_GER_PVest_Fleck_Med_LT
+	class tmtm_v_GER_PVest_Med_LT_black: CUP_V_B_GER_PVest_Fleck_Med_LT
 	{
-		class ItemInfo;
+		author="Trenchgun";
+		scope=2;
+		displayName="Protection Vest Medic (Black/Light)";
+		hiddenSelectionsTextures[] = {
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_first_aid_black_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_bullet_vest_black_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_cartridge_pouch_black_co.paa"
+		};
 	};
-	class CUP_V_B_GER_PVest_Fleck_OFC
+	class tmtm_v_GER_PVest_OFC_black: CUP_V_B_GER_PVest_Fleck_OFC
 	{
-		class ItemInfo;
+		author="Trenchgun";
+		scope=2;
+		displayName="Protection Vest Officer (Black)";
+		hiddenSelectionsTextures[] = {
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_bullet_vest_black_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_cartridge_pouch_black_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_backpack_black_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_first_aid_black_co.paa"
+		};
 	};
-	class CUP_V_B_GER_PVest_Fleck_RFL
+	class tmtm_v_GER_PVest_RFL_black: CUP_V_B_GER_PVest_Fleck_RFL
 	{
-		class ItemInfo;
+		author="Trenchgun";
+		scope=2;
+		displayName="Protection Vest Rifleman (Black)";
+		hiddenSelectionsTextures[] = {
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_bullet_vest_black_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_cartridge_pouch_black_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_backpack_black_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_first_aid_black_co.paa"
+		};
 	};
-	class CUP_V_B_GER_PVest_Fleck_RFL_LT
+	class tmtm_V_GER_PVest_RFL_LT_black: CUP_V_B_GER_PVest_Fleck_RFL_LT
 	{
-		class ItemInfo;
+		author="Trenchgun";
+		scope=2;
+		displayName="Protection Vest Rifleman (Black/Light)";
+		hiddenSelectionsTextures[] = {
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_bullet_vest_black_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_cartridge_pouch_black_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_backpack_black_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_first_aid_black_co.paa"
+		};
 	};
-	class CUP_V_B_GER_PVest_Fleck_TL
+	class tmtm_v_GER_PVest_TL_black: CUP_V_B_GER_PVest_Fleck_TL
 	{
-		class ItemInfo;
+		author="Trenchgun";
+		scope=2;
+		displayName="Protection Vest Team Leader (Black)";
+		hiddenSelectionsTextures[] = {
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_bullet_vest_black_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_cartridge_pouch_black_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_backpack_black_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_first_aid_black_co.paa"
+		};
 	};
-	class CUP_V_B_GER_PVest_Fleck_TL_LT
+	class tmtm_v_GER_PVest_TL_LT_black: CUP_V_B_GER_PVest_Fleck_TL_LT
 	{
-		class ItemInfo;
+		author="Trenchgun";
+		scope=2;
+		displayName="Protection Vest Team Leader (Black/Light)";
+		hiddenSelectionsTextures[] = {
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_bullet_vest_black_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_cartridge_pouch_black_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_first_aid_black_co.paa"
+		};
 	};
-	*/
+	
+	// Olive Drab
+	class tmtm_v_GER_PVest_Gren_olive: CUP_V_B_GER_PVest_Fleck_Gren 
+	{
+		author="Trenchgun";
+		scope=2;
+		displayName="Protection Vest Grenadier (Olive)";
+		hiddenSelectionsTextures[] = {
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_first_aid_olive_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_bullet_vest_olive_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_backpack_olive_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_cartridge_pouch_olive_co.paa"
+		};
+	};
+	class tmtm_v_GER_PVest_Gren_LT_olive: CUP_V_B_GER_PVest_Fleck_Gren_LT
+	{
+		author="Trenchgun";
+		scope=2;
+		displayName="Protection Vest Grenadier (Olive/Light)";
+		hiddenSelectionsTextures[] = {
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_first_aid_olive_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_bullet_vest_olive_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_cartridge_pouch_olive_co.paa"
+		};
+	};
+	class tmtm_v_GER_PVest_MG_olive: CUP_V_B_GER_PVest_Fleck_MG
+	{
+		author="Trenchgun";
+		scope=2;
+		displayName="Protection Vest Machine Gunner (Olive)";
+		hiddenSelectionsTextures[] = {
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_first_aid_olive_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_bullet_vest_olive_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_backpack_olive_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_cartridge_pouch_olive_co.paa" // might be an issue
+		};
+	};
+	class tmtm_v_GER_PVest_MG_LT_olive: CUP_V_B_GER_PVest_Fleck_MG_LT
+	{
+		author="Trenchgun";
+		scope=2;
+		displayName="Protection Vest Machine Gunner (Olive/Light)";
+		hiddenSelectionsTextures[] = {
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_first_aid_olive_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_bullet_vest_olive_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_cartridge_pouch_olive_co.paa" // might be an issue
+		};
+	};
+	class tmtm_v_GER_PVest_Med_olive: CUP_V_B_GER_PVest_Fleck_Med
+	{
+		author="Trenchgun";
+		scope=2;
+		displayName="Protection Vest Medic (Olive)";
+		hiddenSelectionsTextures[] = {
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_first_aid_olive_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_bullet_vest_olive_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_backpack_olive_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_cartridge_pouch_olive_co.paa"
+		};
+	};
+	class tmtm_v_GER_PVest_Med_LT_olive: CUP_V_B_GER_PVest_Fleck_Med_LT
+	{
+		author="Trenchgun";
+		scope=2;
+		displayName="Protection Vest Medic (Olive/Light)";
+		hiddenSelectionsTextures[] = {
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_first_aid_olive_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_bullet_vest_olive_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_cartridge_pouch_olive_co.paa"
+		};
+	};
+	class tmtm_v_GER_PVest_OFC_olive: CUP_V_B_GER_PVest_Fleck_OFC
+	{
+		author="Trenchgun";
+		scope=2;
+		displayName="Protection Vest Officer (Olive)";
+		hiddenSelectionsTextures[] = {
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_bullet_vest_olive_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_cartridge_pouch_olive_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_backpack_olive_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_first_aid_olive_co.paa"
+		};
+	};
+	class tmtm_v_GER_PVest_RFL_olive: CUP_V_B_GER_PVest_Fleck_RFL
+	{
+		author="Trenchgun";
+		scope=2;
+		displayName="Protection Vest Rifleman (Olive)";
+		hiddenSelectionsTextures[] = {
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_bullet_vest_olive_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_cartridge_pouch_olive_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_backpack_olive_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_first_aid_olive_co.paa"
+		};
+	};
+	class tmtm_V_GER_PVest_RFL_LT_olive: CUP_V_B_GER_PVest_Fleck_RFL_LT
+	{
+		author="Trenchgun";
+		scope=2;
+		displayName="Protection Vest Rifleman (Olive/Light)";
+		hiddenSelectionsTextures[] = {
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_bullet_vest_olive_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_cartridge_pouch_olive_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_backpack_olive_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_first_aid_olive_co.paa"
+		};
+	};
+	class tmtm_v_GER_PVest_TL_olive: CUP_V_B_GER_PVest_Fleck_TL
+	{
+		author="Trenchgun";
+		scope=2;
+		displayName="Protection Vest Team Leader (Olive)";
+		hiddenSelectionsTextures[] = {
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_bullet_vest_olive_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_cartridge_pouch_olive_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_backpack_olive_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_first_aid_olive_co.paa"
+		};
+	};
+	class tmtm_v_GER_PVest_TL_LT_olive: CUP_V_B_GER_PVest_Fleck_TL_LT
+	{
+		author="Trenchgun";
+		scope=2;
+		displayName="Protection Vest Team Leader (Olive/Light)";
+		hiddenSelectionsTextures[] = {
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_bullet_vest_olive_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_cartridge_pouch_olive_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_first_aid_olive_co.paa"
+		};
+	};
+	// Multicam
+	class tmtm_v_GER_PVest_Gren_multicam: CUP_V_B_GER_PVest_Fleck_Gren 
+	{
+		author="Trenchgun";
+		scope=2;
+		displayName="Protection Vest Grenadier (Multicam)";
+		hiddenSelectionsTextures[] = {
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_first_aid_multicam_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_bullet_vest_multicam_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_backpack_multicam_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_cartridge_pouch_multicam_co.paa"
+		};
+	};
+	class tmtm_v_GER_PVest_Gren_LT_multicam: CUP_V_B_GER_PVest_Fleck_Gren_LT
+	{
+		author="Trenchgun";
+		scope=2;
+		displayName="Protection Vest Grenadier (Multicam/Light)";
+		hiddenSelectionsTextures[] = {
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_first_aid_multicam_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_bullet_vest_multicam_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_cartridge_pouch_multicam_co.paa"
+		};
+	};
+	class tmtm_v_GER_PVest_MG_multicam: CUP_V_B_GER_PVest_Fleck_MG
+	{
+		author="Trenchgun";
+		scope=2;
+		displayName="Protection Vest Machine Gunner (Multicam)";
+		hiddenSelectionsTextures[] = {
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_first_aid_multicam_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_bullet_vest_multicam_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_backpack_multicam_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_cartridge_pouch_multicam_co.paa" // might be an issue
+		};
+	};
+	class tmtm_v_GER_PVest_MG_LT_multicam: CUP_V_B_GER_PVest_Fleck_MG_LT
+	{
+		author="Trenchgun";
+		scope=2;
+		displayName="Protection Vest Machine Gunner (Multicam/Light)";
+		hiddenSelectionsTextures[] = {
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_first_aid_multicam_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_bullet_vest_multicam_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_cartridge_pouch_multicam_co.paa" // might be an issue
+		};
+	};
+	class tmtm_v_GER_PVest_Med_multicam: CUP_V_B_GER_PVest_Fleck_Med
+	{
+		author="Trenchgun";
+		scope=2;
+		displayName="Protection Vest Medic (Multicam)";
+		hiddenSelectionsTextures[] = {
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_first_aid_multicam_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_bullet_vest_multicam_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_backpack_multicam_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_cartridge_pouch_multicam_co.paa"
+		};
+	};
+	class tmtm_v_GER_PVest_Med_LT_multicam: CUP_V_B_GER_PVest_Fleck_Med_LT
+	{
+		author="Trenchgun";
+		scope=2;
+		displayName="Protection Vest Medic (Multicam/Light)";
+		hiddenSelectionsTextures[] = {
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_first_aid_multicam_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_bullet_vest_multicam_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_cartridge_pouch_multicam_co.paa"
+		};
+	};
+	class tmtm_v_GER_PVest_OFC_multicam: CUP_V_B_GER_PVest_Fleck_OFC
+	{
+		author="Trenchgun";
+		scope=2;
+		displayName="Protection Vest Officer (Multicam)";
+		hiddenSelectionsTextures[] = {
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_bullet_vest_multicam_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_cartridge_pouch_multicam_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_backpack_multicam_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_first_aid_multicam_co.paa"
+		};
+	};
+	class tmtm_v_GER_PVest_RFL_multicam: CUP_V_B_GER_PVest_Fleck_RFL
+	{
+		author="Trenchgun";
+		scope=2;
+		displayName="Protection Vest Rifleman (Multicam)";
+		hiddenSelectionsTextures[] = {
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_bullet_vest_multicam_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_cartridge_pouch_multicam_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_backpack_multicam_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_first_aid_multicam_co.paa"
+		};
+	};
+	class tmtm_V_GER_PVest_RFL_LT_multicam: CUP_V_B_GER_PVest_Fleck_RFL_LT
+	{
+		author="Trenchgun";
+		scope=2;
+		displayName="Protection Vest Rifleman (Multicam/Light)";
+		hiddenSelectionsTextures[] = {
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_bullet_vest_multicam_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_cartridge_pouch_multicam_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_backpack_multicam_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_first_aid_multicam_co.paa"
+		};
+	};
+	class tmtm_v_GER_PVest_TL_multicam: CUP_V_B_GER_PVest_Fleck_TL
+	{
+		author="Trenchgun";
+		scope=2;
+		displayName="Protection Vest Team Leader (Multicam)";
+		hiddenSelectionsTextures[] = {
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_bullet_vest_multicam_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_cartridge_pouch_multicam_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_backpack_multicam_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_first_aid_multicam_co.paa"
+		};
+	};
+	class tmtm_v_GER_PVest_TL_LT_multicam: CUP_V_B_GER_PVest_Fleck_TL_LT
+	{
+		author="Trenchgun";
+		scope=2;
+		displayName="Protection Vest Team Leader (Multicam/Light)";
+		hiddenSelectionsTextures[] = {
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_bullet_vest_multicam_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_cartridge_pouch_multicam_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_bundes_first_aid_multicam_co.paa"
+		};
+	};
 	
 	
 	// PACA
