@@ -1314,4 +1314,340 @@ class CfgWeapons
 			mass=40;
 		};
 	};
+	class tmtm_u_granit_cadpat: tmtm_u_granit_base
+	{
+		scope=1;
+		scopeArsenal=2;
+		scopeCurator=0;
+		displayName="Granit (CADPAT)";
+		picture = "\tmtm\pack\contact_uniforms\Data\UI\tmtm_icon_granit_cadpat_ca.paa";
+		hiddenSelectionsTextures[] = {"\tmtm\pack\contact_uniforms\Data\tmtm_granit_cadpat_co.paa"};
+		class ItemInfo: UniformItem
+		{
+			uniformClass="tmtm_granit_cadpat";
+			uniformModel="-";
+			containerClass="Supply40";
+			mass=40;
+		};
+	};
+	class tmtm_u_granit_cadpatWinter: tmtm_u_granit_base
+	{
+		scope=1;
+		scopeArsenal=2;
+		scopeCurator=0;
+		displayName="Granit (CADPAT/Winter)";
+		picture = "\tmtm\pack\contact_uniforms\Data\UI\tmtm_icon_granit_cadpatWinter_ca.paa";
+		hiddenSelectionsTextures[] = {"\tmtm\pack\contact_uniforms\Data\tmtm_granit_cadpatWinter_co.paa"};
+		class ItemInfo: UniformItem
+		{
+			uniformClass="tmtm_granit_cadpatWinter";
+			uniformModel="-";
+			containerClass="Supply40";
+			mass=40;
+		};
+	};
+	class tmtm_u_granit_winterCadpat: tmtm_u_granit_base
+	{
+		scope=1;
+		scopeArsenal=2;
+		scopeCurator=0;
+		displayName="Granit (Winter/CADPAT)";
+		picture = "\tmtm\pack\contact_uniforms\Data\UI\tmtm_icon_granit_winterCadpat_ca.paa";
+		hiddenSelectionsTextures[] = {"\tmtm\pack\contact_uniforms\Data\tmtm_granit_winterCadpat_co.paa"};
+		class ItemInfo: UniformItem
+		{
+			uniformClass="tmtm_granit_winterCadpat";
+			uniformModel="-";
+			containerClass="Supply40";
+			mass=40;
+		};
+	};
+	class tmtm_u_granit_marpatWdl: tmtm_u_granit_base
+	{
+		scope=1;
+		scopeArsenal=2;
+		scopeCurator=0;
+		displayName="Granit (MARPAT)";
+		picture = "\tmtm\pack\contact_uniforms\Data\UI\tmtm_icon_granit_marpatWdl_ca.paa";
+		hiddenSelectionsTextures[] = {"\tmtm\pack\contact_uniforms\Data\tmtm_granit_marpatWdl_co.paa"};
+		class ItemInfo: UniformItem
+		{
+			uniformClass="tmtm_granit_marpatWdl";
+			uniformModel="-";
+			containerClass="Supply40";
+			mass=40;
+		};
+	};
+	class tmtm_u_granit_marpatWdlWinter: tmtm_u_granit_base
+	{
+		scope=1;
+		scopeArsenal=2;
+		scopeCurator=0;
+		displayName="Granit (MARPAT/Winter)";
+		picture = "\tmtm\pack\contact_uniforms\Data\UI\tmtm_icon_granit_marpatWdlWinter_ca.paa";
+		hiddenSelectionsTextures[] = {"\tmtm\pack\contact_uniforms\Data\tmtm_granit_marpatWdlWinter_co.paa"};
+		class ItemInfo: UniformItem
+		{
+			uniformClass="tmtm_granit_marpatWdlWinter";
+			uniformModel="-";
+			containerClass="Supply40";
+			mass=40;
+		};
+	};
+	class tmtm_u_granit_winterMarpatWdl: tmtm_u_granit_base
+	{
+		scope=1;
+		scopeArsenal=2;
+		scopeCurator=0;
+		displayName="Granit (Winter/MARPAT)";
+		picture = "\tmtm\pack\contact_uniforms\Data\UI\tmtm_icon_granit_winterMarpatWdl_ca.paa";
+		hiddenSelectionsTextures[] = {"\tmtm\pack\contact_uniforms\Data\tmtm_granit_winterMarpatWdl_co.paa"};
+		class ItemInfo: UniformItem
+		{
+			uniformClass="tmtm_granit_winterMarpatWdl";
+			uniformModel="-";
+			containerClass="Supply40";
+			mass=40;
+		};
+	};
+	class tmtm_u_granit_marpatDes: tmtm_u_granit_base
+	{
+		scope=1;
+		scopeArsenal=2;
+		scopeCurator=0;
+		displayName="Granit (MARPAT Desert)";
+		picture = "\tmtm\pack\contact_uniforms\Data\UI\tmtm_icon_granit_marpatDes_ca.paa";
+		hiddenSelectionsTextures[] = {"\tmtm\pack\contact_uniforms\Data\tmtm_granit_marpatDes_co.paa"};
+		class ItemInfo: UniformItem
+		{
+			uniformClass="tmtm_granit_marpatDes";
+			uniformModel="-";
+			containerClass="Supply40";
+			mass=40;
+		};
+	};
+	class tmtm_u_granit_marpatDesWinter: tmtm_u_granit_base
+	{
+		scope=1;
+		scopeArsenal=2;
+		scopeCurator=0;
+		displayName="Granit (MARPAT Desert/Winter)";
+		picture = "\tmtm\pack\contact_uniforms\Data\UI\tmtm_icon_granit_marpatDesWinter_ca.paa";
+		hiddenSelectionsTextures[] = {"\tmtm\pack\contact_uniforms\Data\tmtm_granit_marpatDesWinter_co.paa"};
+		class ItemInfo: UniformItem
+		{
+			uniformClass="tmtm_granit_marpatDesWinter";
+			uniformModel="-";
+			containerClass="Supply40";
+			mass=40;
+		};
+	};
+	class tmtm_u_granit_winterMarpatDes: tmtm_u_granit_base
+	{
+		scope=1;
+		scopeArsenal=2;
+		scopeCurator=0;
+		displayName="Granit (Winter/MARPAT Desert)";
+		picture = "\tmtm\pack\contact_uniforms\Data\UI\tmtm_icon_granit_winterMarpatDes_ca.paa";
+		hiddenSelectionsTextures[] = {"\tmtm\pack\contact_uniforms\Data\tmtm_granit_winterMarpatDes_co.paa"};
+		class ItemInfo: UniformItem
+		{
+			uniformClass="tmtm_granit_winterMarpatDes";
+			uniformModel="-";
+			containerClass="Supply40";
+			mass=40;
+		};
+	};
+	class tmtm_u_granit_ucp: tmtm_u_granit_base
+	{
+		scope=1;
+		scopeArsenal=2;
+		scopeCurator=0;
+		displayName="Granit (UCP)";
+		picture = "\tmtm\pack\contact_uniforms\Data\UI\tmtm_icon_granit_ucp_ca.paa";
+		hiddenSelectionsTextures[] = {"\tmtm\pack\contact_uniforms\Data\tmtm_granit_ucp_co.paa"};
+		class ItemInfo: UniformItem
+		{
+			uniformClass="tmtm_granit_ucp";
+			uniformModel="-";
+			containerClass="Supply40";
+			mass=40;
+		};
+	};
+	class tmtm_u_granit_ucpWinter: tmtm_u_granit_base
+	{
+		scope=1;
+		scopeArsenal=2;
+		scopeCurator=0;
+		displayName="Granit (UCP/Winter)";
+		picture = "\tmtm\pack\contact_uniforms\Data\UI\tmtm_icon_granit_ucpWinter_ca.paa";
+		hiddenSelectionsTextures[] = {"\tmtm\pack\contact_uniforms\Data\tmtm_granit_ucpWinter_co.paa"};
+		class ItemInfo: UniformItem
+		{
+			uniformClass="tmtm_granit_ucpWinter";
+			uniformModel="-";
+			containerClass="Supply40";
+			mass=40;
+		};
+	};
+	class tmtm_u_granit_winterUcp: tmtm_u_granit_base
+	{
+		scope=1;
+		scopeArsenal=2;
+		scopeCurator=0;
+		displayName="Granit (Winter/UCP)";
+		picture = "\tmtm\pack\contact_uniforms\Data\UI\tmtm_icon_granit_winterUcp_ca.paa";
+		hiddenSelectionsTextures[] = {"\tmtm\pack\contact_uniforms\Data\tmtm_granit_winterUcp_co.paa"};
+		class ItemInfo: UniformItem
+		{
+			uniformClass="tmtm_granit_winterUcp";
+			uniformModel="-";
+			containerClass="Supply40";
+			mass=40;
+		};
+	};
+	class tmtm_u_granit_mtp: tmtm_u_granit_base
+	{
+		scope=1;
+		scopeArsenal=2;
+		scopeCurator=0;
+		displayName="Granit (MTP)";
+		picture = "\tmtm\pack\contact_uniforms\Data\UI\tmtm_icon_granit_mtp_ca.paa";
+		hiddenSelectionsTextures[] = {"\tmtm\pack\contact_uniforms\Data\tmtm_granit_mtp_co.paa"};
+		class ItemInfo: UniformItem
+		{
+			uniformClass="tmtm_granit_mtp";
+			uniformModel="-";
+			containerClass="Supply40";
+			mass=40;
+		};
+	};
+	class tmtm_u_granit_mtpWinter: tmtm_u_granit_base
+	{
+		scope=1;
+		scopeArsenal=2;
+		scopeCurator=0;
+		displayName="Granit (MTP/Winter)";
+		picture = "\tmtm\pack\contact_uniforms\Data\UI\tmtm_icon_granit_mtpWinter_ca.paa";
+		hiddenSelectionsTextures[] = {"\tmtm\pack\contact_uniforms\Data\tmtm_granit_mtpWinter_co.paa"};
+		class ItemInfo: UniformItem
+		{
+			uniformClass="tmtm_granit_mtpWinter";
+			uniformModel="-";
+			containerClass="Supply40";
+			mass=40;
+		};
+	};
+	class tmtm_u_granit_winterMtp: tmtm_u_granit_base
+	{
+		scope=1;
+		scopeArsenal=2;
+		scopeCurator=0;
+		displayName="Granit (Winter/MTP)";
+		picture = "\tmtm\pack\contact_uniforms\Data\UI\tmtm_icon_granit_winterMtp_ca.paa";
+		hiddenSelectionsTextures[] = {"\tmtm\pack\contact_uniforms\Data\tmtm_granit_winterMtp_co.paa"};
+		class ItemInfo: UniformItem
+		{
+			uniformClass="tmtm_granit_winterMtp";
+			uniformModel="-";
+			containerClass="Supply40";
+			mass=40;
+		};
+	};
+	class tmtm_u_granit_ocp: tmtm_u_granit_base
+	{
+		scope=1;
+		scopeArsenal=2;
+		scopeCurator=0;
+		displayName="Granit (OCP)";
+		picture = "\tmtm\pack\contact_uniforms\Data\UI\tmtm_icon_granit_ocp_ca.paa";
+		hiddenSelectionsTextures[] = {"\tmtm\pack\contact_uniforms\Data\tmtm_granit_ocp_co.paa"};
+		class ItemInfo: UniformItem
+		{
+			uniformClass="tmtm_granit_ocp";
+			uniformModel="-";
+			containerClass="Supply40";
+			mass=40;
+		};
+	};
+	class tmtm_u_granit_ocpWinter: tmtm_u_granit_base
+	{
+		scope=1;
+		scopeArsenal=2;
+		scopeCurator=0;
+		displayName="Granit (OCP/Winter)";
+		picture = "\tmtm\pack\contact_uniforms\Data\UI\tmtm_icon_granit_ocpWinter_ca.paa";
+		hiddenSelectionsTextures[] = {"\tmtm\pack\contact_uniforms\Data\tmtm_granit_ocpWinter_co.paa"};
+		class ItemInfo: UniformItem
+		{
+			uniformClass="tmtm_granit_ocpWinter";
+			uniformModel="-";
+			containerClass="Supply40";
+			mass=40;
+		};
+	};
+	class tmtm_u_granit_winterOcp: tmtm_u_granit_base
+	{
+		scope=1;
+		scopeArsenal=2;
+		scopeCurator=0;
+		displayName="Granit (Winter/OCP)";
+		picture = "\tmtm\pack\contact_uniforms\Data\UI\tmtm_icon_granit_winterOcp_ca.paa";
+		hiddenSelectionsTextures[] = {"\tmtm\pack\contact_uniforms\Data\tmtm_granit_winterOcp_co.paa"};
+		class ItemInfo: UniformItem
+		{
+			uniformClass="tmtm_granit_winterOcp";
+			uniformModel="-";
+			containerClass="Supply40";
+			mass=40;
+		};
+	};
+	class tmtm_u_granit_multicam: tmtm_u_granit_base
+	{
+		scope=1;
+		scopeArsenal=2;
+		scopeCurator=0;
+		displayName="Granit (Multicam)";
+		picture = "\tmtm\pack\contact_uniforms\Data\UI\tmtm_icon_granit_multicam_ca.paa";
+		hiddenSelectionsTextures[] = {"\tmtm\pack\contact_uniforms\Data\tmtm_granit_multicam_co.paa"};
+		class ItemInfo: UniformItem
+		{
+			uniformClass="tmtm_granit_multicam";
+			uniformModel="-";
+			containerClass="Supply40";
+			mass=40;
+		};
+	};
+	class tmtm_u_granit_multicamWinter: tmtm_u_granit_base
+	{
+		scope=1;
+		scopeArsenal=2;
+		scopeCurator=0;
+		displayName="Granit (Multicam/Winter)";
+		picture = "\tmtm\pack\contact_uniforms\Data\UI\tmtm_icon_granit_multicamWinter_ca.paa";
+		hiddenSelectionsTextures[] = {"\tmtm\pack\contact_uniforms\Data\tmtm_granit_multicamWinter_co.paa"};
+		class ItemInfo: UniformItem
+		{
+			uniformClass="tmtm_granit_multicamWinter";
+			uniformModel="-";
+			containerClass="Supply40";
+			mass=40;
+		};
+	};
+	class tmtm_u_granit_winterMulticam: tmtm_u_granit_base
+	{
+		scope=1;
+		scopeArsenal=2;
+		scopeCurator=0;
+		displayName="Granit (Winter/Multicam)";
+		picture = "\tmtm\pack\contact_uniforms\Data\UI\tmtm_icon_granit_winterMulticam_ca.paa";
+		hiddenSelectionsTextures[] = {"\tmtm\pack\contact_uniforms\Data\tmtm_granit_winterMulticam_co.paa"};
+		class ItemInfo: UniformItem
+		{
+			uniformClass="tmtm_granit_winterMulticam";
+			uniformModel="-";
+			containerClass="Supply40";
+			mass=40;
+		};
+	};
 };
