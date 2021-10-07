@@ -546,46 +546,379 @@ class CfgWeapons
 	class CUP_Vest_RUS_6B45_Sh117: CUP_Vest_RUS_Camo_RatnikV2_Base
 	{
 		class ItemInfo;
+		/*
+		hiddenSelections[] = {"camo1","camo2","camo3","camo4","camo5","camo6","camo7"};
+		hiddenSelectionsTextures[] = {
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\VEST_Front_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\vest_back_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\suharka_radio_pkp_vog_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\ak_granade_pouch_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\suharka_pkp_straps_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\pouch_straps_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\vest_straps_s_co.paa"
+		};
+		*/
+	};
+	class CUP_Vest_RUS_6B45_Sh117_Del: CUP_Vest_RUS_Camo_RatnikV2_Base
+	{
+		class ItemInfo;
+		/*
+		hiddenSelections[] = {"camo1","camo2","camo3","camo4","camo5","camo6","camo7","camo8"};
+		hiddenSelectionsTextures[] = {
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\VEST_Front_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\vest_back_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\suharka_radio_pkp_vog_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\ak_granade_pouch_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\suharka_pkp_straps_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\pouch_straps_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\vest_straps_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\Full_armor_s_co.paa"
+		};
+		*/
+	};
+	class CUP_Vest_RUS_6B45_Sh117_Del_Nut: CUP_Vest_RUS_Camo_RatnikV2_Base
+	{
+		class ItemInfo;
+		/*
+		hiddenSelections[] = {"camo1","camo2","camo3","camo4","camo5","camo6","camo7","camo8"};
+		hiddenSelectionsTextures[] = {
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\VEST_Front_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\vest_back_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\suharka_radio_pkp_vog_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\ak_granade_pouch_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\suharka_pkp_straps_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\pouch_straps_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\vest_straps_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\Full_armor_s_co.paa"
+		};
+		*/
+	};
+	class CUP_Vest_RUS_6B45_Sh117_Full: CUP_Vest_RUS_Camo_RatnikV2_Base
+	{
+		class ItemInfo;
+		/*
+		hiddenSelections[] = {"camo1","camo2","camo3","camo4","camo5","camo6","camo7","camo8","camo9"};
+		hiddenSelectionsTextures[] = {
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\VEST_Front_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\vest_back_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\suharka_radio_pkp_vog_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\ak_granade_pouch_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\suharka_pkp_straps_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\pouch_straps_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\vest_straps_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\Full_armor_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\VKPO\data\Straps_Kneepads_s_co.paa"
+		};
+		*/
+	};
+	class CUP_Vest_RUS_6B45_Sh117_Nut: CUP_Vest_RUS_Camo_RatnikV2_Base
+	{
+		class ItemInfo;
+		/*
+		hiddenSelections[] = {"camo1","camo2","camo3","camo4","camo5","camo6","camo7","camo8"};
+		hiddenSelectionsTextures[] = {
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\VEST_Front_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\vest_back_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\suharka_radio_pkp_vog_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\ak_granade_pouch_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\suharka_pkp_straps_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\pouch_straps_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\vest_straps_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\Full_armor_s_co.paa"
+		};
+		*/
 	};
 	class CUP_Vest_RUS_6B45_Sh117_PKP: CUP_Vest_RUS_Camo_RatnikV2_Base
 	{
 		class ItemInfo;
+		/*
+		hiddenSelections[] = {"camo1","camo2","camo3","camo4","camo5","camo6"};
+		hiddenSelectionsTextures[] = {
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\VEST_Front_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\vest_back_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\suharka_radio_pkp_vog_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\suharka_pkp_straps_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\pouch_straps_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\vest_straps_s_co.paa"
+		};
+		*/
+	};
+	class CUP_Vest_RUS_6B45_Sh117_PKP_Del: CUP_Vest_RUS_Camo_RatnikV2_Base
+	{
+		class ItemInfo;
+		/*
+		hiddenSelections[] = {"camo1","camo2","camo3","camo4","camo5","camo6","camo8"};
+		hiddenSelectionsTextures[] = {
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\VEST_Front_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\vest_back_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\suharka_radio_pkp_vog_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\suharka_pkp_straps_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\pouch_straps_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\vest_straps_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\Full_armor_s_co.paa"
+		};
+		*/
+	};
+	class CUP_Vest_RUS_6B45_Sh117_PKP_Del_Nut: CUP_Vest_RUS_Camo_RatnikV2_Base
+	{
+		class ItemInfo;
+		/*
+		hiddenSelections[] = {"camo1","camo2","camo3","camo4","camo5","camo6","camo8"};
+		hiddenSelectionsTextures[] = {
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\VEST_Front_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\vest_back_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\suharka_radio_pkp_vog_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\suharka_pkp_straps_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\pouch_straps_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\vest_straps_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\Full_armor_s_co.paa"
+		};
+		*/
+	};
+	class CUP_Vest_RUS_6B45_Sh117_PKP_Full: CUP_Vest_RUS_Camo_RatnikV2_Base
+	{
+		class ItemInfo;
+		/*
+		hiddenSelections[] = {"camo1","camo2","camo3","camo4","camo5","camo6","camo8","camo9"};
+		hiddenSelectionsTextures[] = {
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\VEST_Front_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\vest_back_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\suharka_radio_pkp_vog_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\suharka_pkp_straps_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\pouch_straps_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\vest_straps_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\Full_armor_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\VKPO\data\Straps_Kneepads_s_co.paa"
+		};
+		*/
+	};
+	class CUP_Vest_RUS_6B45_Sh117_PKP_Nut: CUP_Vest_RUS_Camo_RatnikV2_Base
+	{
+		class ItemInfo;
+		/*
+		hiddenSelections[] = {"camo1","camo2","camo3","camo4","camo5","camo6","camo8"};
+		hiddenSelectionsTextures[] = {
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\VEST_Front_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\vest_back_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\suharka_radio_pkp_vog_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\suharka_pkp_straps_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\pouch_straps_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\vest_straps_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\Full_armor_s_co.paa"
+		};
+		*/
 	};
 	class CUP_Vest_RUS_6B45_Sh117_VOG: CUP_Vest_RUS_Camo_RatnikV2_Base
 	{
 		class ItemInfo;
+		/*
+		hiddenSelections[] = {"camo1","camo2","camo3","camo4","camo5","camo6","camo7"};
+		hiddenSelectionsTextures[] = {
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\VEST_Front_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\vest_back_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\suharka_radio_pkp_vog_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\ak_granade_pouch_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\suharka_pkp_straps_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\pouch_straps_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\vest_straps_s_co.paa"
+		};
+		*/
+	};
+	class CUP_Vest_RUS_6B45_Sh117_VOG_Del: CUP_Vest_RUS_Camo_RatnikV2_Base
+	{
+		class ItemInfo;
+		/*
+		hiddenSelections[] = {"camo1","camo2","camo3","camo4","camo5","camo6","camo7","camo8"};
+		hiddenSelectionsTextures[] = {
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\VEST_Front_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\vest_back_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\suharka_radio_pkp_vog_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\ak_granade_pouch_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\suharka_pkp_straps_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\pouch_straps_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\vest_straps_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\Full_armor_s_co.paa"
+		};
+		*/
+	};
+	class CUP_Vest_RUS_6B45_Sh117_VOG_Del_Nut: CUP_Vest_RUS_Camo_RatnikV2_Base
+	{
+		class ItemInfo;
+		/*
+		hiddenSelections[] = {"camo1","camo2","camo3","camo4","camo5","camo6","camo7","camo8"};
+		hiddenSelectionsTextures[] = {
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\VEST_Front_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\vest_back_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\suharka_radio_pkp_vog_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\ak_granade_pouch_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\suharka_pkp_straps_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\pouch_straps_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\vest_straps_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\Full_armor_s_co.paa"
+		};
+		*/
+	};
+	class CUP_Vest_RUS_6B45_Sh117_VOG_Full: CUP_Vest_RUS_Camo_RatnikV2_Base
+	{
+		class ItemInfo;
+		/*
+		hiddenSelections[] = {"camo1","camo2","camo3","camo4","camo5","camo6","camo7","camo8","camo9"};
+		hiddenSelectionsTextures[] = {
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\VEST_Front_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\vest_back_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\suharka_radio_pkp_vog_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\ak_granade_pouch_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\suharka_pkp_straps_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\pouch_straps_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\vest_straps_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\Full_armor_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\VKPO\data\Straps_Kneepads_s_co.paa"
+		};
+		*/
+	};
+	class CUP_Vest_RUS_6B45_Sh117_VOG_Nut: CUP_Vest_RUS_Camo_RatnikV2_Base
+	{
+		class ItemInfo;
+		/*
+		hiddenSelections[] = {"camo1","camo2","camo3","camo4","camo5","camo6","camo7","camo8"};
+		hiddenSelectionsTextures[] = {
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\VEST_Front_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\vest_back_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\suharka_radio_pkp_vog_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\ak_granade_pouch_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\suharka_pkp_straps_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\pouch_straps_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\vest_straps_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\Full_armor_s_co.paa"
+		};
+		*/
 	};
 	
-	// 6B45 (Black)
-	class tmtm_v_6b45_black: CUP_Vest_RUS_6B45_Sh117
+	// 6B45 (Summer/Empty)
+	class tmtm_v_6b45empty_summer: CUP_Vest_RUS_6B45_Sh117
 	{
-		displayName="6B45 (Black)";
+		displayName="6B45 (Summer/Empty)";
 		scope=2;
 		scopeArsenal=2;
 		hiddenSelectionsTextures[]=
 		{
-			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_VEST_Front_co.paa",
-			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_VEST_Back_co.paa",
-			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_radio_pkp_vog_co.paa",
-			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_AK_Granade_Pouch_co.paa",
-			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_PKP_straps_co.paa",
-			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_Pouch_Straps_co.paa",
-			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_VEST_Straps_co.paa"
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\VEST_Front_s_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\vest_back_s_co.paa",
+			"",
+			"",
+			"",
+			"",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\vest_straps_s_co.paa"
 		};
 		class ItemInfo: ItemInfo
 		{
 			hiddenSelectionsTextures[]=
 			{
-				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_VEST_Front_co.paa",
-				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_VEST_Back_co.paa",
-				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_radio_pkp_vog_co.paa",
-				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_AK_Granade_Pouch_co.paa",
-				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_PKP_straps_co.paa",
-				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_Pouch_Straps_co.paa",
-				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_VEST_Straps_co.paa"
+				"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\VEST_Front_s_co.paa",
+				"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\vest_back_s_co.paa",
+				"",
+				"",
+				"",
+				"",
+				"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\vest_straps_s_co.paa"
 			};
+			containerClass="Supply0";
 		};
 	};
+	// 6B45 (Summer/Empty)
+	class tmtm_v_6b45empty_green: CUP_Vest_RUS_6B45_Sh117
+	{
+		displayName="6B45 (Green/Empty)";
+		scope=2;
+		scopeArsenal=2;
+		hiddenSelectionsTextures[]=
+		{
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\VEST_Front_o_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\vest_back_o_co.paa",
+			"",
+			"",
+			"",
+			"",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\vest_straps_o_co.paa"
+		};
+		class ItemInfo: ItemInfo
+		{
+			hiddenSelectionsTextures[]=
+			{
+				"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\VEST_Front_o_co.paa",
+				"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\vest_back_o_co.paa",
+				"",
+				"",
+				"",
+				"",
+				"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\vest_straps_o_co.paa"
+			};
+			containerClass="Supply0";
+		};
+	};
+	// 6B45 (Pink desert/Empty)
+	class tmtm_v_6b45empty_desert: CUP_Vest_RUS_6B45_Sh117
+	{
+		displayName="6B45 (Pink desert/Empty)";
+		scope=2;
+		scopeArsenal=2;
+		hiddenSelectionsTextures[]=
+		{
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\VEST_Front_d_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\vest_back_d_co.paa",
+			"",
+			"",
+			"",
+			"",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\vest_straps_d_co.paa"
+		};
+		class ItemInfo: ItemInfo
+		{
+			hiddenSelectionsTextures[]=
+			{
+				"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\VEST_Front_d_co.paa",
+				"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\vest_back_d_co.paa",
+				"",
+				"",
+				"",
+				"",
+				"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\vest_straps_d_co.paa"
+			};
+			containerClass="Supply0";
+		};
+	};
+	// 6B45 (Beige Digital/Empty)
+	class tmtm_v_6b45empty_beigeDigital: CUP_Vest_RUS_6B45_Sh117
+	{
+		displayName="6B45 (Beige Digital/Empty)";
+		scope=2;
+		scopeArsenal=2;
+		hiddenSelectionsTextures[]=
+		{
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\VEST_Front_dn_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\vest_back_dn_co.paa",
+			"",
+			"",
+			"",
+			"",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\vest_straps_dn_co.paa"
+		};
+		class ItemInfo: ItemInfo
+		{
+			hiddenSelectionsTextures[]=
+			{
+				"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\VEST_Front_dn_co.paa",
+				"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\vest_back_dn_co.paa",
+				"",
+				"",
+				"",
+				"",
+				"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Vest\Data\vest_straps_dn_co.paa"
+			};
+			containerClass="Supply0";
+		};
+	};
+	// 6B45 (Black)
 	class tmtm_v_6b45empty_black: CUP_Vest_RUS_6B45_Sh117
 	{
 		displayName="6B45 (Black/Empty)";
@@ -616,6 +949,161 @@ class CfgWeapons
 			containerClass="Supply0";
 		};
 	};
+	class tmtm_v_6b45_black: CUP_Vest_RUS_6B45_Sh117
+	{
+		displayName="6B45 (Black)";
+		scope=2;
+		scopeArsenal=2;
+		hiddenSelectionsTextures[]=
+		{
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_VEST_Front_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_VEST_Back_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_radio_pkp_vog_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_AK_Granade_Pouch_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_PKP_straps_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_Pouch_Straps_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_VEST_Straps_co.paa"
+		};
+		class ItemInfo: ItemInfo
+		{
+			hiddenSelectionsTextures[]=
+			{
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_VEST_Front_co.paa",
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_VEST_Back_co.paa",
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_radio_pkp_vog_co.paa",
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_AK_Granade_Pouch_co.paa",
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_PKP_straps_co.paa",
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_Pouch_Straps_co.paa",
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_VEST_Straps_co.paa"
+			};
+		};
+	};
+	class tmtm_v_6b45_black_del: CUP_Vest_RUS_6B45_Sh117_Del
+	{
+		displayName="6B45 (Black/Variant 2)";
+		scope=2;
+		scopeArsenal=2;
+		hiddenSelectionsTextures[]=
+		{
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_VEST_Front_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_VEST_Back_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_radio_pkp_vog_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_AK_Granade_Pouch_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_PKP_straps_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_Pouch_Straps_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_VEST_Straps_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_Full_armor_co.paa"
+		};
+		class ItemInfo: ItemInfo
+		{
+			hiddenSelectionsTextures[]=
+			{
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_VEST_Front_co.paa",
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_VEST_Back_co.paa",
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_radio_pkp_vog_co.paa",
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_AK_Granade_Pouch_co.paa",
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_PKP_straps_co.paa",
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_Pouch_Straps_co.paa",
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_VEST_Straps_co.paa",
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_Full_armor_co.paa"
+			};
+		};
+	};
+	class tmtm_v_6b45_black_del_nut: CUP_Vest_RUS_6B45_Sh117_Del_Nut
+	{
+		displayName="6B45 (Black/Variant 4)";
+		scope=2;
+		scopeArsenal=2;
+		hiddenSelectionsTextures[]=
+		{
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_VEST_Front_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_VEST_Back_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_radio_pkp_vog_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_AK_Granade_Pouch_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_PKP_straps_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_Pouch_Straps_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_VEST_Straps_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_Full_armor_co.paa"
+		};
+		class ItemInfo: ItemInfo
+		{
+			hiddenSelectionsTextures[]=
+			{
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_VEST_Front_co.paa",
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_VEST_Back_co.paa",
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_radio_pkp_vog_co.paa",
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_AK_Granade_Pouch_co.paa",
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_PKP_straps_co.paa",
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_Pouch_Straps_co.paa",
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_VEST_Straps_co.paa",
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_Full_armor_co.paa"
+			};
+		};
+	};
+	class tmtm_v_6b45_black_full: CUP_Vest_RUS_6B45_Sh117_Full
+	{
+		displayName="6B45 (Black/Variant 5)";
+		scope=2;
+		scopeArsenal=2;
+		hiddenSelectionsTextures[]=
+		{
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_VEST_Front_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_VEST_Back_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_radio_pkp_vog_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_AK_Granade_Pouch_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_PKP_straps_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_Pouch_Straps_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_VEST_Straps_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_Full_armor_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\VKPO\data\Straps_Kneepads_s_co.paa"
+		};
+		class ItemInfo: ItemInfo
+		{
+			hiddenSelectionsTextures[]=
+			{
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_VEST_Front_co.paa",
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_VEST_Back_co.paa",
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_radio_pkp_vog_co.paa",
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_AK_Granade_Pouch_co.paa",
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_PKP_straps_co.paa",
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_Pouch_Straps_co.paa",
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_VEST_Straps_co.paa",
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_Full_armor_co.paa",
+				"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\VKPO\data\Straps_Kneepads_s_co.paa"
+			};
+		};
+	};
+	class tmtm_v_6b45_black_nut: CUP_Vest_RUS_6B45_Sh117_Nut
+	{
+		displayName="6B45 (Black/Variant 3)";
+		scope=2;
+		scopeArsenal=2;
+		hiddenSelectionsTextures[]=
+		{
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_VEST_Front_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_VEST_Back_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_radio_pkp_vog_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_AK_Granade_Pouch_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_PKP_straps_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_Pouch_Straps_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_VEST_Straps_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_Full_armor_co.paa"
+		};
+		class ItemInfo: ItemInfo
+		{
+			hiddenSelectionsTextures[]=
+			{
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_VEST_Front_co.paa",
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_VEST_Back_co.paa",
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_radio_pkp_vog_co.paa",
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_AK_Granade_Pouch_co.paa",
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_PKP_straps_co.paa",
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_Pouch_Straps_co.paa",
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_VEST_Straps_co.paa",
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_Full_armor_co.paa"
+			};
+		};
+	};
 	class tmtm_v_6b45pkp_black: CUP_Vest_RUS_6B45_Sh117_PKP
 	{
 		displayName="6B45 (Black/PKP)";
@@ -640,6 +1128,124 @@ class CfgWeapons
 				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_PKP_straps_co.paa",
 				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_Pouch_Straps_co.paa",
 				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_VEST_Straps_co.paa"
+			};
+		};
+	};
+	class tmtm_v_6b45pkp_black_del: CUP_Vest_RUS_6B45_Sh117_PKP_Del
+	{
+		displayName="6B45 (Black/PKP/Variant 2)";
+		scope=2;
+		scopeArsenal=2;
+		hiddenSelectionsTextures[]=
+		{
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_VEST_Front_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_VEST_Back_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_radio_pkp_vog_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_PKP_straps_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_Pouch_Straps_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_VEST_Straps_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_Full_armor_co.paa"
+		};
+		class ItemInfo: ItemInfo
+		{
+			hiddenSelectionsTextures[]=
+			{
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_VEST_Front_co.paa",
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_VEST_Back_co.paa",
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_radio_pkp_vog_co.paa",
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_PKP_straps_co.paa",
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_Pouch_Straps_co.paa",
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_VEST_Straps_co.paa",
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_Full_armor_co.paa"
+			};
+		};
+	};
+	class tmtm_v_6b45pkp_black_del_nut: CUP_Vest_RUS_6B45_Sh117_PKP_Del_Nut
+	{
+		displayName="6B45 (Black/PKP/Variant 4)";
+		scope=2;
+		scopeArsenal=2;
+		hiddenSelectionsTextures[]=
+		{
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_VEST_Front_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_VEST_Back_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_radio_pkp_vog_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_PKP_straps_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_Pouch_Straps_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_VEST_Straps_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_Full_armor_co.paa"
+		};
+		class ItemInfo: ItemInfo
+		{
+			hiddenSelectionsTextures[]=
+			{
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_VEST_Front_co.paa",
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_VEST_Back_co.paa",
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_radio_pkp_vog_co.paa",
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_PKP_straps_co.paa",
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_Pouch_Straps_co.paa",
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_VEST_Straps_co.paa",
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_Full_armor_co.paa"
+			};
+		};
+	};
+	class tmtm_v_6b45pkp_black_full: CUP_Vest_RUS_6B45_Sh117_PKP_Full
+	{
+		displayName="6B45 (Black/PKP/Variant 5)";
+		scope=2;
+		scopeArsenal=2;
+		hiddenSelectionsTextures[]=
+		{
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_VEST_Front_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_VEST_Back_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_radio_pkp_vog_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_PKP_straps_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_Pouch_Straps_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_VEST_Straps_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_Full_armor_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\VKPO\data\Straps_Kneepads_s_co.paa"
+		};
+		class ItemInfo: ItemInfo
+		{
+			hiddenSelectionsTextures[]=
+			{
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_VEST_Front_co.paa",
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_VEST_Back_co.paa",
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_radio_pkp_vog_co.paa",
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_PKP_straps_co.paa",
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_Pouch_Straps_co.paa",
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_VEST_Straps_co.paa",
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_Full_armor_co.paa",
+				"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\VKPO\data\Straps_Kneepads_s_co.paa"
+			};
+		};
+	};
+	class tmtm_v_6b45pkp_black_nut: CUP_Vest_RUS_6B45_Sh117_PKP_Nut
+	{
+		displayName="6B45 (Black/PKP/Variant 3)";
+		scope=2;
+		scopeArsenal=2;
+		hiddenSelectionsTextures[]=
+		{
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_VEST_Front_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_VEST_Back_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_radio_pkp_vog_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_PKP_straps_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_Pouch_Straps_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_VEST_Straps_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_Full_armor_co.paa"
+		};
+		class ItemInfo: ItemInfo
+		{
+			hiddenSelectionsTextures[]=
+			{
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_VEST_Front_co.paa",
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_VEST_Back_co.paa",
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_radio_pkp_vog_co.paa",
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_PKP_straps_co.paa",
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_Pouch_Straps_co.paa",
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_VEST_Straps_co.paa",
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_Full_armor_co.paa"
 			};
 		};
 	};
@@ -669,6 +1275,132 @@ class CfgWeapons
 				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_PKP_straps_co.paa",
 				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_Pouch_Straps_co.paa",
 				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_VEST_Straps_co.paa"
+			};
+		};
+	};
+	class tmtm_v_6b45vog_black_del: CUP_Vest_RUS_6B45_Sh117_VOG_Del
+	{
+		displayName="6B45 (Black/VOG/Variant 2)";
+		scope=2;
+		scopeArsenal=2;
+		hiddenSelectionsTextures[]=
+		{
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_VEST_Front_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_VEST_Back_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_radio_pkp_vog_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_AK_Granade_Pouch_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_PKP_straps_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_Pouch_Straps_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_VEST_Straps_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_Full_armor_co.paa"
+		};
+		class ItemInfo: ItemInfo
+		{
+			hiddenSeletionsTextures[]=
+			{
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_VEST_Front_co.paa",
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_VEST_Back_co.paa",
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_radio_pkp_vog_co.paa",
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_AK_Granade_Pouch_co.paa",
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_PKP_straps_co.paa",
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_Pouch_Straps_co.paa",
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_VEST_Straps_co.paa",
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_Full_armor_co.paa"
+			};
+		};
+	};
+	class tmtm_v_6b45vog_black_del_nut: CUP_Vest_RUS_6B45_Sh117_VOG_Del_Nut
+	{
+		displayName="6B45 (Black/VOG/Variant 4)";
+		scope=2;
+		scopeArsenal=2;
+		hiddenSelectionsTextures[]=
+		{
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_VEST_Front_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_VEST_Back_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_radio_pkp_vog_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_AK_Granade_Pouch_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_PKP_straps_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_Pouch_Straps_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_VEST_Straps_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_Full_armor_co.paa"
+		};
+		class ItemInfo: ItemInfo
+		{
+			hiddenSeletionsTextures[]=
+			{
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_VEST_Front_co.paa",
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_VEST_Back_co.paa",
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_radio_pkp_vog_co.paa",
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_AK_Granade_Pouch_co.paa",
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_PKP_straps_co.paa",
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_Pouch_Straps_co.paa",
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_VEST_Straps_co.paa",
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_Full_armor_co.paa"
+			};
+		};
+	};
+	class tmtm_v_6b45vog_black_full: CUP_Vest_RUS_6B45_Sh117_VOG_Full
+	{
+		displayName="6B45 (Black/VOG/Variant 5)";
+		scope=2;
+		scopeArsenal=2;
+		hiddenSelectionsTextures[]=
+		{
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_VEST_Front_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_VEST_Back_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_radio_pkp_vog_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_AK_Granade_Pouch_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_PKP_straps_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_Pouch_Straps_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_VEST_Straps_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_Full_armor_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\VKPO\data\Straps_Kneepads_s_co.paa"
+		};
+		class ItemInfo: ItemInfo
+		{
+			hiddenSeletionsTextures[]=
+			{
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_VEST_Front_co.paa",
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_VEST_Back_co.paa",
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_radio_pkp_vog_co.paa",
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_AK_Granade_Pouch_co.paa",
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_PKP_straps_co.paa",
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_Pouch_Straps_co.paa",
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_VEST_Straps_co.paa",
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_Full_armor_co.paa",
+				"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\VKPO\data\Straps_Kneepads_s_co.paa"
+			};
+		};
+	};
+	class tmtm_v_6b45vog_black_nut: CUP_Vest_RUS_6B45_Sh117_VOG_Nut
+	{
+		displayName="6B45 (Black/VOG/Variant 3)";
+		scope=2;
+		scopeArsenal=2;
+		hiddenSelectionsTextures[]=
+		{
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_VEST_Front_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_VEST_Back_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_radio_pkp_vog_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_AK_Granade_Pouch_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_PKP_straps_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_Pouch_Straps_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_VEST_Straps_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_Full_armor_co.paa"
+		};
+		class ItemInfo: ItemInfo
+		{
+			hiddenSeletionsTextures[]=
+			{
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_VEST_Front_co.paa",
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_VEST_Back_co.paa",
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_radio_pkp_vog_co.paa",
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_AK_Granade_Pouch_co.paa",
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_PKP_straps_co.paa",
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_Pouch_Straps_co.paa",
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_VEST_Straps_co.paa",
+				"\tmtm\pack\cup_vests\Data\tmtm_6b45_black_Full_armor_co.paa"
 			};
 		};
 	};
