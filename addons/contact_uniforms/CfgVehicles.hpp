@@ -18,7 +18,47 @@ class CfgVehicles
         hiddenSelectionsMaterials[] = 
 		{
 			"a3\Characters_F_Enoch\Uniforms\Data\Gorka_01.rvmat"
-		};  
+		};
+		class Wounds
+		{
+			tex[]={};
+			mat[]=
+			{
+				"a3\Characters_F_Enoch\Uniforms\Data\Gorka_01.rvmat",
+				"a3\Characters_F_Enoch\Uniforms\Data\Gorka_01_injury.rvmat",
+				"a3\Characters_F_Enoch\Uniforms\Data\Gorka_01_injury.rvmat",
+				"A3\Characters_F\Common\Data\basicbody.rvmat",
+				"A3\Characters_F\Common\Data\basicbody_injury.rvmat",
+				"A3\Characters_F\Common\Data\basicbody_injury.rvmat",
+				"a3\characters_f\heads\data\hl_white.rvmat",
+				"a3\characters_f\heads\data\hl_white_injury.rvmat",
+				"a3\characters_f\heads\data\hl_white_injury.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white_bald_muscular.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white_bald_muscular_injury.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white_bald_muscular_injury.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white_02_bald_muscular.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white_02_bald_muscular_injury.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white_02_bald_muscular_injury.rvmat",
+				"A3\Characters_F\Heads\Data\hl_black_bald_muscular.rvmat",
+				"A3\Characters_F\Heads\Data\hl_black_bald_muscular_injury.rvmat",
+				"A3\Characters_F\Heads\Data\hl_black_bald_muscular_injury.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white_hairy_muscular.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white_hairy_muscular_injury.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white_hairy_muscular_injury.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white_old.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white_old_injury.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white_old_injury.rvmat",
+				"A3\Characters_F\Heads\Data\hl_asian_bald_muscular.rvmat",
+				"A3\Characters_F\Heads\Data\hl_asian_bald_muscular_injury.rvmat",
+				"A3\Characters_F\Heads\Data\hl_asian_bald_muscular_injury.rvmat",
+				"A3\Characters_F_Exp\Heads\Data\hl_tanoan_bald_muscular.rvmat",
+				"A3\Characters_F_Exp\Heads\Data\hl_tanoan_bald_muscular_injury.rvmat",
+				"A3\Characters_F_Exp\Heads\Data\hl_tanoan_bald_muscular_injury.rvmat",
+				"A3\Characters_F_Exp\Heads\Data\hl_asian_02_bald_muscular.rvmat",
+				"A3\Characters_F_Exp\Heads\Data\hl_asian_02_bald_muscular_injury.rvmat",
+				"A3\Characters_F_Exp\Heads\Data\hl_asian_02_bald_muscular_injury.rvmat"
+			};
+		};
 	};
 	class tmtm_granit_3cd: tmtm_granit_base
 	{

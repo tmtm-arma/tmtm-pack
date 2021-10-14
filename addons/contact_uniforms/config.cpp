@@ -8,6 +8,8 @@ class CfgPatches {
 		requiredVersion = REQUIRED_VERSION;
 		requiredAddons[] = {
 			"tmtmpack_main",
+			"A3_Characters_F",
+			"A3_Characters_F_Exp",
 			"A3_Characters_F_Enoch"
 		};
 		author = MOD_AUTHOR;
