@@ -18,6 +18,6 @@ class Stage1
 };
 class Stage2
 {
-	texture="tmtm-pack\addons\altyn\Data\reflect_co.tga";
+	texture="H:\Arma3-modding\tmtm-pack\addons\altyn\Data\reflect_co.paa";
 	uvSource="none";
 };

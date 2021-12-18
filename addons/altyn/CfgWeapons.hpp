@@ -17,14 +17,14 @@ class CfgWeapons
 		picture="\A3\characters_f\Data\UI\icon_H_helmet_plain_ca.paa";
 		model="\tmtm\pack\altyn\tmtm_altyn.p3d";
 		hiddenSelections[]={"camo"};
-		hiddenSelectionsTextures[]={"\tmtm\pack\altyn\Data\tmtm_altyn_green_co.paa"};
+		hiddenSelectionsTextures[]={"\tmtm\pack\altyn\Data\tmtm_altyn_green_ca.paa"};
 		class ItemInfo: HeadgearItem
 		{
 			mass=45;
 			uniformModel="\tmtm\pack\altyn\tmtm_altyn.p3d";
 			modelSides[]={6};
 			hiddenSelections[]={"camo"};
-			hiddenSelectionsTextures[]={"\tmtm\pack\altyn\Data\tmtm_altyn_green_co.paa"};
+			hiddenSelectionsTextures[]={"\tmtm\pack\altyn\Data\tmtm_altyn_green_ca.paa"};
 			class HitpointsProtectionInfo
 			{
 				class Head
@@ -36,6 +36,7 @@ class CfgWeapons
 			};
 		};
 	};
+	
 	class tmtm_h_altyn_olive: tmtm_h_altyn_green
 	{
 		scope=2;
@@ -56,4 +57,5 @@ class CfgWeapons
 			hiddenSelectionsTextures[]={"\tmtm\pack\altyn\Data\tmtm_altyn_black_co.paa"};
 		};
 	};
+	
 };
