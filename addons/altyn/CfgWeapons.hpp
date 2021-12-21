@@ -9,7 +9,7 @@ class CfgWeapons
 		scope=2;
 		displayName="Altyn (Green)";
 		descriptionShort = "Armor Level IV";
-		picture="\A3\characters_f\Data\UI\icon_H_helmet_plain_ca.paa";
+		picture="\tmtm\pack\altyn\Data\UI\tmtm_icon_altynNoVisor_olive_ca.paa";
 		model="\tmtm\pack\altyn\tmtm_altyn_noVisor.p3d";
 		hiddenSelections[]={"camo"};
 		hiddenSelectionsTextures[]={"\tmtm\pack\altyn\Data\tmtm_altyn_green_co.paa"};
@@ -36,6 +36,7 @@ class CfgWeapons
 		scope=2;
 		displayName="Altyn (Olive)";
 		hiddenSelectionsTextures[]={"\tmtm\pack\altyn\Data\tmtm_altyn_olive_co.paa"};
+		picture="\tmtm\pack\altyn\Data\UI\tmtm_icon_altynNoVisor_olive_ca.paa";
 		class ItemInfo: ItemInfo
 		{
 			hiddenSelectionsTextures[]={"\tmtm\pack\altyn\Data\tmtm_altyn_olive_co.paa"};
@@ -46,6 +47,7 @@ class CfgWeapons
 		scope=2;
 		displayName="Altyn (Black)";
 		hiddenSelectionsTextures[]={"\tmtm\pack\altyn\Data\tmtm_altyn_black_co.paa"};
+		picture="\tmtm\pack\altyn\Data\UI\tmtm_icon_altynNoVisor_black_ca.paa";
 		class ItemInfo: ItemInfo
 		{
 			hiddenSelectionsTextures[]={"\tmtm\pack\altyn\Data\tmtm_altyn_black_co.paa"};
@@ -57,7 +59,7 @@ class CfgWeapons
 		scope=2;
 		displayName="Altyn (Green/Visor Up)";
 		descriptionShort = "Armor Level IV";
-		picture="\A3\characters_f\Data\UI\icon_H_helmet_plain_ca.paa";
+		picture="\tmtm\pack\altyn\Data\UI\tmtm_icon_altyn_olive_ca.paa";
 		model="\tmtm\pack\altyn\tmtm_altyn.p3d";
 		hiddenSelections[]={"camo"};
 		hiddenSelectionsTextures[]={"\tmtm\pack\altyn\Data\tmtm_altyn_green_co.paa"};
@@ -84,6 +86,7 @@ class CfgWeapons
 		scope=2;
 		displayName="Altyn (Olive/Visor Up)";
 		hiddenSelectionsTextures[]={"\tmtm\pack\altyn\Data\tmtm_altyn_olive_co.paa"};
+		picture="\tmtm\pack\altyn\Data\UI\tmtm_icon_altyn_olive_ca.paa";
 		class ItemInfo: ItemInfo
 		{
 			hiddenSelectionsTextures[]={"\tmtm\pack\altyn\Data\tmtm_altyn_olive_co.paa"};
@@ -94,6 +97,7 @@ class CfgWeapons
 		scope=2;
 		displayName="Altyn (Black/Visor Up)";
 		hiddenSelectionsTextures[]={"\tmtm\pack\altyn\Data\tmtm_altyn_black_co.paa"};
+		picture="\tmtm\pack\altyn\Data\UI\tmtm_icon_altyn_black_ca.paa";
 		class ItemInfo: ItemInfo
 		{
 			hiddenSelectionsTextures[]={"\tmtm\pack\altyn\Data\tmtm_altyn_black_co.paa"};
@@ -105,7 +109,7 @@ class CfgWeapons
 		scope=2;
 		displayName="Altyn (Green/Visor Down)";
 		descriptionShort = "Armor Level IV";
-		picture="\A3\characters_f\Data\UI\icon_H_helmet_plain_ca.paa";
+		picture="\tmtm\pack\altyn\Data\UI\tmtm_icon_altynVisorDown_olive_ca.paa";
 		model="\tmtm\pack\altyn\tmtm_altyn_visorDown.p3d";
 		hiddenSelections[]={"camo"};
 		hiddenSelectionsTextures[]={"\tmtm\pack\altyn\Data\tmtm_altyn_green_co.paa"};
@@ -138,6 +142,7 @@ class CfgWeapons
 		scope=2;
 		displayName="Altyn (Olive/Visor Down)";
 		hiddenSelectionsTextures[]={"\tmtm\pack\altyn\Data\tmtm_altyn_olive_co.paa"};
+		picture="\tmtm\pack\altyn\Data\UI\tmtm_icon_altynVisorDown_olive_ca.paa";
 		class ItemInfo: ItemInfo
 		{
 			hiddenSelectionsTextures[]={"\tmtm\pack\altyn\Data\tmtm_altyn_olive_co.paa"};
@@ -148,6 +153,7 @@ class CfgWeapons
 		scope=2;
 		displayName="Altyn (Black/Visor Down)";
 		hiddenSelectionsTextures[]={"\tmtm\pack\altyn\Data\tmtm_altyn_black_co.paa"};
+		picture="\tmtm\pack\altyn\Data\UI\tmtm_icon_altynVisorDown_black_ca.paa";
 		class ItemInfo: ItemInfo
 		{
 			hiddenSelectionsTextures[]={"\tmtm\pack\altyn\Data\tmtm_altyn_black_co.paa"};
