@@ -793,7 +793,7 @@ class CfgWeapons
 		};
 		*/
 	};
-	
+	/*
 	// 6B45 (Summer/Empty)
 	class tmtm_v_6b45empty_summer: CUP_Vest_RUS_6B45_Sh117
 	{
@@ -918,6 +918,7 @@ class CfgWeapons
 			containerClass="Supply0";
 		};
 	};
+	
 	// 6B45 (Black)
 	class tmtm_v_6b45empty_black: CUP_Vest_RUS_6B45_Sh117
 	{
@@ -949,6 +950,7 @@ class CfgWeapons
 			containerClass="Supply0";
 		};
 	};
+	*/
 	class tmtm_v_6b45_black: CUP_Vest_RUS_6B45_Sh117
 	{
 		displayName="6B45 (Black)";
