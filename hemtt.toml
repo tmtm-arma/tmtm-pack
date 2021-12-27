@@ -27,9 +27,8 @@ version= "{{git \"id 8\"}}"
 # Binarizer file search compatibility
 [scripts.binarizer_link]
 steps_windows = [
-    "if not exist tmtm\\pack mkdir tmtm\\pack",
+    "if not exist tmtm mkdir tmtm",
     "if not exist tmtm\\pack mklink /j tmtm\\pack addons",
-	"if not exist a3 mklink /j a3 include\\a3"
 ]
 
 show_output = true
