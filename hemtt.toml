@@ -14,9 +14,21 @@ files = [
 key_name = "{{prefix}}_{{version}}"
 authority = "{{prefix}}_{{version}}-{{git \"id 8\"}}"
 
+check = [
+    "!binarizer_link"
+]
 releasebuild = [
     "@zip tmtmpack_{{semver.major}}.{{semver.minor}}.{{semver.patch}}"
 ]
 
 [header_exts]
 version= "{{git \"id 8\"}}"
+
+# Binarizer file search compatibility
+[scripts.binarizer_link]
+steps_windows = [
+    "if not exist tmtm mkdir tmtm",
+    "if not exist tmtm\\pack mklink /j tmtm\\pack addons",
+]
+
+show_output = true
