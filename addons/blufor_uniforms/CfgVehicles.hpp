@@ -176,7 +176,7 @@ class CfgVehicles
 		uniformClass="tmtm_u_combatUniform_mcamBBlack";
 		hiddenSelectionsTextures[]=
 		{
-			"\tmtm\pack\blufor_uniforms\Data\tmtm_combatUniform_mcamBBlack_co.paa"
+			"\tmtm\pack\blufor_uniforms\Data\tmtm_combatUniform_mcamB_co.paa"
 		};
 	};
 	class tmtm_combatUniformRS_mcamBBlack: tmtm_combatUniform_mcamBBlack

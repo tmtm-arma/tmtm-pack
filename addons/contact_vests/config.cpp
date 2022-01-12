@@ -9,7 +9,6 @@ class CfgPatches {
 		requiredAddons[] = {
 			"tmtmpack_main",
 			"A3_Characters_F_Enoch"
-			
 		};
 		author = MOD_AUTHOR;
 		url = MOD_URL;
