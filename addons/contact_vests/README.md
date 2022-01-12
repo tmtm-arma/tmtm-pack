@@ -8,7 +8,10 @@ Adds retextures of Contact DLC Vests.
 	- Coyote
 	- Tan
 	- Ranger
-	- Black w/ Blue/Green/Orange/Purple/Red/Yellow Shoulder Pads
+	- Black (Blue/Green/Orange/Purple/Red/Yellow Shoulder Pads)
+	- Multicam
+	- FSB (Black/Ranger/Multicam)
+	- SOBR (Black/Ranger/Multicam)
 	
 ## Kipchak Vest (Standard and Radio)
 	- Black
