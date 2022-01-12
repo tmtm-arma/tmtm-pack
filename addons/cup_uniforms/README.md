@@ -3,11 +3,8 @@ Adds retextures of CUP Uniforms.
 	
 ## NAPA Anorak/Uniform
     - Maskhalat (Berezka White)
-	- Maskhalat (Berezka White/Dirty)
     - Maskhalat (Berezka White/Loose)
-    - Maskhalat (Berezka White/Loose/Dirty)
     - Maskhalat (Berezka White/Hood)
-    - Maskhalat (Berezka White/Hood/Dirty)
 	- Maskhalat (Berezka Yellow)
 	- Maskhalat (Berezka Yellow/Loose)
 	- Maskhalat (Berezka Yellow/Hood)
