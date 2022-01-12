@@ -14,7 +14,7 @@ Adds retextures of CUP vests.
 	- Brown/Takistani Camo
 	- Brown/Woodland Camo
 	
-## 6B45 (Empty, Rifleman, VOG, PKP)
+## 6B45 (Rifleman, VOG, PKP)
 	- Black
 	
 ## PACA
