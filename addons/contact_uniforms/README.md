@@ -15,17 +15,30 @@ Adds retextures of Contact DLC Uniforms.
 	- Green Jacket w/ DCU/Khaki/M81/Multicam Pants
 	- Olive Jacket w/ DCU/Khaki/M81/Multicam Pants
 	- Blue & Black
-	- CBRN Yellow
+	- CADPAT
+	- CBRN Yellow variants
+	- CSAT, CSAT Arid
+	- EMR
 	- Flecktarn
 	- Grey
-	- KLMK
-	- KLMK Reverse
-	- M81 (US Woodland)
-	- M81/Winter
-	- Winter/M81
+	- Izlom
+	- Kamysh
+	- KLMK, KLMK Reverse
+	- LDF
+	- M81
+	- MARPAT Woodland, MARPAT Desert
+	- MTP
+	- Multicam
+	- NATO Winter
 	- Desert Night Grid Jacket w/ DCU/DBDU/M81 Pants
-	- Partizan
-	- Partizan Autumn
+	- OCP
+	- Partizan, Partizan Autumn
+	- Skol
+	- SURPAT
+	- UCP
+	- Urban Red
+	- White
+	- Winter variants of nearly every camo
 	
 	
 	
