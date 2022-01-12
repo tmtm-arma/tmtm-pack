@@ -8,3 +8,18 @@ Retextures of Community Upgrade Project headgear.
 	- ATACS FG
 	- EMR
 	- SURPAT
+
+## M92 (Covered, all goggle variants)
+    - MM14
+
+## SSh-68 (Covered)
+	- MM14 
+	- Dark Olive
+	- Berezka White
+
+## Patrol Cap
+	- MM14
+	- Dark Olive
+
+## Cap
+	- MM14
