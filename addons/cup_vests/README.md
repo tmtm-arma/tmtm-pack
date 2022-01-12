@@ -17,6 +17,10 @@ Adds retextures of CUP vests.
 ## 6B45 (Rifleman, VOG, PKP)
 	- Black
 	
+## German Protective Vest (Most Variants)
+	- Black
+	- Multicam
+	
 ## PACA
 	- Black
 	- Tan
