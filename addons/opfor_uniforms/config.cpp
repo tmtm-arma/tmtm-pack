@@ -9,7 +9,12 @@ class CfgPatches {
 		requiredAddons[] = {
 			"tmtmpack_main",
 			"A3_Characters_F",
-			"A3_Characters_F_Bootcamp"
+			"A3_Characters_F_Beta",
+			"A3_Characters_F_Bootcamp",
+			"A3_Characters_F_Exp",
+			"A3_Characters_F_Enoch",
+			"A3_characters_f_gamma",
+			"A3_Characters_F_Orange"
 		};
 		author = MOD_AUTHOR;
 		url = MOD_URL;

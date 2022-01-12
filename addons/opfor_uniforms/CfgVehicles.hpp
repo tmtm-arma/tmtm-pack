@@ -1,13 +1,15 @@
 class CfgVehicles 
 {     
-	class B_Soldier_base_F;
-	class tmtm_csatFatigues_base: O_Soldier_base_F
+	class O_Soldier_F;
+	
+	class tmtm_csatFatigues_base: O_Soldier_F
 	{
 		author = "Trenchgun";
 		scope = 0;
 		scopeArsenal = 0;
 		scopeCurator = 0;
 		displayName = "CSAT Fatigues (Base)";
+		//model = "\A3\characters_F\OPFOR\o_soldier_01.p3d";
 		hiddenSelections[] = {
 			"Camo1", 
 			"Camo2", 
@@ -15,12 +17,15 @@ class CfgVehicles
 		};
 	};
 	
+	
 	class tmtm_csatFatigues_atacsAu: tmtm_csatFatigues_base
 	{
+		author = "Trenchgun";
 		scope = 1;
 		scopeArsenal = 2;
 		scopeCurator = 0;
-		displayName = "CSAT Fatigues (ATACS AU)";
+		modelSides[]={1,2,3,4};
+		//displayName = "CSAT Fatigues (ATACS AU)";
 		uniformClass = "tmtm_u_csatFatigues_atacsAu";
 		hiddenSelectionsTextures[] = {
 			"\tmtm\pack\opfor_uniforms\Data\tmtm_csatFatigues_atacsAu_co.paa", 
