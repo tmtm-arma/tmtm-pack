@@ -1,8 +1,8 @@
 class CfgVehicles
 {
-	class B_Soldier_base_F;
+	class O_R_Gorka_base_F;
 	
-	class tmtm_granit_base: B_Soldier_base_F
+	class tmtm_granit_base: O_R_Gorka_base_F
 	{
 		author = "Trenchgun"; 
         scope = 0; 
