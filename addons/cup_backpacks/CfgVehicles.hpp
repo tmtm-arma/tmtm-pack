@@ -194,7 +194,7 @@ class CfgVehicles
 		displayName = "Osprey Mk4 Webbing";
 		picture = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_vests\webbing\data\UI\osprey_mk4_webbing_ca.paa";
 		model = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_vests\webbing\osprey_mk4_webbing.p3d";
-		hiddenSelections[] = {"camo1", "camo2", "camo3"};
+		hiddenSelections[] = {"camo", "camo1", "camo2"};
 		hiddenSelectionsTextures[] = {
 			"CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_vests\webbing\data\US_PASGT_vest_CO.paa",
 			"CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_vests\osprey_mk4\data\equip_co.paa",
