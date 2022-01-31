@@ -31,7 +31,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="Combat Fatigues [LDF] (Tucked)";
-		picture="";
+		picture="\tmtm\pack\bis_uniforms\Data\UI\tmtm_icon_combatFatigues_ldf_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[]={"camo"};
 		hiddenSelectionsTextures[]={"a3\characters_f_enoch\uniforms\data\i_e_soldier_01_pants_co.paa"};
@@ -47,7 +47,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="Combat Fatigues [LDF] (Tucked/Rolled-up)";
-		picture="";
+		picture="\tmtm\pack\bis_uniforms\Data\UI\tmtm_icon_combatFatiguesRS_ldf_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[]={"camo"};
 		hiddenSelectionsTextures[]={"a3\characters_f_enoch\uniforms\data\i_e_soldier_01_pants_co.paa"};
@@ -82,7 +82,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="Fatigues (RUS)";
-		picture="";
+		picture="\tmtm\pack\bis_uniforms\Data\UI\tmtm_icon_combatFatiguesCSAT_russia_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[]={"camo"};
 		hiddenSelectionsTextures[]={"\a3\characters_f\OPFOR\Data\clothing_rus_co.paa"};
@@ -99,7 +99,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="Combat Fatigues [AAF] (Brown)";
-		picture="";
+		picture="\tmtm\pack\bis_uniforms\Data\UI\tmtm_icon_combatFatigues_brown_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[]={"camo"};
 		hiddenSelectionsTextures[]={"\A3\characters_f_exp\Syndikat\Data\U_I_C_Soldier_Para_4_F_2_co.paa"};
@@ -115,7 +115,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="Combat Fatigues [AAF] (Brown) (Rolled-up)";
-		picture="";
+		picture="\tmtm\pack\bis_uniforms\Data\UI\tmtm_icon_combatFatiguesRS_brown_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[]={"camo"};
 		hiddenSelectionsTextures[]={"\A3\characters_f_exp\Syndikat\Data\U_I_C_Soldier_Para_4_F_2_co.paa"};
@@ -131,7 +131,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="Combat Fatigues [Syndikat]";
-		picture="";
+		picture="\tmtm\pack\bis_uniforms\Data\UI\tmtm_icon_combatFatigues_syndikat_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\A3\characters_f_exp\Syndikat\Data\U_I_C_Soldier_Para_4_F_2_co.paa"};
@@ -147,7 +147,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="Combat Fatigues [Syndikat] (Rolled-up)";
-		picture="";
+		picture="\tmtm\pack\bis_uniforms\Data\UI\tmtm_icon_combatFatiguesRS_syndikat_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\A3\characters_f_exp\Syndikat\Data\U_I_C_Soldier_Para_4_F_2_co.paa"};
@@ -164,7 +164,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="Gendarmerie Uniform (MTP)";
-		picture="";
+		picture="\tmtm\pack\bis_uniforms\Data\UI\tmtm_icon_gendarmerieUniform_mtp_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\A3\characters_f_exp\Gendarmerie\Data\U_B_GEN_Soldier_F_02_co.paa"};
@@ -180,7 +180,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="Gendarmerie Uniform (MTP) (Tee)";
-		picture="";
+		picture="\tmtm\pack\bis_uniforms\Data\UI\tmtm_icon_gendarmerieUniformRS_mtp_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\A3\characters_f_exp\Gendarmerie\Data\U_B_GEN_Soldier_F_02_co.paa"};
@@ -196,7 +196,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="Gendarmerie Uniform (MTP) (Rolled-up)";
-		picture="";
+		picture="\tmtm\pack\bis_uniforms\Data\UI\tmtm_icon_gendarmerieUniformT_mtp_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\A3\characters_f_exp\Gendarmerie\Data\U_B_GEN_Soldier_F_02_co.paa"};
@@ -216,7 +216,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="Guerilla Garment (Rust/AAF)";
-		picture="";
+		picture="\A3\Characters_F_Bootcamp\Data\UI\icon_U_G_guerrilla1_1_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\A3\characters_f_beta\indep\data\ia_soldier_01_clothing_co.paa"};
@@ -232,7 +232,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="Guerilla Garment (Skull/AAF)";
-		picture="";
+		picture="\A3\Characters_F_Bootcamp\Data\UI\icon_U_G_guerrilla1_1_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\A3\characters_f_beta\indep\data\ia_soldier_01_clothing_co.paa"};
@@ -248,7 +248,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="Guerilla Garment (Camo Red/AAF)";
-		picture="";
+		picture="\A3\Characters_F_Bootcamp\Data\UI\icon_U_G_guerrilla1_1_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\A3\characters_f_beta\indep\data\ia_soldier_01_clothing_co.paa"};
@@ -264,7 +264,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="Guerilla Garment (Orange/AAF)";
-		picture="";
+		picture="\A3\Characters_F_Bootcamp\Data\UI\icon_U_G_guerrilla1_1_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\A3\characters_f_beta\indep\data\ia_soldier_01_clothing_co.paa"};
@@ -280,7 +280,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="Guerilla Garment (Yellow/AAF)";
-		picture="";
+		picture="\A3\Characters_F_Bootcamp\Data\UI\icon_U_G_guerrilla1_1_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\A3\characters_f_beta\indep\data\ia_soldier_01_clothing_co.paa"};
@@ -296,7 +296,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="Guerilla Garment (Blue/AAF)";
-		picture="";
+		picture="\A3\Characters_F_Bootcamp\Data\UI\icon_U_G_guerrilla1_1_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\A3\characters_f_beta\indep\data\ia_soldier_01_clothing_co.paa"};
@@ -312,7 +312,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="Guerilla Garment (Brown/AAF)";
-		picture="";
+		picture="\A3\Characters_F_Bootcamp\Data\UI\icon_U_G_guerrilla1_1_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\A3\characters_f_beta\indep\data\ia_soldier_01_clothing_co.paa"};
@@ -328,7 +328,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="Guerilla Garment (Arnold/AAF)";
-		picture="";
+		picture="\A3\Characters_F_Bootcamp\Data\UI\icon_U_G_guerrilla1_1_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\A3\characters_f_beta\indep\data\ia_soldier_01_clothing_co.paa"};
@@ -345,7 +345,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="Guerilla Garment (Rust/Brown)";
-		picture="";
+		picture="\A3\Characters_F_Bootcamp\Data\UI\icon_U_G_guerrilla1_1_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\A3\characters_f_exp\Syndikat\Data\U_I_C_Soldier_Para_4_F_2_co.paa"};
@@ -361,7 +361,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="Guerilla Garment (Skull/Brown)";
-		picture="";
+		picture="\A3\Characters_F_Bootcamp\Data\UI\icon_U_G_guerrilla1_1_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\A3\characters_f_exp\Syndikat\Data\U_I_C_Soldier_Para_4_F_2_co.paa"};
@@ -377,7 +377,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="Guerilla Garment (Camo Red/Brown)";
-		picture="";
+		picture="\A3\Characters_F_Bootcamp\Data\UI\icon_U_G_guerrilla1_1_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\A3\characters_f_exp\Syndikat\Data\U_I_C_Soldier_Para_4_F_2_co.paa"};
@@ -393,7 +393,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="Guerilla Garment (Orange/Brown)";
-		picture="";
+		picture="\A3\Characters_F_Bootcamp\Data\UI\icon_U_G_guerrilla1_1_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\A3\characters_f_exp\Syndikat\Data\U_I_C_Soldier_Para_4_F_2_co.paa"};
@@ -409,7 +409,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="Guerilla Garment (Yellow/Brown)";
-		picture="";
+		picture="\A3\Characters_F_Bootcamp\Data\UI\icon_U_G_guerrilla1_1_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\A3\characters_f_exp\Syndikat\Data\U_I_C_Soldier_Para_4_F_2_co.paa"};
@@ -425,7 +425,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="Guerilla Garment (Blue/Brown)";
-		picture="";
+		picture="\A3\Characters_F_Bootcamp\Data\UI\icon_U_G_guerrilla1_1_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\A3\characters_f_exp\Syndikat\Data\U_I_C_Soldier_Para_4_F_2_co.paa"};
@@ -441,7 +441,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="Guerilla Garment (Brown/Brown)";
-		picture="";
+		picture="\A3\Characters_F_Bootcamp\Data\UI\icon_U_G_guerrilla1_1_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\A3\characters_f_exp\Syndikat\Data\U_I_C_Soldier_Para_4_F_2_co.paa"};
@@ -457,7 +457,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="Guerilla Garment (Arnold/Brown)";
-		picture="";
+		picture="\A3\Characters_F_Bootcamp\Data\UI\icon_U_G_guerrilla1_1_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\A3\characters_f_exp\Syndikat\Data\U_I_C_Soldier_Para_4_F_2_co.paa"};
@@ -473,7 +473,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="Guerilla Garment (Sand/Brown)";
-		picture="";
+		picture="\A3\Characters_F_Bootcamp\Data\UI\icon_U_G_guerrilla1_1_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\A3\characters_f_exp\Syndikat\Data\U_I_C_Soldier_Para_4_F_2_co.paa"};
@@ -489,7 +489,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="Guerilla Garment (Green/Brown)";
-		picture="";
+		picture="\A3\Characters_F_Bootcamp\Data\UI\icon_U_G_guerrilla1_1_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\A3\characters_f_exp\Syndikat\Data\U_I_C_Soldier_Para_4_F_2_co.paa"};
@@ -506,7 +506,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="Guerilla Garment (Rust/LDF)";
-		picture="";
+		picture="\A3\Characters_F_Bootcamp\Data\UI\icon_U_G_guerrilla1_1_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"a3\characters_f_enoch\uniforms\data\i_e_soldier_01_pants_co.paa"};
@@ -522,7 +522,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="Guerilla Garment (Skull/LDF)";
-		picture="";
+		picture="\A3\Characters_F_Bootcamp\Data\UI\icon_U_G_guerrilla1_1_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"a3\characters_f_enoch\uniforms\data\i_e_soldier_01_pants_co.paa"};
@@ -538,7 +538,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="Guerilla Garment (Camo Red/LDF)";
-		picture="";
+		picture="\A3\Characters_F_Bootcamp\Data\UI\icon_U_G_guerrilla1_1_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"a3\characters_f_enoch\uniforms\data\i_e_soldier_01_pants_co.paa"};
@@ -554,7 +554,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="Guerilla Garment (Orange/LDF)";
-		picture="";
+		picture="\A3\Characters_F_Bootcamp\Data\UI\icon_U_G_guerrilla1_1_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"a3\characters_f_enoch\uniforms\data\i_e_soldier_01_pants_co.paa"};
@@ -570,7 +570,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="Guerilla Garment (Yellow/LDF)";
-		picture="";
+		picture="\A3\Characters_F_Bootcamp\Data\UI\icon_U_G_guerrilla1_1_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"a3\characters_f_enoch\uniforms\data\i_e_soldier_01_pants_co.paa"};
@@ -586,7 +586,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="Guerilla Garment (Blue/LDF)";
-		picture="";
+		picture="\A3\Characters_F_Bootcamp\Data\UI\icon_U_G_guerrilla1_1_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"a3\characters_f_enoch\uniforms\data\i_e_soldier_01_pants_co.paa"};
@@ -602,7 +602,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="Guerilla Garment (Brown/LDF)";
-		picture="";
+		picture="\A3\Characters_F_Bootcamp\Data\UI\icon_U_G_guerrilla1_1_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"a3\characters_f_enoch\uniforms\data\i_e_soldier_01_pants_co.paa"};
@@ -618,7 +618,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="Guerilla Garment (Arnold/LDF)";
-		picture="";
+		picture="\A3\Characters_F_Bootcamp\Data\UI\icon_U_G_guerrilla1_1_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"a3\characters_f_enoch\uniforms\data\i_e_soldier_01_pants_co.paa"};
@@ -634,7 +634,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="Guerilla Garment (Sand/LDF)";
-		picture="";
+		picture="\A3\Characters_F_Bootcamp\Data\UI\icon_U_G_guerrilla1_1_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"a3\characters_f_enoch\uniforms\data\i_e_soldier_01_pants_co.paa"};
@@ -650,7 +650,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="Guerilla Garment (Green/LDF)";
-		picture="";
+		picture="\A3\Characters_F_Bootcamp\Data\UI\icon_U_G_guerrilla1_1_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"a3\characters_f_enoch\uniforms\data\i_e_soldier_01_pants_co.paa"};
@@ -667,7 +667,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="Guerilla Garment (Rust/Syndikat)";
-		picture="";
+		picture="\A3\Characters_F_Bootcamp\Data\UI\icon_U_G_guerrilla1_1_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\A3\Characters_F_Exp\Syndikat\Data\U_I_C_Soldier_Para_1_F_2_co.paa"};
@@ -683,7 +683,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="Guerilla Garment (Skull/Syndikat)";
-		picture="";
+		picture="\A3\Characters_F_Bootcamp\Data\UI\icon_U_G_guerrilla1_1_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\A3\Characters_F_Exp\Syndikat\Data\U_I_C_Soldier_Para_1_F_2_co.paa"};
@@ -699,7 +699,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="Guerilla Garment (Camo Red/Syndikat)";
-		picture="";
+		picture="\A3\Characters_F_Bootcamp\Data\UI\icon_U_G_guerrilla1_1_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\A3\Characters_F_Exp\Syndikat\Data\U_I_C_Soldier_Para_1_F_2_co.paa"};
@@ -715,7 +715,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="Guerilla Garment (Orange/Syndikat)";
-		picture="";
+		picture="\A3\Characters_F_Bootcamp\Data\UI\icon_U_G_guerrilla1_1_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\A3\Characters_F_Exp\Syndikat\Data\U_I_C_Soldier_Para_1_F_2_co.paa"};
@@ -731,7 +731,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="Guerilla Garment (Yellow/Syndikat)";
-		picture="";
+		picture="\A3\Characters_F_Bootcamp\Data\UI\icon_U_G_guerrilla1_1_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\A3\Characters_F_Exp\Syndikat\Data\U_I_C_Soldier_Para_1_F_2_co.paa"};
@@ -747,7 +747,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="Guerilla Garment (Blue/Syndikat)";
-		picture="";
+		picture="\A3\Characters_F_Bootcamp\Data\UI\icon_U_G_guerrilla1_1_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\A3\Characters_F_Exp\Syndikat\Data\U_I_C_Soldier_Para_1_F_2_co.paa"};
@@ -763,7 +763,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="Guerilla Garment (Brown/Syndikat)";
-		picture="";
+		picture="\A3\Characters_F_Bootcamp\Data\UI\icon_U_G_guerrilla1_1_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\A3\Characters_F_Exp\Syndikat\Data\U_I_C_Soldier_Para_1_F_2_co.paa"};
@@ -779,7 +779,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="Guerilla Garment (Arnold/Syndikat)";
-		picture="";
+		picture="\A3\Characters_F_Bootcamp\Data\UI\icon_U_G_guerrilla1_1_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\A3\Characters_F_Exp\Syndikat\Data\U_I_C_Soldier_Para_1_F_2_co.paa"};
@@ -795,7 +795,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="Guerilla Garment (Sand/Syndikat)";
-		picture="";
+		picture="\A3\Characters_F_Bootcamp\Data\UI\icon_U_G_guerrilla1_1_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\A3\Characters_F_Exp\Syndikat\Data\U_I_C_Soldier_Para_1_F_2_co.paa"};
@@ -811,7 +811,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="Guerilla Garment (Green/Syndikat)";
-		picture="";
+		picture="\A3\Characters_F_Bootcamp\Data\UI\icon_U_G_guerrilla1_1_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\A3\Characters_F_Exp\Syndikat\Data\U_I_C_Soldier_Para_1_F_2_co.paa"};
@@ -828,10 +828,10 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="Guerilla Garment (Rust/Sand)";
-		picture="";
+		picture="\A3\Characters_F_Bootcamp\Data\UI\icon_U_G_guerrilla1_1_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
-		hiddenSelectionsTextures[] = {"\A3\Characters_F_Bootcamp\Guerilla\Data\ig_guerilla_6_1_co.paa"};
+		hiddenSelectionsTextures[] = {"\a3\characters_f_bootcamp\guerrilla\data\ig_guerrilla_6_1_co.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel="-";
@@ -844,10 +844,10 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="Guerilla Garment (Skull/Sand)";
-		picture="";
+		picture="\A3\Characters_F_Bootcamp\Data\UI\icon_U_G_guerrilla1_1_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
-		hiddenSelectionsTextures[] = {"\A3\Characters_F_Bootcamp\Guerilla\Data\ig_guerilla_6_1_co.paa"};
+		hiddenSelectionsTextures[] = {"\a3\characters_f_bootcamp\guerrilla\data\ig_guerrilla_6_1_co.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel="-";
@@ -860,10 +860,10 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="Guerilla Garment (Camo Red/Sand)";
-		picture="";
+		picture="\A3\Characters_F_Bootcamp\Data\UI\icon_U_G_guerrilla1_1_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
-		hiddenSelectionsTextures[] = {"\A3\Characters_F_Bootcamp\Guerilla\Data\ig_guerilla_6_1_co.paa"};
+		hiddenSelectionsTextures[] = {"\a3\characters_f_bootcamp\guerrilla\data\ig_guerrilla_6_1_co.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel="-";
@@ -876,10 +876,10 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="Guerilla Garment (Orange/Sand)";
-		picture="";
+		picture="\A3\Characters_F_Bootcamp\Data\UI\icon_U_G_guerrilla1_1_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
-		hiddenSelectionsTextures[] = {"\A3\Characters_F_Bootcamp\Guerilla\Data\ig_guerilla_6_1_co.paa"};
+		hiddenSelectionsTextures[] = {"\a3\characters_f_bootcamp\guerrilla\data\ig_guerrilla_6_1_co.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel="-";
@@ -892,10 +892,10 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="Guerilla Garment (Yellow/Sand)";
-		picture="";
+		picture="\A3\Characters_F_Bootcamp\Data\UI\icon_U_G_guerrilla1_1_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
-		hiddenSelectionsTextures[] = {"\A3\Characters_F_Bootcamp\Guerilla\Data\ig_guerilla_6_1_co.paa"};
+		hiddenSelectionsTextures[] = {"\a3\characters_f_bootcamp\guerrilla\data\ig_guerrilla_6_1_co.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel="-";
@@ -908,10 +908,10 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="Guerilla Garment (Blue/Sand)";
-		picture="";
+		picture="\A3\Characters_F_Bootcamp\Data\UI\icon_U_G_guerrilla1_1_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
-		hiddenSelectionsTextures[] = {"\A3\Characters_F_Bootcamp\Guerilla\Data\ig_guerilla_6_1_co.paa"};
+		hiddenSelectionsTextures[] = {"\a3\characters_f_bootcamp\guerrilla\data\ig_guerrilla_6_1_co.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel="-";
@@ -924,10 +924,10 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="Guerilla Garment (Brown/Sand)";
-		picture="";
+		picture="\A3\Characters_F_Bootcamp\Data\UI\icon_U_G_guerrilla1_1_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
-		hiddenSelectionsTextures[] = {"\A3\Characters_F_Bootcamp\Guerilla\Data\ig_guerilla_6_1_co.paa"};
+		hiddenSelectionsTextures[] = {"\a3\characters_f_bootcamp\guerrilla\data\ig_guerrilla_6_1_co.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel="-";
@@ -940,10 +940,10 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="Guerilla Garment (Arnold/Sand)";
-		picture="";
+		picture="\A3\Characters_F_Bootcamp\Data\UI\icon_U_G_guerrilla1_1_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
-		hiddenSelectionsTextures[] = {"\A3\Characters_F_Bootcamp\Guerilla\Data\ig_guerilla_6_1_co.paa"};
+		hiddenSelectionsTextures[] = {"\a3\characters_f_bootcamp\guerrilla\data\ig_guerrilla_6_1_co.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel="-";
@@ -956,10 +956,10 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="Guerilla Garment (Sand/Sand)";
-		picture="";
+		picture="\A3\Characters_F_Bootcamp\Data\UI\icon_U_G_guerrilla1_1_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
-		hiddenSelectionsTextures[] = {"\A3\Characters_F_Bootcamp\Guerilla\Data\ig_guerilla_6_1_co.paa"};
+		hiddenSelectionsTextures[] = {"\a3\characters_f_bootcamp\guerrilla\data\ig_guerrilla_6_1_co.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel="-";
@@ -972,10 +972,10 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="Guerilla Garment (Green/Sand)";
-		picture="";
+		picture="\A3\Characters_F_Bootcamp\Data\UI\icon_U_G_guerrilla1_1_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
-		hiddenSelectionsTextures[] = {"\A3\Characters_F_Bootcamp\Guerilla\Data\ig_guerilla_6_1_co.paa"};
+		hiddenSelectionsTextures[] = {"\a3\characters_f_bootcamp\guerrilla\data\ig_guerrilla_6_1_co.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel="-";
@@ -992,7 +992,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="Bandit Clothes (Rust/Jeans)";
-		picture="";
+		picture="\A3\Characters_F_Bootcamp\Data\UI\icon_U_G_guerrilla1_1_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\A3\Characters_F_Gamma\Guerrilla\Data\ig_guerrilla3_1_co.paa"};
@@ -1008,7 +1008,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="Bandit Clothes (Skull/Jeans)";
-		picture="";
+		picture="\A3\Characters_F_Bootcamp\Data\UI\icon_U_G_guerrilla1_1_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\A3\Characters_F_Gamma\Guerrilla\Data\ig_guerrilla3_1_co.paa"};
@@ -1024,7 +1024,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="Bandit Clothes (Camo Red/Jeans)";
-		picture="";
+		picture="\A3\Characters_F_Bootcamp\Data\UI\icon_U_G_guerrilla1_1_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\A3\Characters_F_Gamma\Guerrilla\Data\ig_guerrilla3_1_co.paa"};
@@ -1040,7 +1040,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="Bandit Clothes (Orange/Jeans)";
-		picture="";
+		picture="\A3\Characters_F_Bootcamp\Data\UI\icon_U_G_guerrilla1_1_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\A3\Characters_F_Gamma\Guerrilla\Data\ig_guerrilla3_1_co.paa"};
@@ -1056,7 +1056,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="Bandit Clothes (Yellow/Jeans)";
-		picture="";
+		picture="\A3\Characters_F_Bootcamp\Data\UI\icon_U_G_guerrilla1_1_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\A3\Characters_F_Gamma\Guerrilla\Data\ig_guerrilla3_1_co.paa"};
@@ -1072,7 +1072,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="Bandit Clothes (Blue/Jeans)";
-		picture="";
+		picture="\A3\Characters_F_Bootcamp\Data\UI\icon_U_G_guerrilla1_1_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\A3\Characters_F_Gamma\Guerrilla\Data\ig_guerrilla3_1_co.paa"};
@@ -1088,7 +1088,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="Bandit Clothes (Brown/Jeans)";
-		picture="";
+		picture="\A3\Characters_F_Bootcamp\Data\UI\icon_U_G_guerrilla1_1_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\A3\Characters_F_Gamma\Guerrilla\Data\ig_guerrilla3_1_co.paa"};
@@ -1104,7 +1104,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="Bandit Clothes (Arnold/Jeans)";
-		picture="";
+		picture="\A3\Characters_F_Bootcamp\Data\UI\icon_U_G_guerrilla1_1_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\A3\Characters_F_Gamma\Guerrilla\Data\ig_guerrilla3_1_co.paa"};
@@ -1120,7 +1120,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="Bandit Clothes (Sand/Jeans)";
-		picture="";
+		picture="\A3\Characters_F_Bootcamp\Data\UI\icon_U_G_guerrilla1_1_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\A3\Characters_F_Gamma\Guerrilla\Data\ig_guerrilla3_1_co.paa"};
@@ -1136,7 +1136,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="Bandit Clothes (Green/Jeans)";
-		picture="";
+		picture="\A3\Characters_F_Bootcamp\Data\UI\icon_U_G_guerrilla1_1_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\A3\Characters_F_Gamma\Guerrilla\Data\ig_guerrilla3_1_co.paa"};
@@ -1154,7 +1154,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="Bandit Clothes (Rust/Jeans Dark)";
-		picture="";
+		picture="\A3\Characters_F_Bootcamp\Data\UI\icon_U_G_guerrilla1_1_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\A3\Characters_F_Gamma\Guerrilla\Data\ig_guerrilla3_2_co.paa"};
@@ -1170,7 +1170,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="Bandit Clothes (Skull/Jeans Dark)";
-		picture="";
+		picture="\A3\Characters_F_Bootcamp\Data\UI\icon_U_G_guerrilla1_1_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\A3\Characters_F_Gamma\Guerrilla\Data\ig_guerrilla3_2_co.paa"};
@@ -1186,7 +1186,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="Bandit Clothes (Camo Red/Jeans Dark)";
-		picture="";
+		picture="\A3\Characters_F_Bootcamp\Data\UI\icon_U_G_guerrilla1_1_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\A3\Characters_F_Gamma\Guerrilla\Data\ig_guerrilla3_2_co.paa"};
@@ -1202,7 +1202,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="Bandit Clothes (Orange/Jeans Dark)";
-		picture="";
+		picture="\A3\Characters_F_Bootcamp\Data\UI\icon_U_G_guerrilla1_1_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\A3\Characters_F_Gamma\Guerrilla\Data\ig_guerrilla3_2_co.paa"};
@@ -1218,7 +1218,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="Bandit Clothes (Yellow/Jeans Dark)";
-		picture="";
+		picture="\A3\Characters_F_Bootcamp\Data\UI\icon_U_G_guerrilla1_1_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\A3\Characters_F_Gamma\Guerrilla\Data\ig_guerrilla3_2_co.paa"};
@@ -1234,7 +1234,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="Bandit Clothes (Blue/Jeans Dark)";
-		picture="";
+		picture="\A3\Characters_F_Bootcamp\Data\UI\icon_U_G_guerrilla1_1_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\A3\Characters_F_Gamma\Guerrilla\Data\ig_guerrilla3_2_co.paa"};
@@ -1250,7 +1250,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="Bandit Clothes (Brown/Jeans Dark)";
-		picture="";
+		picture="\A3\Characters_F_Bootcamp\Data\UI\icon_U_G_guerrilla1_1_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\A3\Characters_F_Gamma\Guerrilla\Data\ig_guerrilla3_2_co.paa"};
@@ -1266,7 +1266,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="Bandit Clothes (Arnold/Jeans Dark)";
-		picture="";
+		picture="\A3\Characters_F_Bootcamp\Data\UI\icon_U_G_guerrilla1_1_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\A3\Characters_F_Gamma\Guerrilla\Data\ig_guerrilla3_2_co.paa"};
@@ -1282,7 +1282,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="Bandit Clothes (Sand/Jeans Dark)";
-		picture="";
+		picture="\A3\Characters_F_Bootcamp\Data\UI\icon_U_G_guerrilla1_1_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\A3\Characters_F_Gamma\Guerrilla\Data\ig_guerrilla3_2_co.paa"};
@@ -1298,7 +1298,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="Bandit Clothes (Green/Jeans Dark)";
-		picture="";
+		picture="\A3\Characters_F_Bootcamp\Data\UI\icon_U_G_guerrilla1_1_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\A3\Characters_F_Gamma\Guerrilla\Data\ig_guerrilla3_2_co.paa"};
@@ -1316,7 +1316,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="Bandit Clothes (Rust/Jeans Dirty)";
-		picture="";
+		picture="\A3\Characters_F_Bootcamp\Data\UI\icon_U_G_guerrilla1_1_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"a3\characters_f_orange\uniforms\data\c_mechanic_01_camo2_co.paa"};
@@ -1332,7 +1332,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="Bandit Clothes (Skull/Jeans Dirty)";
-		picture="";
+		picture="\A3\Characters_F_Bootcamp\Data\UI\icon_U_G_guerrilla1_1_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"a3\characters_f_orange\uniforms\data\c_mechanic_01_camo2_co.paa"};
@@ -1348,7 +1348,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="Bandit Clothes (Camo Red/Jeans Dirty)";
-		picture="";
+		picture="\A3\Characters_F_Bootcamp\Data\UI\icon_U_G_guerrilla1_1_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"a3\characters_f_orange\uniforms\data\c_mechanic_01_camo2_co.paa"};
@@ -1364,7 +1364,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="Bandit Clothes (Orange/Jeans Dirty)";
-		picture="";
+		picture="\A3\Characters_F_Bootcamp\Data\UI\icon_U_G_guerrilla1_1_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"a3\characters_f_orange\uniforms\data\c_mechanic_01_camo2_co.paa"};
@@ -1380,7 +1380,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="Bandit Clothes (Yellow/Jeans Dirty)";
-		picture="";
+		picture="\A3\Characters_F_Bootcamp\Data\UI\icon_U_G_guerrilla1_1_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"a3\characters_f_orange\uniforms\data\c_mechanic_01_camo2_co.paa"};
@@ -1396,7 +1396,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="Bandit Clothes (Blue/Jeans Dirty)";
-		picture="";
+		picture="\A3\Characters_F_Bootcamp\Data\UI\icon_U_G_guerrilla1_1_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"a3\characters_f_orange\uniforms\data\c_mechanic_01_camo2_co.paa"};
@@ -1412,7 +1412,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="Bandit Clothes (Brown/Jeans Dirty)";
-		picture="";
+		picture="\A3\Characters_F_Bootcamp\Data\UI\icon_U_G_guerrilla1_1_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"a3\characters_f_orange\uniforms\data\c_mechanic_01_camo2_co.paa"};
@@ -1428,7 +1428,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="Bandit Clothes (Arnold/Jeans Dirty)";
-		picture="";
+		picture="\A3\Characters_F_Bootcamp\Data\UI\icon_U_G_guerrilla1_1_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"a3\characters_f_orange\uniforms\data\c_mechanic_01_camo2_co.paa"};
@@ -1444,7 +1444,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="Bandit Clothes (Sand/Jeans Dirty)";
-		picture="";
+		picture="\A3\Characters_F_Bootcamp\Data\UI\icon_U_G_guerrilla1_1_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"a3\characters_f_orange\uniforms\data\c_mechanic_01_camo2_co.paa"};
@@ -1460,7 +1460,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="Bandit Clothes (Green/Jeans Dirty)";
-		picture="";
+		picture="\A3\Characters_F_Bootcamp\Data\UI\icon_U_G_guerrilla1_1_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"a3\characters_f_orange\uniforms\data\c_mechanic_01_camo2_co.paa"};
@@ -1493,12 +1493,42 @@ class CfgWeapons
 		};
 		class ItemInfo: VestItem
 		{
-			uniformModel="\A3\Characters_F\Common\equip_rebreather";
-			containerClass="Supply0";
-			mass=80;
-			vestType="Rebreather";
+			uniformModel = "\A3\Characters_F\Common\equip_rebreather";
+			containerClass = "Supply0";
+			mass = 80;
+			vestType = "Rebreather";
+			//hiddenUnderwaterSelections[] = {"hide"};
+			//shownUnderwaterSelections[] = {"unhide", "unhide2"};
+			//hiddenUnderwaterSelectionsTextures[] = {"\A3\characters_f\common\data\diver_equip_nato_co.paa", "\A3\characters_f\common\data\diver_equip_nato_co.paa", "\A3\characters_f\data\visors_ca.paa"};
+			class HitpointsProtectionInfo
+			{
+				class Diaphragm
+				{
+					hitpointName = "HitDiaphragm";
+					armor = 8;
+					passThrough = 0.5;
+				};
+				class Abdomen
+				{
+					hitpointName = "HitAbdomen";
+					armor = 8;
+					passThrough = 0.5;
+				};
+				class Pelvis
+				{
+					hitpointName = "HitPelvis";
+					armor = 8;
+					passThrough = 0.5;
+				};
+				class Body
+				{
+					hitpointName = "HitBody";
+					passThrough = 0.5;
+				};
+			};
 		};
 	};
+	/* Does not display textures correctly. Only shows the NATO version for some reason.
 	class V_RebreatherIR;
 	class tmtm_v_rebreather_aaf: V_RebreatherIR
 	{
@@ -1506,12 +1536,48 @@ class CfgWeapons
 		scopeArsenal=2;
 		scopeCurator=0;
 		author="Trenchgun";
-		displayName = "Rebreather [CSAT] (Alt)";
+		displayName = "Rebreather [AAF] (Alt)";
 		hiddenSelectionsTextures[]=
 		{
 			"\A3\characters_f\common\data\diver_equip_rus_co.paa", 
 			"\A3\characters_f\common\data\diver_equip_rus_co.paa", 
 			"\A3\characters_f\data\visors_ca.paa"
+		};
+		class ItemInfo: VestItem
+		{
+			uniformModel = "\A3\Characters_F\Common\equip_rebreather";
+			containerClass = "Supply0";
+			mass = 80;
+			vestType = "Rebreather";
+			//hiddenUnderwaterSelections[] = {"hide"};
+			//shownUnderwaterSelections[] = {"unhide", "unhide2"};
+			//hiddenUnderwaterSelectionsTextures[] = {"\A3\characters_f\common\data\diver_equip_nato_co.paa", "\A3\characters_f\common\data\diver_equip_nato_co.paa", "\A3\characters_f\data\visors_ca.paa"};
+			class HitpointsProtectionInfo
+			{
+				class Diaphragm
+				{
+					hitpointName = "HitDiaphragm";
+					armor = 8;
+					passThrough = 0.5;
+				};
+				class Abdomen
+				{
+					hitpointName = "HitAbdomen";
+					armor = 8;
+					passThrough = 0.5;
+				};
+				class Pelvis
+				{
+					hitpointName = "HitPelvis";
+					armor = 8;
+					passThrough = 0.5;
+				};
+				class Body
+				{
+					hitpointName = "HitBody";
+					passThrough = 0.5;
+				};
+			};
 		};
 	};
 	class V_RebreatherIA;
@@ -1521,12 +1587,49 @@ class CfgWeapons
 		scopeArsenal=2;
 		scopeCurator=0;
 		author="Trenchgun";
-		displayName = "Rebreather [AAF] (Alt)";
+		displayName = "Rebreather [CSAT] (Alt)";
 		hiddenSelectionsTextures[]=
 		{
 			"\A3\characters_f\common\data\diver_equip_iran_co.paa", 
 			"\A3\characters_f\common\data\diver_equip_iran_co.paa", 
 			"\A3\characters_f\data\visors_ca.paa"
 		};
+		class ItemInfo: VestItem
+		{
+			uniformModel = "\A3\Characters_F\Common\equip_rebreather";
+			containerClass = "Supply0";
+			mass = 80;
+			vestType = "Rebreather";
+			//hiddenUnderwaterSelections[] = {"hide"};
+			//shownUnderwaterSelections[] = {"unhide", "unhide2"};
+			//hiddenUnderwaterSelectionsTextures[] = {"\A3\characters_f\common\data\diver_equip_nato_co.paa", "\A3\characters_f\common\data\diver_equip_nato_co.paa", "\A3\characters_f\data\visors_ca.paa"};
+			class HitpointsProtectionInfo
+			{
+				class Diaphragm
+				{
+					hitpointName = "HitDiaphragm";
+					armor = 8;
+					passThrough = 0.5;
+				};
+				class Abdomen
+				{
+					hitpointName = "HitAbdomen";
+					armor = 8;
+					passThrough = 0.5;
+				};
+				class Pelvis
+				{
+					hitpointName = "HitPelvis";
+					armor = 8;
+					passThrough = 0.5;
+				};
+				class Body
+				{
+					hitpointName = "HitBody";
+					passThrough = 0.5;
+				};
+			};
+		};
 	};
+	*/
 };
