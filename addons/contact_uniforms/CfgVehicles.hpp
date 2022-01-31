@@ -359,6 +359,32 @@ class CfgVehicles
 			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_brownMulticam_co.paa"
 		};
 	};
+	class tmtm_granit_cadpat: tmtm_granit_base
+	{
+		scope=1;
+		scopeArsenal=2;
+		scopeCurator=0;
+		displayName = "Granit (CADPAT)";
+		uniformClass = "tmtm_u_granit_cadpat";
+		
+		hiddenSelectionsTextures[] =
+		{
+			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_cadpat_co.paa"
+		};
+	};
+	class tmtm_granit_cadpatWinter: tmtm_granit_base
+	{
+		scope=1;
+		scopeArsenal=2;
+		scopeCurator=0;
+		displayName = "Granit (CADPAT/Winter)";
+		uniformClass = "tmtm_u_granit_cadpatWinter";
+		
+		hiddenSelectionsTextures[] =
+		{
+			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_cadpatWinter_co.paa"
+		};
+	};
 	class tmtm_granit_cbrn: tmtm_granit_base
 	{
 		scope=1;
@@ -396,6 +422,110 @@ class CfgVehicles
 		hiddenSelectionsTextures[] =
 		{
 			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_cbrnBlackAlt_co.paa"
+		};
+	};
+	class tmtm_granit_csat: tmtm_granit_base
+	{
+		scope=1;
+		scopeArsenal=2;
+		scopeCurator=0;
+		displayName = "Granit (CSAT)";
+		uniformClass = "tmtm_u_granit_csat";
+		
+		hiddenSelectionsTextures[] =
+		{
+			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_csat_co.paa"
+		};
+	};
+	class tmtm_granit_csatAlt: tmtm_granit_base
+	{
+		scope=1;
+		scopeArsenal=2;
+		scopeCurator=0;
+		displayName = "Granit (CSAT Alt)";
+		uniformClass = "tmtm_u_granit_csatAlt";
+		
+		hiddenSelectionsTextures[] =
+		{
+			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_csatAlt_co.paa"
+		};
+	};
+	class tmtm_granit_csatArid: tmtm_granit_base
+	{
+		scope=1;
+		scopeArsenal=2;
+		scopeCurator=0;
+		displayName = "Granit (CSAT Arid)";
+		uniformClass = "tmtm_u_granit_csatArid";
+		
+		hiddenSelectionsTextures[] =
+		{
+			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_csatArid_co.paa"
+		};
+	};
+	class tmtm_granit_csatAridAlt: tmtm_granit_base
+	{
+		scope=1;
+		scopeArsenal=2;
+		scopeCurator=0;
+		displayName = "Granit (CSAT Arid Alt)";
+		uniformClass = "tmtm_u_granit_csatAridAlt";
+		
+		hiddenSelectionsTextures[] =
+		{
+			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_csatAridAlt_co.paa"
+		};
+	};
+	class tmtm_granit_emr: tmtm_granit_base
+	{
+		scope=1;
+		scopeArsenal=2;
+		scopeCurator=0;
+		displayName = "Granit (EMR)";
+		uniformClass = "tmtm_u_granit_emr";
+		
+		hiddenSelectionsTextures[] =
+		{
+			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_emr_co.paa"
+		};
+	};
+	class tmtm_granit_emrAlt: tmtm_granit_base
+	{
+		scope=1;
+		scopeArsenal=2;
+		scopeCurator=0;
+		displayName = "Granit (EMR Alt)";
+		uniformClass = "tmtm_u_granit_emrAlt";
+		
+		hiddenSelectionsTextures[] =
+		{
+			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_emrAlt_co.paa"
+		};
+	};
+	class tmtm_granit_emrFull: tmtm_granit_base
+	{
+		scope=1;
+		scopeArsenal=2;
+		scopeCurator=0;
+		displayName = "Granit (EMR Full)";
+		uniformClass = "tmtm_u_granit_emrFull";
+		
+		hiddenSelectionsTextures[] =
+		{
+			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_emrFull_co.paa"
+		};
+	};
+	class tmtm_granit_emrWinter: tmtm_granit_base
+	{
+		scope=1;
+		scopeArsenal=2;
+		scopeCurator=0;
+		displayName = "Granit (EMR/Winter)";
+		uniformClass = "tmtm_u_granit_emrWinter";
+		
+		hiddenSelectionsTextures[] =
+		{
+			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_emrWinter_co.paa"
 		};
 	};
 	class tmtm_granit_flecktarn: tmtm_granit_base
@@ -489,6 +619,97 @@ class CfgVehicles
 			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_grey_co.paa"
 		};
 	};
+	class tmtm_granit_izlom: tmtm_granit_base
+	{
+		scope=1;
+		scopeArsenal=2;
+		scopeCurator=0;
+		displayName = "Granit (Izlom)";
+		uniformClass = "tmtm_u_granit_izlom";
+		
+		hiddenSelectionsTextures[] =
+		{
+			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_izlom_co.paa"
+		};
+	};
+	class tmtm_granit_izlomAlt: tmtm_granit_base
+	{
+		scope=1;
+		scopeArsenal=2;
+		scopeCurator=0;
+		displayName = "Granit (Izlom Alt)";
+		uniformClass = "tmtm_u_granit_izlomAlt";
+		
+		hiddenSelectionsTextures[] =
+		{
+			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_izlomAlt_co.paa"
+		};
+	};
+	class tmtm_granit_izlomAltWinter: tmtm_granit_base
+	{
+		scope=1;
+		scopeArsenal=2;
+		scopeCurator=0;
+		displayName = "Granit (Izlom Alt Winter)";
+		uniformClass = "tmtm_u_granit_izlomAltWinter";
+		
+		hiddenSelectionsTextures[] =
+		{
+			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_izlomAltWinter_co.paa"
+		};
+	};
+	class tmtm_granit_kamysh: tmtm_granit_base
+	{
+		scope=1;
+		scopeArsenal=2;
+		scopeCurator=0;
+		displayName = "Granit (Kamysh)";
+		uniformClass = "tmtm_u_granit_kamysh";
+		
+		hiddenSelectionsTextures[] =
+		{
+			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_kamysh_co.paa"
+		};
+	};
+	class tmtm_granit_kamyshAlt: tmtm_granit_base
+	{
+		scope=1;
+		scopeArsenal=2;
+		scopeCurator=0;
+		displayName = "Granit (Kamysh Alt)";
+		uniformClass = "tmtm_u_granit_kamyshAlt";
+		
+		hiddenSelectionsTextures[] =
+		{
+			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_kamyshAlt_co.paa"
+		};
+	};
+	class tmtm_granit_kamyshFull: tmtm_granit_base
+	{
+		scope=1;
+		scopeArsenal=2;
+		scopeCurator=0;
+		displayName = "Granit (Kamysh Full)";
+		uniformClass = "tmtm_u_granit_kamyshFull";
+		
+		hiddenSelectionsTextures[] =
+		{
+			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_kamyshFull_co.paa"
+		};
+	};
+	class tmtm_granit_kamyshWinter: tmtm_granit_base
+	{
+		scope=1;
+		scopeArsenal=2;
+		scopeCurator=0;
+		displayName = "Granit (Kamysh Winter)";
+		uniformClass = "tmtm_u_granit_kamyshWinter";
+		
+		hiddenSelectionsTextures[] =
+		{
+			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_kamyshWinter_co.paa"
+		};
+	};
 	class tmtm_granit_klmk: tmtm_granit_base
 	{
 		scope=1;
@@ -541,6 +762,32 @@ class CfgVehicles
 			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_klmkReverseAlt_co.paa"
 		};
 	};
+	class tmtm_granit_ldf: tmtm_granit_base
+	{
+		scope=1;
+		scopeArsenal=2;
+		scopeCurator=0;
+		displayName = "Granit (LDF)";
+		uniformClass = "tmtm_u_granit_ldf";
+		
+		hiddenSelectionsTextures[] =
+		{
+			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_ldf_co.paa"
+		};
+	};
+	class tmtm_granit_ldfAlt: tmtm_granit_base
+	{
+		scope=1;
+		scopeArsenal=2;
+		scopeCurator=0;
+		displayName = "Granit (LDF Alt)";
+		uniformClass = "tmtm_u_granit_ldfAlt";
+		
+		hiddenSelectionsTextures[] =
+		{
+			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_ldfAlt_co.paa"
+		};
+	};
 	class tmtm_granit_m81: tmtm_granit_base
 	{
 		scope=1;
@@ -565,6 +812,123 @@ class CfgVehicles
 		hiddenSelectionsTextures[] =
 		{
 			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_m81Winter_co.paa"
+		};
+	};
+	class tmtm_granit_marpatDes: tmtm_granit_base
+	{
+		scope=1;
+		scopeArsenal=2;
+		scopeCurator=0;
+		displayName = "Granit (MARPAT Desert)";
+		uniformClass = "tmtm_u_granit_marpatDes";
+		
+		hiddenSelectionsTextures[] =
+		{
+			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_marpatDes_co.paa"
+		};
+	};
+	class tmtm_granit_marpatDesWinter: tmtm_granit_base
+	{
+		scope=1;
+		scopeArsenal=2;
+		scopeCurator=0;
+		displayName = "Granit (MARPAT Desert/Winter)";
+		uniformClass = "tmtm_u_granit_marpatDesWinter";
+		
+		hiddenSelectionsTextures[] =
+		{
+			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_marpatDesWinter_co.paa"
+		};
+	};
+	class tmtm_granit_marpatWdl: tmtm_granit_base
+	{
+		scope=1;
+		scopeArsenal=2;
+		scopeCurator=0;
+		displayName = "Granit (MARPAT)";
+		uniformClass = "tmtm_u_granit_marpatWdl";
+		
+		hiddenSelectionsTextures[] =
+		{
+			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_marpatWdl_co.paa"
+		};
+	};
+	class tmtm_granit_marpatWdlWinter: tmtm_granit_base
+	{
+		scope=1;
+		scopeArsenal=2;
+		scopeCurator=0;
+		displayName = "Granit (MARPAT/Winter)";
+		uniformClass = "tmtm_u_granit_marpatWdlWinter";
+		
+		hiddenSelectionsTextures[] =
+		{
+			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_marpatWdlWinter_co.paa"
+		};
+	};
+	class tmtm_granit_mtp: tmtm_granit_base
+	{
+		scope=1;
+		scopeArsenal=2;
+		scopeCurator=0;
+		displayName = "Granit (MTP)";
+		uniformClass = "tmtm_u_granit_mtp";
+		
+		hiddenSelectionsTextures[] =
+		{
+			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_mtp_co.paa"
+		};
+	};
+	class tmtm_granit_mtpWinter: tmtm_granit_base
+	{
+		scope=1;
+		scopeArsenal=2;
+		scopeCurator=0;
+		displayName = "Granit (MTP/Winter)";
+		uniformClass = "tmtm_u_granit_mtpWinter";
+		
+		hiddenSelectionsTextures[] =
+		{
+			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_mtpWinter_co.paa"
+		};
+	};
+	class tmtm_granit_multicam: tmtm_granit_base
+	{
+		scope=1;
+		scopeArsenal=2;
+		scopeCurator=0;
+		displayName = "Granit (Multicam)";
+		uniformClass = "tmtm_u_granit_multicam";
+		
+		hiddenSelectionsTextures[] =
+		{
+			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_multicam_co.paa"
+		};
+	};
+	class tmtm_granit_multicamWinter: tmtm_granit_base
+	{
+		scope=1;
+		scopeArsenal=2;
+		scopeCurator=0;
+		displayName = "Granit (Multicam/Winter)";
+		uniformClass = "tmtm_u_granit_multicamWinter";
+		
+		hiddenSelectionsTextures[] =
+		{
+			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_multicamWinter_co.paa"
+		};
+	};
+	class tmtm_granit_natoWinter: tmtm_granit_base
+	{
+		scope=1;
+		scopeArsenal=2;
+		scopeCurator=0;
+		displayName = "Granit (NATO Winter)";
+		uniformClass = "tmtm_u_granit_natoWinter";
+		
+		hiddenSelectionsTextures[] =
+		{
+			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_natoWinter_co.paa"
 		};
 	};
 	class tmtm_granit_night3cd: tmtm_granit_base
@@ -604,6 +968,32 @@ class CfgVehicles
 		hiddenSelectionsTextures[] =
 		{
 			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_nightM81_co.paa"
+		};
+	};
+	class tmtm_granit_ocp: tmtm_granit_base
+	{
+		scope=1;
+		scopeArsenal=2;
+		scopeCurator=0;
+		displayName = "Granit (OCP)";
+		uniformClass = "tmtm_u_granit_ocp";
+		
+		hiddenSelectionsTextures[] =
+		{
+			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_ocp_co.paa"
+		};
+	};
+	class tmtm_granit_ocpWinter: tmtm_granit_base
+	{
+		scope=1;
+		scopeArsenal=2;
+		scopeCurator=0;
+		displayName = "Granit (OCP/Winter)";
+		uniformClass = "tmtm_u_granit_ocpWinter";
+		
+		hiddenSelectionsTextures[] =
+		{
+			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_ocpWinter_co.paa"
 		};
 	};
 	class tmtm_granit_olive3cd: tmtm_granit_base
@@ -736,147 +1126,43 @@ class CfgVehicles
 			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_partizanAutumnAltWinter_co.paa"
 		};
 	};
-	class tmtm_granit_winterM81: tmtm_granit_base
+	class tmtm_granit_skol: tmtm_granit_base
 	{
 		scope=1;
 		scopeArsenal=2;
 		scopeCurator=0;
-		displayName = "Granit (Winter/M81)";
-		uniformClass = "tmtm_u_granit_winterM81";
+		displayName = "Granit (Skol)";
+		uniformClass = "tmtm_u_granit_skol";
 		
 		hiddenSelectionsTextures[] =
 		{
-			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_winterM81_co.paa"
+			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_skol_co.paa"
 		};
 	};
-	class tmtm_granit_winterEmr: tmtm_granit_base
+	class tmtm_granit_skolAlt: tmtm_granit_base
 	{
 		scope=1;
 		scopeArsenal=2;
 		scopeCurator=0;
-		displayName = "Granit (Winter/EMR)";
-		uniformClass = "tmtm_u_granit_winterEmr";
+		displayName = "Granit (Skol Alt)";
+		uniformClass = "tmtm_u_granit_skolAlt";
 		
 		hiddenSelectionsTextures[] =
 		{
-			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_winterEmr_co.paa"
+			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_skolAlt_co.paa"
 		};
 	};
-	class tmtm_granit_winterIzlomAlt: tmtm_granit_base
+	class tmtm_granit_skolAltWinter: tmtm_granit_base
 	{
 		scope=1;
 		scopeArsenal=2;
 		scopeCurator=0;
-		displayName = "Granit (Winter/Izlom Alt)";
-		uniformClass = "tmtm_u_granit_winterIzlomAlt";
+		displayName = "Granit (Skol Alt/Winter)";
+		uniformClass = "tmtm_u_granit_skolAltWinter";
 		
 		hiddenSelectionsTextures[] =
 		{
-			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_winterIzlomAlt_co.paa"
-		};
-	};
-	class tmtm_granit_winterKamysh: tmtm_granit_base
-	{
-		scope=1;
-		scopeArsenal=2;
-		scopeCurator=0;
-		displayName = "Granit (Winter/Kamysh)";
-		uniformClass = "tmtm_u_granit_winterKamysh";
-		
-		hiddenSelectionsTextures[] =
-		{
-			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_winterKamysh_co.paa"
-		};
-	};
-	class tmtm_granit_winterPartizanAlt: tmtm_granit_base
-	{
-		scope=1;
-		scopeArsenal=2;
-		scopeCurator=0;
-		displayName = "Granit (Winter/Partizan Alt)";
-		uniformClass = "tmtm_u_granit_winterPartizanAlt";
-		
-		hiddenSelectionsTextures[] =
-		{
-			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_winterPartizanAlt_co.paa"
-		};
-	};
-	class tmtm_granit_winterPartizanAutumnAlt: tmtm_granit_base
-	{
-		scope=1;
-		scopeArsenal=2;
-		scopeCurator=0;
-		displayName = "Granit (Winter/Partizan Autumn Alt)";
-		uniformClass = "tmtm_u_granit_winterPartizanAutumnAlt";
-		
-		hiddenSelectionsTextures[] =
-		{
-			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_winterPartizanAutumnAlt_co.paa"
-		};
-	};
-	class tmtm_granit_winterSkolAlt: tmtm_granit_base
-	{
-		scope=1;
-		scopeArsenal=2;
-		scopeCurator=0;
-		displayName = "Granit (Winter/Skol Alt)";
-		uniformClass = "tmtm_u_granit_winterSkolAlt";
-		
-		hiddenSelectionsTextures[] =
-		{
-			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_winterSkolAlt_co.paa"
-		};
-	};
-	class tmtm_granit_emr: tmtm_granit_base
-	{
-		scope=1;
-		scopeArsenal=2;
-		scopeCurator=0;
-		displayName = "Granit (EMR)";
-		uniformClass = "tmtm_u_granit_emr";
-		
-		hiddenSelectionsTextures[] =
-		{
-			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_emr_co.paa"
-		};
-	};
-	class tmtm_granit_emrAlt: tmtm_granit_base
-	{
-		scope=1;
-		scopeArsenal=2;
-		scopeCurator=0;
-		displayName = "Granit (EMR Alt)";
-		uniformClass = "tmtm_u_granit_emrAlt";
-		
-		hiddenSelectionsTextures[] =
-		{
-			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_emrAlt_co.paa"
-		};
-	};
-	class tmtm_granit_emrFull: tmtm_granit_base
-	{
-		scope=1;
-		scopeArsenal=2;
-		scopeCurator=0;
-		displayName = "Granit (EMR Full)";
-		uniformClass = "tmtm_u_granit_emrFull";
-		
-		hiddenSelectionsTextures[] =
-		{
-			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_emrFull_co.paa"
-		};
-	};
-	class tmtm_granit_emrWinter: tmtm_granit_base
-	{
-		scope=1;
-		scopeArsenal=2;
-		scopeCurator=0;
-		displayName = "Granit (EMR/Winter)";
-		uniformClass = "tmtm_u_granit_emrWinter";
-		
-		hiddenSelectionsTextures[] =
-		{
-			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_emrWinter_co.paa"
+			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_skolAltWinter_co.paa"
 		};
 	};
 	class tmtm_granit_surpat: tmtm_granit_base
@@ -944,134 +1230,30 @@ class CfgVehicles
 			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_surpatBlack_co.paa"
 		};
 	};
-	class tmtm_granit_kamysh: tmtm_granit_base
+	class tmtm_granit_urbanRed: tmtm_granit_base
 	{
 		scope=1;
 		scopeArsenal=2;
 		scopeCurator=0;
-		displayName = "Granit (Kamysh)";
-		uniformClass = "tmtm_u_granit_kamysh";
+		displayName = "Granit (Urban Red)";
+		uniformClass = "tmtm_u_granit_urbanRed";
 		
 		hiddenSelectionsTextures[] =
 		{
-			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_kamysh_co.paa"
+			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_urbanRed_co.paa"
 		};
 	};
-	class tmtm_granit_kamyshAlt: tmtm_granit_base
+	class tmtm_granit_urbanRedAlt: tmtm_granit_base
 	{
 		scope=1;
 		scopeArsenal=2;
 		scopeCurator=0;
-		displayName = "Granit (Kamysh Alt)";
-		uniformClass = "tmtm_u_granit_kamyshAlt";
+		displayName = "Granit (Urban Red Alt)";
+		uniformClass = "tmtm_u_granit_urbanRedAlt";
 		
 		hiddenSelectionsTextures[] =
 		{
-			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_kamyshAlt_co.paa"
-		};
-	};
-	class tmtm_granit_kamyshFull: tmtm_granit_base
-	{
-		scope=1;
-		scopeArsenal=2;
-		scopeCurator=0;
-		displayName = "Granit (Kamysh Full)";
-		uniformClass = "tmtm_u_granit_kamyshFull";
-		
-		hiddenSelectionsTextures[] =
-		{
-			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_kamyshFull_co.paa"
-		};
-	};
-	class tmtm_granit_kamyshWinter: tmtm_granit_base
-	{
-		scope=1;
-		scopeArsenal=2;
-		scopeCurator=0;
-		displayName = "Granit (Kamysh Winter)";
-		uniformClass = "tmtm_u_granit_kamyshWinter";
-		
-		hiddenSelectionsTextures[] =
-		{
-			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_kamyshWinter_co.paa"
-		};
-	};
-	class tmtm_granit_skol: tmtm_granit_base
-	{
-		scope=1;
-		scopeArsenal=2;
-		scopeCurator=0;
-		displayName = "Granit (Skol)";
-		uniformClass = "tmtm_u_granit_skol";
-		
-		hiddenSelectionsTextures[] =
-		{
-			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_skol_co.paa"
-		};
-	};
-	class tmtm_granit_skolAlt: tmtm_granit_base
-	{
-		scope=1;
-		scopeArsenal=2;
-		scopeCurator=0;
-		displayName = "Granit (Skol Alt)";
-		uniformClass = "tmtm_u_granit_skolAlt";
-		
-		hiddenSelectionsTextures[] =
-		{
-			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_skolAlt_co.paa"
-		};
-	};
-	class tmtm_granit_skolAltWinter: tmtm_granit_base
-	{
-		scope=1;
-		scopeArsenal=2;
-		scopeCurator=0;
-		displayName = "Granit (Skol Alt/Winter)";
-		uniformClass = "tmtm_u_granit_skolAltWinter";
-		
-		hiddenSelectionsTextures[] =
-		{
-			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_skolAltWinter_co.paa"
-		};
-	};
-	class tmtm_granit_izlom: tmtm_granit_base
-	{
-		scope=1;
-		scopeArsenal=2;
-		scopeCurator=0;
-		displayName = "Granit (Izlom)";
-		uniformClass = "tmtm_u_granit_izlom";
-		
-		hiddenSelectionsTextures[] =
-		{
-			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_izlom_co.paa"
-		};
-	};
-	class tmtm_granit_izlomAlt: tmtm_granit_base
-	{
-		scope=1;
-		scopeArsenal=2;
-		scopeCurator=0;
-		displayName = "Granit (Izlom Alt)";
-		uniformClass = "tmtm_u_granit_izlomAlt";
-		
-		hiddenSelectionsTextures[] =
-		{
-			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_izlomAlt_co.paa"
-		};
-	};
-	class tmtm_granit_izlomAltWinter: tmtm_granit_base
-	{
-		scope=1;
-		scopeArsenal=2;
-		scopeCurator=0;
-		displayName = "Granit (Izlom Alt Winter)";
-		uniformClass = "tmtm_u_granit_izlomAltWinter";
-		
-		hiddenSelectionsTextures[] =
-		{
-			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_izlomAltWinter_co.paa"
+			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_urbanRedAlt_co.paa"
 		};
 	};
 	class tmtm_granit_white: tmtm_granit_base
@@ -1087,58 +1269,6 @@ class CfgVehicles
 			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_white_co.paa"
 		};
 	};
-	class tmtm_granit_natoWinter: tmtm_granit_base
-	{
-		scope=1;
-		scopeArsenal=2;
-		scopeCurator=0;
-		displayName = "Granit (NATO Winter)";
-		uniformClass = "tmtm_u_granit_natoWinter";
-		
-		hiddenSelectionsTextures[] =
-		{
-			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_natoWinter_co.paa"
-		};
-	};
-	class tmtm_granit_: tmtm_granit_base
-	{
-		scope=1;
-		scopeArsenal=2;
-		scopeCurator=0;
-		displayName = "Granit ()";
-		uniformClass = "tmtm_u_granit_";
-		
-		hiddenSelectionsTextures[] =
-		{
-			"\tmtm\pack\contact_uniforms\Data\tmtm_granit__co.paa"
-		};
-	};
-	class tmtm_granit_cadpat: tmtm_granit_base
-	{
-		scope=1;
-		scopeArsenal=2;
-		scopeCurator=0;
-		displayName = "Granit (CADPAT)";
-		uniformClass = "tmtm_u_granit_cadpat";
-		
-		hiddenSelectionsTextures[] =
-		{
-			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_cadpat_co.paa"
-		};
-	};
-	class tmtm_granit_cadpatWinter: tmtm_granit_base
-	{
-		scope=1;
-		scopeArsenal=2;
-		scopeCurator=0;
-		displayName = "Granit (CADPAT/Winter)";
-		uniformClass = "tmtm_u_granit_cadpatWinter";
-		
-		hiddenSelectionsTextures[] =
-		{
-			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_cadpatWinter_co.paa"
-		};
-	};
 	class tmtm_granit_winterCadpat: tmtm_granit_base
 	{
 		scope=1;
@@ -1152,30 +1282,69 @@ class CfgVehicles
 			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_winterCadpat_co.paa"
 		};
 	};
-	class tmtm_granit_marpatWdl: tmtm_granit_base
+	class tmtm_granit_winterEmr: tmtm_granit_base
 	{
 		scope=1;
 		scopeArsenal=2;
 		scopeCurator=0;
-		displayName = "Granit (MARPAT)";
-		uniformClass = "tmtm_u_granit_marpatWdl";
+		displayName = "Granit (Winter/EMR)";
+		uniformClass = "tmtm_u_granit_winterEmr";
 		
 		hiddenSelectionsTextures[] =
 		{
-			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_marpatWdl_co.paa"
+			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_winterEmr_co.paa"
 		};
 	};
-	class tmtm_granit_marpatWdlWinter: tmtm_granit_base
+	class tmtm_granit_winterIzlomAlt: tmtm_granit_base
 	{
 		scope=1;
 		scopeArsenal=2;
 		scopeCurator=0;
-		displayName = "Granit (MARPAT/Winter)";
-		uniformClass = "tmtm_u_granit_marpatWdlWinter";
+		displayName = "Granit (Winter/Izlom Alt)";
+		uniformClass = "tmtm_u_granit_winterIzlomAlt";
 		
 		hiddenSelectionsTextures[] =
 		{
-			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_marpatWdlWinter_co.paa"
+			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_winterIzlomAlt_co.paa"
+		};
+	};
+	class tmtm_granit_winterKamysh: tmtm_granit_base
+	{
+		scope=1;
+		scopeArsenal=2;
+		scopeCurator=0;
+		displayName = "Granit (Winter/Kamysh)";
+		uniformClass = "tmtm_u_granit_winterKamysh";
+		
+		hiddenSelectionsTextures[] =
+		{
+			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_winterKamysh_co.paa"
+		};
+	};
+	class tmtm_granit_winterM81: tmtm_granit_base
+	{
+		scope=1;
+		scopeArsenal=2;
+		scopeCurator=0;
+		displayName = "Granit (Winter/M81)";
+		uniformClass = "tmtm_u_granit_winterM81";
+		
+		hiddenSelectionsTextures[] =
+		{
+			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_winterM81_co.paa"
+		};
+	};
+	class tmtm_granit_winterMarpatDes: tmtm_granit_base
+	{
+		scope=1;
+		scopeArsenal=2;
+		scopeCurator=0;
+		displayName = "Granit (Winter/MARPAT Desert)";
+		uniformClass = "tmtm_u_granit_winterMarpatDes";
+		
+		hiddenSelectionsTextures[] =
+		{
+			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_winterMarpatDes_co.paa"
 		};
 	};
 	class tmtm_granit_winterMarpatWdl: tmtm_granit_base
@@ -1191,43 +1360,95 @@ class CfgVehicles
 			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_winterMarpatWdl_co.paa"
 		};
 	};
-	class tmtm_granit_marpatDes: tmtm_granit_base
+	class tmtm_granit_winterMtp: tmtm_granit_base
 	{
 		scope=1;
 		scopeArsenal=2;
 		scopeCurator=0;
-		displayName = "Granit (MARPAT Desert)";
-		uniformClass = "tmtm_u_granit_marpatDes";
+		displayName = "Granit (Winter/MTP)";
+		uniformClass = "tmtm_u_granit_winterMtp";
 		
 		hiddenSelectionsTextures[] =
 		{
-			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_marpatDes_co.paa"
+			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_winterMtp_co.paa"
 		};
 	};
-	class tmtm_granit_marpatDesWinter: tmtm_granit_base
+	class tmtm_granit_winterMulticam: tmtm_granit_base
 	{
 		scope=1;
 		scopeArsenal=2;
 		scopeCurator=0;
-		displayName = "Granit (MARPAT Desert/Winter)";
-		uniformClass = "tmtm_u_granit_marpatDesWinter";
+		displayName = "Granit (Winter/Multicam)";
+		uniformClass = "tmtm_u_granit_winterMulticam";
 		
 		hiddenSelectionsTextures[] =
 		{
-			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_marpatDesWinter_co.paa"
+			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_winterMulticam_co.paa"
 		};
 	};
-	class tmtm_granit_winterMarpatDes: tmtm_granit_base
+	class tmtm_granit_winterOcp: tmtm_granit_base
 	{
 		scope=1;
 		scopeArsenal=2;
 		scopeCurator=0;
-		displayName = "Granit (Winter/MARPAT Desert)";
-		uniformClass = "tmtm_u_granit_winterMarpatDes";
+		displayName = "Granit (Winter/OCP)";
+		uniformClass = "tmtm_u_granit_winterOcp";
 		
 		hiddenSelectionsTextures[] =
 		{
-			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_winterMarpatDes_co.paa"
+			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_winterOcp_co.paa"
+		};
+	};
+	class tmtm_granit_winterPartizanAlt: tmtm_granit_base
+	{
+		scope=1;
+		scopeArsenal=2;
+		scopeCurator=0;
+		displayName = "Granit (Winter/Partizan Alt)";
+		uniformClass = "tmtm_u_granit_winterPartizanAlt";
+		
+		hiddenSelectionsTextures[] =
+		{
+			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_winterPartizanAlt_co.paa"
+		};
+	};
+	class tmtm_granit_winterPartizanAutumnAlt: tmtm_granit_base
+	{
+		scope=1;
+		scopeArsenal=2;
+		scopeCurator=0;
+		displayName = "Granit (Winter/Partizan Autumn Alt)";
+		uniformClass = "tmtm_u_granit_winterPartizanAutumnAlt";
+		
+		hiddenSelectionsTextures[] =
+		{
+			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_winterPartizanAutumnAlt_co.paa"
+		};
+	};
+	class tmtm_granit_winterSkolAlt: tmtm_granit_base
+	{
+		scope=1;
+		scopeArsenal=2;
+		scopeCurator=0;
+		displayName = "Granit (Winter/Skol Alt)";
+		uniformClass = "tmtm_u_granit_winterSkolAlt";
+		
+		hiddenSelectionsTextures[] =
+		{
+			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_winterSkolAlt_co.paa"
+		};
+	};
+	class tmtm_granit_winterUcp: tmtm_granit_base
+	{
+		scope=1;
+		scopeArsenal=2;
+		scopeCurator=0;
+		displayName = "Granit (Winter/UCP)";
+		uniformClass = "tmtm_u_granit_winterUcp";
+		
+		hiddenSelectionsTextures[] =
+		{
+			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_winterUcp_co.paa"
 		};
 	};
 	class tmtm_granit_ucp: tmtm_granit_base
@@ -1254,240 +1475,6 @@ class CfgVehicles
 		hiddenSelectionsTextures[] =
 		{
 			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_ucpWinter_co.paa"
-		};
-	};
-	class tmtm_granit_winterUcp: tmtm_granit_base
-	{
-		scope=1;
-		scopeArsenal=2;
-		scopeCurator=0;
-		displayName = "Granit (Winter/UCP)";
-		uniformClass = "tmtm_u_granit_winterUcp";
-		
-		hiddenSelectionsTextures[] =
-		{
-			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_winterUcp_co.paa"
-		};
-	};
-	class tmtm_granit_mtp: tmtm_granit_base
-	{
-		scope=1;
-		scopeArsenal=2;
-		scopeCurator=0;
-		displayName = "Granit (MTP)";
-		uniformClass = "tmtm_u_granit_mtp";
-		
-		hiddenSelectionsTextures[] =
-		{
-			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_mtp_co.paa"
-		};
-	};
-	class tmtm_granit_mtpWinter: tmtm_granit_base
-	{
-		scope=1;
-		scopeArsenal=2;
-		scopeCurator=0;
-		displayName = "Granit (MTP/Winter)";
-		uniformClass = "tmtm_u_granit_mtpWinter";
-		
-		hiddenSelectionsTextures[] =
-		{
-			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_mtpWinter_co.paa"
-		};
-	};
-	class tmtm_granit_winterMtp: tmtm_granit_base
-	{
-		scope=1;
-		scopeArsenal=2;
-		scopeCurator=0;
-		displayName = "Granit (Winter/MTP)";
-		uniformClass = "tmtm_u_granit_winterMtp";
-		
-		hiddenSelectionsTextures[] =
-		{
-			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_winterMtp_co.paa"
-		};
-	};
-	class tmtm_granit_ocp: tmtm_granit_base
-	{
-		scope=1;
-		scopeArsenal=2;
-		scopeCurator=0;
-		displayName = "Granit (OCP)";
-		uniformClass = "tmtm_u_granit_ocp";
-		
-		hiddenSelectionsTextures[] =
-		{
-			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_ocp_co.paa"
-		};
-	};
-	class tmtm_granit_ocpWinter: tmtm_granit_base
-	{
-		scope=1;
-		scopeArsenal=2;
-		scopeCurator=0;
-		displayName = "Granit (OCP/Winter)";
-		uniformClass = "tmtm_u_granit_ocpWinter";
-		
-		hiddenSelectionsTextures[] =
-		{
-			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_ocpWinter_co.paa"
-		};
-	};
-	class tmtm_granit_winterOcp: tmtm_granit_base
-	{
-		scope=1;
-		scopeArsenal=2;
-		scopeCurator=0;
-		displayName = "Granit (Winter/OCP)";
-		uniformClass = "tmtm_u_granit_winterOcp";
-		
-		hiddenSelectionsTextures[] =
-		{
-			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_winterOcp_co.paa"
-		};
-	};
-	class tmtm_granit_multicam: tmtm_granit_base
-	{
-		scope=1;
-		scopeArsenal=2;
-		scopeCurator=0;
-		displayName = "Granit (Multicam)";
-		uniformClass = "tmtm_u_granit_multicam";
-		
-		hiddenSelectionsTextures[] =
-		{
-			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_multicam_co.paa"
-		};
-	};
-	class tmtm_granit_multicamWinter: tmtm_granit_base
-	{
-		scope=1;
-		scopeArsenal=2;
-		scopeCurator=0;
-		displayName = "Granit (Multicam/Winter)";
-		uniformClass = "tmtm_u_granit_multicamWinter";
-		
-		hiddenSelectionsTextures[] =
-		{
-			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_multicamWinter_co.paa"
-		};
-	};
-	class tmtm_granit_winterMulticam: tmtm_granit_base
-	{
-		scope=1;
-		scopeArsenal=2;
-		scopeCurator=0;
-		displayName = "Granit (Winter/Multicam)";
-		uniformClass = "tmtm_u_granit_winterMulticam";
-		
-		hiddenSelectionsTextures[] =
-		{
-			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_winterMulticam_co.paa"
-		};
-	};
-	class tmtm_granit_csat: tmtm_granit_base
-	{
-		scope=1;
-		scopeArsenal=2;
-		scopeCurator=0;
-		displayName = "Granit (CSAT)";
-		uniformClass = "tmtm_u_granit_csat";
-		
-		hiddenSelectionsTextures[] =
-		{
-			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_csat_co.paa"
-		};
-	};
-	class tmtm_granit_csatAlt: tmtm_granit_base
-	{
-		scope=1;
-		scopeArsenal=2;
-		scopeCurator=0;
-		displayName = "Granit (CSAT Alt)";
-		uniformClass = "tmtm_u_granit_csatAlt";
-		
-		hiddenSelectionsTextures[] =
-		{
-			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_csatAlt_co.paa"
-		};
-	};
-	class tmtm_granit_csatArid: tmtm_granit_base
-	{
-		scope=1;
-		scopeArsenal=2;
-		scopeCurator=0;
-		displayName = "Granit (CSAT Arid)";
-		uniformClass = "tmtm_u_granit_csatArid";
-		
-		hiddenSelectionsTextures[] =
-		{
-			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_csatArid_co.paa"
-		};
-	};
-	class tmtm_granit_csatAridAlt: tmtm_granit_base
-	{
-		scope=1;
-		scopeArsenal=2;
-		scopeCurator=0;
-		displayName = "Granit (CSAT Arid Alt)";
-		uniformClass = "tmtm_u_granit_csatAridAlt";
-		
-		hiddenSelectionsTextures[] =
-		{
-			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_csatAridAlt_co.paa"
-		};
-	};
-	class tmtm_granit_ldf: tmtm_granit_base
-	{
-		scope=1;
-		scopeArsenal=2;
-		scopeCurator=0;
-		displayName = "Granit (LDF)";
-		uniformClass = "tmtm_u_granit_ldf";
-		
-		hiddenSelectionsTextures[] =
-		{
-			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_ldf_co.paa"
-		};
-	};
-	class tmtm_granit_ldfAlt: tmtm_granit_base
-	{
-		scope=1;
-		scopeArsenal=2;
-		scopeCurator=0;
-		displayName = "Granit (LDF Alt)";
-		uniformClass = "tmtm_u_granit_ldfAlt";
-		
-		hiddenSelectionsTextures[] =
-		{
-			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_ldfAlt_co.paa"
-		};
-	};
-	class tmtm_granit_urbanRed: tmtm_granit_base
-	{
-		scope=1;
-		scopeArsenal=2;
-		scopeCurator=0;
-		displayName = "Granit (Urban Red)";
-		uniformClass = "tmtm_u_granit_urbanRed";
-		
-		hiddenSelectionsTextures[] =
-		{
-			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_urbanRed_co.paa"
-		};
-	};
-	class tmtm_granit_urbanRedAlt: tmtm_granit_base
-	{
-		scope=1;
-		scopeArsenal=2;
-		scopeCurator=0;
-		displayName = "Granit (Urban Red Alt)";
-		uniformClass = "tmtm_u_granit_urbanRedAlt";
-		
-		hiddenSelectionsTextures[] =
-		{
-			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_urbanRedAlt_co.paa"
 		};
 	};
 };
