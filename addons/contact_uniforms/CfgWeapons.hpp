@@ -936,7 +936,7 @@ class CfgWeapons
 		scopeArsenal=2;
 		scopeCurator=0;
 		displayName="Granit (M81/Winter)";
-		picture = "\tmtm\pack\contact_uniforms\Data\UI\tmtm_icon_granit_m81White_ca.paa";
+		picture = "\tmtm\pack\contact_uniforms\Data\UI\tmtm_icon_granit_m81Winter_ca.paa";
 		hiddenSelectionsTextures[] = {"\tmtm\pack\contact_uniforms\Data\tmtm_granit_m81Winter_co.paa"};
 		class ItemInfo: UniformItem
 		{
@@ -1608,7 +1608,7 @@ class CfgWeapons
 		scopeArsenal=2;
 		scopeCurator=0;
 		displayName="Granit (Winter/M81)";
-		picture = "\tmtm\pack\contact_uniforms\Data\UI\tmtm_icon_granit_whiteM81_ca.paa";
+		picture = "\tmtm\pack\contact_uniforms\Data\UI\tmtm_icon_granit_winterM81_ca.paa";
 		hiddenSelectionsTextures[] = {"\tmtm\pack\contact_uniforms\Data\tmtm_granit_winterM81_co.paa"};
 		class ItemInfo: UniformItem
 		{
