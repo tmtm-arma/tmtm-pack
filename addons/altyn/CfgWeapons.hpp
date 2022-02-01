@@ -3,6 +3,7 @@ class CfgWeapons
 	class ItemCore;
 	class HeadgearItem;
 	
+	// Altyn
 	class tmtm_h_altyn_green: ItemCore
 	{
 		author="Trenchgun";
@@ -157,6 +158,58 @@ class CfgWeapons
 		class ItemInfo: ItemInfo
 		{
 			hiddenSelectionsTextures[]={"\tmtm\pack\altyn\Data\tmtm_altyn_black_co.paa"};
+		};
+	};
+	
+	// K6-3
+	class tmtm_h_k6_teal_visorUp: ItemCore
+	{
+		author="Trenchgun";
+		scope=2;
+		displayName="K6-3 (Teal/Visor Up)";
+		descriptionShort = "Armor Level IV";
+		picture="";
+		model="\tmtm\pack\altyn\tmtm_k6.p3d";
+		hiddenSelections[]={"camo"};
+		hiddenSelectionsTextures[]={"\tmtm\pack\altyn\Data\tmtm_k6_teal_co.paa"};
+		class ItemInfo: HeadgearItem
+		{
+			mass=45;
+			uniformModel="\tmtm\pack\altyn\tmtm_k6.p3d";
+			modelSides[]={6};
+			hiddenSelections[]={"camo"};
+			hiddenSelectionsTextures[]={"\tmtm\pack\altyn\Data\tmtm_k6_teal_co.paa"};
+			class HitpointsProtectionInfo
+			{
+				class Head
+				{
+					hitpointName="HitHead";
+					armor=10;
+					passThrough=0.1;
+				};
+			};
+		};
+	};
+	class tmtm_h_k6_black_visorUp: tmtm_h_k6_green_visorUp
+	{
+		scope=2;
+		displayName="K6-3 (Black/Visor Up)";
+		hiddenSelectionsTextures[]={"\tmtm\pack\altyn\Data\tmtm_k6_black_co.paa"};
+		picture="";
+		class ItemInfo: ItemInfo
+		{
+			hiddenSelectionsTextures[]={"\tmtm\pack\altyn\Data\tmtm_k6_black_co.paa"};
+		};
+	};
+	class tmtm_h_k6_partizan_visorUp: tmtm_h_k6_green_visorUp
+	{
+		scope=2;
+		displayName="K6-3 (Partizan/Visor Up)";
+		hiddenSelectionsTextures[]={"\tmtm\pack\altyn\Data\tmtm_k6_partizan_co.paa"};
+		picture="";
+		class ItemInfo: ItemInfo
+		{
+			hiddenSelectionsTextures[]={"\tmtm\pack\altyn\Data\tmtm_k6_partizan_co.paa"};
 		};
 	};
 };
