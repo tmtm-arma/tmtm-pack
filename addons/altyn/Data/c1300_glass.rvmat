@@ -44,7 +44,7 @@ class Stage3
 };
 class Stage4
 {
-	texture="#(argb,8,8,3)color(1,1,1,1,AS)";
+	texture="tmtm\pack\altyn\Data\tmtm_c1300_as.paa";
 	uvSource="tex";
 	class uvTransform
 	{
@@ -56,7 +56,7 @@ class Stage4
 };
 class Stage5
 {
-	texture="tmtm\pack\altyn\Data\tmtm_altyn_smdi.paa";
+	texture="tmtm\pack\altyn\Data\tmtm_c1300_smdi.paa";
 	uvSource="tex";
 	class uvTransform
 	{

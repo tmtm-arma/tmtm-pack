@@ -11,13 +11,13 @@ class CfgWeapons
 		displayName="Altyn (Green)";
 		descriptionShort = "Armor Level IV";
 		picture="\tmtm\pack\altyn\Data\UI\tmtm_icon_altynNoVisor_olive_ca.paa";
-		model="\tmtm\pack\altyn\tmtm_altyn_noVisor.p3d";
+		model="\tmtm\pack\altyn\tmtm_altyn.p3d";
 		hiddenSelections[]={"camo"};
 		hiddenSelectionsTextures[]={"\tmtm\pack\altyn\Data\tmtm_altyn_green_co.paa"};
 		class ItemInfo: HeadgearItem
 		{
 			mass=45;
-			uniformModel="\tmtm\pack\altyn\tmtm_altyn_noVisor.p3d";
+			uniformModel="\tmtm\pack\altyn\tmtm_altyn.p3d";
 			modelSides[]={6};
 			hiddenSelections[]={"camo"};
 			hiddenSelectionsTextures[]={"\tmtm\pack\altyn\Data\tmtm_altyn_green_co.paa"};
@@ -54,6 +54,8 @@ class CfgWeapons
 			hiddenSelectionsTextures[]={"\tmtm\pack\altyn\Data\tmtm_altyn_black_co.paa"};
 		};
 	};
+	
+	// Altyn (Visor Up)
 	class tmtm_h_altynVisorUp_green: ItemCore
 	{
 		author="Trenchgun";
@@ -61,13 +63,13 @@ class CfgWeapons
 		displayName="Altyn (Green/Visor Up)";
 		descriptionShort = "Armor Level IV";
 		picture="\tmtm\pack\altyn\Data\UI\tmtm_icon_altyn_olive_ca.paa";
-		model="\tmtm\pack\altyn\tmtm_altyn.p3d";
+		model="\tmtm\pack\altyn\tmtm_altyn_visorUp.p3d";
 		hiddenSelections[]={"camo"};
 		hiddenSelectionsTextures[]={"\tmtm\pack\altyn\Data\tmtm_altyn_green_co.paa"};
 		class ItemInfo: HeadgearItem
 		{
 			mass=45;
-			uniformModel="\tmtm\pack\altyn\tmtm_altyn.p3d";
+			uniformModel="\tmtm\pack\altyn\tmtm_altyn_visorUp.p3d";
 			modelSides[]={6};
 			hiddenSelections[]={"camo"};
 			hiddenSelectionsTextures[]={"\tmtm\pack\altyn\Data\tmtm_altyn_green_co.paa"};
@@ -104,6 +106,8 @@ class CfgWeapons
 			hiddenSelectionsTextures[]={"\tmtm\pack\altyn\Data\tmtm_altyn_black_co.paa"};
 		};
 	};
+	
+	// Altyn (Visor Down)
 	class tmtm_h_altynVisorDown_green: ItemCore
 	{
 		author="Trenchgun";
@@ -161,6 +165,43 @@ class CfgWeapons
 		};
 	};
 	
+	// Zenturion C1300
+	class tmtm_h_c1300_teal_visorDown: ItemCore
+	{
+		author="Trenchgun";
+		scope=2;
+		displayName="C1300 (Grey/Visor Down)";
+		descriptionShort = "Armor Level IV";
+		picture="";
+		model="\tmtm\pack\altyn\tmtm_c1300_visorDown.p3d";
+		hiddenSelections[]={"camo"};
+		hiddenSelectionsTextures[]={"\tmtm\pack\altyn\Data\tmtm_c1300_grey_co.paa"};
+		class ItemInfo: HeadgearItem
+		{
+			mass=45;
+			uniformModel="\tmtm\pack\altyn\tmtm_c1300_visorDown.p3d";
+			modelSides[]={6};
+			hiddenSelections[]={"camo"};
+			hiddenSelectionsTextures[]={"\tmtm\pack\altyn\Data\tmtm_c1300_grey_co.paa"};
+			class HitpointsProtectionInfo
+			{
+				class Head
+				{
+					hitpointName="HitHead";
+					armor=10;
+					passThrough=0.1;
+				};
+				class Face
+				{
+					hitpointName="HitFace";
+					armor=10;
+					passThrough=0.1;
+				};
+			};
+		};
+	};
+	
+	
 	// K6-3 Helmet
 	class tmtm_h_k6_teal: ItemCore
 	{
@@ -169,13 +210,13 @@ class CfgWeapons
 		displayName="K6-3 (Teal)";
 		descriptionShort = "Armor Level IV";
 		picture="";
-		model="\tmtm\pack\altyn\tmtm_k6_noVisor.p3d";
+		model="\tmtm\pack\altyn\tmtm_k6.p3d";
 		hiddenSelections[]={"camo"};
 		hiddenSelectionsTextures[]={"\tmtm\pack\altyn\Data\tmtm_k6_teal_co.paa"};
 		class ItemInfo: HeadgearItem
 		{
 			mass=45;
-			uniformModel="\tmtm\pack\altyn\tmtm_k6_noVisor.p3d";
+			uniformModel="\tmtm\pack\altyn\tmtm_k6.p3d";
 			modelSides[]={6};
 			hiddenSelections[]={"camo"};
 			hiddenSelectionsTextures[]={"\tmtm\pack\altyn\Data\tmtm_k6_teal_co.paa"};
@@ -212,7 +253,8 @@ class CfgWeapons
 			hiddenSelectionsTextures[]={"\tmtm\pack\altyn\Data\tmtm_k6_partizan_co.paa"};
 		};
 	};
-
+	
+	// K6-3 (Visor Up)
 	class tmtm_h_k6_teal_visorUp: ItemCore
 	{
 		author="Trenchgun";
@@ -220,13 +262,13 @@ class CfgWeapons
 		displayName="K6-3 (Teal/Visor Up)";
 		descriptionShort = "Armor Level IV";
 		picture="";
-		model="\tmtm\pack\altyn\tmtm_k6.p3d";
+		model="\tmtm\pack\altyn\tmtm_k6_visorUp.p3d";
 		hiddenSelections[]={"camo"};
 		hiddenSelectionsTextures[]={"\tmtm\pack\altyn\Data\tmtm_k6_teal_co.paa"};
 		class ItemInfo: HeadgearItem
 		{
 			mass=45;
-			uniformModel="\tmtm\pack\altyn\tmtm_k6.p3d";
+			uniformModel="\tmtm\pack\altyn\tmtm_k6_visorUp.p3d";
 			modelSides[]={6};
 			hiddenSelections[]={"camo"};
 			hiddenSelectionsTextures[]={"\tmtm\pack\altyn\Data\tmtm_k6_teal_co.paa"};
@@ -264,6 +306,7 @@ class CfgWeapons
 		};
 	};
 	
+	// K6-3 (Visor Down)
 	class tmtm_h_k6_teal_visorDown: ItemCore
 	{
 		author="Trenchgun";
