@@ -7,7 +7,23 @@ class CfgPatches {
 		weapons[] = {
 			"tmtm_h_altyn_green",
 			"tmtm_h_altyn_olive",
-			"tmtm_h_altyn_black"
+			"tmtm_h_altyn_black",
+			"tmtm_h_altyn_green_visorUp",
+			"tmtm_h_altyn_olive_visorUp",
+			"tmtm_h_altyn_black_visorUp",
+			"tmtm_h_altyn_green_visorDown",
+			"tmtm_h_altyn_olive_visorDown",
+			"tmtm_h_altyn_black_visorDown",
+			"tmtm_h_c1300_grey_visorDown",
+			"tmtm_h_k6_teal",
+			"tmtm_h_k6_black",
+			"tmtm_h_k6_partizan",
+			"tmtm_h_k6_teal_visorUp",
+			"tmtm_h_k6_black_visorUp",
+			"tmtm_h_k6_partian_visorUp",
+			"tmtm_h_k6_teal_visorDown",
+			"tmtm_h_k6_black_visorDown",
+			"tmtm_h_k6_partizan_visorDown"
 		};
 		requiredVersion = REQUIRED_VERSION;
 		requiredAddons[] = {
