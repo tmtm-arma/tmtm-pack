@@ -15,6 +15,7 @@ class CfgPatches {
 			"tmtm_h_altyn_olive_visorDown",
 			"tmtm_h_altyn_black_visorDown",
 			"tmtm_h_c1300_grey_visorDown",
+			"tmtm_h_c1300_grey_visorUp",
 			"tmtm_h_k6_teal",
 			"tmtm_h_k6_black",
 			"tmtm_h_k6_partizan",
@@ -39,3 +40,4 @@ class CfgPatches {
 };
 
 #include "CfgWeapons.hpp"
+#include "CfgGlasses.hpp"

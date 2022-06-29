@@ -165,13 +165,43 @@ class CfgWeapons
 		};
 	};
 	
-	// Zenturion C1300
+	// Zenturion C1300 (Visor Up)
+	class tmtm_h_c1300_grey_visorUp: ItemCore
+	{
+		author="Trenchgun";
+		scope=2;
+		displayName="C1300 (Grey/Visor Up)";
+		descriptionShort = "VPAM APR Level 3";
+		picture="";
+		model="\tmtm\pack\headgear\tmtm_c1300_visorUp.p3d";
+		hiddenSelections[]={"camo"};
+		hiddenSelectionsTextures[]={"\tmtm\pack\headgear\Data\tmtm_c1300_grey_co.paa"};
+		class ItemInfo: HeadgearItem
+		{
+			mass=45;
+			uniformModel="\tmtm\pack\headgear\tmtm_c1300_visorUp.p3d";
+			modelSides[]={6};
+			hiddenSelections[]={"camo"};
+			hiddenSelectionsTextures[]={"\tmtm\pack\headgear\Data\tmtm_c1300_grey_co.paa"};
+			class HitpointsProtectionInfo
+			{
+				class Head
+				{
+					hitpointName="HitHead";
+					armor=10;
+					passThrough=0.1;
+				};
+			};
+		};
+	};
+
+	// Zenturion C1300 (Visor Down)
 	class tmtm_h_c1300_grey_visorDown: ItemCore
 	{
 		author="Trenchgun";
 		scope=2;
 		displayName="C1300 (Grey/Visor Down)";
-		descriptionShort = "Armor Level IV";
+		descriptionShort = "VPAM APR Level 3";
 		picture="";
 		model="\tmtm\pack\headgear\tmtm_c1300_visorDown.p3d";
 		hiddenSelections[]={"camo"};
@@ -208,7 +238,7 @@ class CfgWeapons
 		author="Trenchgun";
 		scope=2;
 		displayName="K6-3 (Teal)";
-		descriptionShort = "Armor Level IV";
+		descriptionShort = "GOST Level 2";
 		picture="";
 		model="\tmtm\pack\headgear\tmtm_k6.p3d";
 		hiddenSelections[]={"camo"};
@@ -260,7 +290,7 @@ class CfgWeapons
 		author="Trenchgun";
 		scope=2;
 		displayName="K6-3 (Teal/Visor Up)";
-		descriptionShort = "Armor Level IV";
+		descriptionShort = "GOST Level 2";
 		picture="";
 		model="\tmtm\pack\headgear\tmtm_k6_visorUp.p3d";
 		hiddenSelections[]={"camo"};
@@ -312,7 +342,7 @@ class CfgWeapons
 		author="Trenchgun";
 		scope=2;
 		displayName="K6-3 (Teal/Visor Down)";
-		descriptionShort = "Armor Level IV";
+		descriptionShort = "GOST Level 2";
 		picture="";
 		model="\tmtm\pack\headgear\tmtm_k6_visorDown.p3d";
 		hiddenSelections[]={"camo"};
