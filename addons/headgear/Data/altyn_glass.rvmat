@@ -56,7 +56,7 @@ class Stage4
 };
 class Stage5
 {
-	texture="tmtm\pack\headgear\Data\tmtm_altyn_smdi.paa";
+	texture="tmtm\pack\headgear\Data\altyn_glass_smdi.paa";
 	uvSource="tex";
 	class uvTransform
 	{
