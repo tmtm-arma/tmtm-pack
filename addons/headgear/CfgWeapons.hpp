@@ -272,6 +272,50 @@ class CfgWeapons
 			hiddenSelectionsTextures[]={"\tmtm\pack\headgear\Data\tmtm_k6_black_co.paa"};
 		};
 	};
+	class tmtm_h_k6_emr: tmtm_h_k6_teal
+	{
+		scope=2;
+		displayName="K6-3 (EMR)";
+		hiddenSelectionsTextures[]={"\tmtm\pack\headgear\Data\tmtm_k6_emr_co.paa"};
+		picture="";
+		class ItemInfo: ItemInfo
+		{
+			hiddenSelectionsTextures[]={"\tmtm\pack\headgear\Data\tmtm_k6_emr_co.paa"};
+		};
+	};
+	class tmtm_h_k6_izlom: tmtm_h_k6_teal
+	{
+		scope=2;
+		displayName="K6-3 (Izlom)";
+		hiddenSelectionsTextures[]={"\tmtm\pack\headgear\Data\tmtm_k6_izlom_co.paa"};
+		picture="";
+		class ItemInfo: ItemInfo
+		{
+			hiddenSelectionsTextures[]={"\tmtm\pack\headgear\Data\tmtm_k6_izlom_co.paa"};
+		};
+	};
+	class tmtm_h_k6_multicam: tmtm_h_k6_teal
+	{
+		scope=2;
+		displayName="K6-3 (Multicam)";
+		hiddenSelectionsTextures[]={"\tmtm\pack\headgear\Data\tmtm_k6_multicam_co.paa"};
+		picture="";
+		class ItemInfo: ItemInfo
+		{
+			hiddenSelectionsTextures[]={"\tmtm\pack\headgear\Data\tmtm_k6_multicam_co.paa"};
+		};
+	};
+	class tmtm_h_k6_multicamBlack: tmtm_h_k6_teal
+	{
+		scope=2;
+		displayName="K6-3 (Multicam Black)";
+		hiddenSelectionsTextures[]={"\tmtm\pack\headgear\Data\tmtm_k6_multicamBlack_co.paa"};
+		picture="";
+		class ItemInfo: ItemInfo
+		{
+			hiddenSelectionsTextures[]={"\tmtm\pack\headgear\Data\tmtm_k6_multicamBlack_co.paa"};
+		};
+	};
 	class tmtm_h_k6_partizan: tmtm_h_k6_teal
 	{
 		scope=2;
@@ -281,6 +325,28 @@ class CfgWeapons
 		class ItemInfo: ItemInfo
 		{
 			hiddenSelectionsTextures[]={"\tmtm\pack\headgear\Data\tmtm_k6_partizan_co.paa"};
+		};
+	};
+	class tmtm_h_k6_skol: tmtm_h_k6_teal
+	{
+		scope=2;
+		displayName="K6-3 (Skol)";
+		hiddenSelectionsTextures[]={"\tmtm\pack\headgear\Data\tmtm_k6_skol_co.paa"};
+		picture="";
+		class ItemInfo: ItemInfo
+		{
+			hiddenSelectionsTextures[]={"\tmtm\pack\headgear\Data\tmtm_k6_skol_co.paa"};
+		};
+	};
+	class tmtm_h_k6_surpat: tmtm_h_k6_teal
+	{
+		scope=2;
+		displayName="K6-3 (SURPAT)";
+		hiddenSelectionsTextures[]={"\tmtm\pack\headgear\Data\tmtm_k6_surpat_co.paa"};
+		picture="";
+		class ItemInfo: ItemInfo
+		{
+			hiddenSelectionsTextures[]={"\tmtm\pack\headgear\Data\tmtm_k6_surpat_co.paa"};
 		};
 	};
 	
@@ -324,6 +390,50 @@ class CfgWeapons
 			hiddenSelectionsTextures[]={"\tmtm\pack\headgear\Data\tmtm_k6_black_co.paa"};
 		};
 	};
+	class tmtm_h_k6_emr_visorUp: tmtm_h_k6_teal_visorUp
+	{
+		scope=2;
+		displayName="K6-3 (EMR/Visor Up)";
+		hiddenSelectionsTextures[]={"\tmtm\pack\headgear\Data\tmtm_k6_emr_co.paa"};
+		picture="";
+		class ItemInfo: ItemInfo
+		{
+			hiddenSelectionsTextures[]={"\tmtm\pack\headgear\Data\tmtm_k6_emr_co.paa"};
+		};
+	};
+	class tmtm_h_k6_izlom_visorUp: tmtm_h_k6_teal_visorUp
+	{
+		scope=2;
+		displayName="K6-3 (Izlom/Visor Up)";
+		hiddenSelectionsTextures[]={"\tmtm\pack\headgear\Data\tmtm_k6_izlom_co.paa"};
+		picture="";
+		class ItemInfo: ItemInfo
+		{
+			hiddenSelectionsTextures[]={"\tmtm\pack\headgear\Data\tmtm_k6_izlom_co.paa"};
+		};
+	};
+	class tmtm_h_k6_multicam_visorUp: tmtm_h_k6_teal_visorUp
+	{
+		scope=2;
+		displayName="K6-3 (Multicam/Visor Up)";
+		hiddenSelectionsTextures[]={"\tmtm\pack\headgear\Data\tmtm_k6_multicam_co.paa"};
+		picture="";
+		class ItemInfo: ItemInfo
+		{
+			hiddenSelectionsTextures[]={"\tmtm\pack\headgear\Data\tmtm_k6_multicam_co.paa"};
+		};
+	};
+	class tmtm_h_k6_multicamBlack_visorUp: tmtm_h_k6_teal_visorUp
+	{
+		scope=2;
+		displayName="K6-3 (Multicam Black/Visor Up)";
+		hiddenSelectionsTextures[]={"\tmtm\pack\headgear\Data\tmtm_k6_multicamBlack_co.paa"};
+		picture="";
+		class ItemInfo: ItemInfo
+		{
+			hiddenSelectionsTextures[]={"\tmtm\pack\headgear\Data\tmtm_k6_multicamBlack_co.paa"};
+		};
+	};
 	class tmtm_h_k6_partizan_visorUp: tmtm_h_k6_teal_visorUp
 	{
 		scope=2;
@@ -333,6 +443,28 @@ class CfgWeapons
 		class ItemInfo: ItemInfo
 		{
 			hiddenSelectionsTextures[]={"\tmtm\pack\headgear\Data\tmtm_k6_partizan_co.paa"};
+		};
+	};
+	class tmtm_h_k6_skol_visorUp: tmtm_h_k6_teal_visorUp
+	{
+		scope=2;
+		displayName="K6-3 (Skol/Visor Up)";
+		hiddenSelectionsTextures[]={"\tmtm\pack\headgear\Data\tmtm_k6_skol_co.paa"};
+		picture="";
+		class ItemInfo: ItemInfo
+		{
+			hiddenSelectionsTextures[]={"\tmtm\pack\headgear\Data\tmtm_k6_skol_co.paa"};
+		};
+	};
+	class tmtm_h_k6_surpat_visorUp: tmtm_h_k6_teal_visorUp
+	{
+		scope=2;
+		displayName="K6-3 (SURPAT/Visor Up)";
+		hiddenSelectionsTextures[]={"\tmtm\pack\headgear\Data\tmtm_k6_surpat_co.paa"};
+		picture="";
+		class ItemInfo: ItemInfo
+		{
+			hiddenSelectionsTextures[]={"\tmtm\pack\headgear\Data\tmtm_k6_surpat_co.paa"};
 		};
 	};
 	
@@ -382,6 +514,50 @@ class CfgWeapons
 			hiddenSelectionsTextures[]={"\tmtm\pack\headgear\Data\tmtm_k6_black_co.paa"};
 		};
 	};
+	class tmtm_h_k6_emr_visorDown: tmtm_h_k6_teal_visorDown
+	{
+		scope=2;
+		displayName="K6-3 (EMR/Visor Down)";
+		hiddenSelectionsTextures[]={"\tmtm\pack\headgear\Data\tmtm_k6_emr_co.paa"};
+		picture="";
+		class ItemInfo: ItemInfo
+		{
+			hiddenSelectionsTextures[]={"\tmtm\pack\headgear\Data\tmtm_k6_emr_co.paa"};
+		};
+	};
+	class tmtm_h_k6_izlom_visorDown: tmtm_h_k6_teal_visorDown
+	{
+		scope=2;
+		displayName="K6-3 (Izlom/Visor Down)";
+		hiddenSelectionsTextures[]={"\tmtm\pack\headgear\Data\tmtm_k6_izlom_co.paa"};
+		picture="";
+		class ItemInfo: ItemInfo
+		{
+			hiddenSelectionsTextures[]={"\tmtm\pack\headgear\Data\tmtm_k6_izlom_co.paa"};
+		};
+	};
+	class tmtm_h_k6_multicam_visorDown: tmtm_h_k6_teal_visorDown
+	{
+		scope=2;
+		displayName="K6-3 (Multicam/Visor Down)";
+		hiddenSelectionsTextures[]={"\tmtm\pack\headgear\Data\tmtm_k6_multicam_co.paa"};
+		picture="";
+		class ItemInfo: ItemInfo
+		{
+			hiddenSelectionsTextures[]={"\tmtm\pack\headgear\Data\tmtm_k6_multicam_co.paa"};
+		};
+	};
+	class tmtm_h_k6_multicamBlack_visorDown: tmtm_h_k6_teal_visorDown
+	{
+		scope=2;
+		displayName="K6-3 (Multicam Black/Visor Down)";
+		hiddenSelectionsTextures[]={"\tmtm\pack\headgear\Data\tmtm_k6_multicamBlack_co.paa"};
+		picture="";
+		class ItemInfo: ItemInfo
+		{
+			hiddenSelectionsTextures[]={"\tmtm\pack\headgear\Data\tmtm_k6_multicamBlack_co.paa"};
+		};
+	};
 	class tmtm_h_k6_partizan_visorDown: tmtm_h_k6_teal_visorDown
 	{
 		scope=2;
@@ -391,6 +567,28 @@ class CfgWeapons
 		class ItemInfo: ItemInfo
 		{
 			hiddenSelectionsTextures[]={"\tmtm\pack\headgear\Data\tmtm_k6_partizan_co.paa"};
+		};
+	};
+	class tmtm_h_k6_skol_visorDown: tmtm_h_k6_teal_visorDown
+	{
+		scope=2;
+		displayName="K6-3 (Skol/Visor Down)";
+		hiddenSelectionsTextures[]={"\tmtm\pack\headgear\Data\tmtm_k6_skol_co.paa"};
+		picture="";
+		class ItemInfo: ItemInfo
+		{
+			hiddenSelectionsTextures[]={"\tmtm\pack\headgear\Data\tmtm_k6_skol_co.paa"};
+		};
+	};
+	class tmtm_h_k6_surpat_visorDown: tmtm_h_k6_teal_visorDown
+	{
+		scope=2;
+		displayName="K6-3 (SURPAT/Visor Down)";
+		hiddenSelectionsTextures[]={"\tmtm\pack\headgear\Data\tmtm_k6_surpat_co.paa"};
+		picture="";
+		class ItemInfo: ItemInfo
+		{
+			hiddenSelectionsTextures[]={"\tmtm\pack\headgear\Data\tmtm_k6_surpat_co.paa"};
 		};
 	};
 };
