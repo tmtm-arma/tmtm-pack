@@ -194,6 +194,62 @@ class CfgWeapons
 			};
 		};
 	};
+	class tmtm_h_c1300_black_visorUp: tmtm_h_c1300_grey_visorUp
+	{
+		scope=2;
+		displayName="C1300 (Black/Visor Up)";
+		picture="\tmtm\pack\headgear\Data\UI\tmtm_icon_c1300_grey_visorUp_ca.paa";
+		hiddenSelectionsTextures[]={"\tmtm\pack\headgear\Data\tmtm_c1300_black_co.paa"};
+	};
+	class tmtm_h_c1300_blue_visorUp: tmtm_h_c1300_grey_visorUp
+	{
+		scope=2;
+		displayName="C1300 (Blue/Visor Up)";
+		picture="\tmtm\pack\headgear\Data\UI\tmtm_icon_c1300_grey_visorUp_ca.paa";
+		hiddenSelectionsTextures[]={"\tmtm\pack\headgear\Data\tmtm_c1300_blue_co.paa"};
+	};
+	class tmtm_h_c1300_csat_visorUp: tmtm_h_c1300_grey_visorUp
+	{
+		scope=2;
+		displayName="C1300 (CSAT/Visor Up)";
+		picture="\tmtm\pack\headgear\Data\UI\tmtm_icon_c1300_grey_visorUp_ca.paa";
+		hiddenSelectionsTextures[]={"\tmtm\pack\headgear\Data\tmtm_c1300_csat_co.paa"};
+	};
+	class tmtm_h_c1300_csatArid_visorUp: tmtm_h_c1300_grey_visorUp
+	{
+		scope=2;
+		displayName="C1300 (CSAT Arid/Visor Up)";
+		picture="\tmtm\pack\headgear\Data\UI\tmtm_icon_c1300_grey_visorUp_ca.paa";
+		hiddenSelectionsTextures[]={"\tmtm\pack\headgear\Data\tmtm_c1300_csatArid_co.paa"};
+	};
+	class tmtm_h_c1300_ldf_visorUp: tmtm_h_c1300_grey_visorUp
+	{
+		scope=2;
+		displayName="C1300 (LDF/Visor Up)";
+		picture="\tmtm\pack\headgear\Data\UI\tmtm_icon_c1300_grey_visorUp_ca.paa";
+		hiddenSelectionsTextures[]={"\tmtm\pack\headgear\Data\tmtm_c1300_ldf_co.paa"};
+	};
+	class tmtm_h_c1300_mtp_visorUp: tmtm_h_c1300_grey_visorUp
+	{
+		scope=2;
+		displayName="C1300 (MTP/Visor Up)";
+		picture="\tmtm\pack\headgear\Data\UI\tmtm_icon_c1300_grey_visorUp_ca.paa";
+		hiddenSelectionsTextures[]={"\tmtm\pack\headgear\Data\tmtm_c1300_mtp_co.paa"};
+	};
+	class tmtm_h_c1300_multicamBlack_visorUp: tmtm_h_c1300_grey_visorUp
+	{
+		scope=2;
+		displayName="C1300 (Multicam Black/Visor Up)";
+		picture="\tmtm\pack\headgear\Data\UI\tmtm_icon_c1300_grey_visorUp_ca.paa";
+		hiddenSelectionsTextures[]={"\tmtm\pack\headgear\Data\tmtm_c1300_multicamBlack_co.paa"};
+	};
+	class tmtm_h_c1300_olive_visorUp: tmtm_h_c1300_grey_visorUp
+	{
+		scope=2;
+		displayName="C1300 (Olive/Visor Up)";
+		picture="\tmtm\pack\headgear\Data\UI\tmtm_icon_c1300_grey_visorUp_ca.paa";
+		hiddenSelectionsTextures[]={"\tmtm\pack\headgear\Data\tmtm_c1300_olive_co.paa"};
+	};
 
 	// Zenturion C1300 (Visor Down)
 	class tmtm_h_c1300_grey_visorDown: ItemCore
@@ -229,6 +285,62 @@ class CfgWeapons
 				};
 			};
 		};
+	};
+	class tmtm_h_c1300_black_visorDown: tmtm_h_c1300_grey_visorDown
+	{
+		scope=2;
+		displayName="C1300 (Black/Visor Down)";
+		picture="\tmtm\pack\headgear\Data\UI\tmtm_icon_c1300_grey_visorDown_ca.paa";
+		hiddenSelectionsTextures[]={"\tmtm\pack\headgear\Data\tmtm_c1300_black_co.paa"};
+	};
+	class tmtm_h_c1300_blue_visorDown: tmtm_h_c1300_grey_visorDown
+	{
+		scope=2;
+		displayName="C1300 (Blue/Visor Down)";
+		picture="\tmtm\pack\headgear\Data\UI\tmtm_icon_c1300_grey_visorDown_ca.paa";
+		hiddenSelectionsTextures[]={"\tmtm\pack\headgear\Data\tmtm_c1300_blue_co.paa"};
+	};
+	class tmtm_h_c1300_csat_visorDown: tmtm_h_c1300_grey_visorDown
+	{
+		scope=2;
+		displayName="C1300 (CSAT/Visor Down)";
+		picture="\tmtm\pack\headgear\Data\UI\tmtm_icon_c1300_grey_visorDown_ca.paa";
+		hiddenSelectionsTextures[]={"\tmtm\pack\headgear\Data\tmtm_c1300_csat_co.paa"};
+	};
+	class tmtm_h_c1300_csatArid_visorDown: tmtm_h_c1300_grey_visorDown
+	{
+		scope=2;
+		displayName="C1300 (CSAT Arid/Visor Down)";
+		picture="\tmtm\pack\headgear\Data\UI\tmtm_icon_c1300_grey_visorDown_ca.paa";
+		hiddenSelectionsTextures[]={"\tmtm\pack\headgear\Data\tmtm_c1300_csatArid_co.paa"};
+	};
+	class tmtm_h_c1300_ldf_visorDown: tmtm_h_c1300_grey_visorDown
+	{
+		scope=2;
+		displayName="C1300 (LDF/Visor Down)";
+		picture="\tmtm\pack\headgear\Data\UI\tmtm_icon_c1300_grey_visorDown_ca.paa";
+		hiddenSelectionsTextures[]={"\tmtm\pack\headgear\Data\tmtm_c1300_ldf_co.paa"};
+	};
+	class tmtm_h_c1300_mtp_visorDown: tmtm_h_c1300_grey_visorDown
+	{
+		scope=2;
+		displayName="C1300 (MTP/Visor Down)";
+		picture="\tmtm\pack\headgear\Data\UI\tmtm_icon_c1300_grey_visorDown_ca.paa";
+		hiddenSelectionsTextures[]={"\tmtm\pack\headgear\Data\tmtm_c1300_mtp_co.paa"};
+	};
+	class tmtm_h_c1300_multicamBlack_visorDown: tmtm_h_c1300_grey_visorDown
+	{
+		scope=2;
+		displayName="C1300 (Multicam Black/Visor Down)";
+		picture="\tmtm\pack\headgear\Data\UI\tmtm_icon_c1300_grey_visorDown_ca.paa";
+		hiddenSelectionsTextures[]={"\tmtm\pack\headgear\Data\tmtm_c1300_multicamBlack_co.paa"};
+	};
+	class tmtm_h_c1300_olive_visorDown: tmtm_h_c1300_grey_visorDown
+	{
+		scope=2;
+		displayName="C1300 (Olive/Visor Down)";
+		picture="\tmtm\pack\headgear\Data\UI\tmtm_icon_c1300_grey_visorDown_ca.paa";
+		hiddenSelectionsTextures[]={"\tmtm\pack\headgear\Data\tmtm_c1300_olive_co.paa"};
 	};
 	
 	
@@ -292,6 +404,39 @@ class CfgWeapons
 		class ItemInfo: ItemInfo
 		{
 			hiddenSelectionsTextures[]={"\tmtm\pack\headgear\Data\tmtm_k6_izlom_co.paa"};
+		};
+	};
+	class tmtm_h_k6_csat: tmtm_h_k6_teal
+	{
+		scope=2;
+		displayName="K6-3 (CSAT)";
+		hiddenSelectionsTextures[]={"\tmtm\pack\headgear\Data\tmtm_k6_csat_co.paa"};
+		picture="\tmtm\pack\headgear\Data\UI\tmtm_icon_k6_teal_ca.paa";
+		class ItemInfo: ItemInfo
+		{
+			hiddenSelectionsTextures[]={"\tmtm\pack\headgear\Data\tmtm_k6_csat_co.paa"};
+		};
+	};
+	class tmtm_h_k6_csatArid: tmtm_h_k6_teal
+	{
+		scope=2;
+		displayName="K6-3 (CSAT Arid)";
+		hiddenSelectionsTextures[]={"\tmtm\pack\headgear\Data\tmtm_k6_csatArid_co.paa"};
+		picture="\tmtm\pack\headgear\Data\UI\tmtm_icon_k6_teal_ca.paa";
+		class ItemInfo: ItemInfo
+		{
+			hiddenSelectionsTextures[]={"\tmtm\pack\headgear\Data\tmtm_k6_csatArid_co.paa"};
+		};
+	};
+	class tmtm_h_k6_ldf: tmtm_h_k6_teal
+	{
+		scope=2;
+		displayName="K6-3 (LDF)";
+		hiddenSelectionsTextures[]={"\tmtm\pack\headgear\Data\tmtm_k6_ldf_co.paa"};
+		picture="\tmtm\pack\headgear\Data\UI\tmtm_icon_k6_teal_ca.paa";
+		class ItemInfo: ItemInfo
+		{
+			hiddenSelectionsTextures[]={"\tmtm\pack\headgear\Data\tmtm_k6_ldf_co.paa"};
 		};
 	};
 	class tmtm_h_k6_mtp: tmtm_h_k6_teal
@@ -421,6 +566,39 @@ class CfgWeapons
 		class ItemInfo: ItemInfo
 		{
 			hiddenSelectionsTextures[]={"\tmtm\pack\headgear\Data\tmtm_k6_izlom_co.paa"};
+		};
+	};
+	class tmtm_h_k6_csat_visorUp: tmtm_h_k6_teal_visorUp
+	{
+		scope=2;
+		displayName="K6-3 (CSAT/Visor Up)";
+		hiddenSelectionsTextures[]={"\tmtm\pack\headgear\Data\tmtm_k6_csat_co.paa"};
+		picture="\tmtm\pack\headgear\Data\UI\tmtm_icon_k6_teal_visorUp_ca.paa";
+		class ItemInfo: ItemInfo
+		{
+			hiddenSelectionsTextures[]={"\tmtm\pack\headgear\Data\tmtm_k6_csat_co.paa"};
+		};
+	};
+	class tmtm_h_k6_csatArid_visorUp: tmtm_h_k6_teal_visorUp
+	{
+		scope=2;
+		displayName="K6-3 (CSAT Arid/Visor Up)";
+		hiddenSelectionsTextures[]={"\tmtm\pack\headgear\Data\tmtm_k6_csatArid_co.paa"};
+		picture="\tmtm\pack\headgear\Data\UI\tmtm_icon_k6_teal_visorUp_ca.paa";
+		class ItemInfo: ItemInfo
+		{
+			hiddenSelectionsTextures[]={"\tmtm\pack\headgear\Data\tmtm_k6_csatArid_co.paa"};
+		};
+	};
+	class tmtm_h_k6_ldf_visorUp: tmtm_h_k6_teal_visorUp
+	{
+		scope=2;
+		displayName="K6-3 (LDF/Visor Up)";
+		hiddenSelectionsTextures[]={"\tmtm\pack\headgear\Data\tmtm_k6_ldf_co.paa"};
+		picture="\tmtm\pack\headgear\Data\UI\tmtm_icon_k6_teal_visorUp_ca.paa";
+		class ItemInfo: ItemInfo
+		{
+			hiddenSelectionsTextures[]={"\tmtm\pack\headgear\Data\tmtm_k6_ldf_co.paa"};
 		};
 	};
 	class tmtm_h_k6_mtp_visorUp: tmtm_h_k6_teal_visorUp
@@ -556,6 +734,39 @@ class CfgWeapons
 		class ItemInfo: ItemInfo
 		{
 			hiddenSelectionsTextures[]={"\tmtm\pack\headgear\Data\tmtm_k6_izlom_co.paa"};
+		};
+	};
+	class tmtm_h_k6_csat_visorDown: tmtm_h_k6_teal_visorDown
+	{
+		scope=2;
+		displayName="K6-3 (CSAT/Visor Down)";
+		hiddenSelectionsTextures[]={"\tmtm\pack\headgear\Data\tmtm_k6_csat_co.paa"};
+		picture="\tmtm\pack\headgear\Data\UI\tmtm_icon_k6_teal_visorDown_ca.paa";
+		class ItemInfo: ItemInfo
+		{
+			hiddenSelectionsTextures[]={"\tmtm\pack\headgear\Data\tmtm_k6_csat_co.paa"};
+		};
+	};
+	class tmtm_h_k6_csatArid_visorDown: tmtm_h_k6_teal_visorDown
+	{
+		scope=2;
+		displayName="K6-3 (CSAT Arid/Visor Down)";
+		hiddenSelectionsTextures[]={"\tmtm\pack\headgear\Data\tmtm_k6_csatArid_co.paa"};
+		picture="\tmtm\pack\headgear\Data\UI\tmtm_icon_k6_teal_visorDown_ca.paa";
+		class ItemInfo: ItemInfo
+		{
+			hiddenSelectionsTextures[]={"\tmtm\pack\headgear\Data\tmtm_k6_csatArid_co.paa"};
+		};
+	};
+	class tmtm_h_k6_ldf_visorDown: tmtm_h_k6_teal_visorDown
+	{
+		scope=2;
+		displayName="K6-3 (LDF/Visor Down)";
+		hiddenSelectionsTextures[]={"\tmtm\pack\headgear\Data\tmtm_k6_ldf_co.paa"};
+		picture="\tmtm\pack\headgear\Data\UI\tmtm_icon_k6_teal_visorDown_ca.paa";
+		class ItemInfo: ItemInfo
+		{
+			hiddenSelectionsTextures[]={"\tmtm\pack\headgear\Data\tmtm_k6_ldf_co.paa"};
 		};
 	};
 	class tmtm_h_k6_mtp_visorDown: tmtm_h_k6_teal_visorDown
