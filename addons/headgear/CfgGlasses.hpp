@@ -1,4 +1,6 @@
 class CfgGlasses {
+    // currently unused
+
     class None;
     class tmtm_g_c1300_visorOnlyDown : None
     {
