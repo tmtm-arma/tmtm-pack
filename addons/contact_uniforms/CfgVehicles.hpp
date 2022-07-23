@@ -658,58 +658,6 @@ class CfgVehicles
 			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_izlomAltWinter_co.paa"
 		};
 	};
-	class tmtm_granit_kamysh: tmtm_granit_base
-	{
-		scope=1;
-		scopeArsenal=2;
-		scopeCurator=0;
-		displayName = "Granit (Kamysh)";
-		uniformClass = "tmtm_u_granit_kamysh";
-		
-		hiddenSelectionsTextures[] =
-		{
-			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_kamysh_co.paa"
-		};
-	};
-	class tmtm_granit_kamyshAlt: tmtm_granit_base
-	{
-		scope=1;
-		scopeArsenal=2;
-		scopeCurator=0;
-		displayName = "Granit (Kamysh Alt)";
-		uniformClass = "tmtm_u_granit_kamyshAlt";
-		
-		hiddenSelectionsTextures[] =
-		{
-			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_kamyshAlt_co.paa"
-		};
-	};
-	class tmtm_granit_kamyshFull: tmtm_granit_base
-	{
-		scope=1;
-		scopeArsenal=2;
-		scopeCurator=0;
-		displayName = "Granit (Kamysh Full)";
-		uniformClass = "tmtm_u_granit_kamyshFull";
-		
-		hiddenSelectionsTextures[] =
-		{
-			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_kamyshFull_co.paa"
-		};
-	};
-	class tmtm_granit_kamyshWinter: tmtm_granit_base
-	{
-		scope=1;
-		scopeArsenal=2;
-		scopeCurator=0;
-		displayName = "Granit (Kamysh Winter)";
-		uniformClass = "tmtm_u_granit_kamyshWinter";
-		
-		hiddenSelectionsTextures[] =
-		{
-			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_kamyshWinter_co.paa"
-		};
-	};
 	class tmtm_granit_klmk: tmtm_granit_base
 	{
 		scope=1;
