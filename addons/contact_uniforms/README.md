@@ -22,7 +22,6 @@ Adds retextures of Contact DLC Uniforms.
 	- Flecktarn
 	- Grey
 	- Izlom
-	- Kamysh
 	- KLMK, KLMK Reverse
 	- LDF
 	- M81
