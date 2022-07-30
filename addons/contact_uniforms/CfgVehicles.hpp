@@ -1256,19 +1256,6 @@ class CfgVehicles
 			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_winterIzlomAlt_co.paa"
 		};
 	};
-	class tmtm_granit_winterKamysh: tmtm_granit_base
-	{
-		scope=1;
-		scopeArsenal=2;
-		scopeCurator=0;
-		displayName = "Granit (Winter/Kamysh)";
-		uniformClass = "tmtm_u_granit_winterKamysh";
-		
-		hiddenSelectionsTextures[] =
-		{
-			"\tmtm\pack\contact_uniforms\Data\tmtm_granit_winterKamysh_co.paa"
-		};
-	};
 	class tmtm_granit_winterM81: tmtm_granit_base
 	{
 		scope=1;

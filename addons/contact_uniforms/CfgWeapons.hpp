@@ -1522,22 +1522,6 @@ class CfgWeapons
 			mass=40;
 		};
 	};
-	class tmtm_u_granit_winterKamysh: tmtm_u_granit_base
-	{
-		scope=1;
-		scopeArsenal=2;
-		scopeCurator=0;
-		displayName="Granit (Winter/Kamysh)";
-		picture = "\tmtm\pack\contact_uniforms\Data\UI\tmtm_icon_granit_winterKamysh_ca.paa";
-		hiddenSelectionsTextures[] = {"\tmtm\pack\contact_uniforms\Data\tmtm_granit_winterKamysh_co.paa"};
-		class ItemInfo: UniformItem
-		{
-			uniformClass="tmtm_granit_winterKamysh";
-			uniformModel="-";
-			containerClass="Supply40";
-			mass=40;
-		};
-	};
 	class tmtm_u_granit_winterM81: tmtm_u_granit_base
 	{
 		scope=1;
