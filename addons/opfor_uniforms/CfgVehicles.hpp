@@ -15,6 +15,10 @@ class CfgVehicles
 			"Camo2", 
 			"insignia"
 		};
+		hiddenSelectionsMaterials[]=
+		{
+			"\tmtm\pack\opfor_uniforms\Data\tmtm_csatFatigues.rvmat"
+		};
 	};
 	
 	
