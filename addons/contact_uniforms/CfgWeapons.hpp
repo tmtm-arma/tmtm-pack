@@ -978,38 +978,6 @@ class CfgWeapons
 			mass=40;
 		};
 	};
-	class tmtm_u_granit_multicam: tmtm_u_granit_base
-	{
-		scope=1;
-		scopeArsenal=2;
-		scopeCurator=0;
-		displayName="Granit (Multicam)";
-		picture = "\tmtm\pack\contact_uniforms\Data\UI\tmtm_icon_granit_multicam_ca.paa";
-		hiddenSelectionsTextures[] = {"\tmtm\pack\contact_uniforms\Data\tmtm_granit_multicam_co.paa"};
-		class ItemInfo: UniformItem
-		{
-			uniformClass="tmtm_granit_multicam";
-			uniformModel="-";
-			containerClass="Supply40";
-			mass=40;
-		};
-	};
-	class tmtm_u_granit_multicamWinter: tmtm_u_granit_base
-	{
-		scope=1;
-		scopeArsenal=2;
-		scopeCurator=0;
-		displayName="Granit (Multicam/Winter)";
-		picture = "\tmtm\pack\contact_uniforms\Data\UI\tmtm_icon_granit_multicamWinter_ca.paa";
-		hiddenSelectionsTextures[] = {"\tmtm\pack\contact_uniforms\Data\tmtm_granit_multicamWinter_co.paa"};
-		class ItemInfo: UniformItem
-		{
-			uniformClass="tmtm_granit_multicamWinter";
-			uniformModel="-";
-			containerClass="Supply40";
-			mass=40;
-		};
-	};
 	class tmtm_u_granit_natoWinter: tmtm_u_granit_base
 	{
 		scope=1;
@@ -1069,38 +1037,6 @@ class CfgWeapons
 		class ItemInfo: UniformItem
 		{
 			uniformClass="tmtm_granit_nightM81";
-			uniformModel="-";
-			containerClass="Supply40";
-			mass=40;
-		};
-	};
-	class tmtm_u_granit_ocp: tmtm_u_granit_base
-	{
-		scope=1;
-		scopeArsenal=2;
-		scopeCurator=0;
-		displayName="Granit (OCP)";
-		picture = "\tmtm\pack\contact_uniforms\Data\UI\tmtm_icon_granit_ocp_ca.paa";
-		hiddenSelectionsTextures[] = {"\tmtm\pack\contact_uniforms\Data\tmtm_granit_ocp_co.paa"};
-		class ItemInfo: UniformItem
-		{
-			uniformClass="tmtm_granit_ocp";
-			uniformModel="-";
-			containerClass="Supply40";
-			mass=40;
-		};
-	};
-	class tmtm_u_granit_ocpWinter: tmtm_u_granit_base
-	{
-		scope=1;
-		scopeArsenal=2;
-		scopeCurator=0;
-		displayName="Granit (OCP/Winter)";
-		picture = "\tmtm\pack\contact_uniforms\Data\UI\tmtm_icon_granit_ocpWinter_ca.paa";
-		hiddenSelectionsTextures[] = {"\tmtm\pack\contact_uniforms\Data\tmtm_granit_ocpWinter_co.paa"};
-		class ItemInfo: UniformItem
-		{
-			uniformClass="tmtm_granit_ocpWinter";
 			uniformModel="-";
 			containerClass="Supply40";
 			mass=40;
@@ -1581,38 +1517,6 @@ class CfgWeapons
 		class ItemInfo: UniformItem
 		{
 			uniformClass="tmtm_granit_winterMtp";
-			uniformModel="-";
-			containerClass="Supply40";
-			mass=40;
-		};
-	};
-	class tmtm_u_granit_winterMulticam: tmtm_u_granit_base
-	{
-		scope=1;
-		scopeArsenal=2;
-		scopeCurator=0;
-		displayName="Granit (Winter/Multicam)";
-		picture = "\tmtm\pack\contact_uniforms\Data\UI\tmtm_icon_granit_winterMulticam_ca.paa";
-		hiddenSelectionsTextures[] = {"\tmtm\pack\contact_uniforms\Data\tmtm_granit_winterMulticam_co.paa"};
-		class ItemInfo: UniformItem
-		{
-			uniformClass="tmtm_granit_winterMulticam";
-			uniformModel="-";
-			containerClass="Supply40";
-			mass=40;
-		};
-	};
-	class tmtm_u_granit_winterOcp: tmtm_u_granit_base
-	{
-		scope=1;
-		scopeArsenal=2;
-		scopeCurator=0;
-		displayName="Granit (Winter/OCP)";
-		picture = "\tmtm\pack\contact_uniforms\Data\UI\tmtm_icon_granit_winterOcp_ca.paa";
-		hiddenSelectionsTextures[] = {"\tmtm\pack\contact_uniforms\Data\tmtm_granit_winterOcp_co.paa"};
-		class ItemInfo: UniformItem
-		{
-			uniformClass="tmtm_granit_winterOcp";
 			uniformModel="-";
 			containerClass="Supply40";
 			mass=40;
