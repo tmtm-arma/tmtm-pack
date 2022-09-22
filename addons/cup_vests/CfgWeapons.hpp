@@ -1444,6 +1444,7 @@ class CfgWeapons
 			"\tmtm\pack\cup_vests\Data\tmtm_bundes_cartridge_pouch_black_co.paa"
 		};
 	};
+	/* removed because of unselectable drum mag pouches
 	class tmtm_v_GER_PVest_MG_black: CUP_V_B_GER_PVest_Fleck_MG
 	{
 		author="Trenchgun";
@@ -1467,6 +1468,7 @@ class CfgWeapons
 			"\tmtm\pack\cup_vests\Data\tmtm_bundes_cartridge_pouch_black_co.paa" // might be an issue
 		};
 	};
+	*/
 	class tmtm_v_GER_PVest_Med_black: CUP_V_B_GER_PVest_Fleck_Med
 	{
 		author="Trenchgun";
@@ -1574,6 +1576,7 @@ class CfgWeapons
 			"\tmtm\pack\cup_vests\Data\tmtm_bundes_cartridge_pouch_olive_co.paa"
 		};
 	};
+	/* removed because of unselectable drum mag pouches
 	class tmtm_v_GER_PVest_MG_olive: CUP_V_B_GER_PVest_Fleck_MG
 	{
 		author="Trenchgun";
@@ -1597,6 +1600,7 @@ class CfgWeapons
 			"\tmtm\pack\cup_vests\Data\tmtm_bundes_cartridge_pouch_olive_co.paa" // might be an issue
 		};
 	};
+	*/
 	class tmtm_v_GER_PVest_Med_olive: CUP_V_B_GER_PVest_Fleck_Med
 	{
 		author="Trenchgun";
@@ -1703,6 +1707,7 @@ class CfgWeapons
 			"\tmtm\pack\cup_vests\Data\tmtm_bundes_cartridge_pouch_multicam_co.paa"
 		};
 	};
+	/* removed because of unselectable drum mag pouches
 	class tmtm_v_GER_PVest_MG_multicam: CUP_V_B_GER_PVest_Fleck_MG
 	{
 		author="Trenchgun";
@@ -1726,6 +1731,7 @@ class CfgWeapons
 			"\tmtm\pack\cup_vests\Data\tmtm_bundes_cartridge_pouch_multicam_co.paa" // might be an issue
 		};
 	};
+	*/
 	class tmtm_v_GER_PVest_Med_multicam: CUP_V_B_GER_PVest_Fleck_Med
 	{
 		author="Trenchgun";
