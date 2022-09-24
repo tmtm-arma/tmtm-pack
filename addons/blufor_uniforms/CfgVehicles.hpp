@@ -203,6 +203,7 @@ class CfgVehicles
 
 	class tmtm_combatUniform_aor2: tmtm_combatUniform_black
 	{
+		author="SkytechCEO";
 		displayName="Soldier (AOR2)";
 		uniformClass="tmtm_u_combatUniform_aor2";
 		hiddenSelectionsTextures[]=
@@ -213,6 +214,7 @@ class CfgVehicles
 
 	class tmtm_combatUniformRS_aor2: tmtm_combatUniform_aor2
 	{
+		author="SkytechCEO";
 		displayName="Soldier (AOR2) (RS)";
 		model="\A3\Characters_F\BLUFOR\b_soldier_03.p3d";
 		uniformClass="tmtm_u_combatUniformRS_aor2";
@@ -220,6 +222,7 @@ class CfgVehicles
 
 	class tmtm_combatUniform_aor2B: tmtm_combatUniform_black
 	{
+		author="SkytechCEO";
 		displayName="Soldier (AOR2/Black)";
 		uniformClass="tmtm_u_combatUniform_aor2B";
 		hiddenSelectionsTextures[]=
@@ -230,6 +233,7 @@ class CfgVehicles
 
 	class tmtm_combatUniformRS_aor2B: tmtm_combatUniform_aor2B
 	{
+		author="SkytechCEO";
 		displayName="Soldier (AOR2/Black) (RS)";
 		model="\A3\Characters_F\BLUFOR\b_soldier_03.p3d";
 		uniformClass="tmtm_u_combatUniformRS_aor2B";
@@ -325,6 +329,7 @@ class CfgVehicles
 	
 	class tmtm_combatUniformT_aor2: tmtm_combatUniformT_mcamBlack
 	{
+		author="SkytechCEO";
 		displayName="Soldier (AOR2) (Tee)";
 		uniformClass="tmtm_u_combatUniformT_mcamBBlack";
 		hiddenSelectionsTextures[]=
@@ -439,6 +444,7 @@ class CfgVehicles
 	
 	class tmtm_combatUniformC_aor2: tmtm_combatUniformC_erdl
 	{
+		author="SkytechCEO";
 		displayName="Soldier (AOR2) (Collar)";
 		uniformClass="tmtm_u_combatUniformC_aor2";
 		hiddenSelectionsTextures[]=
@@ -449,6 +455,7 @@ class CfgVehicles
 
 	class tmtm_combatUniformC_aor2B: tmtm_combatUniformC_erdl
 	{
+		author="SkytechCEO";
 		displayName="Soldier (AOR2/Black) (Collar)";
 		uniformClass="tmtm_u_combatUniformC_aor2B";
 		hiddenSelectionsTextures[]=
@@ -601,6 +608,7 @@ class CfgVehicles
 
 	class tmtm_survival_aor2: tmtm_survival_black
 	{
+		author="SkytechCEO";
 		displayName="Survival (AOR2)";
 		hiddenSelectionsTextures[]=
 		{

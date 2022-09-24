@@ -347,6 +347,7 @@ class CfgWeapons
 
 	class tmtm_u_combatUniform_aor2: Uniform_Base
 	{
+		author="SkytechCEO";
 		scope=2;
 		displayName="Combat Fatigues (AOR2)";
 		picture="\tmtm\pack\blufor_uniforms\Data\UI\tmtm_icon_combatFatiguesRS_blackTan_ca.paa";
@@ -362,6 +363,7 @@ class CfgWeapons
 	
 	class tmtm_u_combatUniformRS_aor2: Uniform_Base
 	{
+		author="SkytechCEO";
 		scope=2;
 		displayName="Combat Fatigues (AOR2) (Rolled Sleeves)";
 		picture="\tmtm\pack\blufor_uniforms\Data\UI\tmtm_icon_combatFatiguesRS_mcamBGrey_ca.paa";
@@ -377,6 +379,7 @@ class CfgWeapons
 
 	class tmtm_u_combatUniform_aor2B: Uniform_Base
 	{
+		author="SkytechCEO";
 		scope=2;
 		displayName="Combat Fatigues (AOR2/Black)";
 		picture="\tmtm\pack\blufor_uniforms\Data\UI\tmtm_icon_combatFatiguesRS_blackTan_ca.paa";
@@ -392,6 +395,7 @@ class CfgWeapons
 	
 	class tmtm_u_combatUniformRS_aor2B: Uniform_Base
 	{
+		author="SkytechCEO";
 		scope=2;
 		displayName="Combat Fatigues (AOR2/Black) (Rolled Sleeves)";
 		picture="\tmtm\pack\blufor_uniforms\Data\UI\tmtm_icon_combatFatiguesRS_mcamBGrey_ca.paa";
@@ -507,6 +511,7 @@ class CfgWeapons
 
 	class tmtm_u_combatUniformT_aor2: Uniform_Base
 	{
+		author="SkytechCEO";
 		scope=2;
 		displayName="Combat Fatigues (AOR2) (Tee)";
 		picture="\tmtm\pack\blufor_uniforms\Data\UI\tmtm_icon_combatFatiguesT_mcamB_ca.paa";
@@ -655,6 +660,7 @@ class CfgWeapons
 
 	class tmtm_u_combatUniformC_aor2: Uniform_Base
 	{
+		author="SkytechCEO";
 		scope = 2;
 		displayName = "Combat Fatigues (AOR2) (Collar)";
 		picture = "\tmtm\pack\blufor_uniforms\Data\UI\tmtm_icon_combatFatiguesC_mcamBGrey_ca.paa";
@@ -669,6 +675,7 @@ class CfgWeapons
 
 	class tmtm_u_combatUniformC_aor2B: Uniform_Base
 	{
+		author="SkytechCEO";
 		scope = 2;
 		displayName = "Combat Fatigues (AOR2/Black) (Collar)";
 		picture = "\tmtm\pack\blufor_uniforms\Data\UI\tmtm_icon_combatFatiguesC_mcamBGrey_ca.paa";
@@ -830,6 +837,7 @@ class CfgWeapons
 
 	class tmtm_u_survival_mcamB: U_B_survival_uniform
 	{
+		author="SkytechCEO";
 		scope=2;
 		displayName="Survival Fatigues (AOR2)";
 		picture="\tmtm\pack\blufor_uniforms\Data\UI\tmtm_icon_survivalFatigues_mcamB_ca.paa";
