@@ -203,7 +203,7 @@ class CfgVehicles
 
 	class tmtm_combatUniform_aor2: tmtm_combatUniform_black
 	{
-		displayName="Soldier (AOR2/NWU Type 3)";
+		displayName="Soldier (AOR2)";
 		uniformClass="tmtm_u_combatUniform_aor2";
 		hiddenSelectionsTextures[]=
 		{
