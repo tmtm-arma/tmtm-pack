@@ -504,6 +504,21 @@ class CfgWeapons
 			mass=50;
 		};
 	};
+
+	class tmtm_u_combatUniformT_aor2: Uniform_Base
+	{
+		scope=2;
+		displayName="Combat Fatigues (AOR2) (Tee)";
+		picture="\tmtm\pack\blufor_uniforms\Data\UI\tmtm_icon_combatFatiguesT_mcamB_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="tmtm_combatUniformT_aor2";
+			containerClass="Supply50";
+			mass=50;
+		};
+	};
 	
 	// Combat Fatigues (Collar) -------------------------------------------------------
 	
@@ -633,6 +648,34 @@ class CfgWeapons
         class ItemInfo : UniformItem {
 			uniformModel="-";
             uniformClass = "tmtm_combatUniformC_mcamBGrey"; // name of linked character
+            containerClass = "Supply50";
+            mass = 50;
+        };
+	};
+
+	class tmtm_u_combatUniformC_aor2: Uniform_Base
+	{
+		scope = 2;
+		displayName = "Combat Fatigues (AOR2) (Collar)";
+		picture = "\tmtm\pack\blufor_uniforms\Data\UI\tmtm_icon_combatFatiguesC_mcamBGrey_ca.paa";
+        model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+        class ItemInfo : UniformItem {
+			uniformModel="-";
+            uniformClass = "tmtm_combatUniformC_aor2"; // name of linked character
+            containerClass = "Supply50";
+            mass = 50;
+        };
+	};
+
+	class tmtm_u_combatUniformC_aor2B: Uniform_Base
+	{
+		scope = 2;
+		displayName = "Combat Fatigues (AOR2/Black) (Collar)";
+		picture = "\tmtm\pack\blufor_uniforms\Data\UI\tmtm_icon_combatFatiguesC_mcamBGrey_ca.paa";
+        model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+        class ItemInfo : UniformItem {
+			uniformModel="-";
+            uniformClass = "tmtm_combatUniformC_aor2B"; // name of linked character
             containerClass = "Supply50";
             mass = 50;
         };
@@ -779,6 +822,21 @@ class CfgWeapons
 		class ItemInfo: UniformItem
 		{
 			uniformClass="tmtm_survival_mcamB";
+			containerClass="Supply50";
+			mass=50;
+			uniformType="Neopren";
+		};
+	};
+
+	class tmtm_u_survival_mcamB: U_B_survival_uniform
+	{
+		scope=2;
+		displayName="Survival Fatigues (AOR2)";
+		picture="\tmtm\pack\blufor_uniforms\Data\UI\tmtm_icon_survivalFatigues_mcamB_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_blufor_diver";
+		class ItemInfo: UniformItem
+		{
+			uniformClass="tmtm_survival_aor2";
 			containerClass="Supply50";
 			mass=50;
 			uniformType="Neopren";
