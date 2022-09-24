@@ -203,6 +203,7 @@ class CfgWeapons
 			mass=50;
 		};
 	};
+
 	class tmtm_u_combatUniform_sage: Uniform_Base		// VANILLA TEXTURE
 	{
 		scope=2;
@@ -343,7 +344,66 @@ class CfgWeapons
 			mass=50;
 		};
 	};
+
+	class tmtm_u_combatUniform_aor2: Uniform_Base
+	{
+		scope=2;
+		displayName="Combat Fatigues (AOR2)";
+		picture="\tmtm\pack\blufor_uniforms\Data\UI\tmtm_icon_combatFatiguesRS_blackTan_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="tmtm_combatUniform_AOR2";
+			containerClass="Supply50";
+			mass=50;
+		};
+	};
 	
+	class tmtm_u_combatUniformRS_aor2: Uniform_Base
+	{
+		scope=2;
+		displayName="Combat Fatigues (AOR2) (Rolled Sleeves)";
+		picture="\tmtm\pack\blufor_uniforms\Data\UI\tmtm_icon_combatFatiguesRS_mcamBGrey_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="tmtm_combatUniformRS_aor2";
+			containerClass="Supply50";
+			mass=50;
+		};
+	};
+
+	class tmtm_u_combatUniform_aor2B: Uniform_Base
+	{
+		scope=2;
+		displayName="Combat Fatigues (AOR2/Black)";
+		picture="\tmtm\pack\blufor_uniforms\Data\UI\tmtm_icon_combatFatiguesRS_blackTan_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="tmtm_combatUniform_aor2B";
+			containerClass="Supply50";
+			mass=50;
+		};
+	};
+	
+	class tmtm_u_combatUniformRS_aor2B: Uniform_Base
+	{
+		scope=2;
+		displayName="Combat Fatigues (AOR2/Black) (Rolled Sleeves)";
+		picture="\tmtm\pack\blufor_uniforms\Data\UI\tmtm_icon_combatFatiguesRS_mcamBGrey_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="tmtm_combatUniformRS_aor2B";
+			containerClass="Supply50";
+			mass=50;
+		};
+	};
 	// Combat Fatigues (Tee) -----------------------------------------------------------------------
 	
 	class tmtm_u_combatUniformT_mcamBlack: Uniform_Base		// VANILLA TEXTURE

@@ -200,7 +200,40 @@ class CfgVehicles
 		model="\A3\Characters_F\BLUFOR\b_soldier_03.p3d";
 		uniformClass="tmtm_u_combatUniformRS_mcamBGrey";
 	};
-	
+
+	class tmtm_combatUniform_aor2: tmtm_combatUniform_black
+	{
+		displayName="Soldier (AOR2/NWU Type 3)";
+		uniformClass="tmtm_u_combatUniform_aor2";
+		hiddenSelectionsTextures[]=
+		{
+			"\tmtm\pack\blufor_uniforms\Data\tmtm_combatUniform_aor2_co.paa"
+		};
+	};
+
+	class tmtm_combatUniformRS_aor2: tmtm_combatUniform_aor2
+	{
+		displayName="Soldier (AOR2) (RS)";
+		model="\A3\Characters_F\BLUFOR\b_soldier_03.p3d";
+		uniformClass="tmtm_u_combatUniformRS_aor2";
+	};
+
+	class tmtm_combatUniform_aor2B: tmtm_combatUniform_black
+	{
+		displayName="Soldier (AOR2/Black)";
+		uniformClass="tmtm_u_combatUniform_aor2B";
+		hiddenSelectionsTextures[]=
+		{
+			"\tmtm\pack\blufor_uniforms\Data\tmtm_combatUniform_aor2B_co.paa"
+		};
+	};
+
+	class tmtm_combatUniformRS_aor2B: tmtm_combatUniform_aor2B
+	{
+		displayName="Soldier (AOR2/Black) (RS)";
+		model="\A3\Characters_F\BLUFOR\b_soldier_03.p3d";
+		uniformClass="tmtm_u_combatUniformRS_aor2B";
+	};
 	// Fatigues, T-Shirt --------------------------------------------------------------
 	// adds some black T-Shirt variants to the vanilla Combat Fatigues (Tee)
 	
