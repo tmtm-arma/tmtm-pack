@@ -7,7 +7,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="CSAT Fatigues (ATACS AU)";
-		picture="";
+		picture="\tmtm\pack\opfor_uniforms\Data\UI\tmtm_icon_combatFatiguesCsat_atacsAu_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		class ItemInfo: UniformItem
 		{
@@ -22,7 +22,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="CSAT Fatigues (ATACS FG)";
-		picture="";
+		picture="\tmtm\pack\opfor_uniforms\Data\UI\tmtm_icon_combatFatiguesCsat_atacsFg_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
 		class ItemInfo: UniformItem
 		{
@@ -37,7 +37,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="CSAT Fatigues (Black)";
-		picture="";
+		picture="\tmtm\pack\opfor_uniforms\Data\UI\tmtm_icon_combatFatiguesCsat_black_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
 		class ItemInfo: UniformItem
 		{
@@ -52,7 +52,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="CSAT Fatigues (Blue)";
-		picture="";
+		picture="\tmtm\pack\opfor_uniforms\Data\UI\tmtm_icon_combatFatiguesCsat_blue_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
 		class ItemInfo: UniformItem
 		{
@@ -67,7 +67,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="CSAT Fatigues (EMR)";
-		picture="";
+		picture="\tmtm\pack\opfor_uniforms\Data\UI\tmtm_icon_combatFatiguesCsat_emr_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
 		class ItemInfo: UniformItem
 		{
@@ -82,7 +82,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="CSAT Fatigues (Grey)";
-		picture="";
+		picture="\tmtm\pack\opfor_uniforms\Data\UI\tmtm_icon_combatFatiguesCsat_grey_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
 		class ItemInfo: UniformItem
 		{
@@ -97,7 +97,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="CSAT Fatigues (Grey/Black)";
-		picture="";
+		picture="\tmtm\pack\opfor_uniforms\Data\UI\tmtm_icon_combatFatiguesCsat_greyBlack_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
 		class ItemInfo: UniformItem
 		{
@@ -112,7 +112,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="CSAT Fatigues (LDF)";
-		picture="";
+		picture="\tmtm\pack\opfor_uniforms\Data\UI\tmtm_icon_combatFatiguesCsat_ldf_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
 		class ItemInfo: UniformItem
 		{
@@ -127,7 +127,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="CSAT Fatigues (MTP)";
-		picture="";
+		picture="\tmtm\pack\opfor_uniforms\Data\UI\tmtm_icon_combatFatiguesCsat_mtp_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
 		class ItemInfo: UniformItem
 		{
@@ -142,7 +142,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="CSAT Fatigues (Multicam)";
-		picture="";
+		picture="\tmtm\pack\opfor_uniforms\Data\UI\tmtm_icon_combatFatiguesCsat_multicam_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
 		class ItemInfo: UniformItem
 		{
@@ -157,7 +157,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="CSAT Fatigues (NATO Woodland)";
-		picture="";
+		picture="\tmtm\pack\opfor_uniforms\Data\UI\tmtm_icon_combatFatiguesCsat_natoWdl_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
 		class ItemInfo: UniformItem
 		{
@@ -172,7 +172,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="CSAT Fatigues (SURPAT)";
-		picture="";
+		picture="\tmtm\pack\opfor_uniforms\Data\UI\tmtm_icon_combatFatiguesCsat_surpat_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
 		class ItemInfo: UniformItem
 		{
@@ -187,7 +187,7 @@ class CfgWeapons
 	{
 		scope=2;
 		displayName="CSAT Fatigues (Yellow)";
-		picture="";
+		picture="\tmtm\pack\opfor_uniforms\Data\UI\tmtm_icon_combatFatiguesCsat_yellow_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
 		class ItemInfo: UniformItem
 		{
