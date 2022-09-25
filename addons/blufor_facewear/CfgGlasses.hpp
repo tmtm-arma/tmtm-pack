@@ -8,7 +8,7 @@ class cfgGlasses
 		scopeArsenal = 2;
 		displayName = "Camo Netting (Arid 1)";
 		model = "\A3\Characters_F\BLUFOR\headgear_b_helmet_camo";
-		picture = "\tmtm\pack\blufor_facewear\Data\tmtm_icon_camoNet_arid_ca.paa";
+		picture = "\tmtm\pack\blufor_facewear\Data\UI\tmtm_icon_camoNet_arid_ca.paa";
 		identityTypes[] =
 		{
 			"NoGlasses",0,"G_NATO_default",0,"G_NATO_casual",0,"G_NATO_pilot",0,"G_NATO_recon",50,"G_NATO_SF",0,"G_NATO_sniper",0,
@@ -53,7 +53,7 @@ class cfgGlasses
 		scopeArsenal = 2;
 		displayName = "Camo Netting (Semi-Arid 1)";
 		model = "\A3\Characters_F\BLUFOR\headgear_b_helmet_camo";
-		picture = "\tmtm\pack\blufor_facewear\Data\tmtm_icon_camoNet_semiArid_ca.paa";
+		picture = "\tmtm\pack\blufor_facewear\Data\UI\tmtm_icon_camoNet_semiArid_ca.paa";
 		identityTypes[] =
 		{
 			"NoGlasses",0,"G_NATO_default",0,"G_NATO_casual",0,"G_NATO_pilot",0,"G_NATO_recon",50,"G_NATO_SF",0,"G_NATO_sniper",0,
@@ -70,7 +70,7 @@ class cfgGlasses
 		scopeArsenal = 2;
 		displayName = "Camo Netting (Lush 1)";
 		model = "\A3\Characters_F\BLUFOR\headgear_b_helmet_camo";
-		picture = "\tmtm\pack\blufor_facewear\Data\tmtm_icon_camoNet_lush_ca.paa";
+		picture = "\tmtm\pack\blufor_facewear\Data\UI\tmtm_icon_camoNet_lush_ca.paa";
 		identityTypes[] =
 		{
 			"NoGlasses",0,"G_NATO_default",0,"G_NATO_casual",0,"G_NATO_pilot",0,"G_NATO_recon",50,"G_NATO_SF",0,"G_NATO_sniper",0,
@@ -94,7 +94,7 @@ class cfgGlasses
 		scopeArsenal = 2;
 		displayName = "Camo Netting (Jungle 1)";
 		model = "\A3\Characters_F\BLUFOR\headgear_b_helmet_camo";
-		picture = "\tmtm\pack\blufor_facewear\Data\tmtm_icon_camoNet_jungle_ca.paa";
+		picture = "\tmtm\pack\blufor_facewear\Data\UI\tmtm_icon_camoNet_jungle_ca.paa";
 		identityTypes[] =
 		{
 			"NoGlasses",0,"G_NATO_default",0,"G_NATO_casual",0,"G_NATO_pilot",0,"G_NATO_recon",50,"G_NATO_SF",0,"G_NATO_sniper",0,
