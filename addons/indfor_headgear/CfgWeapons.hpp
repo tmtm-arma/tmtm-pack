@@ -36,7 +36,7 @@ class CfgWeapons
 		scopeCurator=2;
 		scopeArsenal=2;
 		displayName="CVC Helmet (White/Blue)";
-		picture="";
+		picture="\tmtm\pack\indfor_headgear\Data\UI\tmtm_icon_cvc_white_ca.paa";
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\indfor_headgear\Data\tmtm_cvc_whiteBlue_co.paa"
 		};
@@ -55,7 +55,7 @@ class CfgWeapons
 		scopeCurator=2;
 		scopeArsenal=2;
 		displayName="CVC Helmet (White/Green)";
-		picture="";
+		picture="\tmtm\pack\indfor_headgear\Data\UI\tmtm_icon_cvc_white_ca.paa";
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\indfor_headgear\Data\tmtm_cvc_whiteGreen_co.paa"
 		};
@@ -66,7 +66,7 @@ class CfgWeapons
 		scopeCurator=2;
 		scopeArsenal=2;
 		displayName="CVC Helmet (White/Orange)";
-		picture="";
+		picture="\tmtm\pack\indfor_headgear\Data\UI\tmtm_icon_cvc_white_ca.paa";
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\indfor_headgear\Data\tmtm_cvc_whiteOrange_co.paa"
 		};
@@ -77,7 +77,7 @@ class CfgWeapons
 		scopeCurator=2;
 		scopeArsenal=2;
 		displayName="CVC Helmet (White/Purple)";
-		picture="";
+		picture="\tmtm\pack\indfor_headgear\Data\UI\tmtm_icon_cvc_white_ca.paa";
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\indfor_headgear\Data\tmtm_cvc_whitePurple_co.paa"
 		};
@@ -88,18 +88,18 @@ class CfgWeapons
 		scopeCurator=2;
 		scopeArsenal=2;
 		displayName="CVC Helmet (White/Red)";
-		picture="";
+		picture="\tmtm\pack\indfor_headgear\Data\UI\tmtm_icon_cvc_white_ca.paa";
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\indfor_headgear\Data\tmtm_cvc_whiteRed_co.paa"
 		};
 	};
-	class tmtm_h_cvc_whiteGold: tmtm_h_cvc_whiteBlue
+	class tmtm_h_cvc_whiteYellow: tmtm_h_cvc_whiteBlue
 	{
 		scope=2;
 		scopeCurator=2;
 		scopeArsenal=2;
-		displayName="CVC Helmet (White/Gold)";
-		picture="";
+		displayName="CVC Helmet (White/Yellow)";
+		picture="\tmtm\pack\indfor_headgear\Data\UI\tmtm_icon_cvc_white_ca.paa";
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\indfor_headgear\Data\tmtm_cvc_whiteYellow_co.paa"
 		};
@@ -112,7 +112,7 @@ class CfgWeapons
 		scopeCurator=2;
 		scopeArsenal=2;
 		displayName="CVC Helmet (Black/Blue)";
-		picture="";
+		picture="\tmtm\pack\indfor_headgear\Data\UI\tmtm_icon_cvc_black_ca.paa";
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\indfor_headgear\Data\tmtm_cvc_blackBlue_co.paa"
 		};
@@ -123,7 +123,7 @@ class CfgWeapons
 		scopeCurator=2;
 		scopeArsenal=2;
 		displayName="CVC Helmet (Black/Green)";
-		picture="";
+		picture="\tmtm\pack\indfor_headgear\Data\UI\tmtm_icon_cvc_black_ca.paa";
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\indfor_headgear\Data\tmtm_cvc_blackGreen_co.paa"
 		};
@@ -134,7 +134,7 @@ class CfgWeapons
 		scopeCurator=2;
 		scopeArsenal=2;
 		displayName="CVC Helmet (Black/Orange)";
-		picture="";
+		picture="\tmtm\pack\indfor_headgear\Data\UI\tmtm_icon_cvc_black_ca.paa";
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\indfor_headgear\Data\tmtm_cvc_blackOrange_co.paa"
 		};
@@ -145,7 +145,7 @@ class CfgWeapons
 		scopeCurator=2;
 		scopeArsenal=2;
 		displayName="CVC Helmet (Black/Purple)";
-		picture="";
+		picture="\tmtm\pack\indfor_headgear\Data\UI\tmtm_icon_cvc_black_ca.paa";
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\indfor_headgear\Data\tmtm_cvc_blackPurple_co.paa"
 		};
@@ -156,18 +156,18 @@ class CfgWeapons
 		scopeCurator=2;
 		scopeArsenal=2;
 		displayName="CVC Helmet (Black/Red)";
-		picture="";
+		picture="\tmtm\pack\indfor_headgear\Data\UI\tmtm_icon_cvc_black_ca.paa";
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\indfor_headgear\Data\tmtm_cvc_blackRed_co.paa"
 		};
 	};
-	class tmtm_h_cvc_blackGold: tmtm_h_cvc_whiteBlue
+	class tmtm_h_cvc_blackYellow: tmtm_h_cvc_whiteBlue
 	{
 		scope=2;
 		scopeCurator=2;
 		scopeArsenal=2;
-		displayName="CVC Helmet (Black/Gold)";
-		picture="";
+		displayName="CVC Helmet (Black/Yellow)";
+		picture="\tmtm\pack\indfor_headgear\Data\UI\tmtm_icon_cvc_black_ca.paa";
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\indfor_headgear\Data\tmtm_cvc_blackYellow_co.paa"
 		};
