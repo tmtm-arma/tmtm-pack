@@ -318,19 +318,4 @@ class CfgVehicles
 		mass = 50;
 	};
 
-	// Kolobok (ALICE)
-	class tmtm_b_kolobok: Bag_Base
-	{
-		author="erem2k";
-		scope=2;
-
-		displayName="Kolobok Pack";
-		picture = "\tmtm\pack\cup_backpacks\Data\UI\icon_tmtm_rd54_green.paa";
-
-		model = "\CUP\Weapons\CUP_Weapons_Backpacks\CUP_AlicePack_TK.p3d";
-		hiddenSelectionsTextures[] = {"\tmtm\pack\cup_backpacks\Data\tmtm_kolobok_khaki_co.paa"};
-		maximumLoad = 300;
-		mass = 50;
-	};
-
 };
