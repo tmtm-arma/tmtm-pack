@@ -289,4 +289,33 @@ class CfgVehicles
 		maximumLoad=140;
 		mass=20;
 	};
+
+	// RD-54 (Civilian Assault Pack)
+	class tmtm_b_rd54_green: Bag_Base
+	{
+		author="erem2k";
+		scope=2;
+
+		displayName="RD-54 (Green)";
+		picture = "\tmtm\pack\cup_backpacks\Data\UI\icon_tmtm_rd54_green.paa";
+
+		model = "\CUP\Weapons\CUP_Weapons_Backpacks\CUP_AssaultPack_Civ.p3d";
+		hiddenSelectionsTextures[] = {"\tmtm\pack\cup_backpacks\Data\tmtm_rd54_green_co.paa"};
+		maximumLoad = 280;
+		mass = 50;
+	};
+	class tmtm_b_rd54_khaki: Bag_Base
+	{
+		author="erem2k";
+		scope=2;
+
+		displayName="RD-54 (Khaki)";
+		picture = "\tmtm\pack\cup_backpacks\Data\UI\icon_tmtm_rd54_khaki.paa";
+
+		model = "\CUP\Weapons\CUP_Weapons_Backpacks\CUP_AssaultPack_Civ.p3d";
+		hiddenSelectionsTextures[] = {"\tmtm\pack\cup_backpacks\Data\tmtm_rd54_khaki_co.paa"};
+		maximumLoad = 280;
+		mass = 50;
+	};
+
 };

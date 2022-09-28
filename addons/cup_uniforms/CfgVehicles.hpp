@@ -63,7 +63,7 @@ class CfgVehicles
 	{ 
 		model = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_NAPA\CUP_NAPA_Soldier4.p3d"; 
 	};
-	
+
 	// ACU
 	class tmtm_acu_base: B_Soldier_base_F
 	{
@@ -153,6 +153,75 @@ class CfgVehicles
 		scopeCurator = 0;
 		
 		model = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_USArmy\ACU\CUP_ACU_1_rolled_gloves.p3d";
+	};
+
+	// M88 Uniform
+	class tmtm_m88_base: O_Soldier_base_F
+	{
+		scope=1;
+		scopeCurator=0;
+
+		class Wounds
+		{
+			tex[] = {};
+			mat[] = {
+
+
+				// Meaty parts injuries
+				"A3\Characters_F\Heads\Data\hl_white_bald_muscular.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white_bald_muscular_injury.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white_bald_muscular_injury.rvmat",
+
+				"A3\Characters_F\Heads\Data\hl_black_bald_muscular.rvmat",
+				"A3\Characters_F\Heads\Data\hl_black_bald_muscular_injury.rvmat",
+				"A3\Characters_F\Heads\Data\hl_black_bald_muscular_injury.rvmat",
+
+				"A3\Characters_F\Heads\Data\hl_white_hairy_muscular.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white_hairy_muscular_injury.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white_hairy_muscular_injury.rvmat",
+
+				"A3\Characters_F\Heads\Data\hl_white_old.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white_old_injury.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white_old_injury.rvmat",
+
+				"A3\Characters_F\Heads\Data\hl_asian_bald_muscular.rvmat",
+				"A3\Characters_F\Heads\Data\hl_asian_bald_muscular_injury.rvmat",
+				"A3\Characters_F\Heads\Data\hl_asian_bald_muscular_injury.rvmat"
+
+			};
+		};
+
+		model = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\CUP_RUS_Uniform_80s.p3d";
+		modelSides[] = { 3, 0 };
+
+		class UniformInfo
+		{
+			class SlotsInfo
+			{
+				class NVG : UniformSlotInfo{ slotType = NVG_SLOT; };
+				class Scuba : UniformSlotInfo{ slotType = SCUBA_SLOT; };
+				class Googles : UniformSlotInfo{ slotType = GOGGLE_SLOT; };
+				class Headgear : UniformSlotInfo{ slotType = HEADGEAR_SLOT; };
+			};
+		};
+
+		hiddenSelections[] = { "Camo", "clan", "insignia" };
+	};
+
+	class tmtm_m88_rolled_base: tmtm_m88_base
+	{
+		scope=1;
+		scopeCurator=0;
+		
+		model = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\CUP_RUS_Uniform_80s_rolled_up.p3d";
+	};
+
+	class tmtm_m88_rolled_gloves_base: tmtm_m88_base
+	{
+		scope=1;
+		scopeCurator=0;
+
+		model = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\CUP_RUS_Uniform_80s_rolled_up_gloves.p3d";
 	};
 
 	//////////////////////////////////////////////////////////////////////////
@@ -262,6 +331,78 @@ class CfgVehicles
 		{
 			"\tmtm\pack\cup_uniforms\Data\tmtm_maskhalat_jacket_berezkaYellow_co.paa",
 			"\tmtm\pack\cup_uniforms\Data\tmtm_maskhalat_pants_berezkaYellow_co.paa",
+		};
+	};
+	// Maskhalat + Loose Pants (Svitanok)
+	class tmtm_maskhalat_svitanok_loose: tmtm_maskhalat_loose_base
+	{
+		author="erem2k";
+
+		scope=1;
+		scopeArsenal=2;
+		scopeCurator=0;
+
+		displayName="Maskhalat (Svitanok/Loose)";
+		uniformClass = "tmtm_u_maskhalat_svitanok_loose";
+		
+		hiddenSelectionsTextures[] =
+		{
+			"\tmtm\pack\cup_uniforms\Data\tmtm_maskhalat_jacket_svitanok_co.paa",
+			"\tmtm\pack\cup_uniforms\Data\tmtm_maskhalat_pants_svitanok_co.paa",
+		};
+	};
+	// Maskhalat + Loose Pants (Svitanok/Hood)
+	class tmtm_maskhalat_svitanok_hood: tmtm_maskhalat_hood_base
+	{
+		author="erem2k";
+
+		scope=1;
+		scopeArsenal=2;
+		scopeCurator=0;
+
+		displayName="Maskhalat (Svitanok/Hood)";
+		uniformClass = "tmtm_u_maskhalat_svitanok_hood";
+		
+		hiddenSelectionsTextures[] =
+		{
+			"\tmtm\pack\cup_uniforms\Data\tmtm_maskhalat_jacket_svitanok_co.paa",
+			"\tmtm\pack\cup_uniforms\Data\tmtm_maskhalat_pants_svitanok_co.paa",
+		};
+	};
+	// Maskhalat + Loose Pants (Berezka Winter)
+	class tmtm_maskhalat_berezkaWinter_loose: tmtm_maskhalat_loose_base
+	{
+		author="erem2k";
+
+		scope=1;
+		scopeArsenal=2;
+		scopeCurator=0;
+
+		displayName="Maskhalat (Berezka Winter/Loose)";
+		uniformClass = "tmtm_u_maskhalat_berezkaWinter_loose";
+		
+		hiddenSelectionsTextures[] =
+		{
+			"\tmtm\pack\cup_uniforms\Data\tmtm_maskhalat_jacket_berezkaWinter_co.paa",
+			"\tmtm\pack\cup_uniforms\Data\tmtm_maskhalat_pants_berezkaWinter_co.paa",
+		};
+	};
+	// Maskhalat + Loose Pants (Berezka Winter/Hood)
+	class tmtm_maskhalat_berezkaWinter_hood: tmtm_maskhalat_hood_base
+	{
+		author="erem2k";
+
+		scope=1;
+		scopeArsenal=2;
+		scopeCurator=0;
+
+		displayName="Maskhalat (Berezka Winter/Hood)";
+		uniformClass = "tmtm_u_maskhalat_berezkaWinter_hood";
+		
+		hiddenSelectionsTextures[] =
+		{
+			"\tmtm\pack\cup_uniforms\Data\tmtm_maskhalat_jacket_berezkaWinter_co.paa",
+			"\tmtm\pack\cup_uniforms\Data\tmtm_maskhalat_pants_berezkaWinter_co.paa",
 		};
 	};
 

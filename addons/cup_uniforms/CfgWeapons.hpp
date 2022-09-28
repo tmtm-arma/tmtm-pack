@@ -17,7 +17,7 @@ class CfgWeapons
 	{
 		scope=0;
 		allowedSlots[] = {BACKPACK_SLOT};
-		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d"; /// how does the uniform look when put on ground
+		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"Camo1", "Camo2","camo3"};
 	};
 
@@ -25,6 +25,21 @@ class CfgWeapons
 	{
 		scope=0;
 		hiddenSelections[] = {"Camo1", "Camo2"};
+	};
+
+	class tmtm_u_m88_base: ItemCore
+	{
+		scope=0;
+		allowedSlots[] = {BACKPACK_SLOT};
+		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+		hiddenSelections[] = { "Camo", "clan", "insignia" };
+		// class ItemInfo: UniformItem
+		// {
+		// 	uniformModel = "-";
+		// 	uniformClass = "yourclasshere";
+		// 	containerClass = "Supply60";
+		// 	mass = 20;
+		// };
 	};
 
 	//////////////////////////////////////////////////////////////////////////
@@ -174,6 +189,106 @@ class CfgWeapons
 		{
 			uniformModel = "-";
 			uniformClass="tmtm_maskhalat_berezkaYellow_hood";
+			containerClass="Supply40";
+			mass=20;
+		};
+	};
+	// Maskhalat + Loose Pants (Svitanok)
+	class tmtm_u_maskhalat_svitanok_loose: tmtm_u_maskhalat_base
+	{
+		author="erem2k";
+
+		scope=1;
+		scopeArsenal=2;
+		scopeCurator=0;
+
+		displayName="Maskhalat (Svitanok/Loose)";
+		picture = "\tmtm\pack\cup_uniforms\Data\UI\icon_tmtm_u_maskhalat_svitanok.paa";
+
+		hiddenSelectionsTextures[] =
+		{
+			"\tmtm\pack\cup_uniforms\Data\tmtm_maskhalat_jacket_svitanok_co.paa",
+			"\tmtm\pack\cup_uniforms\Data\tmtm_maskhalat_pants_svitanok_co.paa",
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel = "-";
+			uniformClass="tmtm_maskhalat_svitanok_loose";
+			containerClass="Supply40";
+			mass=20;
+		};
+	};
+	// Maskhalat + Loose Pants (Svitanok/Hood)
+	class tmtm_u_maskhalat_svitanok_hood: tmtm_u_maskhalat_base
+	{
+		author="erem2k";
+
+		scope=1;
+		scopeArsenal=2;
+		scopeCurator=0;
+
+		displayName="Maskhalat (Svitanok/Hood)";
+		picture = "\tmtm\pack\cup_uniforms\Data\UI\icon_tmtm_u_maskhalat_svitanok.paa";
+
+		hiddenSelectionsTextures[] =
+		{
+			"\tmtm\pack\cup_uniforms\Data\tmtm_maskhalat_jacket_svitanok_co.paa",
+			"\tmtm\pack\cup_uniforms\Data\tmtm_maskhalat_pants_svitanok_co.paa",
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel = "-";
+			uniformClass="tmtm_maskhalat_svitanok_hood";
+			containerClass="Supply40";
+			mass=20;
+		};
+	};
+	// Maskhalat + Loose Pants (Berezka Winter)
+	class tmtm_u_maskhalat_berezkaWinter_loose: tmtm_u_maskhalat_base
+	{
+		author="erem2k";
+
+		scope=1;
+		scopeArsenal=2;
+		scopeCurator=0;
+
+		displayName="Maskhalat (Berezka Winter/Loose)";
+		picture = "\tmtm\pack\cup_uniforms\Data\UI\icon_tmtm_u_maskhalat_berezkaWinter.paa";
+
+		hiddenSelectionsTextures[] =
+		{
+			"\tmtm\pack\cup_uniforms\Data\tmtm_maskhalat_jacket_berezkaWinter_co.paa",
+			"\tmtm\pack\cup_uniforms\Data\tmtm_maskhalat_pants_berezkaWinter_co.paa",
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel = "-";
+			uniformClass="tmtm_maskhalat_berezkaWinter_loose";
+			containerClass="Supply40";
+			mass=20;
+		};
+	};
+	// Maskhalat + Loose Pants (Berezka Winter/Hood)
+	class tmtm_u_maskhalat_berezkaWinter_hood: tmtm_u_maskhalat_base
+	{
+		author="erem2k";
+
+		scope=1;
+		scopeArsenal=2;
+		scopeCurator=0;
+
+		displayName="Maskhalat (Berezka Winter/Hood)";
+		picture = "\tmtm\pack\cup_uniforms\Data\UI\icon_tmtm_u_maskhalat_berezkaWinter.paa";
+
+		hiddenSelectionsTextures[] =
+		{
+			"\tmtm\pack\cup_uniforms\Data\tmtm_maskhalat_jacket_berezkaWinter_co.paa",
+			"\tmtm\pack\cup_uniforms\Data\tmtm_maskhalat_pants_berezkaWinter_co.paa",
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel = "-";
+			uniformClass="tmtm_maskhalat_berezkaWinter_hood";
 			containerClass="Supply40";
 			mass=20;
 		};

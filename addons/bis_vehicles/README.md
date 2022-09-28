@@ -1,2 +1,2 @@
 # BIS Vehicles
-Unhides a variety of unused camos for vanilla vehicles.
+Unhides a variety of unused camos and adds new varieties to vanilla vehicles.
