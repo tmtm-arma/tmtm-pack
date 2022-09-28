@@ -350,7 +350,7 @@ class CfgWeapons
 		author="SkytechCEO";
 		scope=2;
 		displayName="Combat Fatigues (AOR2)";
-		picture="\tmtm\pack\blufor_uniforms\Data\UI\tmtm_icon_combatFatiguesRS_blackTan_ca.paa";
+		picture="\tmtm\pack\blufor_uniforms\Data\UI\tmtm_icon_combatFatigues_aor2_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
 		class ItemInfo: UniformItem
 		{
@@ -366,7 +366,7 @@ class CfgWeapons
 		author="SkytechCEO";
 		scope=2;
 		displayName="Combat Fatigues (AOR2) (Rolled Sleeves)";
-		picture="\tmtm\pack\blufor_uniforms\Data\UI\tmtm_icon_combatFatiguesRS_mcamBGrey_ca.paa";
+		picture="\tmtm\pack\blufor_uniforms\Data\UI\tmtm_icon_combatFatiguesRS_aor2_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
 		class ItemInfo: UniformItem
 		{
@@ -382,7 +382,7 @@ class CfgWeapons
 		author="SkytechCEO";
 		scope=2;
 		displayName="Combat Fatigues (AOR2/Black)";
-		picture="\tmtm\pack\blufor_uniforms\Data\UI\tmtm_icon_combatFatiguesRS_blackTan_ca.paa";
+		picture="\tmtm\pack\blufor_uniforms\Data\UI\tmtm_icon_combatFatigues_aor2B_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
 		class ItemInfo: UniformItem
 		{
@@ -398,7 +398,7 @@ class CfgWeapons
 		author="SkytechCEO";
 		scope=2;
 		displayName="Combat Fatigues (AOR2/Black) (Rolled Sleeves)";
-		picture="\tmtm\pack\blufor_uniforms\Data\UI\tmtm_icon_combatFatiguesRS_mcamBGrey_ca.paa";
+		picture="\tmtm\pack\blufor_uniforms\Data\UI\tmtm_icon_combatFatiguesRS_aor2B_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
 		class ItemInfo: UniformItem
 		{
@@ -514,7 +514,7 @@ class CfgWeapons
 		author="SkytechCEO";
 		scope=2;
 		displayName="Combat Fatigues (AOR2) (Tee)";
-		picture="\tmtm\pack\blufor_uniforms\Data\UI\tmtm_icon_combatFatiguesT_mcamB_ca.paa";
+		picture="\tmtm\pack\blufor_uniforms\Data\UI\tmtm_icon_combatFatiguesT_aor2_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
 		class ItemInfo: UniformItem
 		{
@@ -663,7 +663,7 @@ class CfgWeapons
 		author="SkytechCEO";
 		scope = 2;
 		displayName = "Combat Fatigues (AOR2) (Collar)";
-		picture = "\tmtm\pack\blufor_uniforms\Data\UI\tmtm_icon_combatFatiguesC_mcamBGrey_ca.paa";
+		picture = "\tmtm\pack\blufor_uniforms\Data\UI\tmtm_icon_combatFatiguesC_aor2_ca.paa";
         model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
         class ItemInfo : UniformItem {
 			uniformModel="-";
@@ -678,7 +678,7 @@ class CfgWeapons
 		author="SkytechCEO";
 		scope = 2;
 		displayName = "Combat Fatigues (AOR2/Black) (Collar)";
-		picture = "\tmtm\pack\blufor_uniforms\Data\UI\tmtm_icon_combatFatiguesC_mcamBGrey_ca.paa";
+		picture = "\tmtm\pack\blufor_uniforms\Data\UI\tmtm_icon_combatFatiguesC_aor2B_ca.paa";
         model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
         class ItemInfo : UniformItem {
 			uniformModel="-";
@@ -835,12 +835,12 @@ class CfgWeapons
 		};
 	};
 
-	class tmtm_u_survival_mcamB: U_B_survival_uniform
+	class tmtm_u_survival_aor2: U_B_survival_uniform
 	{
 		author="SkytechCEO";
 		scope=2;
 		displayName="Survival Fatigues (AOR2)";
-		picture="\tmtm\pack\blufor_uniforms\Data\UI\tmtm_icon_survivalFatigues_mcamB_ca.paa";
+		picture="\tmtm\pack\blufor_uniforms\Data\UI\tmtm_icon_survivalFatigues_aor2_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_blufor_diver";
 		class ItemInfo: UniformItem
 		{
