@@ -638,7 +638,7 @@ class CfgWeapons
 		scopeArsenal=2;
 
 		displayName  = "Field Cap (M-88/Khaki)";
-		picture="\tmtm\pack\cup_headgear\Data\ui\icon_tmtm_h_cap_mm14.paa";
+		picture="\tmtm\pack\cup_headgear\Data\ui\icon_tmtm_h_m88_fieldcap_khaki.paa";
 
 		hiddenSelectionsTextures[] = {"\tmtm\pack\cup_headgear\Data\tmtm_m88_fieldcap_khaki_co.paa"};
 		class ItemInfo: ItemInfo
