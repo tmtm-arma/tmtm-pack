@@ -200,7 +200,44 @@ class CfgVehicles
 		model="\A3\Characters_F\BLUFOR\b_soldier_03.p3d";
 		uniformClass="tmtm_u_combatUniformRS_mcamBGrey";
 	};
-	
+
+	class tmtm_combatUniform_aor2: tmtm_combatUniform_black
+	{
+		author="SkytechCEO";
+		displayName="Soldier (AOR2)";
+		uniformClass="tmtm_u_combatUniform_aor2";
+		hiddenSelectionsTextures[]=
+		{
+			"\tmtm\pack\blufor_uniforms\Data\tmtm_combatUniform_aor2_co.paa"
+		};
+	};
+
+	class tmtm_combatUniformRS_aor2: tmtm_combatUniform_aor2
+	{
+		author="SkytechCEO";
+		displayName="Soldier (AOR2) (RS)";
+		model="\A3\Characters_F\BLUFOR\b_soldier_03.p3d";
+		uniformClass="tmtm_u_combatUniformRS_aor2";
+	};
+
+	class tmtm_combatUniform_aor2B: tmtm_combatUniform_black
+	{
+		author="SkytechCEO";
+		displayName="Soldier (AOR2/Black)";
+		uniformClass="tmtm_u_combatUniform_aor2B";
+		hiddenSelectionsTextures[]=
+		{
+			"\tmtm\pack\blufor_uniforms\Data\tmtm_combatUniform_aor2B_co.paa"
+		};
+	};
+
+	class tmtm_combatUniformRS_aor2B: tmtm_combatUniform_aor2B
+	{
+		author="SkytechCEO";
+		displayName="Soldier (AOR2/Black) (RS)";
+		model="\A3\Characters_F\BLUFOR\b_soldier_03.p3d";
+		uniformClass="tmtm_u_combatUniformRS_aor2B";
+	};
 	// Fatigues, T-Shirt --------------------------------------------------------------
 	// adds some black T-Shirt variants to the vanilla Combat Fatigues (Tee)
 	
@@ -290,6 +327,17 @@ class CfgVehicles
 		};
 	};
 	
+	class tmtm_combatUniformT_aor2: tmtm_combatUniformT_mcamBlack
+	{
+		author="SkytechCEO";
+		displayName="Soldier (AOR2) (Tee)";
+		uniformClass="tmtm_u_combatUniformT_mcamBBlack";
+		hiddenSelectionsTextures[]=
+		{
+			"\tmtm\pack\blufor_uniforms\Data\tmtm_combatUniform_aor2_co.paa",
+			"a3\characters_f\common\data\basicbody_black_co.paa"
+		};
+	};
 	// CTRG Stealth Fatigues -----------------------------------------------
 	// advanced Gen3 fatigues with the collar up
 	
@@ -391,6 +439,28 @@ class CfgVehicles
 		hiddenSelectionsTextures[]=
 		{
 			"\tmtm\pack\blufor_uniforms\Data\tmtm_combatUniform_mcamBGrey_co.paa"
+		};
+	};
+	
+	class tmtm_combatUniformC_aor2: tmtm_combatUniformC_erdl
+	{
+		author="SkytechCEO";
+		displayName="Soldier (AOR2) (Collar)";
+		uniformClass="tmtm_u_combatUniformC_aor2";
+		hiddenSelectionsTextures[]=
+		{
+			"\tmtm\pack\blufor_uniforms\Data\tmtm_combatUniform_aor2_co.paa"
+		};
+	};
+
+	class tmtm_combatUniformC_aor2B: tmtm_combatUniformC_erdl
+	{
+		author="SkytechCEO";
+		displayName="Soldier (AOR2/Black) (Collar)";
+		uniformClass="tmtm_u_combatUniformC_aor2B";
+		hiddenSelectionsTextures[]=
+		{
+			"\tmtm\pack\blufor_uniforms\Data\tmtm_combatUniform_aor2B_co.paa"
 		};
 	};
 	
@@ -531,6 +601,18 @@ class CfgVehicles
 		hiddenSelectionsTextures[]=
 		{
 			"\tmtm\pack\blufor_uniforms\Data\tmtm_combatUniform_mcamb_co.paa",
+			"a3\characters_f\common\data\diver_suit_co",
+			"a3\characters_f\common\data\basicbody_black_co.paa"
+		};
+	};
+
+	class tmtm_survival_aor2: tmtm_survival_black
+	{
+		author="SkytechCEO";
+		displayName="Survival (AOR2)";
+		hiddenSelectionsTextures[]=
+		{
+			"\tmtm\pack\blufor_uniforms\Data\tmtm_combatUniform_aor2_co.paa",
 			"a3\characters_f\common\data\diver_suit_co",
 			"a3\characters_f\common\data\basicbody_black_co.paa"
 		};

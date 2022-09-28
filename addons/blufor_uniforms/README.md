@@ -12,6 +12,7 @@ Retextures of vanilla BLUFOR faction uniforms.
 	- Multicam Black
 	- Multicam Black w/ Black Top
 	- Multicam Black w/ Grey Top
+	- AOR2 w/ Black Top
 	- Sage (hidden vanilla texture)
 	- ERDL (hidden vanilla texture)
 	
@@ -24,5 +25,6 @@ Retextures of vanilla BLUFOR faction uniforms.
 	- "Ghost"
 	- NWUPAT
 	- Multicam Black
+	- AOR2
 	- Sage (hidden vanilla texture)
 	- ERDL (hidden vanilla texture)
