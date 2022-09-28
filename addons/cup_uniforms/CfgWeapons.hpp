@@ -203,7 +203,7 @@ class CfgWeapons
 		scopeCurator=0;
 
 		displayName="Maskhalat (Svitanok/Loose)";
-		picture = "\tmtm\pack\cup_uniforms\Data\UI\icon_tmtm_u_maskhalat_berezkaYellow.paa";
+		picture = "\tmtm\pack\cup_uniforms\Data\UI\icon_tmtm_u_maskhalat_svitanok.paa";
 
 		hiddenSelectionsTextures[] =
 		{
@@ -228,7 +228,7 @@ class CfgWeapons
 		scopeCurator=0;
 
 		displayName="Maskhalat (Svitanok/Hood)";
-		picture = "\tmtm\pack\cup_uniforms\Data\UI\icon_tmtm_u_maskhalat_berezkaYellow.paa";
+		picture = "\tmtm\pack\cup_uniforms\Data\UI\icon_tmtm_u_maskhalat_svitanok.paa";
 
 		hiddenSelectionsTextures[] =
 		{
@@ -253,7 +253,7 @@ class CfgWeapons
 		scopeCurator=0;
 
 		displayName="Maskhalat (Berezka Winter/Loose)";
-		picture = "\tmtm\pack\cup_uniforms\Data\UI\icon_tmtm_u_maskhalat_berezkaYellow.paa";
+		picture = "\tmtm\pack\cup_uniforms\Data\UI\icon_tmtm_u_maskhalat_berezkaWinter.paa";
 
 		hiddenSelectionsTextures[] =
 		{
@@ -278,7 +278,7 @@ class CfgWeapons
 		scopeCurator=0;
 
 		displayName="Maskhalat (Berezka Winter/Hood)";
-		picture = "\tmtm\pack\cup_uniforms\Data\UI\icon_tmtm_u_maskhalat_berezkaYellow.paa";
+		picture = "\tmtm\pack\cup_uniforms\Data\UI\icon_tmtm_u_maskhalat_berezkaWinter.paa";
 
 		hiddenSelectionsTextures[] =
 		{
