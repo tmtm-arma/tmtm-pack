@@ -205,7 +205,7 @@ class CfgWeapons
 		scope=1;
 		scopeArsenal=2;
 		scopeCurator=0;
-		displayName="Tactical Vest (Mercernary Black)";
+		displayName="Tactical Vest (Mercenary Black)";
 		picture="\tmtm\pack\blufor_vests\Data\ui\icon_tmtm_v_tacticalvest_mercblack.paa";
 
 		hiddenSelectionsTextures[]=
@@ -219,7 +219,7 @@ class CfgWeapons
 		scope=1;
 		scopeArsenal=2;
 		scopeCurator=0;
-		displayName="Tactical Vest (Mercernary Blue)";
+		displayName="Tactical Vest (Mercenary Blue)";
 		picture="\tmtm\pack\blufor_vests\Data\ui\icon_tmtm_v_tacticalvest_mercblue.paa";
 
 		hiddenSelectionsTextures[]=
@@ -233,7 +233,7 @@ class CfgWeapons
 		scope=1;
 		scopeArsenal=2;
 		scopeCurator=0;
-		displayName="Tactical Vest (Mercernary Green)";
+		displayName="Tactical Vest (Mercenary Green)";
 		picture="\tmtm\pack\blufor_vests\Data\ui\icon_tmtm_v_tacticalvest_mercgreen.paa";
 
 		hiddenSelectionsTextures[]=
@@ -247,7 +247,7 @@ class CfgWeapons
 		scope=1;
 		scopeArsenal=2;
 		scopeCurator=0;
-		displayName="Tactical Vest (Mercernary Red)";
+		displayName="Tactical Vest (Mercenary Red)";
 		picture="\tmtm\pack\blufor_vests\Data\ui\icon_tmtm_v_tacticalvest_mercred.paa";
 
 		hiddenSelectionsTextures[]=
