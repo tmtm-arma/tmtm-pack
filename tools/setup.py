@@ -27,7 +27,7 @@ def main():
     - The Arma 3 Tools installed properly via Steam
     - A properly set up P-drive
   If you have not done those things yet, please abort this script in the next step and do so first.
-  This script will create two hard links on your system, both pointing to your Theseus Services project folder:
+  This script will create two hard links on your system, both pointing to your TMTM Pack project folder:
     [Arma 3 installation directory]\\{} => TMTM Pack project folder
     P:\\{}                              => TMTM Pack project folder
     """.format(FULLDIR,FULLDIR))
