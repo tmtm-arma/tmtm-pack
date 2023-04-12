@@ -40,7 +40,7 @@ jobs:
     - name: Setup HEMTT
       uses: arma-actions/hemtt@v1
     - name: Run HEMTT Build
-      uses: hemtt build
+      run: hemtt build
     - name: Upload Artifact
       uses: actions/upload-artifact@v2-preview
       with:
