@@ -49,7 +49,7 @@ class CfgVehicles
         model = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_NAPA\CUP_NAPA_Soldier.p3d";
 		modelSides[] = { 3, 1 };
 		hiddenSelections[] = { "Camo1", "Camo2", "clan", "insignia" };
-        hiddenSelectionsMaterials[] = 
+        hiddenSelectionsMaterials[] =
 		{
 			"\tmtm\pack\cup_uniforms\Data\tmtm_maskhalat_jacket.rvmat",
 			"\tmtm\pack\cup_uniforms\Data\tmtm_maskhalat_pants.rvmat"
@@ -57,11 +57,11 @@ class CfgVehicles
 	};
 	class tmtm_maskhalat_loose_base: tmtm_maskhalat_base
 	{
-        model = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_NAPA\CUP_NAPA_Soldier2.p3d";  
+        model = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_NAPA\CUP_NAPA_Soldier2.p3d";
 	};
 	class tmtm_maskhalat_hood_base: tmtm_maskhalat_base
-	{ 
-		model = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_NAPA\CUP_NAPA_Soldier4.p3d"; 
+	{
+		model = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_NAPA\CUP_NAPA_Soldier4.p3d";
 	};
 
 	// ACU
@@ -151,7 +151,7 @@ class CfgVehicles
 	{
 		scope=1;
 		scopeCurator = 0;
-		
+
 		model = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_USArmy\ACU\CUP_ACU_1_rolled_gloves.p3d";
 	};
 
@@ -212,7 +212,7 @@ class CfgVehicles
 	{
 		scope=1;
 		scopeCurator=0;
-		
+
 		model = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\CUP_RUS_Uniform_80s_rolled_up.p3d";
 	};
 
@@ -236,11 +236,11 @@ class CfgVehicles
 
 		displayName = "Maskhalat (Berezka White)";
 		uniformClass = "tmtm_u_maskhalat_berezkaWhite";
-		
+
 		hiddenSelectionsTextures[] =
 		{
 			"\tmtm\pack\cup_uniforms\Data\tmtm_maskhalat_jacket_berezkaWhite_co.paa",
-			"\tmtm\pack\cup_uniforms\Data\tmtm_maskhalat_pants_berezkaWhite_co.paa",
+			"\tmtm\pack\cup_uniforms\Data\tmtm_maskhalat_pants_berezkaWhite_co.paa"
 		};
 	};
 	// Maskhalat + Loose Pants (Berezka White)
@@ -254,11 +254,11 @@ class CfgVehicles
 
 		displayName = "Maskhalat (Berezka White/Loose)";
 		uniformClass = "tmtm_u_maskhalat_berezkaWhite_loose";
-		
+
 		hiddenSelectionsTextures[] =
 		{
 			"\tmtm\pack\cup_uniforms\Data\tmtm_maskhalat_jacket_berezkaWhite_co.paa",
-			"\tmtm\pack\cup_uniforms\Data\tmtm_maskhalat_pants_berezkaWhite_co.paa",
+			"\tmtm\pack\cup_uniforms\Data\tmtm_maskhalat_pants_berezkaWhite_co.paa"
 		};
 	};
 	// Maskhalat + Loose Pants (Berezka White/Hood)
@@ -272,11 +272,11 @@ class CfgVehicles
 
 		displayName="Maskhalat (Berezka White/Hood)";
 		uniformClass = "tmtm_u_maskhalat_berezkaWhite_hood";
-		
+
 		hiddenSelectionsTextures[] =
 		{
 			"\tmtm\pack\cup_uniforms\Data\tmtm_maskhalat_jacket_berezkaWhite_co.paa",
-			"\tmtm\pack\cup_uniforms\Data\tmtm_maskhalat_pants_berezkaWhite_co.paa",
+			"\tmtm\pack\cup_uniforms\Data\tmtm_maskhalat_pants_berezkaWhite_co.paa"
 		};
 	};
 	// Maskhalat (Berezka Yellow)
@@ -290,11 +290,11 @@ class CfgVehicles
 
 		displayName="Maskhalat (Berezka Yellow)";
 		uniformClass = "tmtm_u_maskhalat_berezkaYellow";
-		
+
 		hiddenSelectionsTextures[] =
 		{
 			"\tmtm\pack\cup_uniforms\Data\tmtm_maskhalat_jacket_berezkaYellow_co.paa",
-			"\tmtm\pack\cup_uniforms\Data\tmtm_maskhalat_pants_berezkaYellow_co.paa",
+			"\tmtm\pack\cup_uniforms\Data\tmtm_maskhalat_pants_berezkaYellow_co.paa"
 		};
 	};
 	// Maskhalat + Loose Pants (Berezka Yellow)
@@ -308,11 +308,11 @@ class CfgVehicles
 
 		displayName="Maskhalat (Berezka Yellow/Loose)";
 		uniformClass = "tmtm_u_maskhalat_berezkaYellow_loose";
-		
+
 		hiddenSelectionsTextures[] =
 		{
 			"\tmtm\pack\cup_uniforms\Data\tmtm_maskhalat_jacket_berezkaYellow_co.paa",
-			"\tmtm\pack\cup_uniforms\Data\tmtm_maskhalat_pants_berezkaYellow_co.paa",
+			"\tmtm\pack\cup_uniforms\Data\tmtm_maskhalat_pants_berezkaYellow_co.paa"
 		};
 	};
 	// Maskhalat + Loose Pants (Berezka Yellow/Hood)
@@ -326,11 +326,11 @@ class CfgVehicles
 
 		displayName="Maskhalat (Berezka Yellow/Hood)";
 		uniformClass = "tmtm_u_maskhalat_berezkaYellow_hood";
-		
+
 		hiddenSelectionsTextures[] =
 		{
 			"\tmtm\pack\cup_uniforms\Data\tmtm_maskhalat_jacket_berezkaYellow_co.paa",
-			"\tmtm\pack\cup_uniforms\Data\tmtm_maskhalat_pants_berezkaYellow_co.paa",
+			"\tmtm\pack\cup_uniforms\Data\tmtm_maskhalat_pants_berezkaYellow_co.paa"
 		};
 	};
 	// Maskhalat + Loose Pants (Svitanok)
@@ -344,11 +344,11 @@ class CfgVehicles
 
 		displayName="Maskhalat (Svitanok/Loose)";
 		uniformClass = "tmtm_u_maskhalat_svitanok_loose";
-		
+
 		hiddenSelectionsTextures[] =
 		{
 			"\tmtm\pack\cup_uniforms\Data\tmtm_maskhalat_jacket_svitanok_co.paa",
-			"\tmtm\pack\cup_uniforms\Data\tmtm_maskhalat_pants_svitanok_co.paa",
+			"\tmtm\pack\cup_uniforms\Data\tmtm_maskhalat_pants_svitanok_co.paa"
 		};
 	};
 	// Maskhalat + Loose Pants (Svitanok/Hood)
@@ -362,11 +362,11 @@ class CfgVehicles
 
 		displayName="Maskhalat (Svitanok/Hood)";
 		uniformClass = "tmtm_u_maskhalat_svitanok_hood";
-		
+
 		hiddenSelectionsTextures[] =
 		{
 			"\tmtm\pack\cup_uniforms\Data\tmtm_maskhalat_jacket_svitanok_co.paa",
-			"\tmtm\pack\cup_uniforms\Data\tmtm_maskhalat_pants_svitanok_co.paa",
+			"\tmtm\pack\cup_uniforms\Data\tmtm_maskhalat_pants_svitanok_co.paa"
 		};
 	};
 	// Maskhalat + Loose Pants (Berezka Winter)
@@ -380,11 +380,11 @@ class CfgVehicles
 
 		displayName="Maskhalat (Berezka Winter/Loose)";
 		uniformClass = "tmtm_u_maskhalat_berezkaWinter_loose";
-		
+
 		hiddenSelectionsTextures[] =
 		{
 			"\tmtm\pack\cup_uniforms\Data\tmtm_maskhalat_jacket_berezkaWinter_co.paa",
-			"\tmtm\pack\cup_uniforms\Data\tmtm_maskhalat_pants_berezkaWinter_co.paa",
+			"\tmtm\pack\cup_uniforms\Data\tmtm_maskhalat_pants_berezkaWinter_co.paa"
 		};
 	};
 	// Maskhalat + Loose Pants (Berezka Winter/Hood)
@@ -398,11 +398,11 @@ class CfgVehicles
 
 		displayName="Maskhalat (Berezka Winter/Hood)";
 		uniformClass = "tmtm_u_maskhalat_berezkaWinter_hood";
-		
+
 		hiddenSelectionsTextures[] =
 		{
 			"\tmtm\pack\cup_uniforms\Data\tmtm_maskhalat_jacket_berezkaWinter_co.paa",
-			"\tmtm\pack\cup_uniforms\Data\tmtm_maskhalat_pants_berezkaWinter_co.paa",
+			"\tmtm\pack\cup_uniforms\Data\tmtm_maskhalat_pants_berezkaWinter_co.paa"
 		};
 	};
 
@@ -417,10 +417,10 @@ class CfgVehicles
 
 		displayName = "AFU ACU (MM14)";
 		uniformClass = "tmtm_u_acu_mm14";
-		
-		hiddenSelectionsTextures[] = 
+
+		hiddenSelectionsTextures[] =
 		{
-			"\tmtm\pack\cup_uniforms\Data\tmtm_acu_blouse_mm14_flag_co.paa", 
+			"\tmtm\pack\cup_uniforms\Data\tmtm_acu_blouse_mm14_flag_co.paa",
 			"\tmtm\pack\cup_uniforms\Data\tmtm_acu_pants_mm14_co.paa"
 		};
 	};
@@ -435,10 +435,10 @@ class CfgVehicles
 
 		displayName = "AFU ACU (Gloves/MM14)";
 		uniformClass = "tmtm_u_acu_gloves_mm14";
-		
-		hiddenSelectionsTextures[] = 
+
+		hiddenSelectionsTextures[] =
 		{
-			"\tmtm\pack\cup_uniforms\Data\tmtm_acu_blouse_mm14_flag_co.paa", 
+			"\tmtm\pack\cup_uniforms\Data\tmtm_acu_blouse_mm14_flag_co.paa",
 			"\tmtm\pack\cup_uniforms\Data\tmtm_acu_pants_mm14_co.paa",
 			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\data\oakley_2_tan_co.paa"
 		};
@@ -454,10 +454,10 @@ class CfgVehicles
 
 		displayName = "AFU ACU (Rolled/MM14)";
 		uniformClass = "tmtm_u_acu_rolled_mm14";
-		
-		hiddenSelectionsTextures[] = 
+
+		hiddenSelectionsTextures[] =
 		{
-			"\tmtm\pack\cup_uniforms\Data\tmtm_acu_blouse_mm14_flag_co.paa", 
+			"\tmtm\pack\cup_uniforms\Data\tmtm_acu_blouse_mm14_flag_co.paa",
 			"\tmtm\pack\cup_uniforms\Data\tmtm_acu_pants_mm14_co.paa",
 			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\data\oakley_2_tan_co.paa"
 		};
@@ -473,10 +473,10 @@ class CfgVehicles
 
 		displayName = "AFU ACU (Rolled/Gloves/MM14)";
 		uniformClass = "tmtm_u_acu_rolled_gloves_mm14";
-		
-		hiddenSelectionsTextures[] = 
+
+		hiddenSelectionsTextures[] =
 		{
-			"\tmtm\pack\cup_uniforms\Data\tmtm_acu_blouse_mm14_flag_co.paa", 
+			"\tmtm\pack\cup_uniforms\Data\tmtm_acu_blouse_mm14_flag_co.paa",
 			"\tmtm\pack\cup_uniforms\Data\tmtm_acu_pants_mm14_co.paa",
 			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\data\oakley_2_tan_co.paa"
 		};
@@ -492,10 +492,10 @@ class CfgVehicles
 
 		displayName = "AFU National Guard ACU (Dark Olive)";
 		uniformClass = "tmtm_u_acu_darkolive";
-		
-		hiddenSelectionsTextures[] = 
+
+		hiddenSelectionsTextures[] =
 		{
-			"\tmtm\pack\cup_uniforms\Data\tmtm_acu_blouse_darkolive_flag_co.paa", 
+			"\tmtm\pack\cup_uniforms\Data\tmtm_acu_blouse_darkolive_flag_co.paa",
 			"\tmtm\pack\cup_uniforms\Data\tmtm_acu_pants_darkolive_co.paa"
 		};
 	};
@@ -510,10 +510,10 @@ class CfgVehicles
 
 		displayName = "AFU National Guard ACU (Gloves/Dark Olive)";
 		uniformClass = "tmtm_u_acu_gloves_darkolive";
-		
-		hiddenSelectionsTextures[] = 
+
+		hiddenSelectionsTextures[] =
 		{
-			"\tmtm\pack\cup_uniforms\Data\tmtm_acu_blouse_darkolive_flag_co.paa", 
+			"\tmtm\pack\cup_uniforms\Data\tmtm_acu_blouse_darkolive_flag_co.paa",
 			"\tmtm\pack\cup_uniforms\Data\tmtm_acu_pants_darkolive_co.paa",
 			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\data\oakley_2_od_co.paa"
 		};
@@ -529,10 +529,10 @@ class CfgVehicles
 
 		displayName = "AFU National Guard ACU (Rolled/Dark Olive)";
 		uniformClass = "tmtm_u_acu_rolled_darkolive";
-		
-		hiddenSelectionsTextures[] = 
+
+		hiddenSelectionsTextures[] =
 		{
-			"\tmtm\pack\cup_uniforms\Data\tmtm_acu_blouse_darkolive_flag_co.paa", 
+			"\tmtm\pack\cup_uniforms\Data\tmtm_acu_blouse_darkolive_flag_co.paa",
 			"\tmtm\pack\cup_uniforms\Data\tmtm_acu_pants_darkolive_co.paa",
 			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\data\oakley_2_od_co.paa"
 		};
@@ -548,10 +548,10 @@ class CfgVehicles
 
 		displayName = "AFU National Guard ACU (Rolled/Gloves/Dark Olive)";
 		uniformClass = "tmtm_u_acu_rolled_gloves_darkolive";
-		
-		hiddenSelectionsTextures[] = 
+
+		hiddenSelectionsTextures[] =
 		{
-			"\tmtm\pack\cup_uniforms\Data\tmtm_acu_blouse_darkolive_flag_co.paa", 
+			"\tmtm\pack\cup_uniforms\Data\tmtm_acu_blouse_darkolive_flag_co.paa",
 			"\tmtm\pack\cup_uniforms\Data\tmtm_acu_pants_darkolive_co.paa",
 			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\data\oakley_2_od_co.paa"
 		};
@@ -567,10 +567,10 @@ class CfgVehicles
 
 		displayName = "Uniform ACU (Dark Olive)";
 		uniformClass = "tmtm_u_acu_noflag_darkolive";
-		
-		hiddenSelectionsTextures[] = 
+
+		hiddenSelectionsTextures[] =
 		{
-			"\tmtm\pack\cup_uniforms\Data\tmtm_acu_blouse_darkolive_co.paa", 
+			"\tmtm\pack\cup_uniforms\Data\tmtm_acu_blouse_darkolive_co.paa",
 			"\tmtm\pack\cup_uniforms\Data\tmtm_acu_pants_darkolive_co.paa"
 		};
 	};
@@ -585,10 +585,10 @@ class CfgVehicles
 
 		displayName = "Uniform ACU (Gloves/Dark Olive)";
 		uniformClass = "tmtm_u_acu_gloves_noflag_darkolive";
-		
-		hiddenSelectionsTextures[] = 
+
+		hiddenSelectionsTextures[] =
 		{
-			"\tmtm\pack\cup_uniforms\Data\tmtm_acu_blouse_darkolive_co.paa", 
+			"\tmtm\pack\cup_uniforms\Data\tmtm_acu_blouse_darkolive_co.paa",
 			"\tmtm\pack\cup_uniforms\Data\tmtm_acu_pants_darkolive_co.paa",
 			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\data\oakley_2_od_co.paa"
 		};
@@ -604,10 +604,10 @@ class CfgVehicles
 
 		displayName = "Uniform ACU (Rolled/Dark Olive)";
 		uniformClass = "tmtm_u_acu_rolled_noflag_darkolive";
-		
-		hiddenSelectionsTextures[] = 
+
+		hiddenSelectionsTextures[] =
 		{
-			"\tmtm\pack\cup_uniforms\Data\tmtm_acu_blouse_darkolive_co.paa", 
+			"\tmtm\pack\cup_uniforms\Data\tmtm_acu_blouse_darkolive_co.paa",
 			"\tmtm\pack\cup_uniforms\Data\tmtm_acu_pants_darkolive_co.paa",
 			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\data\oakley_2_od_co.paa"
 		};
@@ -623,10 +623,10 @@ class CfgVehicles
 
 		displayName = "Uniform ACU (Rolled/Gloves/Dark Olive)";
 		uniformClass = "tmtm_u_acu_rolled_gloves_noflag_darkolive";
-		
-		hiddenSelectionsTextures[] = 
+
+		hiddenSelectionsTextures[] =
 		{
-			"\tmtm\pack\cup_uniforms\Data\tmtm_acu_blouse_darkolive_co.paa", 
+			"\tmtm\pack\cup_uniforms\Data\tmtm_acu_blouse_darkolive_co.paa",
 			"\tmtm\pack\cup_uniforms\Data\tmtm_acu_pants_darkolive_co.paa",
 			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\data\oakley_2_od_co.paa"
 		};
@@ -647,7 +647,7 @@ class CfgVehicles
 
 		picture="\CUP\Creatures\People\Military\CUP_Creatures_People_Military_USMC\data\ui\icon_u_b_usmc_pilotoverall_ca.paa";
 		hiddenSelections[] = {"Camo", "Camo2"};
-		hiddenSelectionsTextures[] = 
+		hiddenSelectionsTextures[] =
 		{
 			"\tmtm\pack\cup_uniforms\Data\tmtm_nomex_grey_co.paa",
 			"\cup\creatures\people\military\cup_creatures_people_military_usmc\data\gloves_co.paa"

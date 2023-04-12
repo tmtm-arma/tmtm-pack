@@ -4,7 +4,7 @@ class CfgWeapons
 	class UniformItem;
 	class Uniform_Base;
 	class Item_Base_F;
-	
+
 	//////////////////////////////////////////////////////////////////////////
 	class tmtm_u_maskhalat_base: Uniform_Base
 	{
@@ -58,7 +58,7 @@ class CfgWeapons
 		hiddenSelectionsTextures[] =
 		{
 			"\tmtm\pack\cup_uniforms\Data\tmtm_maskhalat_jacket_berezkaWhite_co.paa",
-			"\tmtm\pack\cup_uniforms\Data\tmtm_maskhalat_pants_berezkaWhite_co.paa",
+			"\tmtm\pack\cup_uniforms\Data\tmtm_maskhalat_pants_berezkaWhite_co.paa"
 		};
 		class ItemInfo: UniformItem
 		{
@@ -72,7 +72,7 @@ class CfgWeapons
 	class tmtm_u_maskhalat_berezkaWhite_loose: tmtm_u_maskhalat_base
 	{
 		author="erem2k";
-		
+
 		scope=1;
 		scopeArsenal=2;
 		scopeCurator=0;
@@ -83,7 +83,7 @@ class CfgWeapons
 		hiddenSelectionsTextures[] =
 		{
 			"\tmtm\pack\cup_uniforms\Data\tmtm_maskhalat_jacket_berezkaWhite_co.paa",
-			"\tmtm\pack\cup_uniforms\Data\tmtm_maskhalat_pants_berezkaWhite_co.paa",
+			"\tmtm\pack\cup_uniforms\Data\tmtm_maskhalat_pants_berezkaWhite_co.paa"
 		};
 		class ItemInfo: UniformItem
 		{
@@ -108,7 +108,7 @@ class CfgWeapons
 		hiddenSelectionsTextures[] =
 		{
 			"\tmtm\pack\cup_uniforms\Data\tmtm_maskhalat_jacket_berezkaWhite_co.paa",
-			"\tmtm\pack\cup_uniforms\Data\tmtm_maskhalat_pants_berezkaWhite_co.paa",
+			"\tmtm\pack\cup_uniforms\Data\tmtm_maskhalat_pants_berezkaWhite_co.paa"
 		};
 		class ItemInfo: UniformItem
 		{
@@ -133,7 +133,7 @@ class CfgWeapons
 		hiddenSelectionsTextures[] =
 		{
 			"\tmtm\pack\cup_uniforms\Data\tmtm_maskhalat_jacket_berezkaYellow_co.paa",
-			"\tmtm\pack\cup_uniforms\Data\tmtm_maskhalat_pants_berezkaYellow_co.paa",
+			"\tmtm\pack\cup_uniforms\Data\tmtm_maskhalat_pants_berezkaYellow_co.paa"
 		};
 		class ItemInfo: UniformItem
 		{
@@ -158,7 +158,7 @@ class CfgWeapons
 		hiddenSelectionsTextures[] =
 		{
 			"\tmtm\pack\cup_uniforms\Data\tmtm_maskhalat_jacket_berezkaYellow_co.paa",
-			"\tmtm\pack\cup_uniforms\Data\tmtm_maskhalat_pants_berezkaYellow_co.paa",
+			"\tmtm\pack\cup_uniforms\Data\tmtm_maskhalat_pants_berezkaYellow_co.paa"
 		};
 		class ItemInfo: UniformItem
 		{
@@ -183,7 +183,7 @@ class CfgWeapons
 		hiddenSelectionsTextures[] =
 		{
 			"\tmtm\pack\cup_uniforms\Data\tmtm_maskhalat_jacket_berezkaYellow_co.paa",
-			"\tmtm\pack\cup_uniforms\Data\tmtm_maskhalat_pants_berezkaYellow_co.paa",
+			"\tmtm\pack\cup_uniforms\Data\tmtm_maskhalat_pants_berezkaYellow_co.paa"
 		};
 		class ItemInfo: UniformItem
 		{
@@ -208,7 +208,7 @@ class CfgWeapons
 		hiddenSelectionsTextures[] =
 		{
 			"\tmtm\pack\cup_uniforms\Data\tmtm_maskhalat_jacket_svitanok_co.paa",
-			"\tmtm\pack\cup_uniforms\Data\tmtm_maskhalat_pants_svitanok_co.paa",
+			"\tmtm\pack\cup_uniforms\Data\tmtm_maskhalat_pants_svitanok_co.paa"
 		};
 		class ItemInfo: UniformItem
 		{
@@ -233,7 +233,7 @@ class CfgWeapons
 		hiddenSelectionsTextures[] =
 		{
 			"\tmtm\pack\cup_uniforms\Data\tmtm_maskhalat_jacket_svitanok_co.paa",
-			"\tmtm\pack\cup_uniforms\Data\tmtm_maskhalat_pants_svitanok_co.paa",
+			"\tmtm\pack\cup_uniforms\Data\tmtm_maskhalat_pants_svitanok_co.paa"
 		};
 		class ItemInfo: UniformItem
 		{
@@ -258,7 +258,7 @@ class CfgWeapons
 		hiddenSelectionsTextures[] =
 		{
 			"\tmtm\pack\cup_uniforms\Data\tmtm_maskhalat_jacket_berezkaWinter_co.paa",
-			"\tmtm\pack\cup_uniforms\Data\tmtm_maskhalat_pants_berezkaWinter_co.paa",
+			"\tmtm\pack\cup_uniforms\Data\tmtm_maskhalat_pants_berezkaWinter_co.paa"
 		};
 		class ItemInfo: UniformItem
 		{
@@ -283,7 +283,7 @@ class CfgWeapons
 		hiddenSelectionsTextures[] =
 		{
 			"\tmtm\pack\cup_uniforms\Data\tmtm_maskhalat_jacket_berezkaWinter_co.paa",
-			"\tmtm\pack\cup_uniforms\Data\tmtm_maskhalat_pants_berezkaWinter_co.paa",
+			"\tmtm\pack\cup_uniforms\Data\tmtm_maskhalat_pants_berezkaWinter_co.paa"
 		};
 		class ItemInfo: UniformItem
 		{
@@ -306,9 +306,9 @@ class CfgWeapons
 		displayName="AFU ACU (MM14)";
 		picture = "\tmtm\pack\cup_uniforms\Data\UI\icon_tmtm_u_acu_mm14.paa";
 
-		hiddenSelectionsTextures[] = 
+		hiddenSelectionsTextures[] =
 		{
-			"\tmtm\pack\cup_uniforms\Data\tmtm_acu_blouse_mm14_flag_co.paa", 
+			"\tmtm\pack\cup_uniforms\Data\tmtm_acu_blouse_mm14_flag_co.paa",
 			"\tmtm\pack\cup_uniforms\Data\tmtm_acu_pants_mm14_co.paa"
 		};
 		class ItemInfo: UniformItem
@@ -333,7 +333,7 @@ class CfgWeapons
 
 		hiddenSelections[] = {"Camo1", "Camo2","camo3"};
 		hiddenSelectionsTextures[] = {
-			"\tmtm\pack\cup_uniforms\Data\tmtm_acu_blouse_mm14_flag_co.paa", 
+			"\tmtm\pack\cup_uniforms\Data\tmtm_acu_blouse_mm14_flag_co.paa",
 			"\tmtm\pack\cup_uniforms\Data\tmtm_acu_pants_mm14_co.paa",
 			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\data\oakley_2_creme_co.paa"
 		};
@@ -358,7 +358,7 @@ class CfgWeapons
 		picture = "\tmtm\pack\cup_uniforms\Data\UI\icon_tmtm_u_acu_mm14.paa";
 
 		hiddenSelectionsTextures[] = {
-			"\tmtm\pack\cup_uniforms\Data\tmtm_acu_blouse_mm14_flag_co.paa", 
+			"\tmtm\pack\cup_uniforms\Data\tmtm_acu_blouse_mm14_flag_co.paa",
 			"\tmtm\pack\cup_uniforms\Data\tmtm_acu_pants_mm14_co.paa",
 			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\data\oakley_2_tan_co.paa"
 		};
@@ -383,7 +383,7 @@ class CfgWeapons
 		picture = "\tmtm\pack\cup_uniforms\Data\UI\icon_tmtm_u_acu_mm14.paa";
 
 		hiddenSelectionsTextures[] = {
-			"\tmtm\pack\cup_uniforms\Data\tmtm_acu_blouse_mm14_flag_co.paa", 
+			"\tmtm\pack\cup_uniforms\Data\tmtm_acu_blouse_mm14_flag_co.paa",
 			"\tmtm\pack\cup_uniforms\Data\tmtm_acu_pants_mm14_co.paa",
 			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\data\oakley_2_tan_co.paa"
 		};
@@ -394,7 +394,7 @@ class CfgWeapons
 			containerClass = "Supply40";
 			mass = 20;
 		};
-	};	
+	};
 	// AFU National Guard ACU (Dark Olive)
 	class tmtm_u_acu_darkolive: tmtm_u_acu_plain_base
 	{
@@ -408,7 +408,7 @@ class CfgWeapons
 		picture = "\tmtm\pack\cup_uniforms\Data\UI\icon_tmtm_u_acu_darkolive.paa";
 
 		hiddenSelectionsTextures[] = {
-			"\tmtm\pack\cup_uniforms\Data\tmtm_acu_blouse_darkolive_flag_co.paa", 
+			"\tmtm\pack\cup_uniforms\Data\tmtm_acu_blouse_darkolive_flag_co.paa",
 			"\tmtm\pack\cup_uniforms\Data\tmtm_acu_pants_darkolive_co.paa"
 		};
 		class ItemInfo: UniformItem
@@ -432,7 +432,7 @@ class CfgWeapons
 		picture = "\tmtm\pack\cup_uniforms\Data\UI\icon_tmtm_u_acu_darkolive.paa";
 
 		hiddenSelectionsTextures[] = {
-			"\tmtm\pack\cup_uniforms\Data\tmtm_acu_blouse_darkolive_flag_co.paa", 
+			"\tmtm\pack\cup_uniforms\Data\tmtm_acu_blouse_darkolive_flag_co.paa",
 			"\tmtm\pack\cup_uniforms\Data\tmtm_acu_pants_darkolive_co.paa",
 			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\data\oakley_2_tan_co.paa"
 		};
@@ -457,7 +457,7 @@ class CfgWeapons
 		picture = "\tmtm\pack\cup_uniforms\Data\UI\icon_tmtm_u_acu_darkolive.paa";
 
 		hiddenSelectionsTextures[] = {
-			"\tmtm\pack\cup_uniforms\Data\tmtm_acu_blouse_darkolive_flag_co.paa", 
+			"\tmtm\pack\cup_uniforms\Data\tmtm_acu_blouse_darkolive_flag_co.paa",
 			"\tmtm\pack\cup_uniforms\Data\tmtm_acu_pants_darkolive_co.paa",
 			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\data\oakley_2_od_co.paa"
 		};
@@ -482,7 +482,7 @@ class CfgWeapons
 		picture = "\tmtm\pack\cup_uniforms\Data\UI\icon_tmtm_u_acu_darkolive.paa";
 
 		hiddenSelectionsTextures[] = {
-			"\tmtm\pack\cup_uniforms\Data\tmtm_acu_blouse_darkolive_flag_co.paa", 
+			"\tmtm\pack\cup_uniforms\Data\tmtm_acu_blouse_darkolive_flag_co.paa",
 			"\tmtm\pack\cup_uniforms\Data\tmtm_acu_pants_darkolive_co.paa",
 			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\data\oakley_2_od_co.paa"
 		};
@@ -508,7 +508,7 @@ class CfgWeapons
 		picture = "\tmtm\pack\cup_uniforms\Data\UI\icon_tmtm_u_acu_noflag_darkolive.paa";
 
 		hiddenSelectionsTextures[] = {
-			"\tmtm\pack\cup_uniforms\Data\tmtm_acu_blouse_darkolive_co.paa", 
+			"\tmtm\pack\cup_uniforms\Data\tmtm_acu_blouse_darkolive_co.paa",
 			"\tmtm\pack\cup_uniforms\Data\tmtm_acu_pants_darkolive_co.paa"
 		};
 		class ItemInfo: UniformItem
@@ -532,7 +532,7 @@ class CfgWeapons
 		picture = "\tmtm\pack\cup_uniforms\Data\UI\icon_tmtm_u_acu_noflag_darkolive.paa";
 
 		hiddenSelectionsTextures[] = {
-			"\tmtm\pack\cup_uniforms\Data\tmtm_acu_blouse_darkolive_co.paa", 
+			"\tmtm\pack\cup_uniforms\Data\tmtm_acu_blouse_darkolive_co.paa",
 			"\tmtm\pack\cup_uniforms\Data\tmtm_acu_pants_darkolive_co.paa",
 			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\data\oakley_2_od_co.paa"
 		};
@@ -557,7 +557,7 @@ class CfgWeapons
 		picture = "\tmtm\pack\cup_uniforms\Data\UI\icon_tmtm_u_acu_noflag_darkolive.paa";
 
 		hiddenSelectionsTextures[] = {
-			"\tmtm\pack\cup_uniforms\Data\tmtm_acu_blouse_darkolive_co.paa", 
+			"\tmtm\pack\cup_uniforms\Data\tmtm_acu_blouse_darkolive_co.paa",
 			"\tmtm\pack\cup_uniforms\Data\tmtm_acu_pants_darkolive_co.paa",
 			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\data\oakley_2_od_co.paa"
 		};
@@ -580,9 +580,9 @@ class CfgWeapons
 
 		displayName="Uniform ACU (Rolled/Gloves/Dark Olive)";
 		picture = "\tmtm\pack\cup_uniforms\Data\UI\icon_tmtm_u_acu_noflag_darkolive.paa";
-		
+
 		hiddenSelectionsTextures[] = {
-			"\tmtm\pack\cup_uniforms\Data\tmtm_acu_blouse_darkolive_co.paa", 
+			"\tmtm\pack\cup_uniforms\Data\tmtm_acu_blouse_darkolive_co.paa",
 			"\tmtm\pack\cup_uniforms\Data\tmtm_acu_pants_darkolive_co.paa",
 			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\data\oakley_2_od_co.paa"
 		};
@@ -606,7 +606,7 @@ class CfgWeapons
 
 		displayName="Nomex Flightsuit (Grey)";
 		picture = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_USMC\data\ui\icon_u_b_usmc_pilotoverall_ca.paa";
-		
+
 		hiddenSelectionsTextures[] = {
 			"\tmtm\pack\cup_uniforms\Data\tmtm_nomex_grey_co.paa",
 			"\cup\creatures\people\military\cup_creatures_people_military_usmc\data\gloves_co.paa"

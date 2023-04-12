@@ -2,6 +2,7 @@ releases/*
 keys/*
 tmtm/*
 .hemtt/local
+.hemttout
 *.pbo
 *.biprivatekey
 hemtt
