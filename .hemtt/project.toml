@@ -13,6 +13,8 @@ include = [
 	"tmtm_pack_picture.paa"
 ]
 exclude = [
+	"*.jpg",
+	"*.png",
 	"*.psd",
 	"*.xcf"
 ]
@@ -21,8 +23,10 @@ exclude = [
 path = "addons/main/script_version.hpp"
 git_hash = 0
 
-# [properties]
-# version = "{{git \"id 8\"}}"
+major = 1
+minor = 1
+patch = 1
+build = 3
 
 [hemtt.release]
 sign = true
@@ -30,20 +34,3 @@ archive = true
 
 key_name = "{{prefix}}_{{version}}"
 authority = "{{prefix}}_{{version}}-{{git \"id 8\"}}"
-
-# check = [
-#     "!binarizer_link"
-# ]
-# releasebuild = [
-#     "@zip tmtmpack_{{semver.major}}.{{semver.minor}}.{{semver.patch}}"
-# ]
-
-
-# # Binarizer file search compatibility
-# [scripts.binarizer_link]
-# steps_windows = [
-#     "if not exist tmtm mkdir tmtm",
-#     "if not exist tmtm\\pack mklink /j tmtm\\pack addons",
-# ]
-
-# show_output = true
