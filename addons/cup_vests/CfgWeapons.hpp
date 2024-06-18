@@ -1928,4 +1928,429 @@ class CfgWeapons
 			containerClass="Supply0";
 		};
 	};
+
+	// BAF Osprey Mk3 Vest
+	class CUP_V_B_BAF_DPM_Osprey_Mk3_Empty;
+	class tmtm_v_ospreyMk3_empty_mtp: CUP_V_B_BAF_DPM_Osprey_Mk3_Empty 
+	{
+		author="Trenchgun";
+		scope=1;
+		scopeArsenal=2;
+		scoprCurator=0;
+		displayName="BAF Osprey Mk3 (MTP/Empty)";
+		picture = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\cup_vests\osprey_mk3\data\ui\ddpm\icon_v_baf_ddpm_empty_vest_ca.paa";
+		hiddenSelectionsTextures[]=
+		{
+			"\tmtm\pack\cup_vests\Data\tmtm_ospreyMk3_armor_mtp_co.paa"
+		};
+	};
+	class CUP_V_B_BAF_DPM_Osprey_Mk3_Crewman;
+	class tmtm_v_ospreyMk3_crewman_mtp: CUP_V_B_BAF_DPM_Osprey_Mk3_Crewman
+	{
+		author="Trenchgun";
+		scope=1;
+		scopeArsenal=2;
+		scoprCurator=0;
+		displayName="BAF Osprey Mk3 Crewman (MTP)";
+		picture = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\cup_vests\osprey_mk3\data\ui\ddpm\icon_v_baf_ddpm_crewman_vest_ca.paa";
+		hiddenSelectionsTextures[]=
+		{
+			"CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_vests\osprey_mk3\data\forcerecon_gear_w_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_ospreyMk3_armor_mtp_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_ospreyMk3_equip_mtp_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_ospreyMk4_gear_mtp_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_ospreyMk4_equip_mtp_co.paa"
+		};
+	};
+	class CUP_V_B_BAF_DPM_Osprey_Mk3_Engineer;
+	/*
+	hiddenSelectionsTextures[] = {
+		"CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_vests\osprey_mk3\data\ddpm\equip_ddpm_co.paa",
+		"CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_vests\osprey_mk3\data\ddpm\armour_ddpm_co.paa",
+		"CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_headgear\data\equip_d_co.paa"
+	};
+	*/
+	class tmtm_v_ospreyMk3_engineer_mtp: CUP_V_B_BAF_DPM_Osprey_Mk3_Engineer
+	{
+		author="Trenchgun";
+		scope=1;
+		scopeArsenal=2;
+		scoprCurator=0;
+		displayName="BAF Osprey Mk3 Engineer (MTP)";
+		picture = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\cup_vests\osprey_mk3\data\ui\ddpm\icon_v_baf_ddpm_engineer_vest_ca.paa";
+		hiddenSelectionsTextures[]=
+		{
+			"\tmtm\pack\cup_vests\Data\tmtm_ospreyMk4_equip_mtp_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_ospreyMk3_armor_mtp_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_ospreyMk3_equip_mtp_co.paa"
+		};
+	};
+	class CUP_V_B_BAF_DPM_Osprey_Mk3_Grenadier;
+	/*
+	hiddenSelectionsTextures[] = {
+		"CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_vests\osprey_mk3\data\ddpm\camo_ddpm_co.paa",
+		"CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_vests\osprey_mk3\data\ddpm\armour_ddpm_co.paa",
+		"CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_headgear\data\equip_d_co.paa",
+		"CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_vests\osprey_mk3\data\ddpm\gear_ddpm_co.paa",
+		"CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_vests\osprey_mk3\data\ddpm\equip_ddpm_co.paa"
+	};
+	*/
+	class tmtm_v_ospreyMk3_grenadier_mtp: CUP_V_B_BAF_DPM_Osprey_Mk3_Grenadier
+	{
+		author="Trenchgun";
+		scope=1;
+		scopeArsenal=2;
+		scoprCurator=0;
+		displayName="BAF Osprey Mk3 Grenadier (MTP)";
+		picture = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\cup_vests\osprey_mk3\data\ui\ddpm\icon_v_baf_ddpm_gl_vest_ca.paa";
+		hiddenSelectionsTextures[]=
+		{
+			"CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_vests\osprey_mk3\data\ddpm\camo_ddpm_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_ospreyMk3_armor_mtp_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_ospreyMk3_equip_mtp_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_ospreyMk4_gear_mtp_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_ospreyMk4_equip_mtp_co.paa"
+		};
+	};
+	class CUP_V_B_BAF_DPM_Osprey_Mk3_Medic;
+	/*
+	hiddenSelectionsTextures[] = {
+		"CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_vests\osprey_mk3\data\ddpm\equip_ddpm_co.paa",
+		"CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_vests\osprey_mk3\data\forcerecon_gear_co.paa",
+		"CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_vests\osprey_mk3\data\ddpm\armour_ddpm_co.paa",
+		"CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_headgear\data\equip_d_co.paa",
+		"CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_vests\osprey_mk4\data\gear_co.paa"
+	};
+	*/
+	class tmtm_v_ospreyMk3_medic_mtp: CUP_V_B_BAF_DPM_Osprey_Mk3_Medic
+	{
+		author="Trenchgun";
+		scope=1;
+		scopeArsenal=2;
+		scoprCurator=0;
+		displayName="BAF Osprey Mk3 Medic (MTP)";
+		picture = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\cup_vests\osprey_mk3\data\ui\ddpm\icon_v_baf_ddpm_medic_vest_ca.paa";
+		hiddenSelectionsTextures[]=
+		{
+			"\tmtm\pack\cup_vests\Data\tmtm_ospreyMk4_equip_mtp_co.paa",
+			"CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_vests\osprey_mk3\data\forcerecon_gear_w_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_ospreyMk3_armor_mtp_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_ospreyMk3_equip_mtp_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_ospreyMk4_gear_mtp_co.paa"
+		};
+	};
+	class CUP_V_B_BAF_DPM_Osprey_Mk3_Officer;
+	/*
+	hiddenSelectionsTextures[] = {
+		"CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_vests\osprey_mk3\data\ddpm\camo_ddpm_co.paa",
+		"CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_vests\osprey_mk3\data\forcerecon_gear_co.paa",
+		"CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_vests\osprey_mk3\data\ddpm\armour_ddpm_co.paa",
+		"CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_headgear\data\equip_d_co.paa",
+		"CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_vests\osprey_mk4\data\gear_co.paa"
+	};
+	*/
+	class tmtm_v_ospreyMk3_officer_mtp: CUP_V_B_BAF_DPM_Osprey_Mk3_Officer
+	{
+		author="Trenchgun";
+		scope=1;
+		scopeArsenal=2;
+		scoprCurator=0;
+		displayName="BAF Osprey Mk3 Officer (MTP)";
+		picture = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\cup_vests\osprey_mk3\data\ui\ddpm\icon_v_baf_ddpm_officer_vest_ca.paa";
+		hiddenSelectionsTextures[]=
+		{
+			"CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_vests\osprey_mk3\data\ddpm\camo_ddpm_co.paa",
+			"CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_vests\osprey_mk3\data\forcerecon_gear_w_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_ospreyMk3_armor_mtp_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_ospreyMk3_equip_mtp_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_ospreyMk4_gear_mtp_co.paa"
+		};
+	};
+	class CUP_V_B_BAF_DPM_Osprey_Mk3_Pilot;
+	/*
+	hiddenSelectionsTextures[] = {
+		"CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_vests\osprey_mk3\data\forcerecon_gear_co.paa",
+		"CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_vests\osprey_mk3\data\ddpm\armour_ddpm_co.paa",
+		"CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_headgear\data\equip_d_co.paa",
+		"CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_vests\osprey_mk4\data\gear_co.paa"
+	};
+	*/
+	class tmtm_v_ospreyMk3_pilot_mtp: CUP_V_B_BAF_DPM_Osprey_Mk3_Pilot
+	{
+		author="Trenchgun";
+		scope=1;
+		scopeArsenal=2;
+		scoprCurator=0;
+		displayName="BAF Osprey Mk3 Pilot (MTP)";
+		picture = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\cup_vests\osprey_mk3\data\ui\ddpm\icon_v_baf_ddpm_pilot_vest_ca.paa";
+		hiddenSelectionsTextures[]=
+		{
+			"CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_vests\osprey_mk3\data\forcerecon_gear_w_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_ospreyMk3_armor_mtp_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_ospreyMk3_equip_mtp_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_ospreyMk4_gear_mtp_co.paa"
+		};
+	};
+	class CUP_V_B_BAF_DPM_Osprey_Mk3_AutomaticRifleman;
+	/*
+	hiddenSelectionsTextures[] = {
+		"CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_vests\osprey_mk3\data\ddpm\camo_ddpm_co.paa",
+		"CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_vests\osprey_mk3\data\ddpm\armour_ddpm_co.paa",
+		"CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_headgear\data\equip_d_co.paa",
+		"CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_vests\osprey_mk3\data\ddpm\gear_ddpm_co.paa",
+		"CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_vests\osprey_mk3\data\ddpm\equip_ddpm_co.paa"
+	};
+	*/
+	class tmtm_v_ospreyMk3_automaticRifleman_mtp: CUP_V_B_BAF_DPM_Osprey_Mk3_AutomaticRifleman
+	{
+		author="Trenchgun";
+		scope=1;
+		scopeArsenal=2;
+		scoprCurator=0;
+		displayName="BAF Osprey Mk3 Automatic Rifleman (MTP)";
+		picture = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\cup_vests\osprey_mk3\data\ui\ddpm\icon_v_baf_ddpm_soldier2_vest_ca.paa";
+		hiddenSelectionsTextures[]=
+		{
+			"CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_vests\osprey_mk3\data\ddpm\camo_ddpm_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_ospreyMk3_armor_mtp_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_ospreyMk3_equip_mtp_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_ospreyMk4_gear_mtp_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_ospreyMk4_equip_mtp_co.paa"
+		};
+	};
+	class CUP_V_B_BAF_DPM_Osprey_Mk3_Rifleman;
+	/*
+	hiddenSelectionsTextures[] = {
+		"CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_vests\osprey_mk3\data\ddpm\camo_ddpm_co.paa",
+		"CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_vests\osprey_mk3\data\forcerecon_gear_co.paa",
+		"CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_vests\osprey_mk3\data\ddpm\armour_ddpm_co.paa",
+		"CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_headgear\data\equip_d_co.paa",
+		"CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_vests\osprey_mk4\data\gear_co.paa",
+		"CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_vests\osprey_mk3\data\ddpm\gear_ddpm_co.paa",
+		"CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_vests\osprey_mk3\data\ddpm\equip_ddpm_co.paa"
+	};
+	*/
+	class tmtm_v_ospreyMk3_rifleman_mtp: CUP_V_B_BAF_DPM_Osprey_Mk3_Rifleman
+	{
+		author="Trenchgun";
+		scope=1;
+		scopeArsenal=2;
+		scoprCurator=0;
+		displayName="BAF Osprey Mk3 Rifleman (MTP)";
+		picture = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\cup_vests\osprey_mk3\data\ui\ddpm\icon_v_baf_ddpm_soldier1_vest_ca.paa";
+		hiddenSelectionsTextures[]=
+		{
+			"CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_vests\osprey_mk3\data\ddpm\camo_ddpm_co.paa",
+			"CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_vests\osprey_mk3\data\forcerecon_gear_w_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_ospreyMk3_armor_mtp_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_ospreyMk3_equip_mtp_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_ospreyMk4_gear_mtp_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_ospreyMk4_gear_mtp_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_ospreyMk4_equip_mtp_co.paa"
+		};
+	};
+	class CUP_V_B_BAF_DPM_Osprey_Mk3_Scout;
+	/*
+	hiddenSelectionsTextures[] = {
+		"CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_vests\osprey_mk3\data\forcerecon_gear_w_co.paa",
+		"CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_vests\osprey_mk3\data\dpm\armour_dpm_co.paa",
+		"CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_headgear\data\equip_w_co.paa",
+		"CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_vests\osprey_mk3\data\dpm\gear_dpm_co.paa"
+	};
+		
+	*/
+	class tmtm_v_ospreyMk3_scout_mtp: CUP_V_B_BAF_DPM_Osprey_Mk3_Scout
+	{
+		author="Trenchgun";
+		scope=1;
+		scopeArsenal=2;
+		scoprCurator=0;
+		displayName="BAF Osprey Mk3 Scout (MTP)";
+		picture = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\cup_vests\osprey_mk3\data\ui\ddpm\icon_v_baf_ddpm_scout_vest_ca.paa";
+		hiddenSelectionsTextures[]=
+		{
+			"CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_vests\osprey_mk3\data\forcerecon_gear_w_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_ospreyMk3_armor_mtp_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_ospreyMk3_equip_mtp_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_ospreyMk4_gear_mtp_co.paa",
+		};
+	};
+	
+	// Osprey Mk4 Vest (no flag)
+	class CUP_V_B_BAF_MTP_Osprey_Mk4_Empty;
+	class tmtm_v_ospreyMk4_empty_noflag: CUP_V_B_BAF_MTP_Osprey_Mk4_Empty {
+		author="Trenchgun";
+		scope=1;
+		scopeArsenal=2;
+		scoprCurator=0;
+		displayName="BAF Osprey Mk4 (Empty/No Flag)";
+		picture = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_vests\osprey_mk4\data\ui\osprey_mk4_rifleman_ca.paa";
+		hiddenSelectionsMaterials[] = {
+			"CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_vests\osprey_mk4\data\equip.rvmat",
+			"\tmtm\pack\cup_vests\Data\tmtm_ospreyMk4_gear_noflag.rvmat"
+		};
+		hiddenSelectionsTextures[] = {
+			"CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_vests\osprey_mk4\data\equip_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_ospreyMk4_gear_noflag_co.paa"
+		};
+	};
+
+	class CUP_V_B_BAF_MTP_Osprey_Mk4_Crewman;
+	class tmtm_v_ospreyMk4_crewman_noflag: CUP_V_B_BAF_MTP_Osprey_Mk4_Crewman {
+		author="Trenchgun";
+		scope=1;
+		scopeArsenal=2;
+		scoprCurator=0;
+		displayName="BAF Osprey Mk4 Crewman (No Flag)";
+		picture = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_vests\osprey_mk4\data\ui\osprey_mk4_rifleman_ca.paa";
+		hiddenSelectionsMaterials[] = {
+			"CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_vests\osprey_mk4\data\equip.rvmat",
+			"CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_vests\osprey_mk3\data\forcerecon_gear.rvmat",
+			"\tmtm\pack\cup_vests\Data\tmtm_ospreyMk4_gear_noflag.rvmat",
+			"CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_headgear\data\equip_d.rvmat",
+			"\tmtm\pack\cup_vests\Data\tmtm_ospreyMk4_gear_noflag.rvmat"
+		};
+		hiddenSelectionsTextures[] = {
+			"CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_vests\osprey_mk4\data\equip_co.paa",
+			"CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_vests\osprey_mk3\data\forcerecon_gear_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_ospreyMk4_gear_noflag_co.paa",
+			"CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_headgear\data\equip_d_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_ospreyMk4_gear_noflag_co.paa"
+		};
+	};
+	class CUP_V_B_BAF_MTP_Osprey_Mk4_Engineer;
+	class tmtm_v_ospreyMk4_engineer_noflag: CUP_V_B_BAF_MTP_Osprey_Mk4_Engineer {
+		author="Trenchgun";
+		scope=1;
+		scopeArsenal=2;
+		scoprCurator=0;
+		displayName="BAF Osprey Mk4 Engineer (No Flag)";
+		picture = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_vests\osprey_mk4\data\ui\osprey_mk4_rifleman_ca.paa";
+		hiddenSelectionsMaterials[] = {
+			"CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_vests\osprey_mk4\data\equip.rvmat",
+			"\tmtm\pack\cup_vests\Data\tmtm_ospreyMk4_gear_noflag.rvmat",
+			"CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_headgear\data\equip_d.rvmat",
+			"\tmtm\pack\cup_vests\Data\tmtm_ospreyMk4_gear_noflag.rvmat"
+		};
+		hiddenSelectionsTextures[] = {
+			"CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_vests\osprey_mk4\data\equip_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_ospreyMk4_gear_noflag_co.paa",
+			"CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_headgear\data\equip_d_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_ospreyMk4_gear_noflag_co.paa"
+		};
+	};
+	class CUP_V_B_BAF_MTP_Osprey_Mk4_Grenadier;
+	class tmtm_v_ospreyMk4_grenadier_noflag: CUP_V_B_BAF_MTP_Osprey_Mk4_Grenadier {
+		author="Trenchgun";
+		scope=1;
+		scopeArsenal=2;
+		scoprCurator=0;
+		displayName="BAF Osprey Mk4 Grenadier (No Flag)";
+		picture = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_vests\osprey_mk4\data\ui\osprey_mk4_grenadier_ca.paa";
+		hiddenSelectionsMaterials[] = {
+			"CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_vests\osprey_mk4\data\equip.rvmat",
+			"\tmtm\pack\cup_vests\Data\tmtm_ospreyMk4_gear_noflag.rvmat",
+			"CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_headgear\data\equip_d.rvmat"
+		};
+		hiddenSelectionsTextures[] = {
+			"CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_vests\osprey_mk4\data\equip_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_ospreyMk4_gear_noflag_co.paa",
+			"CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_headgear\data\equip_d_co.paa"
+		};
+	};
+	class CUP_V_B_BAF_MTP_Osprey_Mk4_AutomaticRifleman;
+	class tmtm_v_ospreyMk4_automaticRifleman_noflag: CUP_V_B_BAF_MTP_Osprey_Mk4_AutomaticRifleman {
+		author="Trenchgun";
+		scope=1;
+		scopeArsenal=2;
+		scoprCurator=0;
+		displayName="BAF Osprey Mk4 Automatic Rifleman (No Flag)";
+		picture = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_vests\osprey_mk4\data\ui\osprey_mk4_gunner_ca.paa";
+		hiddenSelectionsMaterials[] = {
+			"CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_vests\osprey_mk4\data\equip.rvmat",
+			"\tmtm\pack\cup_vests\Data\tmtm_ospreyMk4_gear_noflag.rvmat"
+		};
+		hiddenSelectionsTextures[] = {
+			"CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_vests\osprey_mk4\data\equip_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_ospreyMk4_gear_noflag_co.paa"
+		};
+	};
+	class CUP_V_B_BAF_MTP_Osprey_Mk4_Medic;
+	class tmtm_v_ospreyMk4_medic_noflag: CUP_V_B_BAF_MTP_Osprey_Mk4_Medic {
+		author="Trenchgun";
+		scope=1;
+		scopeArsenal=2;
+		scoprCurator=0;
+		displayName="BAF Osprey Mk4 Medic (No Flag)";
+		picture = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_vests\osprey_mk4\data\ui\osprey_mk4_gunner_ca.paa";
+		hiddenSelectionsMaterials[] = {
+			"CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_vests\osprey_mk4\data\equip.rvmat",
+			"CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_vests\osprey_mk3\data\forcerecon_gear.rvmat",
+			"\tmtm\pack\cup_vests\Data\tmtm_ospreyMk4_gear_noflag.rvmat",
+			"CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_headgear\data\equip_d.rvmat"
+		};
+		hiddenSelectionsTextures[] = {
+			"CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_vests\osprey_mk4\data\equip_co.paa",
+			"CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_vests\osprey_mk3\data\forcerecon_gear_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_ospreyMk4_gear_noflag_co.paa",
+			"CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_headgear\data\equip_d_co.paa"
+		};
+	};
+	class CUP_V_B_BAF_MTP_Osprey_Mk4_Rifleman;
+	class tmtm_v_ospreyMk4_rifleman_noflag: CUP_V_B_BAF_MTP_Osprey_Mk4_Rifleman {
+		author="Trenchgun";
+		scope=1;
+		scopeArsenal=2;
+		scoprCurator=0;
+		displayName="BAF Osprey Mk4 Rifleman (No Flag)";
+		picture = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_vests\osprey_mk4\data\ui\osprey_mk4_rifleman_ca.paa";
+		hiddenSelectionsMaterials[] = {
+			"CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_vests\osprey_mk4\data\equip.rvmat",
+			"\tmtm\pack\cup_vests\Data\tmtm_ospreyMk4_gear_noflag.rvmat"
+		};
+		hiddenSelectionsTextures[] = {
+			"CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_vests\osprey_mk4\data\equip_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_ospreyMk4_gear_noflag_co.paa"
+		};
+	};
+	class CUP_V_B_BAF_MTP_Osprey_Mk4_Scout;
+	class tmtm_v_ospreyMk4_scout_noflag: CUP_V_B_BAF_MTP_Osprey_Mk4_Scout {
+		author="Trenchgun";
+		scope=1;
+		scopeArsenal=2;
+		scoprCurator=0;
+		displayName="BAF Osprey Mk4 Scout (No Flag)";
+		picture = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_vests\osprey_mk4\data\ui\osprey_mk4_rifleman_ca.paa";
+		hiddenSelectionsMaterials[] = {
+			"CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_vests\osprey_mk4\data\equip.rvmat",
+			"CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_vests\osprey_mk3\data\forcerecon_gear.rvmat",
+			"\tmtm\pack\cup_vests\Data\tmtm_ospreyMk4_gear_noflag.rvmat",
+			"CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_headgear\data\equip_d.rvmat",
+			"\tmtm\pack\cup_vests\Data\tmtm_ospreyMk4_gear_noflag.rvmat"
+		};
+		hiddenSelectionsTextures[] = {
+			"CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_vests\osprey_mk4\data\equip_co.paa",
+			"CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_vests\osprey_mk3\data\forcerecon_gear_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_ospreyMk4_gear_noflag_co.paa",
+			"CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_headgear\data\equip_d_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_ospreyMk4_gear_noflag_co.paa"
+		};
+	};
+	class CUP_V_B_BAF_MTP_Osprey_Mk4_Officer;
+	class tmtm_v_ospreyMk4_officer_noflag: CUP_V_B_BAF_MTP_Osprey_Mk4_Officer {
+		author="Trenchgun";
+		scope=1;
+		scopeArsenal=2;
+		scoprCurator=0;
+		displayName="BAF Osprey Mk4 Officer (No Flag)";
+		picture = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_vests\osprey_mk4\data\ui\osprey_mk4_squadleader_ca.paa";
+		hiddenSelectionsMaterials[] = {
+			"CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_vests\osprey_mk4\data\equip.rvmat",
+			"\tmtm\pack\cup_vests\Data\tmtm_ospreyMk4_gear_noflag.rvmat"
+		};
+		hiddenSelectionsTextures[] = {
+			"CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_vests\osprey_mk4\data\equip_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_ospreyMk4_gear_noflag_co.paa"
+		};
+	};
 };
