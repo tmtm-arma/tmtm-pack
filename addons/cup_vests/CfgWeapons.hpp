@@ -1970,6 +1970,15 @@ class CfgWeapons
 		"CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_headgear\data\equip_d_co.paa"
 	};
 	*/
+	/*
+	hiddenSelectionsTextures[] = {
+		"CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_vests\osprey_mk3\data\dpm\equip_dpm_co.paa",
+		"CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_vests\osprey_mk3\data\dpm\armour_dpm_co.paa",
+		"CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_headgear\data\equip_w_co.paa",
+		"CUP\Creatures\People\Military\CUP_Creatures_People_Military_BAF\CUP_vests\osprey_mk3\data\dpm\gear_dpm_co.paa"
+	};
+		
+	*/
 	class tmtm_v_ospreyMk3_engineer_mtp: CUP_V_B_BAF_DPM_Osprey_Mk3_Engineer
 	{
 		author="Trenchgun";
@@ -1982,7 +1991,8 @@ class CfgWeapons
 		{
 			"\tmtm\pack\cup_vests\Data\tmtm_ospreyMk4_equip_mtp_co.paa",
 			"\tmtm\pack\cup_vests\Data\tmtm_ospreyMk3_armor_mtp_co.paa",
-			"\tmtm\pack\cup_vests\Data\tmtm_ospreyMk3_equip_mtp_co.paa"
+			"\tmtm\pack\cup_vests\Data\tmtm_ospreyMk3_equip_mtp_co.paa",
+			"\tmtm\pack\cup_vests\Data\tmtm_ospreyMk4_gear_mtp_co.paa"
 		};
 	};
 	class CUP_V_B_BAF_DPM_Osprey_Mk3_Grenadier;
