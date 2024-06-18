@@ -1087,6 +1087,257 @@ class CfgWeapons
 		};
 	};
 
+	// ECH (MTP)
+	class tmtm_h_ECH_mtp: CUP_H_USArmy_HelmetACH_UCP
+	{
+		author="Trenchgun";
+		scope=2;
+		displayName="ECH (MTP)";
+		hiddenSelectionsTextures[]={
+			"\tmtm\pack\cup_headgear\Data\tmtm_mich2000_mtp_co.paa"
+		};
+	};
+	// ECH + Headset (MTP)
+	class tmtm_h_ECHHeadset_mtp: CUP_H_USArmy_HelmetACH_Headset_UCP
+	{
+		author="Trenchgun";
+		scope=2;
+		displayName="ECH (MTP/Headset)";
+		hiddenSelectionsTextures[]={
+			"\tmtm\pack\cup_headgear\Data\tmtm_mich2000_mtp_co.paa"
+		};
+	};
+	// ECH + Goggles (MTP)
+	class tmtm_h_ECHGoggles_mtp: CUP_H_USArmy_HelmetACH_ESS_UCP
+	{
+		author="Trenchgun";
+		scope=2;
+		displayName="ECH (MTP/Goggles)";
+		hiddenSelectionsTextures[]={
+			"\tmtm\pack\cup_headgear\Data\tmtm_mich2000_mtp_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_USArmy\data\h_gear_01_rgr_co.paa"
+		};
+	};
+	// ECH + Goggles + Headset (MTP)
+	class tmtm_h_ECHGogglesHeadset_mtp: CUP_H_USArmy_HelmetACH_ESS_Headset_UCP
+	{
+		author="Trenchgun";
+		scope=2;
+		displayName="ECH (MTP/Goggles/Headset)";
+		hiddenSelectionsTextures[]={
+			"\tmtm\pack\cup_headgear\Data\tmtm_mich2000_mtp_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_USArmy\data\h_gear_01_rgr_co.paa"
+		};
+	};
+	// ECH + Goggle Cover (MTP) 
+	class tmtm_h_ECHCoveredGoggles_mtp: CUP_H_USArmy_HelmetACH_GCOVERED_UCP
+	{
+		author="Trenchgun";
+		scope=2;
+		displayName="ECH (MTP/Covered Goggles)";
+		hiddenSelectionsTextures[]={
+			"\tmtm\pack\cup_headgear\Data\tmtm_mich2000_mtp_co.paa"
+		};
+	};
+	// ECH + Goggle Cover + Headset (MTP)
+	class tmtm_h_ECHCoveredGogglesHeadset_mtp: CUP_H_USArmy_HelmetACH_GCOVERED_Headset_UCP
+	{
+		author="Trenchgun";
+		scope=2;
+		displayName="ECH (MTP/Covered Goggles/Headset)";
+		hiddenSelectionsTextures[]={
+			"\tmtm\pack\cup_headgear\Data\tmtm_mich2000_mtp_co.paa"
+		};
+	};
+	// ECH (CDF Forest)
+	class tmtm_h_ECH_cdfForest: CUP_H_USArmy_HelmetACH_UCP
+	{
+		author="Trenchgun";
+		scope=2;
+		displayName="ECH (CDF Forest)";
+		hiddenSelectionsTextures[]={
+			"\tmtm\pack\cup_headgear\Data\tmtm_mich2000_cdfForest_co.paa"
+		};
+	};
+	// ECH + Headset (CDF Forest)
+	class tmtm_h_ECHHeadset_cdfForest: CUP_H_USArmy_HelmetACH_Headset_UCP
+	{
+		author="Trenchgun";
+		scope=2;
+		displayName="ECH (CDF Forest/Headset)";
+		hiddenSelectionsTextures[]={
+			"\tmtm\pack\cup_headgear\Data\tmtm_mich2000_cdfForest_co.paa"
+		};
+	};
+	// ECH + Goggles (CDF Forest)
+	class tmtm_h_ECHGoggles_cdfForest: CUP_H_USArmy_HelmetACH_ESS_UCP
+	{
+		author="Trenchgun";
+		scope=2;
+		displayName="ECH (CDF Forest/Goggles)";
+		hiddenSelectionsTextures[]={
+			"\tmtm\pack\cup_headgear\Data\tmtm_mich2000_cdfForest_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_USArmy\data\h_gear_01_rgr_co.paa"
+		};
+	};
+	// ECH + Goggles + Headset (CDF Forest)
+	class tmtm_h_ECHGogglesHeadset_cdfForest: CUP_H_USArmy_HelmetACH_ESS_Headset_UCP
+	{
+		author="Trenchgun";
+		scope=2;
+		displayName="ECH (CDF Forest/Goggles/Headset)";
+		hiddenSelectionsTextures[]={
+			"\tmtm\pack\cup_headgear\Data\tmtm_mich2000_cdfForest_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_USArmy\data\h_gear_01_rgr_co.paa"
+		};
+	};
+	// ECH + Goggle Cover (CDF Forest) 
+	class tmtm_h_ECHCoveredGoggles_cdfForest: CUP_H_USArmy_HelmetACH_GCOVERED_UCP
+	{
+		author="Trenchgun";
+		scope=2;
+		displayName="ECH (CDF Forest/Covered Goggles)";
+		hiddenSelectionsTextures[]={
+			"\tmtm\pack\cup_headgear\Data\tmtm_mich2000_cdfForest_co.paa"
+		};
+	};
+	// ECH + Goggle Cover + Headset (CDF Forest)
+	class tmtm_h_ECHCoveredGogglesHeadset_cdfForest: CUP_H_USArmy_HelmetACH_GCOVERED_Headset_UCP
+	{
+		author="Trenchgun";
+		scope=2;
+		displayName="ECH (CDF Forest/Covered Goggles/Headset)";
+		hiddenSelectionsTextures[]={
+			"\tmtm\pack\cup_headgear\Data\tmtm_mich2000_cdfForest_co.paa"
+		};
+	};
+	// ECH (CDF Mountain)
+	class tmtm_h_ECH_cdfMountain: CUP_H_USArmy_HelmetACH_UCP
+	{
+		author="Trenchgun";
+		scope=2;
+		displayName="ECH (CDF Mountain)";
+		hiddenSelectionsTextures[]={
+			"\tmtm\pack\cup_headgear\Data\tmtm_mich2000_cdfMountain_co.paa"
+		};
+	};
+	// ECH + Headset (CDF Mountain)
+	class tmtm_h_ECHHeadset_cdfMountain: CUP_H_USArmy_HelmetACH_Headset_UCP
+	{
+		author="Trenchgun";
+		scope=2;
+		displayName="ECH (CDF Mountain/Headset)";
+		hiddenSelectionsTextures[]={
+			"\tmtm\pack\cup_headgear\Data\tmtm_mich2000_cdfMountain_co.paa"
+		};
+	};
+	// ECH + Goggles (CDF Mountain)
+	class tmtm_h_ECHGoggles_cdfMountain: CUP_H_USArmy_HelmetACH_ESS_UCP
+	{
+		author="Trenchgun";
+		scope=2;
+		displayName="ECH (CDF Mountain/Goggles)";
+		hiddenSelectionsTextures[]={
+			"\tmtm\pack\cup_headgear\Data\tmtm_mich2000_cdfMountain_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_USArmy\data\h_gear_01_rgr_co.paa"
+		};
+	};
+	// ECH + Goggles + Headset (CDF Mountain)
+	class tmtm_h_ECHGogglesHeadset_cdfMountain: CUP_H_USArmy_HelmetACH_ESS_Headset_UCP
+	{
+		author="Trenchgun";
+		scope=2;
+		displayName="ECH (CDF Mountain/Goggles/Headset)";
+		hiddenSelectionsTextures[]={
+			"\tmtm\pack\cup_headgear\Data\tmtm_mich2000_cdfMountain_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_USArmy\data\h_gear_01_rgr_co.paa"
+		};
+	};
+	// ECH + Goggle Cover (CDF Mountain) 
+	class tmtm_h_ECHCoveredGoggles_cdfMountain: CUP_H_USArmy_HelmetACH_GCOVERED_UCP
+	{
+		author="Trenchgun";
+		scope=2;
+		displayName="ECH (CDF Mountain/Covered Goggles)";
+		hiddenSelectionsTextures[]={
+			"\tmtm\pack\cup_headgear\Data\tmtm_mich2000_cdfMountain_co.paa"
+		};
+	};
+	// ECH + Goggle Cover + Headset (CDF Mountain)
+	class tmtm_h_ECHCoveredGogglesHeadset_cdfMountain: CUP_H_USArmy_HelmetACH_GCOVERED_Headset_UCP
+	{
+		author="Trenchgun";
+		scope=2;
+		displayName="ECH (CDF Mountain/Covered Goggles/Headset)";
+		hiddenSelectionsTextures[]={
+			"\tmtm\pack\cup_headgear\Data\tmtm_mich2000_cdfMountain_co.paa"
+		};
+	};
+	// ECH (CDF Oxblood)
+	class tmtm_h_ECH_cdfOxblood: CUP_H_USArmy_HelmetACH_UCP
+	{
+		author="Trenchgun";
+		scope=2;
+		displayName="ECH (CDF Oxblood)";
+		hiddenSelectionsTextures[]={
+			"\tmtm\pack\cup_headgear\Data\tmtm_mich2000_cdfOxblood_co.paa"
+		};
+	};
+	// ECH + Headset (CDF Oxblood)
+	class tmtm_h_ECHHeadset_cdfOxblood: CUP_H_USArmy_HelmetACH_Headset_UCP
+	{
+		author="Trenchgun";
+		scope=2;
+		displayName="ECH (CDF Oxblood/Headset)";
+		hiddenSelectionsTextures[]={
+			"\tmtm\pack\cup_headgear\Data\tmtm_mich2000_cdfOxblood_co.paa"
+		};
+	};
+	// ECH + Goggles (CDF Oxblood)
+	class tmtm_h_ECHGoggles_cdfOxblood: CUP_H_USArmy_HelmetACH_ESS_UCP
+	{
+		author="Trenchgun";
+		scope=2;
+		displayName="ECH (CDF Oxblood/Goggles)";
+		hiddenSelectionsTextures[]={
+			"\tmtm\pack\cup_headgear\Data\tmtm_mich2000_cdfOxblood_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_USArmy\data\h_gear_01_rgr_co.paa"
+		};
+	};
+	// ECH + Goggles + Headset (CDF Oxblood)
+	class tmtm_h_ECHGogglesHeadset_cdfOxblood: CUP_H_USArmy_HelmetACH_ESS_Headset_UCP
+	{
+		author="Trenchgun";
+		scope=2;
+		displayName="ECH (CDF Oxblood/Goggles/Headset)";
+		hiddenSelectionsTextures[]={
+			"\tmtm\pack\cup_headgear\Data\tmtm_mich2000_cdfOxblood_co.paa",
+			"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_USArmy\data\h_gear_01_rgr_co.paa"
+		};
+	};
+	// ECH + Goggle Cover (CDF Oxblood) 
+	class tmtm_h_ECHCoveredGoggles_cdfOxblood: CUP_H_USArmy_HelmetACH_GCOVERED_UCP
+	{
+		author="Trenchgun";
+		scope=2;
+		displayName="ECH (CDF Oxblood/Covered Goggles)";
+		hiddenSelectionsTextures[]={
+			"\tmtm\pack\cup_headgear\Data\tmtm_mich2000_cdfOxblood_co.paa"
+		};
+	};
+	// ECH + Goggle Cover + Headset (CDF Oxblood)
+	class tmtm_h_ECHCoveredGogglesHeadset_cdfOxblood: CUP_H_USArmy_HelmetACH_GCOVERED_Headset_UCP
+	{
+		author="Trenchgun";
+		scope=2;
+		displayName="ECH (CDF Oxblood/Covered Goggles/Headset)";
+		hiddenSelectionsTextures[]={
+			"\tmtm\pack\cup_headgear\Data\tmtm_mich2000_cdfOxblood_co.paa"
+		};
+	};
+
+
+
 	// 6B47 (Black)
 	class tmtm_h_6B47_black: CUP_H_RUS_6B47_v2_Summer
 	{
