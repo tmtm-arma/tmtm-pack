@@ -46,7 +46,7 @@ class CfgWeapons
 			};
 		};
 	};
-	class tmtm_v_6b3PioneerAT_brown: CUP_V_RUS_6b3_2
+	class tmtm_v_6b3PioneerAT_brown: CUP_V_RUS_6B3_2
 	{
 		displayName = "6B3 AT (Brown)";
 		scope=2;
@@ -65,7 +65,7 @@ class CfgWeapons
 			};
 		};
 	};
-	class tmtm_v_6b3PioneerMG_brown: CUP_V_RUS_6b3_3
+	class tmtm_v_6b3PioneerMG_brown: CUP_V_RUS_6B3_3
 	{
 		displayName = "6B3 MG (Brown)";
 		scope=2;
@@ -84,7 +84,7 @@ class CfgWeapons
 			};
 		};
 	};
-	class tmtm_v_6b3Pioneer_brown: CUP_V_RUS_6b3_4
+	class tmtm_v_6b3Pioneer_brown: CUP_V_RUS_6B3_4
 	{
 		displayName = "6B3 Empty (Brown)";
 		scope=0;
@@ -122,7 +122,7 @@ class CfgWeapons
 			};
 		};
 	};
-	class tmtm_v_6b3PioneerAT_olive: CUP_V_RUS_6b3_2
+	class tmtm_v_6b3PioneerAT_olive: CUP_V_RUS_6B3_2
 	{
 		displayName = "6B3 AT (Olive)";
 		scope=2;
@@ -141,7 +141,7 @@ class CfgWeapons
 			};
 		};
 	};
-	class tmtm_v_6b3PioneerMG_olive: CUP_V_RUS_6b3_3
+	class tmtm_v_6b3PioneerMG_olive: CUP_V_RUS_6B3_3
 	{
 		displayName = "6B3 MG (Olive)";
 		scope=2;
@@ -160,7 +160,7 @@ class CfgWeapons
 			};
 		};
 	};
-	class tmtm_v_6b3Pioneer_olive: CUP_V_RUS_6b3_4
+	class tmtm_v_6b3Pioneer_olive: CUP_V_RUS_6B3_4
 	{
 		displayName = "6B3 Empty (Olive)";
 		scope=0;
@@ -198,7 +198,7 @@ class CfgWeapons
 			};
 		};
 	};
-	class tmtm_v_6b3PioneerAT_oliveCamo: CUP_V_RUS_6b3_2
+	class tmtm_v_6b3PioneerAT_oliveCamo: CUP_V_RUS_6B3_2
 	{
 		displayName = "6B3 AT (Olive/Camo)";
 		scope=2;
@@ -217,7 +217,7 @@ class CfgWeapons
 			};
 		};
 	};
-	class tmtm_v_6b3PioneerMG_oliveCamo: CUP_V_RUS_6b3_3
+	class tmtm_v_6b3PioneerMG_oliveCamo: CUP_V_RUS_6B3_3
 	{
 		displayName = "6B3 MG (Olive/Camo)";
 		scope=2;
@@ -257,7 +257,7 @@ class CfgWeapons
 			};
 		};
 	};
-	class tmtm_v_6b3PioneerAT_oliveTaki: CUP_V_RUS_6b3_2
+	class tmtm_v_6b3PioneerAT_oliveTaki: CUP_V_RUS_6B3_2
 	{
 		displayName = "6B3 AT (Olive/Takistani)";
 		scope=2;
@@ -276,7 +276,7 @@ class CfgWeapons
 			};
 		};
 	};
-	class tmtm_v_6b3PioneerMG_oliveTaki: CUP_V_RUS_6b3_3
+	class tmtm_v_6b3PioneerMG_oliveTaki: CUP_V_RUS_6B3_3
 	{
 		displayName = "6B3 MG (Olive/Takistani)";
 		scope=2;
@@ -316,7 +316,7 @@ class CfgWeapons
 			};
 		};
 	};
-	class tmtm_v_6b3PioneerAT_blackOlive: CUP_V_RUS_6b3_2
+	class tmtm_v_6b3PioneerAT_blackOlive: CUP_V_RUS_6B3_2
 	{
 		displayName = "6B3 AT (Black/Olive)";
 		scope=2;
@@ -335,7 +335,7 @@ class CfgWeapons
 			};
 		};
 	};
-	class tmtm_v_6b3PioneerMG_blackOlive: CUP_V_RUS_6b3_3
+	class tmtm_v_6b3PioneerMG_blackOlive: CUP_V_RUS_6B3_3
 	{
 		displayName = "6B3 MG (Black/Olive)";
 		scope=2;
@@ -375,7 +375,7 @@ class CfgWeapons
 			};
 		};
 	};
-	class tmtm_v_6b3PioneerAT_blackBrown: CUP_V_RUS_6b3_2
+	class tmtm_v_6b3PioneerAT_blackBrown: CUP_V_RUS_6B3_2
 	{
 		displayName = "6B3 AT (Black/Brown)";
 		scope=2;
@@ -394,7 +394,7 @@ class CfgWeapons
 			};
 		};
 	};
-	class tmtm_v_6b3PioneerMG_blackBrown: CUP_V_RUS_6b3_3
+	class tmtm_v_6b3PioneerMG_blackBrown: CUP_V_RUS_6B3_3
 	{
 		displayName = "6B3 MG (Black/Brown)";
 		scope=2;
@@ -434,7 +434,7 @@ class CfgWeapons
 			};
 		};
 	};
-	class tmtm_v_6b3PioneerAT_blackCamo: CUP_V_RUS_6b3_2
+	class tmtm_v_6b3PioneerAT_blackCamo: CUP_V_RUS_6B3_2
 	{
 		displayName = "6B3 AT (Black/Camo)";
 		scope=2;
@@ -453,7 +453,7 @@ class CfgWeapons
 			};
 		};
 	};
-	class tmtm_v_6b3PioneerMG_blackCamo: CUP_V_RUS_6b3_3
+	class tmtm_v_6b3PioneerMG_blackCamo: CUP_V_RUS_6B3_3
 	{
 		displayName = "6B3 MG (Black/Camo)";
 		scope=2;
@@ -493,7 +493,7 @@ class CfgWeapons
 			};
 		};
 	};
-	class tmtm_v_6b3PioneerAT_blackTaki: CUP_V_RUS_6b3_2
+	class tmtm_v_6b3PioneerAT_blackTaki: CUP_V_RUS_6B3_2
 	{
 		displayName = "6B3 AT (Black/Takistani)";
 		scope=2;
@@ -512,7 +512,7 @@ class CfgWeapons
 			};
 		};
 	};
-	class tmtm_v_6b3PioneerMG_blackTaki: CUP_V_RUS_6b3_3
+	class tmtm_v_6b3PioneerMG_blackTaki: CUP_V_RUS_6B3_3
 	{
 		displayName = "6B3 MG (Black/Takistani)";
 		scope=2;

@@ -11,6 +11,6 @@ class CfgPatches {
 		url = MOD_URL;
 		version = VERSION; 
 		versionStr = QUOTE(VERSION_STR);
-		versionAr[] = {VERSION_AR};
+		versionAr[] = {QUOTE(VERSION_AR)};
 	};
 };

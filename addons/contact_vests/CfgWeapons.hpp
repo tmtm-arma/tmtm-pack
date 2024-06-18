@@ -751,7 +751,7 @@ class CfgWeapons
 			"\tmtm\pack\contact_vests\Data\tmtm_modularVest_SOBRyellow_ranger_co.paa"
 		};
 	};
-	class tmtm_v_modularVestSOBRempty_black: vest_camo_base
+	class tmtm_v_modularVestSOBRempty_black: Vest_Camo_Base
 	{
 		scope=1;
 		scopeArsenal=2;
@@ -858,7 +858,7 @@ class CfgWeapons
 			"\tmtm\pack\contact_vests\Data\tmtm_modularVest_SOBRyellow_multicam_co.paa"
 		};
 	};
-	class tmtm_v_modularVestSOBRlite_ranger: tmtm_v_modularVestSOBRLite_black
+	class tmtm_v_modularVestSOBRlite_ranger: tmtm_v_modularVestSOBRlite_black
 	{
 		scope=1;
 		scopeArsenal=2;
@@ -1001,7 +1001,7 @@ class CfgWeapons
 			"\tmtm\pack\contact_vests\Data\tmtm_modularVest_FSBorange_ranger_co.paa"
 		};
 	};
-	class tmtm_v_modularVestFSBempty_black: vest_camo_base
+	class tmtm_v_modularVestFSBempty_black: Vest_Camo_Base
 	{
 		scope=1;
 		scopeArsenal=2;
@@ -1053,7 +1053,7 @@ class CfgWeapons
 			};
 		};
 	};
-	class tmtm_v_modularVestFSBempty_multicam: tmtm_v_modularVestFSB_black
+	class tmtm_v_modularVestFSBempty_multicam: tmtm_v_modularVestFSBempty_black
 	{
 		scope=1;
 		scopeArsenal=2;
@@ -1065,7 +1065,7 @@ class CfgWeapons
 			"\tmtm\pack\contact_vests\Data\tmtm_modularVest_FSByellow_multicam_co.paa"
 		};
 	};
-	class tmtm_v_modularVestFSBempty_ranger: tmtm_v_modularVestFSB_black
+	class tmtm_v_modularVestFSBempty_ranger: tmtm_v_modularVestFSBempty_black
 	{
 		scope=1;
 		scopeArsenal=2;
@@ -1108,7 +1108,7 @@ class CfgWeapons
 			"\tmtm\pack\contact_vests\Data\tmtm_modularVest_FSByellow_multicam_co.paa"
 		};
 	};
-	class tmtm_v_modularVestFSBlite_ranger: tmtm_v_modularVestFSBLite_black
+	class tmtm_v_modularVestFSBlite_ranger: tmtm_v_modularVestFSBlite_black
 	{
 		scope=1;
 		scopeArsenal=2;

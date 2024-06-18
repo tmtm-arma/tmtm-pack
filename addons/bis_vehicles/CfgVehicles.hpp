@@ -6,6 +6,7 @@ class CfgVehicles {
 
 
 	// AMV-7 Marshall textures
+	class Wheeled_APC_F;
 	class APC_Wheeled_01_base_F;
 	class APC_Wheeled_01_base_F: Wheeled_APC_F {
 		class TextureSources {
@@ -140,6 +141,7 @@ class CfgVehicles {
 
 
 	// Zamak MRL
+	class Truck_02_base_F;
 	class Truck_02_MRL_base_F: Truck_02_base_F {
 		class textureSources {
 			class Opfor {

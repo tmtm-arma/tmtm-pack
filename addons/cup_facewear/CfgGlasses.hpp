@@ -83,7 +83,7 @@ class cfgGlasses
 		};
 	};
 	
-	class tmtm_f_balaclava_ratnik_headphones_winter: None
+	class tmtm_f_balaclava_ratnik_headphones_winter_2: None
 	{
 		author = "Trenchgun";
 		scope = 2;
