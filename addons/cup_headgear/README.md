@@ -8,6 +8,10 @@ Retextures of Community Upgrade Project headgear.
 	- ATACS FG
 	- EMR
 	- SURPAT
+	- MTP
+	- CDF Forest
+	- CDF Mountain
+	- CDF Oxblood
 
 ## M92 (Covered, all goggle variants)
     - MM14
