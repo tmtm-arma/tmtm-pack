@@ -9,9 +9,9 @@ Retextures of Community Upgrade Project headgear.
 	- EMR
 	- SURPAT
 	- MTP
-	- CDF Forest
-	- CDF Mountain
-	- CDF Oxblood
+	- CDF Forest Digital
+	- CDF Mountain Digital
+	- CDF Oxblood Digital
 
 ## M92 (Covered, all goggle variants)
     - MM14

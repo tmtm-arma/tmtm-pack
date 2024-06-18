@@ -13,3 +13,9 @@ Adds retextures of CUP Uniforms.
 	- MM14 Camo
 	- Dark Olive Camo
 	- Dark Olive Camo w/o flags
+
+## VKPO Winter Jacket (with variants)
+	- MTP
+	- CDF Forest Digital
+	- CDF Mountain Digital
+	- CDF Oxblood Digital

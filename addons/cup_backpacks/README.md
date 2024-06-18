@@ -14,3 +14,6 @@ Osprey Mk4 Belt and Webbing configured as backpacks.
 
 ## Smersh
 Smersh rigs configured as backpacks.
+
+## RPS Smersh
+RPS Smersh rigs configured as backpacks.

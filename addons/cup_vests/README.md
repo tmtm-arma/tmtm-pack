@@ -28,5 +28,8 @@ Adds retextures of CUP vests.
 	- Grey
 	- White
 	
-	
-	
+## BAF Osprey Mk3 (All Variants)
+	- MTP
+
+## BAF Osprey Mk4 (All Variants)
+	- MTP (No Flag)	
