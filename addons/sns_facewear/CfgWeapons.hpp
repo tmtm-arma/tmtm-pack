@@ -31,11 +31,11 @@ class CfgWeapons
  		picture="\simc_uaf_67_preview\icons\nomex_1_ca.paa";
 
 		hiddenSelectionsTextures[]= {
-			"\tmtm\pack\sns_facewear\data\wool_gloves_black_co.paa"
+			"\tmtm\pack\sns_facewear\data\tmtm_wool_gloves_black_co.paa"
 		};
 
         TMTM_NVG_WOOL_GLOVES_ITEMINFO(
-            "\tmtm\pack\sns_facewear\data\wool_gloves_black_co.paa"
+            "\tmtm\pack\sns_facewear\data\tmtm_wool_gloves_black_co.paa"
         );
     };
 
@@ -52,11 +52,11 @@ class CfgWeapons
  		picture="\simc_uaf_67_preview\icons\nomex_1_ca.paa";
 
 		hiddenSelectionsTextures[]= {
-			"\tmtm\pack\sns_facewear\data\wool_gloves_brown_co.paa"
+			"\tmtm\pack\sns_facewear\data\tmtm_wool_gloves_brown_co.paa"
 		};
 
         TMTM_NVG_WOOL_GLOVES_ITEMINFO(
-            "\tmtm\pack\sns_facewear\data\wool_gloves_brown_co.paa"
+            "\tmtm\pack\sns_facewear\data\tmtm_wool_gloves_brown_co.paa"
         );
     };
 
@@ -73,11 +73,11 @@ class CfgWeapons
  		picture="\simc_uaf_67_preview\icons\nomex_1_ca.paa";
 
 		hiddenSelectionsTextures[]= {
-			"\tmtm\pack\sns_facewear\data\wool_gloves_olive_co.paa"
+			"\tmtm\pack\sns_facewear\data\tmtm_wool_gloves_olive_co.paa"
 		};
 
         TMTM_NVG_WOOL_GLOVES_ITEMINFO(
-            "\tmtm\pack\sns_facewear\data\wool_gloves_olive_co.paa"
+            "\tmtm\pack\sns_facewear\data\tmtm_wool_gloves_olive_co.paa"
         );
     };
 
@@ -96,11 +96,11 @@ class CfgWeapons
  		picture="\simc_uaf_67_preview\icons\nomex_1_ca.paa";
 
 		hiddenSelectionsTextures[]= {
-			"\tmtm\pack\sns_facewear\data\wool_gloves_black_co.paa"
+			"\tmtm\pack\sns_facewear\data\tmtm_wool_gloves_black_co.paa"
 		};
 
         TMTM_NVG_WOOL_GLOVES_CUT_ITEMINFO(
-            "\tmtm\pack\sns_facewear\data\wool_gloves_black_co.paa"
+            "\tmtm\pack\sns_facewear\data\tmtm_wool_gloves_black_co.paa"
         );
     };
 
@@ -117,11 +117,11 @@ class CfgWeapons
  		picture="\simc_uaf_67_preview\icons\nomex_1_ca.paa";
 
 		hiddenSelectionsTextures[]= {
-			"\tmtm\pack\sns_facewear\data\wool_gloves_brown_co.paa"
+			"\tmtm\pack\sns_facewear\data\tmtm_wool_gloves_brown_co.paa"
 		};
 
         TMTM_NVG_WOOL_GLOVES_CUT_ITEMINFO(
-            "\tmtm\pack\sns_facewear\data\wool_gloves_brown_co.paa"
+            "\tmtm\pack\sns_facewear\data\tmtm_wool_gloves_brown_co.paa"
         );
     };
 
@@ -138,11 +138,11 @@ class CfgWeapons
  		picture="\simc_uaf_67_preview\icons\nomex_1_ca.paa";
 
 		hiddenSelectionsTextures[]= {
-			"\tmtm\pack\sns_facewear\data\wool_gloves_olive_co.paa"
+			"\tmtm\pack\sns_facewear\data\tmtm_wool_gloves_olive_co.paa"
 		};
 
         TMTM_NVG_WOOL_GLOVES_CUT_ITEMINFO(
-            "\tmtm\pack\sns_facewear\data\wool_gloves_olive_co.paa"
+            "\tmtm\pack\sns_facewear\data\tmtm_wool_gloves_olive_co.paa"
         );
     };
 };

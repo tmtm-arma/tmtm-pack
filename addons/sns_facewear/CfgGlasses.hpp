@@ -11,7 +11,7 @@ class CfgGlasses
 
 		hiddenSelections[]= { "nomex" };
         hiddenSelectionsMaterials[] = {
-			"\tmtm\pack\sns_facewear\data\wool_gloves.rvmat"
+			"\tmtm\pack\sns_facewear\data\tmtm_wool_gloves.rvmat"
 		};
 
 		identityTypes[]={};
@@ -37,7 +37,7 @@ class CfgGlasses
  		picture="\simc_uaf_67_preview\icons\nomex_1_ca.paa";
 
 		hiddenSelectionsTextures[]= {
-			"\tmtm\pack\sns_facewear\data\wool_gloves_black_co.paa"
+			"\tmtm\pack\sns_facewear\data\tmtm_wool_gloves_black_co.paa"
 		};
     };
 
@@ -52,7 +52,7 @@ class CfgGlasses
  		picture="\simc_uaf_67_preview\icons\nomex_1_ca.paa";
 
 		hiddenSelectionsTextures[]= {
-			"\tmtm\pack\sns_facewear\data\wool_gloves_brown_co.paa"
+			"\tmtm\pack\sns_facewear\data\tmtm_wool_gloves_brown_co.paa"
 		};
     };
 
@@ -67,7 +67,7 @@ class CfgGlasses
  		picture="\simc_uaf_67_preview\icons\nomex_1_ca.paa";
 
 		hiddenSelectionsTextures[]= {
-			"\tmtm\pack\sns_facewear\data\wool_gloves_olive_co.paa"
+			"\tmtm\pack\sns_facewear\data\tmtm_wool_gloves_olive_co.paa"
 		};
     };
 
@@ -84,7 +84,7 @@ class CfgGlasses
  		picture="\simc_uaf_67_preview\icons\nomex_1_ca.paa";
 
 		hiddenSelectionsTextures[]= {
-			"\tmtm\pack\sns_facewear\data\wool_gloves_black_co.paa"
+			"\tmtm\pack\sns_facewear\data\tmtm_wool_gloves_black_co.paa"
 		};
     };
 
@@ -99,7 +99,7 @@ class CfgGlasses
  		picture="\simc_uaf_67_preview\icons\nomex_1_ca.paa";
 
 		hiddenSelectionsTextures[]= {
-			"\tmtm\pack\sns_facewear\data\wool_gloves_brown_co.paa"
+			"\tmtm\pack\sns_facewear\data\tmtm_wool_gloves_brown_co.paa"
 		};
     };
 
@@ -114,7 +114,7 @@ class CfgGlasses
  		picture="\simc_uaf_67_preview\icons\nomex_1_ca.paa";
 
 		hiddenSelectionsTextures[]= {
-			"\tmtm\pack\sns_facewear\data\wool_gloves_olive_co.paa"
+			"\tmtm\pack\sns_facewear\data\tmtm_wool_gloves_olive_co.paa"
 		};
     };
 };
