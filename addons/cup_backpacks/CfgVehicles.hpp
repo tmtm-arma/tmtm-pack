@@ -593,6 +593,286 @@ class CfgVehicles
 		mass=21;
 	};
 
+	// RPS Smersh (NEW) Belt as Backpacks
+	// 		Olive
+	class tmtm_b_rpsSmersh_ak_olive_belt: Bag_Base
+	{
+		author="erem2k";
+		scope=2;
+		arsenalScope=2;
+
+		displayName="RS Smersh (Olive/AK)";
+		picture = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_RussiaModern\Vest\data\UI\icon_V_O_RUS_RPS_Smersh_AK_ModernOlive_ca.paa";
+		
+		model = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_RussiaModern\Vest\RPS_Smersh\CUP_rps_smersh_ak.p3d";
+		hiddenSelections[] = {"Camo1","Camo2","Camo3","Camo4"};
+		hiddenSelectionsTextures[] = {
+			"",
+			"",
+			"CUP\Creatures\People\Military\CUP_Creatures_People_Military_RussiaModern\Vest\RPS_Smersh\Data\Suharka_MED_VOG_m_CO.paa",
+			"CUP\Creatures\People\Military\CUP_Creatures_People_Military_RussiaModern\Vest\RPS_Smersh\Data\AK_m_CO.paa"
+		};
+		
+		maximumLoad=140;
+		mass=25;
+	};
+	class tmtm_b_rpsSmersh_vog_olive_belt: Bag_Base
+	{
+		author="erem2k";
+		scope=2;
+		arsenalScope=2;
+
+		displayName="RS Smersh (Olive/VOG)";
+		picture = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_RussiaModern\Vest\data\UI\icon_V_O_RUS_RPS_Smersh_VOG_ModernOlive_ca.paa";
+		
+		model = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_RussiaModern\Vest\RPS_Smersh\CUP_rps_smersh_vog.p3d";
+		hiddenSelections[] = {"Camo1","Camo2","Camo3","Camo4"};
+		hiddenSelectionsTextures[] = {
+			"",
+			"",
+			"CUP\Creatures\People\Military\CUP_Creatures_People_Military_RussiaModern\Vest\RPS_Smersh\Data\Suharka_MED_VOG_m_CO.paa",
+			"CUP\Creatures\People\Military\CUP_Creatures_People_Military_RussiaModern\Vest\RPS_Smersh\Data\AK_m_CO.paa"
+		};
+		maximumLoad=150;
+		mass=27;
+	};
+	class tmtm_b_rpsSmersh_vogSPP_olive_belt: Bag_Base
+	{
+		author="erem2k";
+		scope=2;
+		arsenalScope=2;
+		
+		displayName="RS Smersh (Olive/SPP/VOG)";
+		picture = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_RussiaModern\Vest\data\UI\icon_V_O_RUS_RPS_Smersh_VOG_SPP_ModernOlive_ca.paa";
+
+		model = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_RussiaModern\Vest\RPS_Smersh\CUP_rps_smersh_vog_spp.p3d";
+		hiddenSelections[] = {"Camo1","Camo2","Camo3","Camo4"};
+		hiddenSelectionsTextures[] = {
+			"",
+			"",
+			"CUP\Creatures\People\Military\CUP_Creatures_People_Military_RussiaModern\Vest\RPS_Smersh\Data\Suharka_MED_VOG_m_CO.paa","CUP\Creatures\People\Military\CUP_Creatures_People_Military_RussiaModern\Vest\RPS_Smersh\Data\AK_m_CO.paa"};
+		
+		maximumLoad=160;
+		mass=30;
+	};
+	class tmtm_b_rpsSmersh_pkp_olive_belt: Bag_Base
+	{
+		author="erem2k";
+		scope=2;
+		arsenalScope=2;
+
+		displayName="RS Smersh (Olive/PKP)";
+		picture = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_RussiaModern\Vest\data\UI\icon_V_O_RUS_RPS_Smersh_PKP_ModernOlive_ca.paa";
+
+		model = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_RussiaModern\Vest\RPS_Smersh\CUP_rps_smersh_pkp.p3d";
+		hiddenSelections[] = {"Camo1","Camo2","Camo3","Camo4"};
+		hiddenSelectionsTextures[] = {
+			"",
+			"",
+			"CUP\Creatures\People\Military\CUP_Creatures_People_Military_RussiaModern\Vest\RPS_Smersh\Data\Suharka_MED_VOG_m_CO.paa",
+			"CUP\Creatures\People\Military\CUP_Creatures_People_Military_RussiaModern\Vest\RPS_Smersh\Data\PKP_m_CO.paa"
+		};
+		
+		maximumLoad=150;
+		mass=27;
+	};
+	class tmtm_b_rpsSmersh_pkpLight_olive_belt: Bag_Base
+	{
+		author="erem2k";
+		scope=2;
+		arsenalScope=2;
+		
+		displayName="RS Smersh (Olive/PKP Light)";
+		picture = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_RussiaModern\Vest\data\UI\icon_V_O_RUS_RPS_Smersh_PKP_Light_ModernOlive_ca.paa";
+
+		model = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_RussiaModern\Vest\RPS_Smersh\CUP_rps_smersh_pkp_light.p3d";
+		hiddenSelections[] = {"Camo1","Camo2","Camo3","Camo4"};
+		hiddenSelectionsTextures[] = {
+			"",
+			"",
+			"CUP\Creatures\People\Military\CUP_Creatures_People_Military_RussiaModern\Vest\RPS_Smersh\Data\Suharka_MED_VOG_m_CO.paa",
+			"CUP\Creatures\People\Military\CUP_Creatures_People_Military_RussiaModern\Vest\RPS_Smersh\Data\PKP_m_CO.paa"
+		};
+		
+		maximumLoad=140;
+		mass=25;
+	};
+	class tmtm_b_rpsSmersh_pkpSPP_olive_belt: Bag_Base
+	{
+		author="erem2k";
+		scope=2;
+		arsenalScope=2;
+
+		displayName="RS Smersh (Olive/SPP/PKP)";
+		picture = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_RussiaModern\Vest\data\UI\icon_V_O_RUS_RPS_Smersh_PKP_SPP_ModernOlive_ca.paa";
+
+		model = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_RussiaModern\Vest\RPS_Smersh\CUP_rps_smersh_pkp_spp.p3d";
+		hiddenSelections[] = {"Camo1","Camo2","Camo3","Camo4"};
+		hiddenSelectionsTextures[] = {
+			"",
+			"",
+			"CUP\Creatures\People\Military\CUP_Creatures_People_Military_RussiaModern\Vest\RPS_Smersh\Data\Suharka_MED_VOG_m_CO.paa",
+			"CUP\Creatures\People\Military\CUP_Creatures_People_Military_RussiaModern\Vest\RPS_Smersh\Data\PKP_m_CO.paa"
+		};
+		
+		maximumLoad=170;
+		mass=30;
+	};
+	class tmtm_b_rpsSmersh_svd_olive_belt: Bag_Base
+	{
+		author="erem2k";
+		scope=2;
+		arsenalScope=2;
+
+		displayName="RS Smersh (Olive/SVD)";
+		picture = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_RussiaModern\Vest\data\UI\icon_V_O_RUS_RPS_Smersh_SVD_ModernOlive_ca.paa";
+
+		model = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_RussiaModern\Vest\RPS_Smersh\CUP_rps_smersh_svd.p3d";
+		hiddenSelections[] = {"Camo1","Camo2","Camo3","Camo4"};
+		hiddenSelectionsTextures[] = {
+			"",
+			"",
+			"CUP\Creatures\People\Military\CUP_Creatures_People_Military_RussiaModern\Vest\RPS_Smersh\Data\Suharka_MED_VOG_m_CO.paa",
+			"CUP\Creatures\People\Military\CUP_Creatures_People_Military_RussiaModern\Vest\RPS_Smersh\Data\SVD_m_CO.paa"
+		};
+		
+		maximumLoad=120;
+		mass=21;
+	};
+
+	// 		Brown
+	class tmtm_b_rpsSmersh_ak_brown_belt: tmtm_b_rpsSmersh_ak_olive_belt
+	{
+		author="erem2k";
+		scope=2;
+		arsenalScope=2;
+
+		displayName="RS Smersh (Brown/AK)";
+		picture = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_RussiaModern\Vest\data\UI\icon_V_O_RUS_RPS_Smersh_AK_Brown_ca.paa";
+
+		hiddenSelectionsTextures[] = {
+			"",
+			"",
+			"CUP\Creatures\People\Military\CUP_Creatures_People_Military_RussiaModern\Vest\RPS_Smersh\Data\Suharka_MED_VOG_k_CO.paa",
+			"CUP\Creatures\People\Military\CUP_Creatures_People_Military_RussiaModern\Vest\RPS_Smersh\Data\AK_k_CO.paa"
+		};
+
+		maximumLoad=140;
+		mass=25;
+	};
+	class tmtm_b_rpsSmersh_vog_brown_belt: tmtm_b_rpsSmersh_vog_olive_belt
+	{
+		author="erem2k";
+		scope=2;
+		arsenalScope=2;
+
+		displayName="RS Smersh (Brown/VOG)";
+		picture = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_RussiaModern\Vest\data\UI\icon_V_O_RUS_RPS_Smersh_VOG_Brown_ca.paa";
+
+		hiddenSelectionsTextures[] = {
+			"",
+			"",
+			"CUP\Creatures\People\Military\CUP_Creatures_People_Military_RussiaModern\Vest\RPS_Smersh\Data\Suharka_MED_VOG_k_CO.paa",
+			"CUP\Creatures\People\Military\CUP_Creatures_People_Military_RussiaModern\Vest\RPS_Smersh\Data\AK_k_CO.paa"
+		};
+		
+		maximumLoad=150;
+		mass=27;
+	};
+	class tmtm_b_rpsSmersh_vogSPP_brown_belt: tmtm_b_rpsSmersh_vogSPP_olive_belt
+	{
+		author="erem2k";
+		scope=2;
+		arsenalScope=2;
+
+		displayName="RS Smersh (Brown/SPP/VOG)";
+		picture = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_RussiaModern\Vest\data\UI\icon_V_O_RUS_RPS_Smersh_VOG_SPP_Brown_ca.paa";
+
+		hiddenSelectionsTextures[] = {
+			"",
+			"",
+			"CUP\Creatures\People\Military\CUP_Creatures_People_Military_RussiaModern\Vest\RPS_Smersh\Data\Suharka_MED_VOG_k_CO.paa",
+			"CUP\Creatures\People\Military\CUP_Creatures_People_Military_RussiaModern\Vest\RPS_Smersh\Data\AK_k_CO.paa"
+		};
+		maximumLoad=160;
+		mass=30;
+	};
+	class tmtm_b_rpsSmersh_pkp_brown_belt: tmtm_b_rpsSmersh_pkp_olive_belt
+	{
+		author="erem2k";
+		scope=2;
+		arsenalScope=2;
+
+		displayName="RS Smersh (Brown/PKP)";
+		picture = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_RussiaModern\Vest\data\UI\icon_V_O_RUS_RPS_Smersh_PKP_Brown_ca.paa";
+
+		hiddenSelectionsTextures[] = {
+			"",
+			"",
+			"CUP\Creatures\People\Military\CUP_Creatures_People_Military_RussiaModern\Vest\RPS_Smersh\Data\Suharka_MED_VOG_k_CO.paa",
+			"CUP\Creatures\People\Military\CUP_Creatures_People_Military_RussiaModern\Vest\RPS_Smersh\Data\PKP_k_CO.paa"
+		};
+		maximumLoad=150;
+		mass=27;
+	};
+	class tmtm_b_rpsSmersh_pkpLight_brown_belt: tmtm_b_rpsSmersh_pkpLight_olive_belt
+	{
+		author="erem2k";
+		scope=2;
+		arsenalScope=2;
+
+		displayName="RS Smersh (Brown/PKP Light)";
+		picture = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_RussiaModern\Vest\data\UI\icon_V_O_RUS_RPS_Smersh_PKP_Light_Brown_ca.paa";
+
+		hiddenSelectionsTextures[] = {
+			"",
+			"",
+			"CUP\Creatures\People\Military\CUP_Creatures_People_Military_RussiaModern\Vest\RPS_Smersh\Data\Suharka_MED_VOG_k_CO.paa",
+			"CUP\Creatures\People\Military\CUP_Creatures_People_Military_RussiaModern\Vest\RPS_Smersh\Data\PKP_k_CO.paa"
+		};
+		
+		maximumLoad=140;
+		mass=25;
+	};
+	class tmtm_b_rpsSmersh_pkpSPP_brown_belt: tmtm_b_rpsSmersh_pkpSPP_olive_belt
+	{
+		author="erem2k";
+		scope=2;
+		arsenalScope=2;
+
+		displayName="RS Smersh (Brown/SPP/PKP)";
+		picture = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_RussiaModern\Vest\data\UI\icon_V_O_RUS_RPS_Smersh_PKP_SPP_Brown_ca.paa";
+
+		hiddenSelectionsTextures[] = {
+			"",
+			"",
+			"CUP\Creatures\People\Military\CUP_Creatures_People_Military_RussiaModern\Vest\RPS_Smersh\Data\Suharka_MED_VOG_k_CO.paa",
+			"CUP\Creatures\People\Military\CUP_Creatures_People_Military_RussiaModern\Vest\RPS_Smersh\Data\PKP_k_CO.paa"
+		};
+		
+		maximumLoad=170;
+		mass=30;
+	};
+	class tmtm_b_rpsSmersh_svd_brown_belt: tmtm_b_rpsSmersh_svd_olive_belt
+	{
+		author="erem2k";
+		scope=2;
+		arsenalScope=2;
+
+		displayName="RS Smersh (Brown/SVD)";
+		picture = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_RussiaModern\Vest\data\UI\icon_V_O_RUS_RPS_Smersh_SVD_Brown_ca.paa";
+
+		hiddenSelectionsTextures[] = {
+			"",
+			"",
+			"CUP\Creatures\People\Military\CUP_Creatures_People_Military_RussiaModern\Vest\RPS_Smersh\Data\Suharka_MED_VOG_k_CO.paa",
+			"CUP\Creatures\People\Military\CUP_Creatures_People_Military_RussiaModern\Vest\RPS_Smersh\Data\SVD_k_CO.paa"
+		};
+		
+		maximumLoad=120;
+		mass=21;
+	};
+
 	// RD-54 (Civilian Assault Pack)
 	class tmtm_b_rd54_green: Bag_Base
 	{
