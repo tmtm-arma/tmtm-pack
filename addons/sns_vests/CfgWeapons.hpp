@@ -1,19 +1,21 @@
 class CfgWeapons
 {
-    class V_Simc_vest_pasgt;
-    class V_Simc_vest_pasgt_sluit;
+	class VestItem;
+	class Vest_Camo_Base;
 
-    class tmtm_v_pasgt_base: V_Simc_vest_pasgt
-    {
+	class tmtm_v_pasgt_base: Vest_Camo_Base
+	{
         scope=0;
         scopeArsenal=0;
+
+		model="\simc_uaf_81\suitpack_pasgt.p3d";
 
 		hiddenSelections[]= {
 			"camo",
 			"ifak"
 		};
 
-		class ItemInfo: ItemInfo
+		class ItemInfo: VestItem
 		{
 			uniformModel="\simc_uaf_81\vest_pasgt.p3d";
 			hiddenSelections[]= {
@@ -21,10 +23,43 @@ class CfgWeapons
 				"ifak"
 			};
 
+			hiddenSelectionsTextures[]= {
+				"",
+				""
+			};
+
 			containerClass="Supply40";
 			mass=70;
+
+			class HitpointsProtectionInfo
+			{
+				class Chest
+				{
+					hitpointName="HitChest";
+					armor=12;
+					passThrough=0.5;
+				};
+				class Diaphragm
+				{
+					hitpointName="HitDiaphragm";
+					armor=12;
+					passThrough=0.5;
+				};
+				class Abdomen
+				{
+					hitpointName="HitAbdomen";
+					armor=12;
+					passThrough=0.5;
+				};
+				class Body
+				{
+					hitpointName="HitBody";
+					passThrough=0.5;
+				};
+			};
 		};
-    };
+	};
+
     class tmtm_v_pasgt_alt_base: tmtm_v_pasgt_base
     {
         scope=0;
@@ -90,7 +125,7 @@ class CfgWeapons
         
         author="089, erem2k";
 
-		displayname="CPD PASGT (Ameba, Extra Pockets)";
+		displayName="CPD PASGT (Ameba, Extra Pockets)";
 		picture="\simc_uaf_81_preview\icons\vest_pasgt_od3_ca.paa";
 
 		hiddenSelectionsTextures[]= {
@@ -105,7 +140,7 @@ class CfgWeapons
         
         author="089, erem2k";
 
-		displayname="CPD PASGT (Black)";
+		displayName="CPD PASGT (Black)";
 		picture="\simc_uaf_81_preview\icons\vest_pasgt_od3_ca.paa";
 
 		hiddenSelectionsTextures[]= {
@@ -120,7 +155,7 @@ class CfgWeapons
         
         author="089, erem2k";
 
-		displayname="CPD PASGT (Black)";
+		displayName="CPD PASGT (Black)";
 		picture="\simc_uaf_81_preview\icons\vest_pasgt_od3_ca.paa";
 
 		hiddenSelectionsTextures[]= {
@@ -135,7 +170,7 @@ class CfgWeapons
         
         author="089, erem2k";
 
-		displayname="CPD PASGT (Black, Extra Pockets)";
+		displayName="CPD PASGT (Black, Extra Pockets)";
 		picture="\simc_uaf_81_preview\icons\vest_pasgt_od3_ca.paa";
 
 		hiddenSelectionsTextures[]= {
@@ -150,7 +185,7 @@ class CfgWeapons
         
         author="089, erem2k";
 
-		displayname="CPD PASGT (Dubok Gray)";
+		displayName="CPD PASGT (Dubok Gray)";
 		picture="\simc_uaf_81_preview\icons\vest_pasgt_od3_ca.paa";
 
 		hiddenSelectionsTextures[]= {
@@ -165,7 +200,7 @@ class CfgWeapons
         
         author="089, erem2k";
 
-		displayname="CPD PASGT (Dubok Gray)";
+		displayName="CPD PASGT (Dubok Gray)";
 		picture="\simc_uaf_81_preview\icons\vest_pasgt_od3_ca.paa";
 
 		hiddenSelectionsTextures[]= {
@@ -180,7 +215,7 @@ class CfgWeapons
         
         author="089, erem2k";
 
-		displayname="CPD PASGT (Dubok Gray, Extra Pockets)";
+		displayName="CPD PASGT (Dubok Gray, Extra Pockets)";
 		picture="\simc_uaf_81_preview\icons\vest_pasgt_od3_ca.paa";
 
 		hiddenSelectionsTextures[]= {
@@ -195,7 +230,7 @@ class CfgWeapons
         
         author="089, erem2k";
 
-		displayname="CPD PASGT (Olive)";
+		displayName="CPD PASGT (Olive)";
 		picture="\simc_uaf_81_preview\icons\vest_pasgt_od3_ca.paa";
 
 		hiddenSelectionsTextures[]= {
@@ -210,7 +245,7 @@ class CfgWeapons
         
         author="089, erem2k";
 
-		displayname="CPD PASGT (Olive)";
+		displayName="CPD PASGT (Olive)";
 		picture="\simc_uaf_81_preview\icons\vest_pasgt_od3_ca.paa";
 
 		hiddenSelectionsTextures[]= {
@@ -225,7 +260,7 @@ class CfgWeapons
         
         author="089, erem2k";
 
-		displayname="CPD PASGT (Olive, Extra Pockets)";
+		displayName="CPD PASGT (Olive, Extra Pockets)";
 		picture="\simc_uaf_81_preview\icons\vest_pasgt_od3_ca.paa";
 
 		hiddenSelectionsTextures[]= {
