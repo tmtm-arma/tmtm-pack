@@ -262,7 +262,7 @@ class cfgGlasses
 		author="erem2k";
 
 		displayName="Balaclava, Slit (Brown)";
-		picture="\tmtm\pack\cup_facewear\data\ui\icon_tmtm_f_balaclava_slit_brown_ca.paa";
+		picture="\tmtm\pack\cup_facewear\data\ui\icon_tmtm_f_balaclava_slit_loose_brown_ca.paa";
 
 		hiddenSelectionsTextures[] = {
 			"\tmtm\pack\cup_facewear\data\tmtm_balaclava_slit_brown_co.paa"
