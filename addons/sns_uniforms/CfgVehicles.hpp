@@ -128,7 +128,7 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="Battledress Uniform, Black";
+		displayName="BDU, Black";
 		picture="";
 
 		uniformClass="TODO";
@@ -148,7 +148,7 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="Battledress Uniform, Black (Rolled)";
+		displayName="BDU, Black (Rolled)";
 		picture="";
 
 		uniformClass="TODO";
@@ -168,7 +168,7 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="Battledress Uniform, Black (Rolled, High)";
+		displayName="BDU, Black (Rolled, High)";
 		picture="";
 
 		uniformClass="TODO";
@@ -188,7 +188,7 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="Battledress Uniform, Black (Rolled, High)";
+		displayName="BDU, Black (Rolled, High)";
 		picture="";
 
 		uniformClass="TODO";
@@ -208,7 +208,7 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="Battledress Uniform, Black (Kneepads)";
+		displayName="BDU, Black (Kneepads)";
 		picture="";
 
 		uniformClass="TODO";
@@ -228,7 +228,7 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="Battledress Uniform, Black (Kneepads, Rolled)";
+		displayName="BDU, Black (Kneepads, Rolled)";
 		picture="";
 
 		uniformClass="TODO";
@@ -249,7 +249,7 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="Battledress Uniform, Dubok Blue";
+		displayName="BDU, Dubok Blue";
 		picture="";
 
 		uniformClass="TODO";
@@ -269,7 +269,7 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="Battledress Uniform, Dubok Blue (Rolled)";
+		displayName="BDU, Dubok Blue (Rolled)";
 		picture="";
 
 		uniformClass="TODO";
@@ -289,7 +289,7 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="Battledress Uniform, Dubok Blue (Rolled, High)";
+		displayName="BDU, Dubok Blue (Rolled, High)";
 		picture="";
 
 		uniformClass="TODO";
@@ -309,7 +309,7 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="Battledress Uniform, Dubok Blue (Rolled, High)";
+		displayName="BDU, Dubok Blue (Rolled, High)";
 		picture="";
 
 		uniformClass="TODO";
@@ -329,7 +329,7 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="Battledress Uniform, Dubok Blue (Kneepads)";
+		displayName="BDU, Dubok Blue (Kneepads)";
 		picture="";
 
 		uniformClass="TODO";
@@ -349,7 +349,7 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="Battledress Uniform, Dubok Blue (Kneepads, Rolled)";
+		displayName="BDU, Dubok Blue (Kneepads, Rolled)";
 		picture="";
 
 		uniformClass="TODO";
@@ -370,7 +370,7 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="Battledress Uniform, Dubok Blue/Teal";
+		displayName="BDU, Dubok Blue/Teal";
 		picture="";
 
 		uniformClass="TODO";
@@ -389,7 +389,7 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="Battledress Uniform, Dubok Blue/Teal (Rolled)";
+		displayName="BDU, Dubok Blue/Teal (Rolled)";
 		picture="";
 
 		uniformClass="TODO";
@@ -409,7 +409,7 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="Battledress Uniform, Dubok Blue/Teal (Rolled, High)";
+		displayName="BDU, Dubok Blue/Teal (Rolled, High)";
 		picture="";
 
 		uniformClass="TODO";
@@ -429,7 +429,7 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="Battledress Uniform, Dubok Blue/Teal (Rolled, High)";
+		displayName="BDU, Dubok Blue/Teal (Rolled, High)";
 		picture="";
 
 		uniformClass="TODO";
@@ -449,7 +449,7 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="Battledress Uniform, Dubok Blue/Teal (Kneepads)";
+		displayName="BDU, Dubok Blue/Teal (Kneepads)";
 		picture="";
 
 		uniformClass="TODO";
@@ -469,7 +469,7 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="Battledress Uniform, Dubok Blue/Teal (Kneepads, Rolled)";
+		displayName="BDU, Dubok Blue/Teal (Kneepads, Rolled)";
 		picture="";
 
 		uniformClass="TODO";
@@ -490,7 +490,7 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="Battledress Uniform, Dubok Gray";
+		displayName="BDU, Dubok Gray";
 		picture="";
 
 		uniformClass="TODO";
@@ -510,7 +510,7 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="Battledress Uniform, Dubok Gray (Rolled)";
+		displayName="BDU, Dubok Gray (Rolled)";
 		picture="";
 
 		uniformClass="TODO";
@@ -530,7 +530,7 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="Battledress Uniform, Dubok Gray (Rolled, High)";
+		displayName="BDU, Dubok Gray (Rolled, High)";
 		picture="";
 
 		uniformClass="TODO";
@@ -550,7 +550,7 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="Battledress Uniform, Dubok Gray (Rolled, High)";
+		displayName="BDU, Dubok Gray (Rolled, High)";
 		picture="";
 
 		uniformClass="TODO";
@@ -570,7 +570,7 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="Battledress Uniform, Dubok Gray (Kneepads)";
+		displayName="BDU, Dubok Gray (Kneepads)";
 		picture="";
 
 		uniformClass="TODO";
@@ -590,7 +590,7 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="Battledress Uniform, Dubok Gray (Kneepads, Rolled)";
+		displayName="BDU, Dubok Gray (Kneepads, Rolled)";
 		picture="";
 
 		uniformClass="TODO";
@@ -611,7 +611,7 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="Battledress Uniform, Dubok Gray/Pale";
+		displayName="BDU, Dubok Gray/Pale";
 		picture="";
 
 		uniformClass="TODO";
@@ -631,7 +631,7 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="Battledress Uniform, Dubok Gray/Pale (Rolled)";
+		displayName="BDU, Dubok Gray/Pale (Rolled)";
 		picture="";
 
 		uniformClass="TODO";
@@ -651,7 +651,7 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="Battledress Uniform, Dubok Gray/Pale (Rolled, High)";
+		displayName="BDU, Dubok Gray/Pale (Rolled, High)";
 		picture="";
 
 		uniformClass="TODO";
@@ -671,7 +671,7 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="Battledress Uniform, Dubok Gray/Pale (Rolled, High)";
+		displayName="BDU, Dubok Gray/Pale (Rolled, High)";
 		picture="";
 
 		uniformClass="TODO";
@@ -691,7 +691,7 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="Battledress Uniform, Dubok Gray/Pale (Kneepads)";
+		displayName="BDU, Dubok Gray/Pale (Kneepads)";
 		picture="";
 
 		uniformClass="TODO";
@@ -711,7 +711,7 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="Battledress Uniform, Dubok Gray/Pale (Kneepads, Rolled)";
+		displayName="BDU, Dubok Gray/Pale (Kneepads, Rolled)";
 		picture="";
 
 		uniformClass="TODO";
@@ -732,7 +732,7 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="Battledress Uniform, Dubok Gray/Black";
+		displayName="BDU, Dubok Gray/Black";
 		picture="";
 
 		uniformClass="TODO";
@@ -752,7 +752,7 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="Battledress Uniform, Dubok Gray/Black (Rolled)";
+		displayName="BDU, Dubok Gray/Black (Rolled)";
 		picture="";
 
 		uniformClass="TODO";
@@ -772,7 +772,7 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="Battledress Uniform, Dubok Gray/Black (Rolled, High)";
+		displayName="BDU, Dubok Gray/Black (Rolled, High)";
 		picture="";
 
 		uniformClass="TODO";
@@ -792,7 +792,7 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="Battledress Uniform, Dubok Gray/Black (Rolled, High)";
+		displayName="BDU, Dubok Gray/Black (Rolled, High)";
 		picture="";
 
 		uniformClass="TODO";
@@ -812,7 +812,7 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="Battledress Uniform, Dubok Gray/Black (Kneepads)";
+		displayName="BDU, Dubok Gray/Black (Kneepads)";
 		picture="";
 
 		uniformClass="TODO";
@@ -832,7 +832,7 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="Battledress Uniform, Dubok Gray/Black (Kneepads, Rolled)";
+		displayName="BDU, Dubok Gray/Black (Kneepads, Rolled)";
 		picture="";
 
 		uniformClass="TODO";
@@ -853,7 +853,7 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="Battledress Uniform, Dubok Pale";
+		displayName="BDU, Dubok Pale";
 		picture="";
 
 		uniformClass="TODO";
@@ -873,7 +873,7 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="Battledress Uniform, Dubok Pale (Rolled)";
+		displayName="BDU, Dubok Pale (Rolled)";
 		picture="";
 
 		uniformClass="TODO";
@@ -893,7 +893,7 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="Battledress Uniform, Dubok Pale (Rolled, High)";
+		displayName="BDU, Dubok Pale (Rolled, High)";
 		picture="";
 
 		uniformClass="TODO";
@@ -913,7 +913,7 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="Battledress Uniform, Dubok Pale (Rolled, High)";
+		displayName="BDU, Dubok Pale (Rolled, High)";
 		picture="";
 
 		uniformClass="TODO";
@@ -933,7 +933,7 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="Battledress Uniform, Dubok Pale (Kneepads)";
+		displayName="BDU, Dubok Pale (Kneepads)";
 		picture="";
 
 		uniformClass="TODO";
@@ -953,7 +953,7 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="Battledress Uniform, Dubok Pale (Kneepads, Rolled)";
+		displayName="BDU, Dubok Pale (Kneepads, Rolled)";
 		picture="";
 
 		uniformClass="TODO";
@@ -974,7 +974,7 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="Battledress Uniform, Dubok Pale/Gray";
+		displayName="BDU, Dubok Pale/Gray";
 		picture="";
 
 		uniformClass="TODO";
@@ -994,7 +994,7 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="Battledress Uniform, Dubok Pale/Gray (Rolled)";
+		displayName="BDU, Dubok Pale/Gray (Rolled)";
 		picture="";
 
 		uniformClass="TODO";
@@ -1014,7 +1014,7 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="Battledress Uniform, Dubok Pale/Gray (Rolled, High)";
+		displayName="BDU, Dubok Pale/Gray (Rolled, High)";
 		picture="";
 
 		uniformClass="TODO";
@@ -1034,7 +1034,7 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="Battledress Uniform, Dubok Pale/Gray (Rolled, High)";
+		displayName="BDU, Dubok Pale/Gray (Rolled, High)";
 		picture="";
 
 		uniformClass="TODO";
@@ -1054,7 +1054,7 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="Battledress Uniform, Dubok Pale/Gray (Kneepads)";
+		displayName="BDU, Dubok Pale/Gray (Kneepads)";
 		picture="";
 
 		uniformClass="TODO";
@@ -1074,7 +1074,7 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="Battledress Uniform, Dubok Pale/Gray (Kneepads, Rolled)";
+		displayName="BDU, Dubok Pale/Gray (Kneepads, Rolled)";
 		picture="";
 
 		uniformClass="TODO";
@@ -1095,7 +1095,7 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="Battledress Uniform, Dubok Teal";
+		displayName="BDU, Dubok Teal";
 		picture="";
 
 		uniformClass="TODO";
@@ -1114,7 +1114,7 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="Battledress Uniform, Dubok Teal (Rolled)";
+		displayName="BDU, Dubok Teal (Rolled)";
 		picture="";
 
 		uniformClass="TODO";
@@ -1134,7 +1134,7 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="Battledress Uniform, Dubok Teal (Rolled, High)";
+		displayName="BDU, Dubok Teal (Rolled, High)";
 		picture="";
 
 		uniformClass="TODO";
@@ -1154,7 +1154,7 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="Battledress Uniform, Dubok Teal (Rolled, High)";
+		displayName="BDU, Dubok Teal (Rolled, High)";
 		picture="";
 
 		uniformClass="TODO";
@@ -1174,7 +1174,7 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="Battledress Uniform, Dubok Teal (Kneepads)";
+		displayName="BDU, Dubok Teal (Kneepads)";
 		picture="";
 
 		uniformClass="TODO";
@@ -1194,7 +1194,7 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="Battledress Uniform, Dubok Teal (Kneepads, Rolled)";
+		displayName="BDU, Dubok Teal (Kneepads, Rolled)";
 		picture="";
 
 		uniformClass="TODO";
@@ -1215,7 +1215,7 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="Battledress Uniform, Dubok Teal/Blue";
+		displayName="BDU, Dubok Teal/Blue";
 		picture="";
 
 		uniformClass="TODO";
@@ -1235,7 +1235,7 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="Battledress Uniform, Dubok Teal/Blue (Rolled)";
+		displayName="BDU, Dubok Teal/Blue (Rolled)";
 		picture="";
 
 		uniformClass="TODO";
@@ -1255,7 +1255,7 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="Battledress Uniform, Dubok Teal/Blue (Rolled, High)";
+		displayName="BDU, Dubok Teal/Blue (Rolled, High)";
 		picture="";
 
 		uniformClass="TODO";
@@ -1275,7 +1275,7 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="Battledress Uniform, Dubok Teal/Blue (Rolled, High)";
+		displayName="BDU, Dubok Teal/Blue (Rolled, High)";
 		picture="";
 
 		uniformClass="TODO";
@@ -1295,7 +1295,7 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="Battledress Uniform, Dubok Teal/Blue (Kneepads)";
+		displayName="BDU, Dubok Teal/Blue (Kneepads)";
 		picture="";
 
 		uniformClass="TODO";
@@ -1315,7 +1315,7 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="Battledress Uniform, Dubok Teal/Blue (Kneepads, Rolled)";
+		displayName="BDU, Dubok Teal/Blue (Kneepads, Rolled)";
 		picture="";
 
 		uniformClass="TODO";
