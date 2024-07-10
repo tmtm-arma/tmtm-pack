@@ -96,10 +96,10 @@ class CfgWeapons
         author="089, erem2k";
 
 		displayname="CPD PASGT (Ameba)";
-		picture="\simc_uaf_81_preview\icons\vest_pasgt_od3_ca.paa";
+		picture="\tmtm\pack\sns_vests\data\ui\icon_tmtm_v_pasgt_cpd_ameba_ca.paa";
 
 		hiddenSelectionsTextures[]= {
-			"\tmtm\pack\sns_vests\data\tmtm_pasgt_cpd_ameba_co.paa",
+			"\tmtm\pack\sns_vests\data\tmtm_v_pasgt_cpd_ameba_co.paa",
 			""
 		};
     };
@@ -111,10 +111,10 @@ class CfgWeapons
         author="089, erem2k";
 
 		displayname="CPD PASGT (Ameba)";
-		picture="\simc_uaf_81_preview\icons\vest_pasgt_od3_ca.paa";
+		picture="\tmtm\pack\sns_vests\data\ui\icon_tmtm_v_pasgt_cpd_ameba_ca.paa";
 
 		hiddenSelectionsTextures[]= {
-			"\tmtm\pack\sns_vests\data\tmtm_pasgt_cpd_ameba_co.paa",
+			"\tmtm\pack\sns_vests\data\tmtm_v_pasgt_cpd_ameba_co.paa",
 			""
 		};
     };
@@ -126,10 +126,10 @@ class CfgWeapons
         author="089, erem2k";
 
 		displayName="CPD PASGT (Ameba, Extra Pockets)";
-		picture="\simc_uaf_81_preview\icons\vest_pasgt_od3_ca.paa";
+		picture="\tmtm\pack\sns_vests\data\ui\icon_tmtm_v_pasgt_cpd_ameba_ca.paa";
 
 		hiddenSelectionsTextures[]= {
-			"\tmtm\pack\sns_vests\data\tmtm_pasgt_cpd_ameba_co.paa",
+			"\tmtm\pack\sns_vests\data\tmtm_v_pasgt_cpd_ameba_co.paa",
 			""
 		};
     };
@@ -141,10 +141,10 @@ class CfgWeapons
         author="089, erem2k";
 
 		displayName="CPD PASGT (Black)";
-		picture="\simc_uaf_81_preview\icons\vest_pasgt_od3_ca.paa";
+		picture="\tmtm\pack\sns_vests\data\ui\icon_tmtm_v_pasgt_cpd_black_ca.paa";
 
 		hiddenSelectionsTextures[]= {
-			"\tmtm\pack\sns_vests\data\tmtm_pasgt_cpd_black_co.paa",
+			"\tmtm\pack\sns_vests\data\tmtm_v_pasgt_cpd_black_co.paa",
 			""
 		};
     };
@@ -156,10 +156,10 @@ class CfgWeapons
         author="089, erem2k";
 
 		displayName="CPD PASGT (Black)";
-		picture="\simc_uaf_81_preview\icons\vest_pasgt_od3_ca.paa";
+		picture="\tmtm\pack\sns_vests\data\ui\icon_tmtm_v_pasgt_cpd_black_ca.paa";
 
 		hiddenSelectionsTextures[]= {
-			"\tmtm\pack\sns_vests\data\tmtm_pasgt_cpd_black_co.paa",
+			"\tmtm\pack\sns_vests\data\tmtm_v_pasgt_cpd_black_co.paa",
 			""
 		};
     };
@@ -171,10 +171,10 @@ class CfgWeapons
         author="089, erem2k";
 
 		displayName="CPD PASGT (Black, Extra Pockets)";
-		picture="\simc_uaf_81_preview\icons\vest_pasgt_od3_ca.paa";
+		picture="\tmtm\pack\sns_vests\data\ui\icon_tmtm_v_pasgt_cpd_black_ca.paa";
 
 		hiddenSelectionsTextures[]= {
-			"\tmtm\pack\sns_vests\data\tmtm_pasgt_cpd_black_co.paa",
+			"\tmtm\pack\sns_vests\data\tmtm_v_pasgt_cpd_black_co.paa",
 			""
 		};
     };
@@ -186,10 +186,10 @@ class CfgWeapons
         author="089, erem2k";
 
 		displayName="CPD PASGT (Dubok Gray)";
-		picture="\simc_uaf_81_preview\icons\vest_pasgt_od3_ca.paa";
+		picture="\tmtm\pack\sns_vests\data\ui\icon_tmtm_v_pasgt_cpd_dubokgb_co.paa";
 
 		hiddenSelectionsTextures[]= {
-			"\tmtm\pack\sns_vests\data\tmtm_pasgt_cpd_dubokgb_co.paa",
+			"\tmtm\pack\sns_vests\data\tmtm_v_pasgt_cpd_dubokgb_co.paa",
 			""
 		};
     };
@@ -201,10 +201,10 @@ class CfgWeapons
         author="089, erem2k";
 
 		displayName="CPD PASGT (Dubok Gray)";
-		picture="\simc_uaf_81_preview\icons\vest_pasgt_od3_ca.paa";
+		picture="\tmtm\pack\sns_vests\data\ui\icon_tmtm_v_pasgt_cpd_dubokgb_co.paa";
 
 		hiddenSelectionsTextures[]= {
-			"\tmtm\pack\sns_vests\data\tmtm_pasgt_cpd_dubokgb_co.paa",
+			"\tmtm\pack\sns_vests\data\tmtm_v_pasgt_cpd_dubokgb_co.paa",
 			""
 		};
     };
@@ -216,10 +216,10 @@ class CfgWeapons
         author="089, erem2k";
 
 		displayName="CPD PASGT (Dubok Gray, Extra Pockets)";
-		picture="\simc_uaf_81_preview\icons\vest_pasgt_od3_ca.paa";
+		picture="\tmtm\pack\sns_vests\data\ui\icon_tmtm_v_pasgt_cpd_dubokgb_co.paa";
 
 		hiddenSelectionsTextures[]= {
-			"\tmtm\pack\sns_vests\data\tmtm_pasgt_cpd_dubokgb_co.paa",
+			"\tmtm\pack\sns_vests\data\tmtm_v_pasgt_cpd_dubokgb_co.paa",
 			""
 		};
     };
@@ -231,10 +231,10 @@ class CfgWeapons
         author="089, erem2k";
 
 		displayName="CPD PASGT (Olive)";
-		picture="\simc_uaf_81_preview\icons\vest_pasgt_od3_ca.paa";
+		picture="\tmtm\pack\sns_vests\data\ui\icon_tmtm_v_pasgt_cpd_olive_co.paa";
 
 		hiddenSelectionsTextures[]= {
-			"\tmtm\pack\sns_vests\data\tmtm_pasgt_cpd_olive_co.paa",
+			"\tmtm\pack\sns_vests\data\tmtm_v_pasgt_cpd_olive_co.paa",
 			""
 		};
     };
@@ -246,10 +246,10 @@ class CfgWeapons
         author="089, erem2k";
 
 		displayName="CPD PASGT (Olive)";
-		picture="\simc_uaf_81_preview\icons\vest_pasgt_od3_ca.paa";
+		picture="\tmtm\pack\sns_vests\data\ui\icon_tmtm_v_pasgt_cpd_olive_co.paa";
 
 		hiddenSelectionsTextures[]= {
-			"\tmtm\pack\sns_vests\data\tmtm_pasgt_cpd_olive_co.paa",
+			"\tmtm\pack\sns_vests\data\tmtm_v_pasgt_cpd_olive_co.paa",
 			""
 		};
     };
@@ -261,10 +261,10 @@ class CfgWeapons
         author="089, erem2k";
 
 		displayName="CPD PASGT (Olive, Extra Pockets)";
-		picture="\simc_uaf_81_preview\icons\vest_pasgt_od3_ca.paa";
+		picture="\tmtm\pack\sns_vests\data\ui\icon_tmtm_v_pasgt_cpd_olive_co.paa";
 
 		hiddenSelectionsTextures[]= {
-			"\tmtm\pack\sns_vests\data\tmtm_pasgt_cpd_olive_co.paa",
+			"\tmtm\pack\sns_vests\data\tmtm_v_pasgt_cpd_olive_co.paa",
 			""
 		};
     };
