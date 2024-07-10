@@ -186,7 +186,7 @@ class CfgWeapons
         author="089, erem2k";
 
 		displayName="CPD PASGT (Dubok Gray)";
-		picture="\tmtm\pack\sns_vests\data\ui\icon_tmtm_v_pasgt_cpd_dubokgb_co.paa";
+		picture="\tmtm\pack\sns_vests\data\ui\icon_tmtm_v_pasgt_cpd_dubokgb_ca.paa";
 
 		hiddenSelectionsTextures[]= {
 			"\tmtm\pack\sns_vests\data\tmtm_v_pasgt_cpd_dubokgb_co.paa",
@@ -201,7 +201,7 @@ class CfgWeapons
         author="089, erem2k";
 
 		displayName="CPD PASGT (Dubok Gray)";
-		picture="\tmtm\pack\sns_vests\data\ui\icon_tmtm_v_pasgt_cpd_dubokgb_co.paa";
+		picture="\tmtm\pack\sns_vests\data\ui\icon_tmtm_v_pasgt_cpd_dubokgb_ca.paa";
 
 		hiddenSelectionsTextures[]= {
 			"\tmtm\pack\sns_vests\data\tmtm_v_pasgt_cpd_dubokgb_co.paa",
@@ -216,7 +216,7 @@ class CfgWeapons
         author="089, erem2k";
 
 		displayName="CPD PASGT (Dubok Gray, Extra Pockets)";
-		picture="\tmtm\pack\sns_vests\data\ui\icon_tmtm_v_pasgt_cpd_dubokgb_co.paa";
+		picture="\tmtm\pack\sns_vests\data\ui\icon_tmtm_v_pasgt_cpd_dubokgb_ca.paa";
 
 		hiddenSelectionsTextures[]= {
 			"\tmtm\pack\sns_vests\data\tmtm_v_pasgt_cpd_dubokgb_co.paa",
@@ -231,7 +231,7 @@ class CfgWeapons
         author="089, erem2k";
 
 		displayName="CPD PASGT (Olive)";
-		picture="\tmtm\pack\sns_vests\data\ui\icon_tmtm_v_pasgt_cpd_olive_co.paa";
+		picture="\tmtm\pack\sns_vests\data\ui\icon_tmtm_v_pasgt_cpd_olive_ca.paa";
 
 		hiddenSelectionsTextures[]= {
 			"\tmtm\pack\sns_vests\data\tmtm_v_pasgt_cpd_olive_co.paa",
@@ -246,7 +246,7 @@ class CfgWeapons
         author="089, erem2k";
 
 		displayName="CPD PASGT (Olive)";
-		picture="\tmtm\pack\sns_vests\data\ui\icon_tmtm_v_pasgt_cpd_olive_co.paa";
+		picture="\tmtm\pack\sns_vests\data\ui\icon_tmtm_v_pasgt_cpd_olive_ca.paa";
 
 		hiddenSelectionsTextures[]= {
 			"\tmtm\pack\sns_vests\data\tmtm_v_pasgt_cpd_olive_co.paa",
@@ -261,7 +261,7 @@ class CfgWeapons
         author="089, erem2k";
 
 		displayName="CPD PASGT (Olive, Extra Pockets)";
-		picture="\tmtm\pack\sns_vests\data\ui\icon_tmtm_v_pasgt_cpd_olive_co.paa";
+		picture="\tmtm\pack\sns_vests\data\ui\icon_tmtm_v_pasgt_cpd_olive_ca.paa";
 
 		hiddenSelectionsTextures[]= {
 			"\tmtm\pack\sns_vests\data\tmtm_v_pasgt_cpd_olive_co.paa",

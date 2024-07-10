@@ -505,7 +505,7 @@ class CfgWeapons
 		};
 	};
 
-	// # Dubok Gray/Black
+	// # Dubok Gray-Black
 	class tmtm_u_bdu_dubokgb_mix_b: tmtm_u_bdu_base
 	{
 		scope=2;
@@ -513,7 +513,7 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="BDU, Dubok Gray/Black";
+		displayName="BDU, Dubok Gray-Black";
 		descriptionShort="Uniform, Battledress, dubokgb_mix_b";
 		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokgb_mix_b_ca.paa";
 
@@ -533,7 +533,7 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="BDU, Dubok Gray/Black (Rolled)";
+		displayName="BDU, Dubok Gray-Black (Rolled)";
 
 		class ItemInfo: ItemInfo
 		{
@@ -548,7 +548,7 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="BDU, Dubok Gray/Black (Rolled, High)";
+		displayName="BDU, Dubok Gray-Black (Rolled, High)";
 
 		class ItemInfo: ItemInfo
 		{
@@ -563,7 +563,7 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="BDU, Dubok Gray/Black (Rolled, High)";
+		displayName="BDU, Dubok Gray-Black (Rolled, High)";
 
 		class ItemInfo: ItemInfo
 		{
@@ -578,7 +578,7 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="BDU, Dubok Gray/Black (Kneepads)";
+		displayName="BDU, Dubok Gray-Black (Kneepads)";
 
 		class ItemInfo: ItemInfo
 		{
@@ -593,7 +593,7 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="BDU, Dubok Gray/Black (Kneepads, Rolled)";
+		displayName="BDU, Dubok Gray-Black (Kneepads, Rolled)";
 
 		class ItemInfo: ItemInfo
 		{
