@@ -33,7 +33,7 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="Battledress Uniform, Black";
+		displayName="BDU, Black";
 		descriptionShort="Uniform, Battledress, Black";
 		picture="TODOPREVIEW";
 
@@ -53,7 +53,7 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="Battledress Uniform, Black (Rolled)";
+		displayName="BDU, Black (Rolled)";
 
 		class ItemInfo: ItemInfo
 		{
@@ -68,7 +68,7 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="Battledress Uniform, Black (Rolled, High)";
+		displayName="BDU, Black (Rolled, High)";
 
 		class ItemInfo: ItemInfo
 		{
@@ -83,7 +83,7 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="Battledress Uniform, Black (Rolled, High)";
+		displayName="BDU, Black (Rolled, High)";
 
 		class ItemInfo: ItemInfo
 		{
@@ -98,7 +98,7 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="Battledress Uniform, Black (Kneepads)";
+		displayName="BDU, Black (Kneepads)";
 
 		class ItemInfo: ItemInfo
 		{
@@ -113,7 +113,7 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="Battledress Uniform, Black (Kneepads, Rolled)";
+		displayName="BDU, Black (Kneepads, Rolled)";
 
 		class ItemInfo: ItemInfo
 		{
@@ -129,7 +129,7 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="Battledress Uniform, Dubok Blue";
+		displayName="BDU, Dubok Blue";
 		descriptionShort="Uniform, Battledress, Dubok Blue";
 		picture="TODOPREVIEW";
 
@@ -149,7 +149,7 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="Battledress Uniform, Dubok Blue (Rolled)";
+		displayName="BDU, Dubok Blue (Rolled)";
 
 		class ItemInfo: ItemInfo
 		{
@@ -164,7 +164,7 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="Battledress Uniform, Dubok Blue (Rolled, High)";
+		displayName="BDU, Dubok Blue (Rolled, High)";
 
 		class ItemInfo: ItemInfo
 		{
@@ -179,7 +179,7 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="Battledress Uniform, Dubok Blue (Rolled, High)";
+		displayName="BDU, Dubok Blue (Rolled, High)";
 
 		class ItemInfo: ItemInfo
 		{
@@ -194,7 +194,7 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="Battledress Uniform, Dubok Blue (Kneepads)";
+		displayName="BDU, Dubok Blue (Kneepads)";
 
 		class ItemInfo: ItemInfo
 		{
@@ -209,7 +209,7 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="Battledress Uniform, Dubok Blue (Kneepads, Rolled)";
+		displayName="BDU, Dubok Blue (Kneepads, Rolled)";
 
 		class ItemInfo: ItemInfo
 		{
@@ -225,7 +225,7 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="Battledress Uniform, Dubok Blue/Teal";
+		displayName="BDU, Dubok Blue/Teal";
 		descriptionShort="Uniform, Battledress, Dubok Blue/Teal";
 		picture="TODOPREVIEW";
 
@@ -245,7 +245,7 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="Battledress Uniform, Dubok Blue/Teal (Rolled)";
+		displayName="BDU, Dubok Blue/Teal (Rolled)";
 
 		class ItemInfo: ItemInfo
 		{
@@ -260,7 +260,7 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="Battledress Uniform, Dubok Blue/Teal (Rolled, High)";
+		displayName="BDU, Dubok Blue/Teal (Rolled, High)";
 
 		class ItemInfo: ItemInfo
 		{
@@ -275,7 +275,7 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="Battledress Uniform, Dubok Blue/Teal (Rolled, High)";
+		displayName="BDU, Dubok Blue/Teal (Rolled, High)";
 
 		class ItemInfo: ItemInfo
 		{
@@ -290,7 +290,7 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="Battledress Uniform, Dubok Blue/Teal (Kneepads)";
+		displayName="BDU, Dubok Blue/Teal (Kneepads)";
 
 		class ItemInfo: ItemInfo
 		{
@@ -305,7 +305,7 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="Battledress Uniform, Dubok Blue/Teal (Kneepads, Rolled)";
+		displayName="BDU, Dubok Blue/Teal (Kneepads, Rolled)";
 
 		class ItemInfo: ItemInfo
 		{
@@ -321,7 +321,7 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="Battledress Uniform, Dubok Gray";
+		displayName="BDU, Dubok Gray";
 		descriptionShort="Uniform, Battledress, Dubok Gray";
 		picture="TODOPREVIEW";
 
@@ -341,7 +341,7 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="Battledress Uniform, Dubok Gray (Rolled)";
+		displayName="BDU, Dubok Gray (Rolled)";
 
 		class ItemInfo: ItemInfo
 		{
@@ -356,7 +356,7 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="Battledress Uniform, Dubok Gray (Rolled, High)";
+		displayName="BDU, Dubok Gray (Rolled, High)";
 
 		class ItemInfo: ItemInfo
 		{
@@ -371,7 +371,7 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="Battledress Uniform, Dubok Gray (Rolled, High)";
+		displayName="BDU, Dubok Gray (Rolled, High)";
 
 		class ItemInfo: ItemInfo
 		{
@@ -386,7 +386,7 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="Battledress Uniform, Dubok Gray (Kneepads)";
+		displayName="BDU, Dubok Gray (Kneepads)";
 
 		class ItemInfo: ItemInfo
 		{
@@ -401,7 +401,7 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="Battledress Uniform, Dubok Gray (Kneepads, Rolled)";
+		displayName="BDU, Dubok Gray (Kneepads, Rolled)";
 
 		class ItemInfo: ItemInfo
 		{
@@ -417,7 +417,7 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="Battledress Uniform, Dubok Gray/Pale";
+		displayName="BDU, Dubok Gray/Pale";
 		descriptionShort="Uniform, Battledress, Dubok Gray/Pale";
 		picture="TODOPREVIEW";
 
@@ -437,7 +437,7 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="Battledress Uniform, Dubok Gray/Pale (Rolled)";
+		displayName="BDU, Dubok Gray/Pale (Rolled)";
 
 		class ItemInfo: ItemInfo
 		{
@@ -452,7 +452,7 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="Battledress Uniform, Dubok Gray/Pale (Rolled, High)";
+		displayName="BDU, Dubok Gray/Pale (Rolled, High)";
 
 		class ItemInfo: ItemInfo
 		{
@@ -467,7 +467,7 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="Battledress Uniform, Dubok Gray/Pale (Rolled, High)";
+		displayName="BDU, Dubok Gray/Pale (Rolled, High)";
 
 		class ItemInfo: ItemInfo
 		{
@@ -482,7 +482,7 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="Battledress Uniform, Dubok Gray/Pale (Kneepads)";
+		displayName="BDU, Dubok Gray/Pale (Kneepads)";
 
 		class ItemInfo: ItemInfo
 		{
@@ -497,7 +497,7 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="Battledress Uniform, Dubok Gray/Pale (Kneepads, Rolled)";
+		displayName="BDU, Dubok Gray/Pale (Kneepads, Rolled)";
 
 		class ItemInfo: ItemInfo
 		{
@@ -513,7 +513,7 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="Battledress Uniform, Dubok Gray/Black";
+		displayName="BDU, Dubok Gray/Black";
 		descriptionShort="Uniform, Battledress, dubokgb_mix_b";
 		picture="TODOPREVIEW";
 
@@ -533,7 +533,7 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="Battledress Uniform, Dubok Gray/Black (Rolled)";
+		displayName="BDU, Dubok Gray/Black (Rolled)";
 
 		class ItemInfo: ItemInfo
 		{
@@ -548,7 +548,7 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="Battledress Uniform, Dubok Gray/Black (Rolled, High)";
+		displayName="BDU, Dubok Gray/Black (Rolled, High)";
 
 		class ItemInfo: ItemInfo
 		{
@@ -563,7 +563,7 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="Battledress Uniform, Dubok Gray/Black (Rolled, High)";
+		displayName="BDU, Dubok Gray/Black (Rolled, High)";
 
 		class ItemInfo: ItemInfo
 		{
@@ -578,7 +578,7 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="Battledress Uniform, Dubok Gray/Black (Kneepads)";
+		displayName="BDU, Dubok Gray/Black (Kneepads)";
 
 		class ItemInfo: ItemInfo
 		{
@@ -593,7 +593,7 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="Battledress Uniform, Dubok Gray/Black (Kneepads, Rolled)";
+		displayName="BDU, Dubok Gray/Black (Kneepads, Rolled)";
 
 		class ItemInfo: ItemInfo
 		{
@@ -609,7 +609,7 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="Battledress Uniform, Dubok Pale";
+		displayName="BDU, Dubok Pale";
 		descriptionShort="Uniform, Battledress, Dubok Pale";
 		picture="TODOPREVIEW";
 
@@ -629,7 +629,7 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="Battledress Uniform, Dubok Pale (Rolled)";
+		displayName="BDU, Dubok Pale (Rolled)";
 
 		class ItemInfo: ItemInfo
 		{
@@ -644,7 +644,7 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="Battledress Uniform, Dubok Pale (Rolled, High)";
+		displayName="BDU, Dubok Pale (Rolled, High)";
 
 		class ItemInfo: ItemInfo
 		{
@@ -659,7 +659,7 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="Battledress Uniform, Dubok Pale (Rolled, High)";
+		displayName="BDU, Dubok Pale (Rolled, High)";
 
 		class ItemInfo: ItemInfo
 		{
@@ -674,7 +674,7 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="Battledress Uniform, Dubok Pale (Kneepads)";
+		displayName="BDU, Dubok Pale (Kneepads)";
 
 		class ItemInfo: ItemInfo
 		{
@@ -689,7 +689,7 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="Battledress Uniform, Dubok Pale (Kneepads, Rolled)";
+		displayName="BDU, Dubok Pale (Kneepads, Rolled)";
 
 		class ItemInfo: ItemInfo
 		{
@@ -705,7 +705,7 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="Battledress Uniform, Dubok Pale/Gray";
+		displayName="BDU, Dubok Pale/Gray";
 		descriptionShort="Uniform, Battledress, dubokpb_mix";
 		picture="TODOPREVIEW";
 
@@ -725,7 +725,7 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="Battledress Uniform, Dubok Pale/Gray (Rolled)";
+		displayName="BDU, Dubok Pale/Gray (Rolled)";
 
 		class ItemInfo: ItemInfo
 		{
@@ -740,7 +740,7 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="Battledress Uniform, Dubok Pale/Gray (Rolled, High)";
+		displayName="BDU, Dubok Pale/Gray (Rolled, High)";
 
 		class ItemInfo: ItemInfo
 		{
@@ -755,7 +755,7 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="Battledress Uniform, Dubok Pale/Gray (Rolled, High)";
+		displayName="BDU, Dubok Pale/Gray (Rolled, High)";
 
 		class ItemInfo: ItemInfo
 		{
@@ -770,7 +770,7 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="Battledress Uniform, Dubok Pale/Gray (Kneepads)";
+		displayName="BDU, Dubok Pale/Gray (Kneepads)";
 
 		class ItemInfo: ItemInfo
 		{
@@ -785,7 +785,7 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="Battledress Uniform, Dubok Pale/Gray (Kneepads, Rolled)";
+		displayName="BDU, Dubok Pale/Gray (Kneepads, Rolled)";
 
 		class ItemInfo: ItemInfo
 		{
@@ -801,7 +801,7 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="Battledress Uniform, Dubok Teal";
+		displayName="BDU, Dubok Teal";
 		descriptionShort="Uniform, Battledress, Dubok Teal";
 		picture="TODOPREVIEW";
 
@@ -821,7 +821,7 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="Battledress Uniform, Dubok Teal (Rolled)";
+		displayName="BDU, Dubok Teal (Rolled)";
 
 		class ItemInfo: ItemInfo
 		{
@@ -836,7 +836,7 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="Battledress Uniform, Dubok Teal (Rolled, High)";
+		displayName="BDU, Dubok Teal (Rolled, High)";
 
 		class ItemInfo: ItemInfo
 		{
@@ -851,7 +851,7 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="Battledress Uniform, Dubok Teal (Rolled, High)";
+		displayName="BDU, Dubok Teal (Rolled, High)";
 
 		class ItemInfo: ItemInfo
 		{
@@ -866,7 +866,7 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="Battledress Uniform, Dubok Teal (Kneepads)";
+		displayName="BDU, Dubok Teal (Kneepads)";
 
 		class ItemInfo: ItemInfo
 		{
@@ -881,7 +881,7 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="Battledress Uniform, Dubok Teal (Kneepads, Rolled)";
+		displayName="BDU, Dubok Teal (Kneepads, Rolled)";
 
 		class ItemInfo: ItemInfo
 		{
@@ -897,7 +897,7 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="Battledress Uniform, Dubok Teal/Blue";
+		displayName="BDU, Dubok Teal/Blue";
 		descriptionShort="Uniform, Battledress, Dubok Teal/Blue";
 		picture="TODOPREVIEW";
 
@@ -917,7 +917,7 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="Battledress Uniform, Dubok Teal/Blue (Rolled)";
+		displayName="BDU, Dubok Teal/Blue (Rolled)";
 
 		class ItemInfo: ItemInfo
 		{
@@ -932,7 +932,7 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="Battledress Uniform, Dubok Teal/Blue (Rolled, High)";
+		displayName="BDU, Dubok Teal/Blue (Rolled, High)";
 
 		class ItemInfo: ItemInfo
 		{
@@ -947,7 +947,7 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="Battledress Uniform, Dubok Teal/Blue (Rolled, High)";
+		displayName="BDU, Dubok Teal/Blue (Rolled, High)";
 
 		class ItemInfo: ItemInfo
 		{
@@ -962,7 +962,7 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="Battledress Uniform, Dubok Teal/Blue (Kneepads)";
+		displayName="BDU, Dubok Teal/Blue (Kneepads)";
 
 		class ItemInfo: ItemInfo
 		{
@@ -977,7 +977,7 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="Battledress Uniform, Dubok Teal/Blue (Kneepads, Rolled)";
+		displayName="BDU, Dubok Teal/Blue (Kneepads, Rolled)";
 
 		class ItemInfo: ItemInfo
 		{
