@@ -11,6 +11,10 @@ class CfgWeapons
 			"nomex"
 		};
 
+        hiddenSelectionsMaterials[] = {
+			"\tmtm\pack\sns_facewear\data\tmtm_wool_gloves.rvmat"
+		};
+
 		modelOptics="\A3\Weapons_F\empty";
 		visionMode[]= {
 			"Normal",
