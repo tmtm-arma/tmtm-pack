@@ -35,7 +35,7 @@ class CfgWeapons
 
 		displayName="BDU, Black";
 		descriptionShort="Uniform, Battledress, Black";
-		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_black.paa";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_black_ca.paa";
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_black_co.paa"
@@ -131,7 +131,7 @@ class CfgWeapons
 
 		displayName="BDU, Dubok Blue";
 		descriptionShort="Uniform, Battledress, Dubok Blue";
-		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokb.paa";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokb_ca.paa";
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokb_co.paa"
@@ -227,7 +227,7 @@ class CfgWeapons
 
 		displayName="BDU, Dubok Blue-Teal";
 		descriptionShort="Uniform, Battledress, Dubok Blue-Teal";
-		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokb_mix.paa";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokb_mix_ca.paa";
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokb_mix_co.paa"
@@ -323,7 +323,7 @@ class CfgWeapons
 
 		displayName="BDU, Dubok Gray";
 		descriptionShort="Uniform, Battledress, Dubok Gray";
-		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokgb.paa";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokgb_ca.paa";
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokgb_co.paa"
@@ -419,7 +419,7 @@ class CfgWeapons
 
 		displayName="BDU, Dubok Gray-Pale";
 		descriptionShort="Uniform, Battledress, Dubok Gray-Pale";
-		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokgb_mix_a.paa";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokgb_mix_a_ca.paa";
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokgb_mix_a_co.paa"
@@ -515,7 +515,7 @@ class CfgWeapons
 
 		displayName="BDU, Dubok Gray/Black";
 		descriptionShort="Uniform, Battledress, dubokgb_mix_b";
-		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokgb_mix_b.paa";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokgb_mix_b_ca.paa";
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokgb_mix_b_co.paa"
@@ -611,7 +611,7 @@ class CfgWeapons
 
 		displayName="BDU, Dubok Pale";
 		descriptionShort="Uniform, Battledress, Dubok Pale";
-		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokpb.paa";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokpb_ca.paa";
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokpb_co.paa"
@@ -706,8 +706,8 @@ class CfgWeapons
 		author="Casper_TFG, erem2k";
 
 		displayName="BDU, Dubok Pale-Gray";
-		descriptionShort="Uniform, Battledress, dubokpb_mix";
-		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokpb_mix.paa";
+		descriptionShort="Uniform, Battledress, Dubok Pale-Gray";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokpb_mix_ca.paa";
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokpb_mix_co.paa"
@@ -803,7 +803,7 @@ class CfgWeapons
 
 		displayName="BDU, Dubok Teal";
 		descriptionShort="Uniform, Battledress, Dubok Teal";
-		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokt.paa";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokt_ca.paa";
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokt_co.paa"
@@ -899,7 +899,7 @@ class CfgWeapons
 
 		displayName="BDU, Dubok Teal-Blue";
 		descriptionShort="Uniform, Battledress, Dubok Teal-Blue";
-		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokt_mix.paa";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokt_mix_ca.paa";
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokt_mix_co.paa"

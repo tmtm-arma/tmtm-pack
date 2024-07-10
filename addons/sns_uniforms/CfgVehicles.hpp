@@ -128,7 +128,7 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Black";
-		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_black.paa";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_black_ca.paa";
 
 		uniformClass="tmtm_u_bdu_black";
 
@@ -147,7 +147,7 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Black (Rolled)";
-		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_black.paa";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_black_ca.paa";
 
 		uniformClass="tmtm_u_bdu_roll_black";
 
@@ -166,7 +166,7 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Black (Rolled, High)";
-		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_black.paa";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_black_ca.paa";
 
 		uniformClass="tmtm_u_bdu_roll_high_black";
 
@@ -185,7 +185,7 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Black (Rolled, High)";
-		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_black.paa";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_black_ca.paa";
 
 		uniformClass="tmtm_u_bdu_roll_highf_black";
 
@@ -204,7 +204,7 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Black (Kneepads)";
-		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_black.paa";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_black_ca.paa";
 
 		uniformClass="tmtm_u_bdu_kneepad_black";
 
@@ -223,7 +223,7 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Black (Kneepads, Rolled)";
-		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_black.paa";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_black_ca.paa";
 
 		uniformClass="tmtm_u_bdu_kneepad_roll_black";
 
@@ -243,7 +243,7 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Dubok Blue";
-		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokb.paa";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokb_ca.paa";
 
 		uniformClass="tmtm_u_bdu_dubokb";
 
@@ -262,7 +262,7 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Dubok Blue (Rolled)";
-		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokb.paa";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokb_ca.paa";
 
 		uniformClass="tmtm_u_bdu_roll_dubokb";
 
@@ -281,7 +281,7 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Dubok Blue (Rolled, High)";
-		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokb.paa";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokb_ca.paa";
 
 		uniformClass="tmtm_u_bdu_roll_high_dubokb";
 
@@ -300,7 +300,7 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Dubok Blue (Rolled, High)";
-		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokb.paa";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokb_ca.paa";
 
 		uniformClass="tmtm_u_bdu_roll_highf_dubokb";
 
@@ -319,7 +319,7 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Dubok Blue (Kneepads)";
-		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokb.paa";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokb_ca.paa";
 
 		uniformClass="tmtm_u_bdu_kneepad_dubokb";
 
@@ -338,7 +338,7 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Dubok Blue (Kneepads, Rolled)";
-		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokb.paa";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokb_ca.paa";
 
 		uniformClass="tmtm_u_bdu_kneepad_roll_dubokb";
 
@@ -358,7 +358,7 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Dubok Blue-Teal";
-		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokb_mix.paa";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokb_mix_ca.paa";
 
 		uniformClass="tmtm_u_bdu_dubokb_mix";
 
@@ -377,7 +377,7 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Dubok Blue-Teal (Rolled)";
-		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokb_mix.paa";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokb_mix_ca.paa";
 
 		uniformClass="tmtm_u_bdu_roll_dubokb_mix";
 
@@ -396,7 +396,7 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Dubok Blue-Teal (Rolled, High)";
-		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokb_mix.paa";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokb_mix_ca.paa";
 
 		uniformClass="tmtm_u_bdu_roll_high_dubokb_mix";
 
@@ -415,7 +415,7 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Dubok Blue-Teal (Rolled, High)";
-		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokb_mix.paa";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokb_mix_ca.paa";
 
 		uniformClass="tmtm_u_bdu_roll_highf_dubokb_mix";
 
@@ -434,7 +434,7 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Dubok Blue-Teal (Kneepads)";
-		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokb_mix.paa";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokb_mix_ca.paa";
 
 		uniformClass="tmtm_u_bdu_kneepad_dubokb_mix";
 
@@ -453,7 +453,7 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Dubok Blue-Teal (Kneepads, Rolled)";
-		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokb_mix.paa";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokb_mix_ca.paa";
 
 		uniformClass="tmtm_u_bdu_kneepad_roll_dubokb_mix";
 
@@ -473,7 +473,7 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Dubok Gray";
-		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokgb.paa";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokgb_ca.paa";
 
 		uniformClass="tmtm_u_bdu_dubokgb";
 
@@ -492,7 +492,7 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Dubok Gray (Rolled)";
-		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokgb.paa";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokgb_ca.paa";
 
 		uniformClass="tmtm_u_bdu_roll_dubokgb";
 
@@ -511,7 +511,7 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Dubok Gray (Rolled, High)";
-		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokgb.paa";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokgb_ca.paa";
 
 		uniformClass="tmtm_u_bdu_roll_high_dubokgb";
 
@@ -530,7 +530,7 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Dubok Gray (Rolled, High)";
-		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokgb.paa";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokgb_ca.paa";
 
 		uniformClass="tmtm_u_bdu_roll_highf_dubokgb";
 
@@ -549,7 +549,7 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Dubok Gray (Kneepads)";
-		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokgb.paa";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokgb_ca.paa";
 
 		uniformClass="tmtm_u_bdu_kneepad_dubokgb";
 
@@ -568,7 +568,7 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Dubok Gray (Kneepads, Rolled)";
-		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokgb.paa";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokgb_ca.paa";
 
 		uniformClass="tmtm_u_bdu_kneepad_roll_dubokgb";
 
@@ -588,7 +588,7 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Dubok Gray-Pale";
-		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokgb_mix_a.paa";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokgb_mix_a_ca.paa";
 
 		uniformClass="tmtm_u_bdu_dubokgb_mix_a";
 
@@ -607,7 +607,7 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Dubok Gray-Pale (Rolled)";
-		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokgb_mix_a.paa";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokgb_mix_a_ca.paa";
 
 		uniformClass="tmtm_u_bdu_roll_dubokgb_mix_a";
 
@@ -626,7 +626,7 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Dubok Gray-Pale (Rolled, High)";
-		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokgb_mix_a.paa";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokgb_mix_a_ca.paa";
 
 		uniformClass="tmtm_u_bdu_roll_high_dubokgb_mix_a";
 
@@ -645,7 +645,7 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Dubok Gray-Pale (Rolled, High)";
-		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokgb_mix_a.paa";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokgb_mix_a_ca.paa";
 
 		uniformClass="tmtm_u_bdu_roll_highf_dubokgb_mix_a";
 
@@ -664,7 +664,7 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Dubok Gray-Pale (Kneepads)";
-		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokgb_mix_a.paa";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokgb_mix_a_ca.paa";
 
 		uniformClass="tmtm_u_bdu_kneepad_dubokgb_mix_a";
 
@@ -683,7 +683,7 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Dubok Gray-Pale (Kneepads, Rolled)";
-		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokgb_mix_a.paa";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokgb_mix_a_ca.paa";
 
 		uniformClass="tmtm_u_bdu_kneepad_roll_dubokgb_mix_a";
 
@@ -703,7 +703,7 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Dubok Gray-Black";
-		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokgb_mix_b.paa";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokgb_mix_b_ca.paa";
 
 		uniformClass="tmtm_u_bdu_dubokgb_mix_b";
 
@@ -722,7 +722,7 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Dubok Gray-Black (Rolled)";
-		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokgb_mix_b.paa";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokgb_mix_b_ca.paa";
 
 		uniformClass="tmtm_u_bdu_roll_dubokgb_mix_b";
 
@@ -741,7 +741,7 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Dubok Gray-Black (Rolled, High)";
-		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokgb_mix_b.paa";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokgb_mix_b_ca.paa";
 
 		uniformClass="tmtm_u_bdu_roll_high_dubokgb_mix_b";
 
@@ -760,7 +760,7 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Dubok Gray-Black (Rolled, High)";
-		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokgb_mix_b.paa";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokgb_mix_b_ca.paa";
 
 		uniformClass="tmtm_u_bdu_roll_highf_dubokgb_mix_b";
 
@@ -779,7 +779,7 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Dubok Gray-Black (Kneepads)";
-		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokgb_mix_b.paa";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokgb_mix_b_ca.paa";
 
 		uniformClass="tmtm_u_bdu_kneepad_dubokgb_mix_b";
 
@@ -798,7 +798,7 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Dubok Gray-Black (Kneepads, Rolled)";
-		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokgb_mix_b.paa";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokgb_mix_b_ca.paa";
 
 		uniformClass="tmtm_u_bdu_kneepad_roll_dubokgb_mix_b";
 
@@ -818,7 +818,7 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Dubok Pale";
-		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokpb.paa";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokpb_ca.paa";
 
 		uniformClass="tmtm_u_bdu_dubokpb";
 
@@ -837,7 +837,7 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Dubok Pale (Rolled)";
-		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokpb.paa";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokpb_ca.paa";
 
 		uniformClass="tmtm_u_bdu_roll_dubokpb";
 
@@ -856,7 +856,7 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Dubok Pale (Rolled, High)";
-		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokpb.paa";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokpb_ca.paa";
 
 		uniformClass="tmtm_u_bdu_roll_high_dubokpb";
 
@@ -875,7 +875,7 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Dubok Pale (Rolled, High)";
-		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokpb.paa";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokpb_ca.paa";
 
 		uniformClass="tmtm_u_bdu_roll_highf_dubokpb";
 
@@ -894,7 +894,7 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Dubok Pale (Kneepads)";
-		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokpb.paa";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokpb_ca.paa";
 
 		uniformClass="tmtm_u_bdu_kneepad_dubokpb";
 
@@ -913,7 +913,7 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Dubok Pale (Kneepads, Rolled)";
-		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokpb.paa";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokpb_ca.paa";
 
 		uniformClass="tmtm_u_bdu_kneepad_roll_dubokpb";
 
@@ -933,7 +933,7 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Dubok Pale-Gray";
-		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokpb_mix.paa";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokpb_mix_ca.paa";
 
 		uniformClass="tmtm_u_bdu_dubokpb_mix";
 
@@ -952,7 +952,7 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Dubok Pale-Gray (Rolled)";
-		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokpb_mix.paa";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokpb_mix_ca.paa";
 
 		uniformClass="tmtm_u_bdu_roll_dubokpb_mix";
 
@@ -971,7 +971,7 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Dubok Pale-Gray (Rolled, High)";
-		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokpb_mix.paa";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokpb_mix_ca.paa";
 
 		uniformClass="tmtm_u_bdu_roll_high_dubokpb_mix";
 
@@ -990,7 +990,7 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Dubok Pale-Gray (Rolled, High)";
-		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokpb_mix.paa";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokpb_mix_ca.paa";
 
 		uniformClass="tmtm_u_bdu_roll_highf_dubokpb_mix";
 
@@ -1009,7 +1009,7 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Dubok Pale-Gray (Kneepads)";
-		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokpb_mix.paa";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokpb_mix_ca.paa";
 
 		uniformClass="tmtm_u_bdu_kneepad_dubokpb_mix";
 
@@ -1028,7 +1028,7 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Dubok Pale-Gray (Kneepads, Rolled)";
-		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokpb_mix.paa";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokpb_mix_ca.paa";
 
 		uniformClass="tmtm_u_bdu_kneepad_roll_dubokpb_mix";
 
@@ -1048,7 +1048,7 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Dubok Teal";
-		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokt.paa";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokt_ca.paa";
 
 		uniformClass="tmtm_u_bdu_dubokt";
 
@@ -1067,7 +1067,7 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Dubok Teal (Rolled)";
-		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokt.paa";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokt_ca.paa";
 
 		uniformClass="tmtm_u_bdu_roll_dubokt";
 
@@ -1086,7 +1086,7 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Dubok Teal (Rolled, High)";
-		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokt.paa";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokt_ca.paa";
 
 		uniformClass="tmtm_u_bdu_roll_high_dubokt";
 
@@ -1105,7 +1105,7 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Dubok Teal (Rolled, High)";
-		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokt.paa";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokt_ca.paa";
 
 		uniformClass="tmtm_u_bdu_roll_highf_dubokt";
 
@@ -1124,7 +1124,7 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Dubok Teal (Kneepads)";
-		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokt.paa";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokt_ca.paa";
 
 		uniformClass="tmtm_u_bdu_kneepad_dubokt";
 
@@ -1143,7 +1143,7 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Dubok Teal (Kneepads, Rolled)";
-		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokt.paa";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokt_ca.paa";
 
 		uniformClass="tmtm_u_bdu_kneepad_roll_dubokt";
 
@@ -1163,7 +1163,7 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Dubok Teal-Blue";
-		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokt_mix.paa";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokt_mix_ca.paa";
 
 		uniformClass="tmtm_u_bdu_dubokt_mix";
 
@@ -1182,7 +1182,7 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Dubok Teal-Blue (Rolled)";
-		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokt_mix.paa";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokt_mix_ca.paa";
 
 		uniformClass="tmtm_u_bdu_dubokt_mix";
 
@@ -1201,7 +1201,7 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Dubok Teal-Blue (Rolled, High)";
-		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokt_mix.paa";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokt_mix_ca.paa";
 
 		uniformClass="tmtm_u_bdu_roll_high_dubokt_mix";
 
@@ -1220,7 +1220,7 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Dubok Teal-Blue (Rolled, High)";
-		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokt_mix.paa";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokt_mix_ca.paa";
 
 		uniformClass="tmtm_u_bdu_roll_highf_dubokt_mix";
 
@@ -1239,7 +1239,7 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Dubok Teal-Blue (Kneepads)";
-		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokt_mix.paa";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokt_mix_ca.paa";
 
 		uniformClass="tmtm_u_bdu_kneepad_dubokt_mix";
 
@@ -1258,7 +1258,7 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Dubok Teal-Blue (Kneepads, Rolled)";
-		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokt_mix.paa";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokt_mix_ca.paa";
 
 		uniformClass="tmtm_u_bdu_kneepad_roll_dubokt_mix";
 
