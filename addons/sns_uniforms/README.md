@@ -11,3 +11,5 @@ Retextures of Service & Supply uniforms.
 	- Dubok (Pale/Gray)
 	- Dubok (Teal)
 	- Dubok (Teal/Blue)
+
+Includes T-Shirt and Kneepad variants.

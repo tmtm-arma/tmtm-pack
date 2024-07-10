@@ -12,9 +12,14 @@ Reconfigured to appear in facewear slot
     - Black
     - Blue
     - Brown
+    - Burgundy
+    - Dubok Blue
     - Dubok Gray
     - Gray
+    - Gray-Blue
     - Gray-Red
+    - Merlot
     - Olive
+    - Reed White
 
 Also appears as headgear variant
