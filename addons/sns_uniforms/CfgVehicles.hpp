@@ -16,6 +16,7 @@ class CfgVehicles
 		hiddenSelections[]= {
 			"camo",
 			"camo2",
+			"bots",
 			"rank",
 			"insignia",
 			"nom",
@@ -134,6 +135,7 @@ class CfgVehicles
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_black_co.paa",
+			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_black_co.paa",
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_black_co.paa"
 		};
 	};
@@ -152,6 +154,7 @@ class CfgVehicles
 		uniformClass="TODO";
 
 		hiddenSelectionsTextures[]={
+			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_black_co.paa",
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_black_co.paa",
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_black_co.paa"
 		};
@@ -172,6 +175,7 @@ class CfgVehicles
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_black_co.paa",
+			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_black_co.paa",
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_black_co.paa"
 		};
 	};
@@ -190,6 +194,7 @@ class CfgVehicles
 		uniformClass="TODO";
 
 		hiddenSelectionsTextures[]={
+			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_black_co.paa",
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_black_co.paa",
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_black_co.paa"
 		};
@@ -210,6 +215,7 @@ class CfgVehicles
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_black_co.paa",
+			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_black_co.paa",
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_black_co.paa"
 		};
 	};
@@ -228,6 +234,7 @@ class CfgVehicles
 		uniformClass="TODO";
 
 		hiddenSelectionsTextures[]={
+			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_black_co.paa",
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_black_co.paa",
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_black_co.paa"
 		};
@@ -249,6 +256,7 @@ class CfgVehicles
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokb_co.paa",
+			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokb_co.paa",
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokb_co.paa"
 		};
 	};
@@ -267,6 +275,7 @@ class CfgVehicles
 		uniformClass="TODO";
 
 		hiddenSelectionsTextures[]={
+			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokb_co.paa",
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokb_co.paa",
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokb_co.paa"
 		};
@@ -287,6 +296,7 @@ class CfgVehicles
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokb_co.paa",
+			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokb_co.paa",
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokb_co.paa"
 		};
 	};
@@ -305,6 +315,7 @@ class CfgVehicles
 		uniformClass="TODO";
 
 		hiddenSelectionsTextures[]={
+			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokb_co.paa",
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokb_co.paa",
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokb_co.paa"
 		};
@@ -325,6 +336,7 @@ class CfgVehicles
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokb_co.paa",
+			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokb_co.paa",
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokb_co.paa"
 		};
 	};
@@ -343,6 +355,7 @@ class CfgVehicles
 		uniformClass="TODO";
 
 		hiddenSelectionsTextures[]={
+			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokb_co.paa",
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokb_co.paa",
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokb_co.paa"
 		};
@@ -383,6 +396,7 @@ class CfgVehicles
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokb_mix_co.paa",
+			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokb_mix_co.paa",
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokb_mix_co.paa"
 		};
 	};
@@ -401,6 +415,7 @@ class CfgVehicles
 		uniformClass="TODO";
 
 		hiddenSelectionsTextures[]={
+			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokb_mix_co.paa",
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokb_mix_co.paa",
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokb_mix_co.paa"
 		};
@@ -421,6 +436,7 @@ class CfgVehicles
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokb_mix_co.paa",
+			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokb_mix_co.paa",
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokb_mix_co.paa"
 		};
 	};
@@ -440,6 +456,7 @@ class CfgVehicles
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokb_mix_co.paa",
+			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokb_mix_co.paa",
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokb_mix_co.paa"
 		};
 	};
@@ -458,6 +475,7 @@ class CfgVehicles
 		uniformClass="TODO";
 
 		hiddenSelectionsTextures[]={
+			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokb_mix_co.paa",
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokb_mix_co.paa",
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokb_mix_co.paa"
 		};
@@ -479,6 +497,7 @@ class CfgVehicles
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokgb_co.paa",
+			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokgb_co.paa",
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokgb_co.paa"
 		};
 	};
@@ -497,6 +516,7 @@ class CfgVehicles
 		uniformClass="TODO";
 
 		hiddenSelectionsTextures[]={
+			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokgb_co.paa",
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokgb_co.paa",
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokgb_co.paa"
 		};
@@ -517,6 +537,7 @@ class CfgVehicles
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokgb_co.paa",
+			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokgb_co.paa",
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokgb_co.paa"
 		};
 	};
@@ -535,6 +556,7 @@ class CfgVehicles
 		uniformClass="TODO";
 
 		hiddenSelectionsTextures[]={
+			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokgb_co.paa",
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokgb_co.paa",
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokgb_co.paa"
 		};
@@ -555,6 +577,7 @@ class CfgVehicles
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokgb_co.paa",
+			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokgb_co.paa",
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokgb_co.paa"
 		};
 	};
@@ -573,6 +596,7 @@ class CfgVehicles
 		uniformClass="TODO";
 
 		hiddenSelectionsTextures[]={
+			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokgb_co.paa",
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokgb_co.paa",
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokgb_co.paa"
 		};
@@ -594,6 +618,7 @@ class CfgVehicles
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokgb_mix_a_co.paa",
+			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokgb_mix_a_co.paa",
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokgb_mix_a_co.paa"
 		};
 	};
@@ -612,6 +637,7 @@ class CfgVehicles
 		uniformClass="TODO";
 
 		hiddenSelectionsTextures[]={
+			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokgb_mix_a_co.paa",
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokgb_mix_a_co.paa",
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokgb_mix_a_co.paa"
 		};
@@ -632,6 +658,7 @@ class CfgVehicles
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokgb_mix_a_co.paa",
+			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokgb_mix_a_co.paa",
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokgb_mix_a_co.paa"
 		};
 	};
@@ -650,6 +677,7 @@ class CfgVehicles
 		uniformClass="TODO";
 
 		hiddenSelectionsTextures[]={
+			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokgb_mix_a_co.paa",
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokgb_mix_a_co.paa",
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokgb_mix_a_co.paa"
 		};
@@ -670,6 +698,7 @@ class CfgVehicles
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokgb_mix_a_co.paa",
+			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokgb_mix_a_co.paa",
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokgb_mix_a_co.paa"
 		};
 	};
@@ -688,6 +717,7 @@ class CfgVehicles
 		uniformClass="TODO";
 
 		hiddenSelectionsTextures[]={
+			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokgb_mix_a_co.paa",
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokgb_mix_a_co.paa",
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokgb_mix_a_co.paa"
 		};
@@ -709,6 +739,7 @@ class CfgVehicles
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokgb_mix_b_co.paa",
+			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokgb_mix_b_co.paa",
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokgb_mix_b_co.paa"
 		};
 	};
@@ -727,6 +758,7 @@ class CfgVehicles
 		uniformClass="TODO";
 
 		hiddenSelectionsTextures[]={
+			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokgb_mix_b_co.paa",
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokgb_mix_b_co.paa",
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokgb_mix_b_co.paa"
 		};
@@ -747,6 +779,7 @@ class CfgVehicles
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokgb_mix_b_co.paa",
+			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokgb_mix_b_co.paa",
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokgb_mix_b_co.paa"
 		};
 	};
@@ -765,6 +798,7 @@ class CfgVehicles
 		uniformClass="TODO";
 
 		hiddenSelectionsTextures[]={
+			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokgb_mix_b_co.paa",
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokgb_mix_b_co.paa",
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokgb_mix_b_co.paa"
 		};
@@ -785,6 +819,7 @@ class CfgVehicles
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokgb_mix_b_co.paa",
+			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokgb_mix_b_co.paa",
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokgb_mix_b_co.paa"
 		};
 	};
@@ -803,6 +838,7 @@ class CfgVehicles
 		uniformClass="TODO";
 
 		hiddenSelectionsTextures[]={
+			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokgb_mix_b_co.paa",
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokgb_mix_b_co.paa",
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokgb_mix_b_co.paa"
 		};
@@ -824,6 +860,7 @@ class CfgVehicles
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokpb_co.paa",
+			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokpb_co.paa",
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokpb_co.paa"
 		};
 	};
@@ -842,6 +879,7 @@ class CfgVehicles
 		uniformClass="TODO";
 
 		hiddenSelectionsTextures[]={
+			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokpb_co.paa",
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokpb_co.paa",
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokpb_co.paa"
 		};
@@ -862,6 +900,7 @@ class CfgVehicles
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokpb_co.paa",
+			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokpb_co.paa",
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokpb_co.paa"
 		};
 	};
@@ -880,6 +919,7 @@ class CfgVehicles
 		uniformClass="TODO";
 
 		hiddenSelectionsTextures[]={
+			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokpb_co.paa",
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokpb_co.paa",
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokpb_co.paa"
 		};
@@ -900,6 +940,7 @@ class CfgVehicles
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokpb_co.paa",
+			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokpb_co.paa",
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokpb_co.paa"
 		};
 	};
@@ -918,6 +959,7 @@ class CfgVehicles
 		uniformClass="TODO";
 
 		hiddenSelectionsTextures[]={
+			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokpb_co.paa",
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokpb_co.paa",
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokpb_co.paa"
 		};
@@ -939,6 +981,7 @@ class CfgVehicles
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokpb_mix_co.paa",
+			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokpb_mix_co.paa",
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokpb_mix_co.paa"
 		};
 	};
@@ -957,6 +1000,7 @@ class CfgVehicles
 		uniformClass="TODO";
 
 		hiddenSelectionsTextures[]={
+			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokpb_mix_co.paa",
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokpb_mix_co.paa",
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokpb_mix_co.paa"
 		};
@@ -977,6 +1021,7 @@ class CfgVehicles
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokpb_mix_co.paa",
+			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokpb_mix_co.paa",
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokpb_mix_co.paa"
 		};
 	};
@@ -995,6 +1040,7 @@ class CfgVehicles
 		uniformClass="TODO";
 
 		hiddenSelectionsTextures[]={
+			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokpb_mix_co.paa",
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokpb_mix_co.paa",
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokpb_mix_co.paa"
 		};
@@ -1015,6 +1061,7 @@ class CfgVehicles
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokpb_mix_co.paa",
+			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokpb_mix_co.paa",
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokpb_mix_co.paa"
 		};
 	};
@@ -1033,6 +1080,7 @@ class CfgVehicles
 		uniformClass="TODO";
 
 		hiddenSelectionsTextures[]={
+			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokpb_mix_co.paa",
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokpb_mix_co.paa",
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokpb_mix_co.paa"
 		};
@@ -1073,6 +1121,7 @@ class CfgVehicles
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokt_co.paa",
+			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokt_co.paa",
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokt_co.paa"
 		};
 	};
@@ -1091,6 +1140,7 @@ class CfgVehicles
 		uniformClass="TODO";
 
 		hiddenSelectionsTextures[]={
+			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokt_co.paa",
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokt_co.paa",
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokt_co.paa"
 		};
@@ -1111,6 +1161,7 @@ class CfgVehicles
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokt_co.paa",
+			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokt_co.paa",
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokt_co.paa"
 		};
 	};
@@ -1130,6 +1181,7 @@ class CfgVehicles
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokt_co.paa",
+			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokt_co.paa",
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokt_co.paa"
 		};
 	};
@@ -1148,6 +1200,7 @@ class CfgVehicles
 		uniformClass="TODO";
 
 		hiddenSelectionsTextures[]={
+			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokt_co.paa",
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokt_co.paa",
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokt_co.paa"
 		};
@@ -1169,6 +1222,7 @@ class CfgVehicles
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokt_mix_co.paa",
+			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokt_mix_co.paa",
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokt_mix_co.paa"
 		};
 	};
@@ -1187,6 +1241,7 @@ class CfgVehicles
 		uniformClass="TODO";
 
 		hiddenSelectionsTextures[]={
+			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokt_mix_co.paa",
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokt_mix_co.paa",
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokt_mix_co.paa"
 		};
@@ -1207,6 +1262,7 @@ class CfgVehicles
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokt_mix_co.paa",
+			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokt_mix_co.paa",
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokt_mix_co.paa"
 		};
 	};
@@ -1225,6 +1281,7 @@ class CfgVehicles
 		uniformClass="TODO";
 
 		hiddenSelectionsTextures[]={
+			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokt_mix_co.paa",
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokt_mix_co.paa",
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokt_mix_co.paa"
 		};
@@ -1245,6 +1302,7 @@ class CfgVehicles
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokt_mix_co.paa",
+			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokt_mix_co.paa",
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokt_mix_co.paa"
 		};
 	};
@@ -1263,6 +1321,7 @@ class CfgVehicles
 		uniformClass="TODO";
 
 		hiddenSelectionsTextures[]={
+			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokt_mix_co.paa",
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokt_mix_co.paa",
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokt_mix_co.paa"
 		};
