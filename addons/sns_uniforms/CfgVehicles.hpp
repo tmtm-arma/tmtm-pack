@@ -115,6 +115,18 @@ class CfgVehicles
 		model="\simc_uaf_93\dcu_knee_trop.p3d";
 	};
 
+	class tmtm_bdu_tshirt_base: tmtm_bdu_base
+	{
+		scope=0;
+		model="\simc_uaf_81\bdu_erla_tee.p3d";
+
+		hiddenSelections[]= {
+			"camo",
+			"camo2",
+			"gas"
+		};
+	};
+
 	///////////////////////////////////////////////////////////////////
 	// Textures
 
@@ -233,6 +245,26 @@ class CfgVehicles
 		};
 	};
 
+	class tmtm_bdu_tshirt_black: tmtm_bdu_tshirt_base
+	{
+		scope=1;
+		scopeArsenal=2;
+		scopeCurator=0;
+		
+		author="Casper_TFG, erem2k";
+
+		displayName="BDU, Black (T-Shirt)";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_tshirt_black_ca.paa";
+
+		uniformClass="tmtm_u_bdu_tshirt_black";
+
+		hiddenSelectionsTextures[]={
+			"\simc_uaf_81\data\bdu_tee_black_co.paa",
+			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_black_co.paa",
+			""
+		};
+	};
+
 	// # Dubok Blue
 	class tmtm_bdu_dubokb: tmtm_bdu_base
 	{
@@ -345,6 +377,26 @@ class CfgVehicles
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokb_co.paa",
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokb_co.paa"
+		};
+	};
+
+	class tmtm_bdu_tshirt_dubokb: tmtm_bdu_tshirt_base
+	{
+		scope=1;
+		scopeArsenal=2;
+		scopeCurator=0;
+		
+		author="Casper_TFG, erem2k";
+
+		displayName="BDU, Dubok Blue (T-Shirt)";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_tshirt_dubokb_ca.paa";
+
+		uniformClass="tmtm_u_bdu_tshirt_dubokb";
+
+		hiddenSelectionsTextures[]={
+			"\simc_mc_67\data\tcu_mk3_tee_mc_co.paa",
+			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokb_co.paa",
+			""
 		};
 	};
 
@@ -575,6 +627,26 @@ class CfgVehicles
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokgb_co.paa",
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokgb_co.paa"
+		};
+	};
+
+	class tmtm_bdu_tshirt_dubokgb: tmtm_bdu_tshirt_base
+	{
+		scope=1;
+		scopeArsenal=2;
+		scopeCurator=0;
+		
+		author="Casper_TFG, erem2k";
+
+		displayName="BDU, Dubok Gray (T-Shirt)";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_tshirt_dubokgb_ca.paa";
+
+		uniformClass="tmtm_u_bdu_tshirt_dubokgb";
+
+		hiddenSelectionsTextures[]={
+			"\simc_uaf_81\data\bdu_tee_black_co.paa",
+			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokgb_co.paa",
+			""
 		};
 	};
 
@@ -923,6 +995,26 @@ class CfgVehicles
 		};
 	};
 
+	class tmtm_bdu_tshirt_dubokpb: tmtm_bdu_tshirt_base
+	{
+		scope=1;
+		scopeArsenal=2;
+		scopeCurator=0;
+		
+		author="Casper_TFG, erem2k";
+
+		displayName="BDU, Dubok Pale (T-Shirt)";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_tshirt_dubokpb_ca.paa";
+
+		uniformClass="tmtm_u_bdu_tshirt_dubokpb";
+
+		hiddenSelectionsTextures[]={
+			"\simc_mc_67\data\tcu_mk3_tee_mc_co.paa",
+			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokpb_co.paa",
+			""
+		};
+	};
+
 	// # Dubok Pale-Gray
 	class tmtm_bdu_dubokpb_mix: tmtm_bdu_base
 	{
@@ -1150,6 +1242,26 @@ class CfgVehicles
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokt_co.paa",
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokt_co.paa"
+		};
+	};
+
+	class tmtm_bdu_tshirt_dubokt: tmtm_bdu_tshirt_base
+	{
+		scope=1;
+		scopeArsenal=2;
+		scopeCurator=0;
+		
+		author="Casper_TFG, erem2k";
+
+		displayName="BDU, Dubok Teal (T-Shirt)";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_tshirt_dubokt_ca.paa";
+
+		uniformClass="tmtm_u_bdu_tshirt_dubokt";
+
+		hiddenSelectionsTextures[]={
+			"\simc_mc_67\data\tcu_mk3_tee_mc_co.paa",
+			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokt_co.paa",
+			""
 		};
 	};
 

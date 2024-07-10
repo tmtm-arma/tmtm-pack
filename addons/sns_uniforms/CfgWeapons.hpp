@@ -121,6 +121,22 @@ class CfgWeapons
 		};
 	};
 
+	class tmtm_u_bdu_tshirt_black: tmtm_u_bdu_black
+	{
+		scope=2;
+		scopeArsenal=2;
+
+		author="Vagineer, erem2k";
+
+		displayName="BDU, Black (T-Shirt)";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_tshirt_black_ca.paa";
+
+		class ItemInfo: ItemInfo
+		{
+			uniformClass="tmtm_bdu_tshirt_black";
+		};
+	};
+
 	// # Dubok Blue
 	class tmtm_u_bdu_dubokb: tmtm_u_bdu_base
 	{
@@ -214,6 +230,22 @@ class CfgWeapons
 		class ItemInfo: ItemInfo
 		{
 			uniformClass="tmtm_bdu_kneepad_roll_dubokb";
+		};
+	};
+
+	class tmtm_u_bdu_tshirt_dubokb: tmtm_u_bdu_dubokb
+	{
+		scope=2;
+		scopeArsenal=2;
+
+		author="Vagineer, erem2k";
+
+		displayName="BDU, Dubok Blue (T-Shirt)";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_tshirt_dubokb_ca.paa";
+
+		class ItemInfo: ItemInfo
+		{
+			uniformClass="tmtm_bdu_tshirt_dubokb";
 		};
 	};
 
@@ -406,6 +438,22 @@ class CfgWeapons
 		class ItemInfo: ItemInfo
 		{
 			uniformClass="tmtm_bdu_kneepad_roll_dubokgb";
+		};
+	};
+
+	class tmtm_u_bdu_tshirt_dubokgb: tmtm_u_bdu_dubokgb
+	{
+		scope=2;
+		scopeArsenal=2;
+
+		author="Vagineer, erem2k";
+
+		displayName="BDU, Dubok Gray (T-Shirt)";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_tshirt_dubokgb_ca.paa";
+
+		class ItemInfo: ItemInfo
+		{
+			uniformClass="tmtm_bdu_tshirt_dubokgb";
 		};
 	};
 
@@ -697,6 +745,22 @@ class CfgWeapons
 		};
 	};
 
+	class tmtm_u_bdu_tshirt_dubokpb: tmtm_u_bdu_dubokpb
+	{
+		scope=2;
+		scopeArsenal=2;
+
+		author="Vagineer, erem2k";
+
+		displayName="BDU, Dubok Pale (T-Shirt)";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_tshirt_dubokpb_ca.paa";
+
+		class ItemInfo: ItemInfo
+		{
+			uniformClass="tmtm_bdu_tshirt_dubokpb";
+		};
+	};
+
 	// # Dubok Pale-Gray
 	class tmtm_u_bdu_dubokpb_mix: tmtm_u_bdu_base
 	{
@@ -886,6 +950,22 @@ class CfgWeapons
 		class ItemInfo: ItemInfo
 		{
 			uniformClass="tmtm_bdu_kneepad_roll_dubokt";
+		};
+	};
+
+	class tmtm_u_bdu_tshirt_dubokt: tmtm_u_bdu_dubokt
+	{
+		scope=2;
+		scopeArsenal=2;
+
+		author="Vagineer, erem2k";
+
+		displayName="BDU, Dubok Teal (T-Shirt)";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_tshirt_dubokt_ca.paa";
+
+		class ItemInfo: ItemInfo
+		{
+			uniformClass="tmtm_bdu_tshirt_dubokt";
 		};
 	};
 
