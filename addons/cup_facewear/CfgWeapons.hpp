@@ -129,13 +129,13 @@ class CfgWeapons
 		picture="\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Balaclava\data\ui\icon_RUS_Balaclava_Ratnik_ca.paa";
 
 		hiddenSelectionsTextures[] = {
-			"\tmtm\pack\cup_facewear\data\tmtm_balaclava_slit_ameba_co.paa"
+			"\tmtm\pack\cup_facewear\data\tmtm_balaclava_slit_black_co.paa"
 		};
 
 		class ItemInfo: ItemInfo
 		{
             hiddenSelectionsTextures[] = {
-                "\tmtm\pack\cup_facewear\data\tmtm_balaclava_slit_ameba_co.paa"
+                "\tmtm\pack\cup_facewear\data\tmtm_balaclava_slit_black_co.paa"
             };
 		};
     };
@@ -377,7 +377,7 @@ class CfgWeapons
         scopeArsenal=2;
 		author="erem2k";
 
-		displayName="Balaclava, Slit (Gray, Loose)";
+		displayName="Balaclava, Slit (Olive, Loose)";
 		picture="\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Balaclava\data\ui\icon_RUS_Balaclava_Ratnik_ca.paa";
 
 		hiddenSelectionsTextures[] = {
