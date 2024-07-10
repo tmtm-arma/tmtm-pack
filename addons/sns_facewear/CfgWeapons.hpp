@@ -34,9 +34,7 @@ class CfgWeapons
 			"\tmtm\pack\sns_facewear\data\tmtm_wool_gloves_black_co.paa"
 		};
 
-        TMTM_NVG_WOOL_GLOVES_ITEMINFO(
-            "\tmtm\pack\sns_facewear\data\tmtm_wool_gloves_black_co.paa"
-        );
+        TMTM_NVG_WOOL_GLOVES_ITEMINFO("\tmtm\pack\sns_facewear\data\tmtm_wool_gloves_black_co.paa")
     };
 
     class tmtm_nvg_wool_gloves_brown: tmtm_nvg_wool_gloves_base
@@ -55,9 +53,7 @@ class CfgWeapons
 			"\tmtm\pack\sns_facewear\data\tmtm_wool_gloves_brown_co.paa"
 		};
 
-        TMTM_NVG_WOOL_GLOVES_ITEMINFO(
-            "\tmtm\pack\sns_facewear\data\tmtm_wool_gloves_brown_co.paa"
-        );
+        TMTM_NVG_WOOL_GLOVES_ITEMINFO("\tmtm\pack\sns_facewear\data\tmtm_wool_gloves_brown_co.paa")
     };
 
     class tmtm_nvg_wool_gloves_olive: tmtm_nvg_wool_gloves_base
@@ -76,9 +72,7 @@ class CfgWeapons
 			"\tmtm\pack\sns_facewear\data\tmtm_wool_gloves_olive_co.paa"
 		};
 
-        TMTM_NVG_WOOL_GLOVES_ITEMINFO(
-            "\tmtm\pack\sns_facewear\data\tmtm_wool_gloves_olive_co.paa"
-        );
+        TMTM_NVG_WOOL_GLOVES_ITEMINFO("\tmtm\pack\sns_facewear\data\tmtm_wool_gloves_olive_co.paa")
     };
 
     ///////////////////////////////////////////////////////////
@@ -99,9 +93,7 @@ class CfgWeapons
 			"\tmtm\pack\sns_facewear\data\tmtm_wool_gloves_black_co.paa"
 		};
 
-        TMTM_NVG_WOOL_GLOVES_CUT_ITEMINFO(
-            "\tmtm\pack\sns_facewear\data\tmtm_wool_gloves_black_co.paa"
-        );
+        TMTM_NVG_WOOL_GLOVES_CUT_ITEMINFO("\tmtm\pack\sns_facewear\data\tmtm_wool_gloves_black_co.paa")
     };
 
     class tmtm_nvg_wool_gloves_cut_brown: tmtm_nvg_wool_gloves_base
@@ -120,9 +112,7 @@ class CfgWeapons
 			"\tmtm\pack\sns_facewear\data\tmtm_wool_gloves_brown_co.paa"
 		};
 
-        TMTM_NVG_WOOL_GLOVES_CUT_ITEMINFO(
-            "\tmtm\pack\sns_facewear\data\tmtm_wool_gloves_brown_co.paa"
-        );
+        TMTM_NVG_WOOL_GLOVES_CUT_ITEMINFO("\tmtm\pack\sns_facewear\data\tmtm_wool_gloves_brown_co.paa")
     };
 
     class tmtm_nvg_wool_gloves_cut_olive: tmtm_nvg_wool_gloves_base
@@ -141,8 +131,6 @@ class CfgWeapons
 			"\tmtm\pack\sns_facewear\data\tmtm_wool_gloves_olive_co.paa"
 		};
 
-        TMTM_NVG_WOOL_GLOVES_CUT_ITEMINFO(
-            "\tmtm\pack\sns_facewear\data\tmtm_wool_gloves_olive_co.paa"
-        );
+        TMTM_NVG_WOOL_GLOVES_CUT_ITEMINFO("\tmtm\pack\sns_facewear\data\tmtm_wool_gloves_olive_co.paa")
     };
 };

@@ -1,6 +1,6 @@
 class CfgWeapons
 {
-
+	class Uniform_Base;
 	class U_BasicBody: Uniform_Base
 	{
 		class ItemInfo;

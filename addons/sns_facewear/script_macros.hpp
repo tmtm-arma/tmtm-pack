@@ -10,6 +10,6 @@ class ItemInfo \
     mass=2; \
 }; \
 
-#define TMTM_NVG_WOOL_GLOVES_ITEMINFO(ArgTexture) TMTM_NVG_WOOL_GLOVES_BASE_ITEMINFO("simc_uaf_69\len_gloves_1.p3d", ArgTexture)
+#define TMTM_NVG_WOOL_GLOVES_ITEMINFO(ArgTexture) TMTM_NVG_WOOL_GLOVES_BASE_ITEMINFO("simc_uaf_69\len_gloves_1.p3d",ArgTexture)
 
-#define TMTM_NVG_WOOL_GLOVES_CUT_ITEMINFO(ArgTexture) TMTM_NVG_WOOL_GLOVES_BASE_ITEMINFO("simc_uaf_69\len_gloves_1_cut.p3d", ArgTexture)
+#define TMTM_NVG_WOOL_GLOVES_CUT_ITEMINFO(ArgTexture) TMTM_NVG_WOOL_GLOVES_BASE_ITEMINFO("simc_uaf_69\len_gloves_1_cut.p3d",ArgTexture)
