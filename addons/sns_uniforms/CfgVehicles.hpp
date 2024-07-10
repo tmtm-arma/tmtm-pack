@@ -128,9 +128,9 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Black";
-		picture="";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_black.paa";
 
-		uniformClass="TODO";
+		uniformClass="tmtm_u_bdu_black";
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_black_co.paa",
@@ -147,9 +147,9 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Black (Rolled)";
-		picture="";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_black.paa";
 
-		uniformClass="TODO";
+		uniformClass="tmtm_u_bdu_roll_black";
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_black_co.paa",
@@ -166,9 +166,9 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Black (Rolled, High)";
-		picture="";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_black.paa";
 
-		uniformClass="TODO";
+		uniformClass="tmtm_u_bdu_roll_high_black";
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_black_co.paa",
@@ -185,9 +185,9 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Black (Rolled, High)";
-		picture="";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_black.paa";
 
-		uniformClass="TODO";
+		uniformClass="tmtm_u_bdu_roll_highf_black";
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_black_co.paa",
@@ -204,9 +204,9 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Black (Kneepads)";
-		picture="";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_black.paa";
 
-		uniformClass="TODO";
+		uniformClass="tmtm_u_bdu_kneepad_black";
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_black_co.paa",
@@ -223,9 +223,9 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Black (Kneepads, Rolled)";
-		picture="";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_black.paa";
 
-		uniformClass="TODO";
+		uniformClass="tmtm_u_bdu_kneepad_roll_black";
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_black_co.paa",
@@ -243,9 +243,9 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Dubok Blue";
-		picture="";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokb.paa";
 
-		uniformClass="TODO";
+		uniformClass="tmtm_u_bdu_dubokb";
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokb_co.paa",
@@ -262,9 +262,9 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Dubok Blue (Rolled)";
-		picture="";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokb.paa";
 
-		uniformClass="TODO";
+		uniformClass="tmtm_u_bdu_roll_dubokb";
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokb_co.paa",
@@ -281,9 +281,9 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Dubok Blue (Rolled, High)";
-		picture="";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokb.paa";
 
-		uniformClass="TODO";
+		uniformClass="tmtm_u_bdu_roll_high_dubokb";
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokb_co.paa",
@@ -300,9 +300,9 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Dubok Blue (Rolled, High)";
-		picture="";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokb.paa";
 
-		uniformClass="TODO";
+		uniformClass="tmtm_u_bdu_roll_highf_dubokb";
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokb_co.paa",
@@ -319,9 +319,9 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Dubok Blue (Kneepads)";
-		picture="";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokb.paa";
 
-		uniformClass="TODO";
+		uniformClass="tmtm_u_bdu_kneepad_dubokb";
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokb_co.paa",
@@ -338,9 +338,9 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Dubok Blue (Kneepads, Rolled)";
-		picture="";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokb.paa";
 
-		uniformClass="TODO";
+		uniformClass="tmtm_u_bdu_kneepad_roll_dubokb";
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokb_co.paa",
@@ -357,10 +357,10 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="BDU, Dubok Blue/Teal";
-		picture="";
+		displayName="BDU, Dubok Blue-Teal";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokb_mix.paa";
 
-		uniformClass="TODO";
+		uniformClass="tmtm_u_bdu_dubokb_mix";
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokb_mix_co.paa",
@@ -376,10 +376,10 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="BDU, Dubok Blue/Teal (Rolled)";
-		picture="";
+		displayName="BDU, Dubok Blue-Teal (Rolled)";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokb_mix.paa";
 
-		uniformClass="TODO";
+		uniformClass="tmtm_u_bdu_roll_dubokb_mix";
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokb_mix_co.paa",
@@ -395,10 +395,10 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="BDU, Dubok Blue/Teal (Rolled, High)";
-		picture="";
+		displayName="BDU, Dubok Blue-Teal (Rolled, High)";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokb_mix.paa";
 
-		uniformClass="TODO";
+		uniformClass="tmtm_u_bdu_roll_high_dubokb_mix";
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokb_mix_co.paa",
@@ -414,10 +414,10 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="BDU, Dubok Blue/Teal (Rolled, High)";
-		picture="";
+		displayName="BDU, Dubok Blue-Teal (Rolled, High)";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokb_mix.paa";
 
-		uniformClass="TODO";
+		uniformClass="tmtm_u_bdu_roll_highf_dubokb_mix";
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokb_mix_co.paa",
@@ -433,10 +433,10 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="BDU, Dubok Blue/Teal (Kneepads)";
-		picture="";
+		displayName="BDU, Dubok Blue-Teal (Kneepads)";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokb_mix.paa";
 
-		uniformClass="TODO";
+		uniformClass="tmtm_u_bdu_kneepad_dubokb_mix";
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokb_mix_co.paa",
@@ -452,10 +452,10 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="BDU, Dubok Blue/Teal (Kneepads, Rolled)";
-		picture="";
+		displayName="BDU, Dubok Blue-Teal (Kneepads, Rolled)";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokb_mix.paa";
 
-		uniformClass="TODO";
+		uniformClass="tmtm_u_bdu_kneepad_roll_dubokb_mix";
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokb_mix_co.paa",
@@ -473,9 +473,9 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Dubok Gray";
-		picture="";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokgb.paa";
 
-		uniformClass="TODO";
+		uniformClass="tmtm_u_bdu_dubokgb";
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokgb_co.paa",
@@ -492,9 +492,9 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Dubok Gray (Rolled)";
-		picture="";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokgb.paa";
 
-		uniformClass="TODO";
+		uniformClass="tmtm_u_bdu_roll_dubokgb";
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokgb_co.paa",
@@ -511,9 +511,9 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Dubok Gray (Rolled, High)";
-		picture="";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokgb.paa";
 
-		uniformClass="TODO";
+		uniformClass="tmtm_u_bdu_roll_high_dubokgb";
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokgb_co.paa",
@@ -530,9 +530,9 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Dubok Gray (Rolled, High)";
-		picture="";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokgb.paa";
 
-		uniformClass="TODO";
+		uniformClass="tmtm_u_bdu_roll_highf_dubokgb";
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokgb_co.paa",
@@ -549,9 +549,9 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Dubok Gray (Kneepads)";
-		picture="";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokgb.paa";
 
-		uniformClass="TODO";
+		uniformClass="tmtm_u_bdu_kneepad_dubokgb";
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokgb_co.paa",
@@ -568,9 +568,9 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Dubok Gray (Kneepads, Rolled)";
-		picture="";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokgb.paa";
 
-		uniformClass="TODO";
+		uniformClass="tmtm_u_bdu_kneepad_roll_dubokgb";
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokgb_co.paa",
@@ -587,10 +587,10 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="BDU, Dubok Gray/Pale";
-		picture="";
+		displayName="BDU, Dubok Gray-Pale";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokgb_mix_a.paa";
 
-		uniformClass="TODO";
+		uniformClass="tmtm_u_bdu_dubokgb_mix_a";
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokgb_mix_a_co.paa",
@@ -606,10 +606,10 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="BDU, Dubok Gray/Pale (Rolled)";
-		picture="";
+		displayName="BDU, Dubok Gray-Pale (Rolled)";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokgb_mix_a.paa";
 
-		uniformClass="TODO";
+		uniformClass="tmtm_u_bdu_roll_dubokgb_mix_a";
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokgb_mix_a_co.paa",
@@ -625,10 +625,10 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="BDU, Dubok Gray/Pale (Rolled, High)";
-		picture="";
+		displayName="BDU, Dubok Gray-Pale (Rolled, High)";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokgb_mix_a.paa";
 
-		uniformClass="TODO";
+		uniformClass="tmtm_u_bdu_roll_high_dubokgb_mix_a";
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokgb_mix_a_co.paa",
@@ -644,10 +644,10 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="BDU, Dubok Gray/Pale (Rolled, High)";
-		picture="";
+		displayName="BDU, Dubok Gray-Pale (Rolled, High)";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokgb_mix_a.paa";
 
-		uniformClass="TODO";
+		uniformClass="tmtm_u_bdu_roll_highf_dubokgb_mix_a";
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokgb_mix_a_co.paa",
@@ -663,10 +663,10 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="BDU, Dubok Gray/Pale (Kneepads)";
-		picture="";
+		displayName="BDU, Dubok Gray-Pale (Kneepads)";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokgb_mix_a.paa";
 
-		uniformClass="TODO";
+		uniformClass="tmtm_u_bdu_kneepad_dubokgb_mix_a";
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokgb_mix_a_co.paa",
@@ -682,10 +682,10 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="BDU, Dubok Gray/Pale (Kneepads, Rolled)";
-		picture="";
+		displayName="BDU, Dubok Gray-Pale (Kneepads, Rolled)";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokgb_mix_a.paa";
 
-		uniformClass="TODO";
+		uniformClass="tmtm_u_bdu_kneepad_roll_dubokgb_mix_a";
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokgb_mix_a_co.paa",
@@ -702,10 +702,10 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="BDU, Dubok Gray/Black";
-		picture="";
+		displayName="BDU, Dubok Gray-Black";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokgb_mix_b.paa";
 
-		uniformClass="TODO";
+		uniformClass="tmtm_u_bdu_dubokgb_mix_b";
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokgb_mix_b_co.paa",
@@ -721,10 +721,10 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="BDU, Dubok Gray/Black (Rolled)";
-		picture="";
+		displayName="BDU, Dubok Gray-Black (Rolled)";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokgb_mix_b.paa";
 
-		uniformClass="TODO";
+		uniformClass="tmtm_u_bdu_roll_dubokgb_mix_b";
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokgb_mix_b_co.paa",
@@ -740,10 +740,10 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="BDU, Dubok Gray/Black (Rolled, High)";
-		picture="";
+		displayName="BDU, Dubok Gray-Black (Rolled, High)";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokgb_mix_b.paa";
 
-		uniformClass="TODO";
+		uniformClass="tmtm_u_bdu_roll_high_dubokgb_mix_b";
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokgb_mix_b_co.paa",
@@ -759,10 +759,10 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="BDU, Dubok Gray/Black (Rolled, High)";
-		picture="";
+		displayName="BDU, Dubok Gray-Black (Rolled, High)";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokgb_mix_b.paa";
 
-		uniformClass="TODO";
+		uniformClass="tmtm_u_bdu_roll_highf_dubokgb_mix_b";
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokgb_mix_b_co.paa",
@@ -778,10 +778,10 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="BDU, Dubok Gray/Black (Kneepads)";
-		picture="";
+		displayName="BDU, Dubok Gray-Black (Kneepads)";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokgb_mix_b.paa";
 
-		uniformClass="TODO";
+		uniformClass="tmtm_u_bdu_kneepad_dubokgb_mix_b";
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokgb_mix_b_co.paa",
@@ -797,10 +797,10 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="BDU, Dubok Gray/Black (Kneepads, Rolled)";
-		picture="";
+		displayName="BDU, Dubok Gray-Black (Kneepads, Rolled)";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokgb_mix_b.paa";
 
-		uniformClass="TODO";
+		uniformClass="tmtm_u_bdu_kneepad_roll_dubokgb_mix_b";
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokgb_mix_b_co.paa",
@@ -818,9 +818,9 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Dubok Pale";
-		picture="";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokpb.paa";
 
-		uniformClass="TODO";
+		uniformClass="tmtm_u_bdu_dubokpb";
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokpb_co.paa",
@@ -837,9 +837,9 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Dubok Pale (Rolled)";
-		picture="";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokpb.paa";
 
-		uniformClass="TODO";
+		uniformClass="tmtm_u_bdu_roll_dubokpb";
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokpb_co.paa",
@@ -856,9 +856,9 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Dubok Pale (Rolled, High)";
-		picture="";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokpb.paa";
 
-		uniformClass="TODO";
+		uniformClass="tmtm_u_bdu_roll_high_dubokpb";
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokpb_co.paa",
@@ -875,9 +875,9 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Dubok Pale (Rolled, High)";
-		picture="";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokpb.paa";
 
-		uniformClass="TODO";
+		uniformClass="tmtm_u_bdu_roll_highf_dubokpb";
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokpb_co.paa",
@@ -894,9 +894,9 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Dubok Pale (Kneepads)";
-		picture="";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokpb.paa";
 
-		uniformClass="TODO";
+		uniformClass="tmtm_u_bdu_kneepad_dubokpb";
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokpb_co.paa",
@@ -913,9 +913,9 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Dubok Pale (Kneepads, Rolled)";
-		picture="";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokpb.paa";
 
-		uniformClass="TODO";
+		uniformClass="tmtm_u_bdu_kneepad_roll_dubokpb";
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokpb_co.paa",
@@ -923,7 +923,7 @@ class CfgVehicles
 		};
 	};
 
-	// # Dubok Pale/Gray
+	// # Dubok Pale-Gray
 	class tmtm_bdu_dubokpb_mix: tmtm_bdu_base
 	{
 		scope=1;
@@ -932,10 +932,10 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="BDU, Dubok Pale/Gray";
-		picture="";
+		displayName="BDU, Dubok Pale-Gray";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokpb_mix.paa";
 
-		uniformClass="TODO";
+		uniformClass="tmtm_u_bdu_dubokpb_mix";
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokpb_mix_co.paa",
@@ -951,10 +951,10 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="BDU, Dubok Pale/Gray (Rolled)";
-		picture="";
+		displayName="BDU, Dubok Pale-Gray (Rolled)";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokpb_mix.paa";
 
-		uniformClass="TODO";
+		uniformClass="tmtm_u_bdu_roll_dubokpb_mix";
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokpb_mix_co.paa",
@@ -970,10 +970,10 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="BDU, Dubok Pale/Gray (Rolled, High)";
-		picture="";
+		displayName="BDU, Dubok Pale-Gray (Rolled, High)";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokpb_mix.paa";
 
-		uniformClass="TODO";
+		uniformClass="tmtm_u_bdu_roll_high_dubokpb_mix";
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokpb_mix_co.paa",
@@ -989,10 +989,10 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="BDU, Dubok Pale/Gray (Rolled, High)";
-		picture="";
+		displayName="BDU, Dubok Pale-Gray (Rolled, High)";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokpb_mix.paa";
 
-		uniformClass="TODO";
+		uniformClass="tmtm_u_bdu_roll_highf_dubokpb_mix";
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokpb_mix_co.paa",
@@ -1008,10 +1008,10 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="BDU, Dubok Pale/Gray (Kneepads)";
-		picture="";
+		displayName="BDU, Dubok Pale-Gray (Kneepads)";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokpb_mix.paa";
 
-		uniformClass="TODO";
+		uniformClass="tmtm_u_bdu_kneepad_dubokpb_mix";
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokpb_mix_co.paa",
@@ -1027,10 +1027,10 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="BDU, Dubok Pale/Gray (Kneepads, Rolled)";
-		picture="";
+		displayName="BDU, Dubok Pale-Gray (Kneepads, Rolled)";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokpb_mix.paa";
 
-		uniformClass="TODO";
+		uniformClass="tmtm_u_bdu_kneepad_roll_dubokpb_mix";
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokpb_mix_co.paa",
@@ -1048,9 +1048,9 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Dubok Teal";
-		picture="";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokt.paa";
 
-		uniformClass="TODO";
+		uniformClass="tmtm_u_bdu_dubokt";
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokt_co.paa",
@@ -1067,9 +1067,9 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Dubok Teal (Rolled)";
-		picture="";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokt.paa";
 
-		uniformClass="TODO";
+		uniformClass="tmtm_u_bdu_roll_dubokt";
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokt_co.paa",
@@ -1086,9 +1086,9 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Dubok Teal (Rolled, High)";
-		picture="";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokt.paa";
 
-		uniformClass="TODO";
+		uniformClass="tmtm_u_bdu_roll_high_dubokt";
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokt_co.paa",
@@ -1105,9 +1105,9 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Dubok Teal (Rolled, High)";
-		picture="";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokt.paa";
 
-		uniformClass="TODO";
+		uniformClass="tmtm_u_bdu_roll_highf_dubokt";
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokt_co.paa",
@@ -1124,9 +1124,9 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Dubok Teal (Kneepads)";
-		picture="";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokt.paa";
 
-		uniformClass="TODO";
+		uniformClass="tmtm_u_bdu_kneepad_dubokt";
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokt_co.paa",
@@ -1143,9 +1143,9 @@ class CfgVehicles
 		author="simcardo, erem2k";
 
 		displayName="BDU, Dubok Teal (Kneepads, Rolled)";
-		picture="";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokt.paa";
 
-		uniformClass="TODO";
+		uniformClass="tmtm_u_bdu_kneepad_roll_dubokt";
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokt_co.paa",
@@ -1162,10 +1162,10 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="BDU, Dubok Teal/Blue";
-		picture="";
+		displayName="BDU, Dubok Teal-Blue";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokt_mix.paa";
 
-		uniformClass="TODO";
+		uniformClass="tmtm_u_bdu_dubokt_mix";
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokt_mix_co.paa",
@@ -1181,10 +1181,10 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="BDU, Dubok Teal/Blue (Rolled)";
-		picture="";
+		displayName="BDU, Dubok Teal-Blue (Rolled)";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokt_mix.paa";
 
-		uniformClass="TODO";
+		uniformClass="tmtm_u_bdu_dubokt_mix";
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokt_mix_co.paa",
@@ -1200,10 +1200,10 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="BDU, Dubok Teal/Blue (Rolled, High)";
-		picture="";
+		displayName="BDU, Dubok Teal-Blue (Rolled, High)";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokt_mix.paa";
 
-		uniformClass="TODO";
+		uniformClass="tmtm_u_bdu_roll_high_dubokt_mix";
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokt_mix_co.paa",
@@ -1219,10 +1219,10 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="BDU, Dubok Teal/Blue (Rolled, High)";
-		picture="";
+		displayName="BDU, Dubok Teal-Blue (Rolled, High)";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokt_mix.paa";
 
-		uniformClass="TODO";
+		uniformClass="tmtm_u_bdu_roll_highf_dubokt_mix";
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokt_mix_co.paa",
@@ -1238,10 +1238,10 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="BDU, Dubok Teal/Blue (Kneepads)";
-		picture="";
+		displayName="BDU, Dubok Teal-Blue (Kneepads)";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokt_mix.paa";
 
-		uniformClass="TODO";
+		uniformClass="tmtm_u_bdu_kneepad_dubokt_mix";
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokt_mix_co.paa",
@@ -1257,10 +1257,10 @@ class CfgVehicles
 		
 		author="simcardo, erem2k";
 
-		displayName="BDU, Dubok Teal/Blue (Kneepads, Rolled)";
-		picture="";
+		displayName="BDU, Dubok Teal-Blue (Kneepads, Rolled)";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokt_mix.paa";
 
-		uniformClass="TODO";
+		uniformClass="tmtm_u_bdu_kneepad_roll_dubokt_mix";
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokt_mix_co.paa",

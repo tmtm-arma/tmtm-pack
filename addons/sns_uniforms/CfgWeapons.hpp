@@ -35,7 +35,7 @@ class CfgWeapons
 
 		displayName="BDU, Black";
 		descriptionShort="Uniform, Battledress, Black";
-		picture="TODOPREVIEW";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_black.paa";
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_black_co.paa"
@@ -131,7 +131,7 @@ class CfgWeapons
 
 		displayName="BDU, Dubok Blue";
 		descriptionShort="Uniform, Battledress, Dubok Blue";
-		picture="TODOPREVIEW";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokb.paa";
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokb_co.paa"
@@ -217,7 +217,7 @@ class CfgWeapons
 		};
 	};
 
-	// # Dubok Blue/Teal
+	// # Dubok Blue-Teal
 	class tmtm_u_bdu_dubokb_mix: tmtm_u_bdu_base
 	{
 		scope=2;
@@ -225,9 +225,9 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="BDU, Dubok Blue/Teal";
-		descriptionShort="Uniform, Battledress, Dubok Blue/Teal";
-		picture="TODOPREVIEW";
+		displayName="BDU, Dubok Blue-Teal";
+		descriptionShort="Uniform, Battledress, Dubok Blue-Teal";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokb_mix.paa";
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokb_mix_co.paa"
@@ -245,7 +245,7 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="BDU, Dubok Blue/Teal (Rolled)";
+		displayName="BDU, Dubok Blue-Teal (Rolled)";
 
 		class ItemInfo: ItemInfo
 		{
@@ -260,7 +260,7 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="BDU, Dubok Blue/Teal (Rolled, High)";
+		displayName="BDU, Dubok Blue-Teal (Rolled, High)";
 
 		class ItemInfo: ItemInfo
 		{
@@ -275,7 +275,7 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="BDU, Dubok Blue/Teal (Rolled, High)";
+		displayName="BDU, Dubok Blue-Teal (Rolled, High)";
 
 		class ItemInfo: ItemInfo
 		{
@@ -290,7 +290,7 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="BDU, Dubok Blue/Teal (Kneepads)";
+		displayName="BDU, Dubok Blue-Teal (Kneepads)";
 
 		class ItemInfo: ItemInfo
 		{
@@ -305,7 +305,7 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="BDU, Dubok Blue/Teal (Kneepads, Rolled)";
+		displayName="BDU, Dubok Blue-Teal (Kneepads, Rolled)";
 
 		class ItemInfo: ItemInfo
 		{
@@ -323,7 +323,7 @@ class CfgWeapons
 
 		displayName="BDU, Dubok Gray";
 		descriptionShort="Uniform, Battledress, Dubok Gray";
-		picture="TODOPREVIEW";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokgb.paa";
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokgb_co.paa"
@@ -409,7 +409,7 @@ class CfgWeapons
 		};
 	};
 
-	// # Dubok Gray/Pale
+	// # Dubok Gray-Pale
 	class tmtm_u_bdu_dubokgb_mix_a: tmtm_u_bdu_base
 	{
 		scope=2;
@@ -417,9 +417,9 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="BDU, Dubok Gray/Pale";
-		descriptionShort="Uniform, Battledress, Dubok Gray/Pale";
-		picture="TODOPREVIEW";
+		displayName="BDU, Dubok Gray-Pale";
+		descriptionShort="Uniform, Battledress, Dubok Gray-Pale";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokgb_mix_a.paa";
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokgb_mix_a_co.paa"
@@ -437,7 +437,7 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="BDU, Dubok Gray/Pale (Rolled)";
+		displayName="BDU, Dubok Gray-Pale (Rolled)";
 
 		class ItemInfo: ItemInfo
 		{
@@ -452,7 +452,7 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="BDU, Dubok Gray/Pale (Rolled, High)";
+		displayName="BDU, Dubok Gray-Pale (Rolled, High)";
 
 		class ItemInfo: ItemInfo
 		{
@@ -467,7 +467,7 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="BDU, Dubok Gray/Pale (Rolled, High)";
+		displayName="BDU, Dubok Gray-Pale (Rolled, High)";
 
 		class ItemInfo: ItemInfo
 		{
@@ -482,7 +482,7 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="BDU, Dubok Gray/Pale (Kneepads)";
+		displayName="BDU, Dubok Gray-Pale (Kneepads)";
 
 		class ItemInfo: ItemInfo
 		{
@@ -497,7 +497,7 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="BDU, Dubok Gray/Pale (Kneepads, Rolled)";
+		displayName="BDU, Dubok Gray-Pale (Kneepads, Rolled)";
 
 		class ItemInfo: ItemInfo
 		{
@@ -515,7 +515,7 @@ class CfgWeapons
 
 		displayName="BDU, Dubok Gray/Black";
 		descriptionShort="Uniform, Battledress, dubokgb_mix_b";
-		picture="TODOPREVIEW";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokgb_mix_b.paa";
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokgb_mix_b_co.paa"
@@ -611,7 +611,7 @@ class CfgWeapons
 
 		displayName="BDU, Dubok Pale";
 		descriptionShort="Uniform, Battledress, Dubok Pale";
-		picture="TODOPREVIEW";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokpb.paa";
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokpb_co.paa"
@@ -697,7 +697,7 @@ class CfgWeapons
 		};
 	};
 
-	// # Dubok Pale/Gray
+	// # Dubok Pale-Gray
 	class tmtm_u_bdu_dubokpb_mix: tmtm_u_bdu_base
 	{
 		scope=2;
@@ -705,9 +705,9 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="BDU, Dubok Pale/Gray";
+		displayName="BDU, Dubok Pale-Gray";
 		descriptionShort="Uniform, Battledress, dubokpb_mix";
-		picture="TODOPREVIEW";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokpb_mix.paa";
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokpb_mix_co.paa"
@@ -725,7 +725,7 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="BDU, Dubok Pale/Gray (Rolled)";
+		displayName="BDU, Dubok Pale-Gray (Rolled)";
 
 		class ItemInfo: ItemInfo
 		{
@@ -740,7 +740,7 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="BDU, Dubok Pale/Gray (Rolled, High)";
+		displayName="BDU, Dubok Pale-Gray (Rolled, High)";
 
 		class ItemInfo: ItemInfo
 		{
@@ -755,7 +755,7 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="BDU, Dubok Pale/Gray (Rolled, High)";
+		displayName="BDU, Dubok Pale-Gray (Rolled, High)";
 
 		class ItemInfo: ItemInfo
 		{
@@ -770,7 +770,7 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="BDU, Dubok Pale/Gray (Kneepads)";
+		displayName="BDU, Dubok Pale-Gray (Kneepads)";
 
 		class ItemInfo: ItemInfo
 		{
@@ -785,7 +785,7 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="BDU, Dubok Pale/Gray (Kneepads, Rolled)";
+		displayName="BDU, Dubok Pale-Gray (Kneepads, Rolled)";
 
 		class ItemInfo: ItemInfo
 		{
@@ -803,7 +803,7 @@ class CfgWeapons
 
 		displayName="BDU, Dubok Teal";
 		descriptionShort="Uniform, Battledress, Dubok Teal";
-		picture="TODOPREVIEW";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokt.paa";
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokt_co.paa"
@@ -889,7 +889,7 @@ class CfgWeapons
 		};
 	};
 
-	// # Dubok Teal/Blue
+	// # Dubok Teal-Blue
 	class tmtm_u_bdu_dubokt_mix: tmtm_u_bdu_base
 	{
 		scope=2;
@@ -897,9 +897,9 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="BDU, Dubok Teal/Blue";
-		descriptionShort="Uniform, Battledress, Dubok Teal/Blue";
-		picture="TODOPREVIEW";
+		displayName="BDU, Dubok Teal-Blue";
+		descriptionShort="Uniform, Battledress, Dubok Teal-Blue";
+		picture="\tmtm\pack\sns_uniforms\data\ui\icon_tmtm_u_bdu_dubokt_mix.paa";
 
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\sns_uniforms\data\tmtm_bdu_dubokt_mix_co.paa"
@@ -917,7 +917,7 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="BDU, Dubok Teal/Blue (Rolled)";
+		displayName="BDU, Dubok Teal-Blue (Rolled)";
 
 		class ItemInfo: ItemInfo
 		{
@@ -932,7 +932,7 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="BDU, Dubok Teal/Blue (Rolled, High)";
+		displayName="BDU, Dubok Teal-Blue (Rolled, High)";
 
 		class ItemInfo: ItemInfo
 		{
@@ -947,7 +947,7 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="BDU, Dubok Teal/Blue (Rolled, High)";
+		displayName="BDU, Dubok Teal-Blue (Rolled, High)";
 
 		class ItemInfo: ItemInfo
 		{
@@ -962,7 +962,7 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="BDU, Dubok Teal/Blue (Kneepads)";
+		displayName="BDU, Dubok Teal-Blue (Kneepads)";
 
 		class ItemInfo: ItemInfo
 		{
@@ -977,7 +977,7 @@ class CfgWeapons
 
 		author="Casper_TFG, erem2k";
 
-		displayName="BDU, Dubok Teal/Blue (Kneepads, Rolled)";
+		displayName="BDU, Dubok Teal-Blue (Kneepads, Rolled)";
 
 		class ItemInfo: ItemInfo
 		{
