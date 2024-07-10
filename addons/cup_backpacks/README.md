@@ -17,3 +17,4 @@ Smersh rigs configured as backpacks.
 
 ## RPS Smersh
 RPS Smersh rigs configured as backpacks.
+Includes belt-only (PS Smersh) variants.
