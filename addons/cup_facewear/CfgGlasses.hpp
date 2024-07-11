@@ -161,6 +161,8 @@ class cfgGlasses
 		hiddenSelections[] = {
 			"camo1"
 		};
+
+		identityTypes[]={};
 	};
 
 	class tmtm_f_balaclava_slit_loose_base: tmtm_f_balaclava_slit_base
