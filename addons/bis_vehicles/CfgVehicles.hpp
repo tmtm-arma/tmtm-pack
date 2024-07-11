@@ -7,7 +7,6 @@ class CfgVehicles {
 
 	// AMV-7 Marshall textures
 	class Wheeled_APC_F;
-	class APC_Wheeled_01_base_F;
 	class APC_Wheeled_01_base_F: Wheeled_APC_F {
 		class TextureSources {
 			class tmtmpack_uaf_olive {
