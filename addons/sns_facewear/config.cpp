@@ -1,3 +1,6 @@
+#pragma hemtt flag pe23_ignore_has_include
+#if __has_include("\simc_uaf_69\config.bin")
+
 #include "script_component.hpp"
 
 class CfgPatches {
@@ -21,3 +24,5 @@ class CfgPatches {
 
 #include "CfgGlasses.hpp"
 #include "CfgWeapons.hpp"
+
+#endif
