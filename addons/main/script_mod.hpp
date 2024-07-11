@@ -7,7 +7,6 @@
 #define VERSION_AR  MAJOR,MINOR,PATCHLVL,BUILD
 
 #define QUOTE(var1) #var1
-#define HTTPS_QUOTE(link) QUOTE(https:/link)
 
 // MINIMAL required version for the Mod. Components can specify others..
 #define REQUIRED_VERSION 1.98
@@ -22,4 +21,4 @@
 #define ADDON DOUBLES(PREFIX,COMPONENT)
 
 #define MOD_AUTHOR QUOTE(TMTM)
-#define MOD_URL HTTPS_QUOTE(/github.com/tmtm-arma/tmtm-pack) 
+#define MOD_URL "https://github.com/tmtm-arma/tmtm-pack"

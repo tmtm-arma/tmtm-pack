@@ -1,6 +1,3 @@
-#pragma hemtt flag pe23_ignore_has_include
-#if __has_include("\simc_uaf_88\config.bin")
-
 #include "script_component.hpp"
 
 class CfgPatches {
@@ -19,10 +16,10 @@ class CfgPatches {
 		version = VERSION; 
 		versionStr = QUOTE(VERSION_STR);
 		versionAr[] = {QUOTE(VERSION_AR)};
+
+		skipWhenMissingDependencies = 1;
 	};
 };
 
 #include "CfgVehicles.hpp"
 #include "CfgWeapons.hpp"
-
-#endif
