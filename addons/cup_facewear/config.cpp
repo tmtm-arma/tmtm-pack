@@ -17,4 +17,6 @@ class CfgPatches {
 		versionAr[] = {QUOTE(VERSION_AR)};
 	};
 };
+
 #include "CfgGlasses.hpp"
+#include "CfgWeapons.hpp"
