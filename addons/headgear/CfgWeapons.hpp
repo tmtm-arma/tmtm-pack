@@ -1066,4 +1066,208 @@ class CfgWeapons
 			hiddenSelectionsTextures[]={"\tmtm\pack\headgear\Data\tmtm_k6_cpd_olive_visor_co.paa"};
 		};
 	};
+
+	// Maritime Fast Helmet
+	class tmtm_h_fast_mt_base: ItemCore
+	{
+		author="Trenchgun";
+		scope=0;
+		displayName="Maritime FAST Base";
+		descriptionShort = "NIJ Level III";
+		picture="";
+		model="\tmtm\pack\headgear\tmtm_fast_mt.p3d";
+		hiddenSelections[]={"camo"};
+		hiddenSelectionsTextures[]={
+			"\tmtm\pack\headgear\Data\tmtm_fast_mt_helmet_olive_co.paa"
+		};
+		class ItemInfo: HeadgearItem
+		{
+			mass=45;
+			uniformModel="\tmtm\pack\headgear\tmtm_fast_mt.p3d";
+			modelSides[]={6};
+			hiddenSelections[]={"camo"};
+			hiddenSelectionsTextures[]={"\tmtm\pack\headgear\Data\tmtm_fast_mt_helmet_olive_co.paa"};
+			class HitpointsProtectionInfo
+			{
+				class Head
+				{
+					hitpointName="HitHead";
+					armor=10;
+					passThrough=0.1;
+				};
+			};
+		};
+	};
+	class tmtm_h_fast_mt_cover_base: tmtm_h_fast_mt_base
+	{
+		author="Trenchgun";
+		scope=0;
+		displayName="Maritime FAST Cover Base";
+		descriptionShort = "NIJ Level III";
+		picture="";
+		model="\tmtm\pack\headgear\tmtm_fast_mt_cover.p3d";
+		hiddenSelections[]={"camo", "camoCover"};
+		hiddenSelectionsTextures[]={
+			"\tmtm\pack\headgear\Data\tmtm_fast_mt_helmet_olive_co.paa", 
+			"\tmtm\pack\headgear\Data\tmtm_fast_mt_cover_olive_co.paa"
+		};
+		class ItemInfo: HeadgearItem
+		{
+			mass=45;
+			uniformModel="\tmtm\pack\headgear\tmtm_fast_mt_cover.p3d";
+			modelSides[]={6};
+			hiddenSelections[]={"camo", "camoCover"};
+			hiddenSelectionsTextures[]={
+				"\tmtm\pack\headgear\Data\tmtm_fast_mt_helmet_olive_co.paa", 
+				"\tmtm\pack\headgear\Data\tmtm_fast_mt_cover_olive_co.paa"
+			};
+			class HitpointsProtectionInfo
+			{
+				class Head
+				{
+					hitpointName="HitHead";
+					armor=10;
+					passThrough=0.1;
+				};
+			};
+		};
+	};
+	class tmtm_h_fast_mt_headset_base: tmtm_h_fast_mt_base
+	{
+		author="Trenchgun";
+		scope=0;
+		displayName="Maritime FAST Headset Base";
+		descriptionShort = "NIJ Level III";
+		picture="";
+		model="\tmtm\pack\headgear\tmtm_fast_mt_headset.p3d";
+		hiddenSelections[]={"camo", "camoHeadset"};
+		hiddenSelectionsTextures[]={
+			"\tmtm\pack\headgear\Data\tmtm_fast_mt_helmet_olive_co.paa", 
+			"\tmtm\pack\headgear\Data\tmtm_fast_mt_headset_olive_co.paa"
+		};
+		class ItemInfo: HeadgearItem
+		{
+			mass=45;
+			uniformModel="\tmtm\pack\headgear\tmtm_fast_mt_headset.p3d";
+			modelSides[]={6};
+			hiddenSelections[]={"camo", "camoHeadset"};
+			hiddenSelectionsTextures[]={
+				"\tmtm\pack\headgear\Data\tmtm_fast_mt_helmet_olive_co.paa", 
+				"\tmtm\pack\headgear\Data\tmtm_fast_mt_headset_olive_co.paa"
+			};
+			class HitpointsProtectionInfo
+			{
+				class Head
+				{
+					hitpointName="HitHead";
+					armor=10;
+					passThrough=0.1;
+				};
+			};
+		};
+	};
+	class tmtm_h_fast_mt_cover_headset_base: tmtm_h_fast_mt_base
+	{
+		author="Trenchgun";
+		scope=0;
+		displayName="Maritime FAST Cover/Headset Base";
+		descriptionShort = "NIJ Level III";
+		picture="";
+		model="\tmtm\pack\headgear\tmtm_fast_mt_cover_headset.p3d";
+		hiddenSelections[]={"camo", "camoHeadset", "camoCover"};
+		hiddenSelectionsTextures[]={
+			"\tmtm\pack\headgear\Data\tmtm_fast_mt_helmet_olive_co.paa", 
+			"\tmtm\pack\headgear\Data\tmtm_fast_mt_headset_olive_co.paa", 
+			"\tmtm\pack\headgear\Data\tmtm_fast_mt_cover_olive_co.paa"
+		};
+		class ItemInfo: HeadgearItem
+		{
+			mass=45;
+			uniformModel="\tmtm\pack\headgear\tmtm_fast_mt_cover_headset.p3d";
+			modelSides[]={6};
+			hiddenSelections[]={"camo", "camoHeadset", "camoCover"};
+			hiddenSelectionsTextures[]={
+				"\tmtm\pack\headgear\Data\tmtm_fast_mt_helmet_olive_co.paa", 
+				"\tmtm\pack\headgear\Data\tmtm_fast_mt_headset_olive_co.paa", 
+				"\tmtm\pack\headgear\Data\tmtm_fast_mt_cover_olive_co.paa"
+			};
+			class HitpointsProtectionInfo
+			{
+				class Head
+				{
+					hitpointName="HitHead";
+					armor=10;
+					passThrough=0.1;
+				};
+			};
+		};
+	};
+	class tmtm_h_fast_mt_olive: tmtm_h_fast_mt_base
+	{
+		scope=2;
+		displayName="FAST MT (Olive)";
+		hiddenSelectionsTextures[]={
+			"\tmtm\pack\headgear\Data\tmtm_fast_mt_helmet_olive_co.paa"
+		};
+		picture="";
+		class ItemInfo: ItemInfo
+		{
+			hiddenSelectionsTextures[]={
+				"\tmtm\pack\headgear\Data\tmtm_fast_mt_helmet_olive_co.paa"
+			};
+		};
+	};
+	class tmtm_h_fast_mt_cover_olive: tmtm_h_fast_mt_cover_base
+	{
+		scope=2;
+		displayName="FAST MT Cover (Olive)";
+		hiddenSelectionsTextures[]={
+			"\tmtm\pack\headgear\Data\tmtm_fast_mt_helmet_olive_co.paa", 
+			"\tmtm\pack\headgear\Data\tmtm_fast_mt_cover_olive_co.paa"
+		};
+		picture="";
+		class ItemInfo: ItemInfo
+		{
+			hiddenSelectionsTextures[]={
+				"\tmtm\pack\headgear\Data\tmtm_fast_mt_helmet_olive_co.paa", 
+				"\tmtm\pack\headgear\Data\tmtm_fast_mt_cover_olive_co.paa"
+			};
+		};
+	};
+	class tmtm_h_fast_mt_headset_olive: tmtm_h_fast_mt_headset_base
+	{
+		scope=2;
+		displayName="FAST MT Headset (Olive)";
+		hiddenSelectionsTextures[]={
+			"\tmtm\pack\headgear\Data\tmtm_fast_mt_helmet_olive_co.paa", 
+			"\tmtm\pack\headgear\Data\tmtm_fast_mt_headset_olive_co.paa"
+		};
+		picture="";
+		class ItemInfo: ItemInfo
+		{
+			hiddenSelectionsTextures[]={
+				"\tmtm\pack\headgear\Data\tmtm_fast_mt_helmet_olive_co.paa", 
+				"\tmtm\pack\headgear\Data\tmtm_fast_mt_headset_olive_co.paa"
+			};
+		};
+	};
+	class tmtm_h_fast_mt_cover_headset_olive: tmtm_h_fast_mt_cover_headset_base
+	{
+		scope=2;
+		displayName="FAST MT Cover/Headset (Olive)";
+		hiddenSelectionsTextures[]={
+			"\tmtm\pack\headgear\Data\tmtm_fast_mt_helmet_olive_co.paa", 
+			"\tmtm\pack\headgear\Data\tmtm_fast_mt_headset_olive_co.paa",
+			"\tmtm\pack\headgear\Data\tmtm_fast_mt_cover_olive_co.paa"
+		};
+		picture="";
+		class ItemInfo: ItemInfo
+		{
+			hiddenSelectionsTextures[]={
+			"\tmtm\pack\headgear\Data\tmtm_fast_mt_helmet_olive_co.paa", 
+			"\tmtm\pack\headgear\Data\tmtm_fast_mt_headset_olive_co.paa",
+			"\tmtm\pack\headgear\Data\tmtm_fast_mt_cover_olive_co.paa"
+		};
+		};
+	};
 };
