@@ -8,7 +8,8 @@ class CfgPatches {
 		requiredVersion = REQUIRED_VERSION;
 		requiredAddons[] = {
 			"tmtmpack_main",
-			"CUP_Creatures_People_LoadOrder"
+			"CUP_Creatures_People_LoadOrder",
+			"CUP_Creatures_Military_Russia"
 		};
 		author = MOD_AUTHOR;
 		url = MOD_URL;

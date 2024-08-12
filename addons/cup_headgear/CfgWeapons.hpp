@@ -237,6 +237,10 @@ class CfgWeapons
 			mass = 20;
 			uniformModel = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\CUP_H_SSH68_cover.p3d";
 		};
+
+		hiddenSelectionsMaterials[] = {
+			"\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered.rvmat"
+		};
 	};
 
 	// Patrol Cap
@@ -499,6 +503,28 @@ class CfgWeapons
 		};
 	};
 
+	// Patches
+	class CUP_H_RUS_SSH68_cover_base;
+	class CUP_H_RUS_SSH68_cover_berezka : CUP_H_RUS_SSH68_cover_base
+	{
+		displayName = "SSh-68, Covered (Berezka Yellow)";
+	};
+
+	class CUP_H_RUS_SSH68_cover_vsr84_dubok : CUP_H_RUS_SSH68_cover_base
+	{
+		displayName = "SSh-68, Covered (TTsKO)";
+	};
+
+	class CUP_H_RUS_SSH68_cover_vsr93 : CUP_H_RUS_SSH68_cover_base
+	{
+		displayName = "SSh-68, Covered (VSR-93)";
+	};
+
+	class CUP_H_RUS_SSH68_cover_vsr98 : CUP_H_RUS_SSH68_cover_base
+	{
+		displayName = "SSh-68, Covered (VSR-98)";
+	};
+
 	// SSh-68 (Berezka White/Covered)
 	class tmtm_h_ssh68_covered_berezkawhite: tmtm_h_ssh68_covered_base
 	{
@@ -508,7 +534,7 @@ class CfgWeapons
 		scopeCurator=2;
 		scopeArsenal=2;
 
-		displayName  = "SSh-68 (Berezka White/Covered)";
+		displayName  = "SSh-68, Covered (Berezka White)";
 		picture="\tmtm\pack\cup_headgear\Data\ui\icon_tmtm_h_ssh68_covered_berezkawhite.paa";
 
 		hiddenSelectionsTextures[] = {"\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_berezkawhite_co.paa"};
@@ -526,7 +552,7 @@ class CfgWeapons
 		scopeCurator=2;
 		scopeArsenal=2;
 
-		displayName  = "SSh-68 (MM14/Covered)";
+		displayName  = "SSh-68, Covered (MM14)";
 		picture="\tmtm\pack\cup_headgear\Data\ui\icon_tmtm_h_ssh68_covered_mm14.paa";
 
 		hiddenSelectionsTextures[] = {"\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_mm14_co.paa"};
@@ -544,13 +570,157 @@ class CfgWeapons
 		scopeCurator=2;
 		scopeArsenal=2;
 
-		displayName  = "SSh-68 (Dark Olive/Covered)";
+		displayName  = "SSh-68, Covered (Dark Olive)";
 		picture="\tmtm\pack\cup_headgear\Data\ui\icon_tmtm_h_ssh68_covered_darkolive.paa";
 
 		hiddenSelectionsTextures[] = {"\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_darkolive_co.paa"};
 		class ItemInfo: ItemInfo
 		{
 			hiddenSelectionsTextures[] = {"\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_darkolive_co.paa"};
+		};
+	};
+
+	class tmtm_h_ssh68_covered_aaf: tmtm_h_ssh68_covered_base
+	{
+		author="erem2k";
+		
+		scope=2;
+		scopeCurator=2;
+		scopeArsenal=2;
+
+		displayName  = "SSh-68, Covered (Digital)";
+		picture="\tmtm\pack\cup_headgear\Data\ui\icon_tmtm_h_ssh68_covered_berezkawhite.paa";
+
+		hiddenSelectionsTextures[] = {"\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_aaf_co.paa"};
+		class ItemInfo: ItemInfo
+		{
+			hiddenSelectionsTextures[] = {"\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_aaf_co.paa"};
+		};
+	};
+
+	class tmtm_h_ssh68_covered_csat: tmtm_h_ssh68_covered_base
+	{
+		author="erem2k";
+		
+		scope=2;
+		scopeCurator=2;
+		scopeArsenal=2;
+
+		displayName  = "SSh-68, Covered (Hex)";
+		picture="\tmtm\pack\cup_headgear\Data\ui\icon_tmtm_h_ssh68_covered_berezkawhite.paa";
+
+		hiddenSelectionsTextures[] = {"\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_csat_co.paa"};
+		class ItemInfo: ItemInfo
+		{
+			hiddenSelectionsTextures[] = {"\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_csat_co.paa"};
+		};
+	};
+
+	class tmtm_h_ssh68_covered_butanb: tmtm_h_ssh68_covered_base
+	{
+		author="erem2k";
+		
+		scope=2;
+		scopeCurator=2;
+		scopeArsenal=2;
+
+		displayName  = "SSh-68, Covered (TTsKO Brown)";
+		picture="\tmtm\pack\cup_headgear\Data\ui\icon_tmtm_h_ssh68_covered_berezkawhite.paa";
+
+		hiddenSelectionsTextures[] = {"\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_ttsko_brown_co.paa"};
+		class ItemInfo: ItemInfo
+		{
+			hiddenSelectionsTextures[] = {"\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_ttsko_brown_co.paa"};
+		};
+	};
+
+	class tmtm_h_ssh68_covered_butano: tmtm_h_ssh68_covered_base
+	{
+		author="erem2k";
+		
+		scope=2;
+		scopeCurator=2;
+		scopeArsenal=2;
+
+		displayName  = "SSh-68, Covered (TTsKO Oxblood)";
+		picture="\tmtm\pack\cup_headgear\Data\ui\icon_tmtm_h_ssh68_covered_berezkawhite.paa";
+
+		hiddenSelectionsTextures[] = {"\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_ttsko_oxblood_co.paa"};
+		class ItemInfo: ItemInfo
+		{
+			hiddenSelectionsTextures[] = {"\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_ttsko_oxblood_co.paa"};
+		};
+	};
+
+	class tmtm_h_ssh68_covered_lizardt: tmtm_h_ssh68_covered_base
+	{
+		author="erem2k";
+		
+		scope=2;
+		scopeCurator=2;
+		scopeArsenal=2;
+
+		displayName  = "SSh-68, Covered (Takistan Lizard)";
+		picture="\tmtm\pack\cup_headgear\Data\ui\icon_tmtm_h_ssh68_covered_berezkawhite.paa";
+
+		hiddenSelectionsTextures[] = {"\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_lizardt_co.paa"};
+		class ItemInfo: ItemInfo
+		{
+			hiddenSelectionsTextures[] = {"\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_lizardt_co.paa"};
+		};
+	};
+
+	class tmtm_h_ssh68_covered_un: tmtm_h_ssh68_covered_base
+	{
+		author="erem2k";
+		
+		scope=2;
+		scopeCurator=2;
+		scopeArsenal=2;
+
+		displayName  = "SSh-68, Covered (UN)";
+		picture="\tmtm\pack\cup_headgear\Data\ui\icon_tmtm_h_ssh68_covered_berezkawhite.paa";
+
+		hiddenSelectionsTextures[] = {"\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_un_co.paa"};
+		class ItemInfo: ItemInfo
+		{
+			hiddenSelectionsTextures[] = {"\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_un_co.paa"};
+		};
+	};
+
+	class tmtm_h_ssh68_covered_un_badge: tmtm_h_ssh68_covered_base
+	{
+		author="erem2k";
+		
+		scope=2;
+		scopeCurator=2;
+		scopeArsenal=2;
+
+		displayName  = "SSh-68, Covered (UN, Badge)";
+		picture="\tmtm\pack\cup_headgear\Data\ui\icon_tmtm_h_ssh68_covered_berezkawhite.paa";
+
+		hiddenSelectionsTextures[] = {"\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_un_badge_co.paa"};
+		class ItemInfo: ItemInfo
+		{
+			hiddenSelectionsTextures[] = {"\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_un_badge_co.paa"};
+		};
+	};
+
+	class tmtm_h_ssh68_covered_wdl: tmtm_h_ssh68_covered_base
+	{
+		author="erem2k";
+		
+		scope=2;
+		scopeCurator=2;
+		scopeArsenal=2;
+
+		displayName  = "SSh-68, Covered (Woodland)";
+		picture="\tmtm\pack\cup_headgear\Data\ui\icon_tmtm_h_ssh68_covered_berezkawhite.paa";
+
+		hiddenSelectionsTextures[] = {"\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_wdl_co.paa"};
+		class ItemInfo: ItemInfo
+		{
+			hiddenSelectionsTextures[] = {"\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_wdl_co.paa"};
 		};
 	};
 
