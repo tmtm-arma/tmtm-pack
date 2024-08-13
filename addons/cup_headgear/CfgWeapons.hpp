@@ -598,7 +598,7 @@ class CfgWeapons
 		};
 	};
 
-	class tmtm_h_ssh68_covered_csat: tmtm_h_ssh68_covered_base
+	class tmtm_h_ssh68_covered_csata: tmtm_h_ssh68_covered_base
 	{
 		author="erem2k";
 		
@@ -606,13 +606,49 @@ class CfgWeapons
 		scopeCurator=2;
 		scopeArsenal=2;
 
-		displayName  = "SSh-68, Covered (Hex)";
+		displayName  = "SSh-68, Covered (Hex, Arid)";
 		picture="\tmtm\pack\cup_headgear\Data\ui\icon_tmtm_h_ssh68_covered_berezkawhite.paa";
 
-		hiddenSelectionsTextures[] = {"\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_csat_co.paa"};
+		hiddenSelectionsTextures[] = {"\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_csata_co.paa"};
 		class ItemInfo: ItemInfo
 		{
-			hiddenSelectionsTextures[] = {"\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_csat_co.paa"};
+			hiddenSelectionsTextures[] = {"\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_csata_co.paa"};
+		};
+	};
+
+	class tmtm_h_ssh68_covered_csatt: tmtm_h_ssh68_covered_base
+	{
+		author="erem2k";
+		
+		scope=2;
+		scopeCurator=2;
+		scopeArsenal=2;
+
+		displayName  = "SSh-68, Covered (Hex, Temperate)";
+		picture="\tmtm\pack\cup_headgear\Data\ui\icon_tmtm_h_ssh68_covered_berezkawhite.paa";
+
+		hiddenSelectionsTextures[] = {"\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_csatt_co.paa"};
+		class ItemInfo: ItemInfo
+		{
+			hiddenSelectionsTextures[] = {"\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_csatt_co.paa"};
+		};
+	};
+
+	class tmtm_h_ssh68_covered_csatu: tmtm_h_ssh68_covered_base
+	{
+		author="erem2k";
+		
+		scope=2;
+		scopeCurator=2;
+		scopeArsenal=2;
+
+		displayName  = "SSh-68, Covered (Hex, Urban)";
+		picture="\tmtm\pack\cup_headgear\Data\ui\icon_tmtm_h_ssh68_covered_berezkawhite.paa";
+
+		hiddenSelectionsTextures[] = {"\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_csatu_co.paa"};
+		class ItemInfo: ItemInfo
+		{
+			hiddenSelectionsTextures[] = {"\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_csatu_co.paa"};
 		};
 	};
 
