@@ -551,54 +551,6 @@ class CfgWeapons
 			};
 		};
 	};
-	// SSh-68 (MM14/Covered)
-	class tmtm_h_ssh68_covered_mm14: tmtm_h_ssh68_covered_base
-	{
-		author="erem2k";
-		
-		scope=2;
-		scopeCurator=2;
-		scopeArsenal=2;
-
-		displayName  = "SSh-68, Covered (MM14)";
-		picture="\tmtm\pack\cup_headgear\Data\ui\icon_tmtm_h_ssh68_covered_mm14.paa";
-
-		hiddenSelectionsTextures[] = {
-			"\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_mm14_co.paa",
-			"\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_mm14_co.paa"
-		};
-		class ItemInfo: ItemInfo
-		{
-			hiddenSelectionsTextures[] = {
-				"\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_mm14_co.paa",
-				"\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_mm14_co.paa"
-			};
-		};
-	};
-	// SSh-68 (Dark Olive/Covered)
-	class tmtm_h_ssh68_covered_darkolive: tmtm_h_ssh68_covered_base
-	{
-		author="erem2k";
-		
-		scope=2;
-		scopeCurator=2;
-		scopeArsenal=2;
-
-		displayName  = "SSh-68, Covered (Dark Olive)";
-		picture="\tmtm\pack\cup_headgear\Data\ui\icon_tmtm_h_ssh68_covered_darkolive.paa";
-
-		hiddenSelectionsTextures[] = {
-			"\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_darkolive_co.paa",
-			"\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_darkolive_co.paa"
-		};
-		class ItemInfo: ItemInfo
-		{
-			hiddenSelectionsTextures[] = {
-				"\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_darkolive_co.paa",
-				"\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_darkolive_co.paa"
-			};
-		};
-	};
 
 	class tmtm_h_ssh68_covered_aaf: tmtm_h_ssh68_covered_base
 	{
