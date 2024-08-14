@@ -8,6 +8,10 @@ class tmtm_h_ssh68_base : ItemCore
     model = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\CUP_H_SSH68.p3d";
     hiddenSelections[] = {"camo"};
 
+    hiddenSelectionsMaterials[] = {
+        "\tmtm\pack\cup_headgear\Data\tmtm_ssh68.rvmat"
+    };
+
     class ItemInfo: HeadgearItem
     {
         mass = 20;
@@ -144,7 +148,96 @@ class CUP_H_RUS_SSH68_cover_vsr98 : CUP_H_RUS_SSH68_cover_base
     };
 };
 
-// SSh-68 (Single colors)
+// SSh-68
+class tmtm_h_ssh68_grey: tmtm_h_ssh68_base
+{
+    author="erem2k";
+    
+    scope=2;
+    scopeCurator=2;
+    scopeArsenal=2;
+
+    displayName  = "SSh-68 (Grey)";
+    picture="\tmtm\pack\cup_headgear\Data\ui\icon_tmtm_h_ssh68_covered_berezkawhite.paa";
+
+    hiddenSelectionsTextures[] = {
+        "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_grey_co.paa"
+    };
+    class ItemInfo: ItemInfo
+    {
+        hiddenSelectionsTextures[] = {
+            "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_grey_co.paa"
+        };
+    };
+};
+
+class tmtm_h_ssh68_khaki: tmtm_h_ssh68_base
+{
+    author="erem2k";
+    
+    scope=2;
+    scopeCurator=2;
+    scopeArsenal=2;
+
+    displayName  = "SSh-68 (Khaki)";
+    picture="\tmtm\pack\cup_headgear\Data\ui\icon_tmtm_h_ssh68_covered_berezkawhite.paa";
+
+    hiddenSelectionsTextures[] = {
+        "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_khaki_co.paa"
+    };
+    class ItemInfo: ItemInfo
+    {
+        hiddenSelectionsTextures[] = {
+            "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_khaki_co.paa"
+        };
+    };
+};
+
+class tmtm_h_ssh68_un: tmtm_h_ssh68_base
+{
+    author="erem2k";
+    
+    scope=2;
+    scopeCurator=2;
+    scopeArsenal=2;
+
+    displayName  = "SSh-68 (UN)";
+    picture="\tmtm\pack\cup_headgear\Data\ui\icon_tmtm_h_ssh68_covered_berezkawhite.paa";
+
+    hiddenSelectionsTextures[] = {
+        "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_un_co.paa"
+    };
+    class ItemInfo: ItemInfo
+    {
+        hiddenSelectionsTextures[] = {
+            "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_un_co.paa"
+        };
+    };
+};
+
+class tmtm_h_ssh68_un_sides: tmtm_h_ssh68_base
+{
+    author="erem2k";
+    
+    scope=2;
+    scopeCurator=2;
+    scopeArsenal=2;
+
+    displayName  = "SSh-68 (UN, Sides)";
+    picture="\tmtm\pack\cup_headgear\Data\ui\icon_tmtm_h_ssh68_covered_berezkawhite.paa";
+
+    hiddenSelectionsTextures[] = {
+        "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_un_co.paa"
+    };
+    class ItemInfo: ItemInfo
+    {
+        hiddenSelectionsTextures[] = {
+            "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_un_co.paa"
+        };
+    };
+};
+
+// SSh-68 Covered (Single colors)
 class tmtm_h_ssh68_covered_olive: tmtm_h_ssh68_covered_base
 {
     author="erem2k";
