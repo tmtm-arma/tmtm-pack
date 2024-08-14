@@ -8,13 +8,15 @@ class tmtm_b_mk56_ak_rig: Bag_Base
     scope=2;
     scopeArsenal=2;
 
-    displayName="Mk56 Rig, AK (Green)";
+    displayName="Chicom Rig, AK (Green)";
     picture="\simc_uaf_67_preview\icons\sns_mk56_ca.paa";
 
-    model="\simc_nv_67\rig_mk56.p3d";
+    model="\simc_nv_67\rig_mk56_hoch.p3d";
 
-    hiddenSelections[]= {""};
-    hiddenSelectionsTextures[]= {""};
+    hiddenSelections[]= {"camo"};
+    hiddenSelectionsTextures[]= {
+        "\simc_nv_67\data\sns_chatrig_co.paa"
+    };
 
     maximumLoad=90;
     mass=15;
@@ -26,13 +28,16 @@ class tmtm_b_mk56_ak_rig_canteen: tmtm_b_mk56_ak_rig
     scope=2;
     scopeArsenal=2;
 
-    displayName="Mk56 Rig, AK (Green, Canteen)";
+    displayName="Chicom Rig, AK (Green, Canteen)";
     picture="\simc_uaf_67_preview\icons\sns_mk56_ca.paa";
 
-    model="\simc_nv_67\rig_mk56_hoch.p3d";
+    model="\simc_nv_67\rig_mk56.p3d";
 
-    hiddenSelections[]= { "botol" };
-    hiddenSelectionsTextures[]= {""};
+    hiddenSelections[]= { "camo", "botol" };
+    hiddenSelectionsTextures[]= {
+        "\simc_nv_67\data\sns_chatrig_co.paa",
+        "\simc_nv_67\data\sns_chatrig_co.paa"
+    };
 
     maximumLoad=90;
     mass=15;
@@ -44,13 +49,15 @@ class tmtm_b_mk56_sks_rig: Bag_Base
     scope=2;
     scopeArsenal=2;
 
-    displayName="Mk56 Rig, SKS (Green)";
+    displayName="Chicom Rig, SKS (Green)";
     picture="\simc_uaf_67_preview\icons\sns_mk56_sks_ca.paa";
 
-    model="\simc_nv_67\rig_mk56_sks.p3d";
+    model="\simc_nv_67\rig_mk56_sks_hoch.p3d";
 
-    hiddenSelections[]= {""};
-    hiddenSelectionsTextures[]= {""};
+    hiddenSelections[]= { "camo" };
+    hiddenSelectionsTextures[]= {
+        "\simc_nv_67\data\sns_chatrig_co.paa"
+    };
 
     maximumLoad=90;
     mass=15;
@@ -62,11 +69,13 @@ class tmtm_b_mk56_sks_rig_canteen: tmtm_b_mk56_sks_rig
     scope=2;
     scopeArsenal=2;
 
-    displayName="Mk56 Rig, SKS (Green, Canteen)";
-    picture="\simc_uaf_67_preview\icons\sns_mk56_sks_ca.paa";
+    displayName="Chicom Rig, SKS (Green, Canteen)";
 
-    model="\simc_nv_67\rig_mk56_sks_hoch.p3d";
+    model="\simc_nv_67\rig_mk56_sks.p3d";
 
-    maximumLoad=90;
-    mass=15;
+    hiddenSelections[]= { "camo", "botol" };
+    hiddenSelectionsTextures[]= {
+        "\simc_nv_67\data\sns_chatrig_co.paa",
+        "\simc_nv_67\data\sns_chatrig_co.paa"
+    };
 };
