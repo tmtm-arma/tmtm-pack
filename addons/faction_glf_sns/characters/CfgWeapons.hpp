@@ -1,0 +1,1 @@
+#include "vests/CfgWeapons.hpp"
