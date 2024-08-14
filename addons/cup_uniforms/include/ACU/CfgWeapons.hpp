@@ -1,3 +1,17 @@
+class tmtm_u_acu_base: ItemCore
+{
+    scope=0;
+    allowedSlots[] = {BACKPACK_SLOT};
+    model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+    hiddenSelections[] = {"Camo1", "Camo2","camo3"};
+};
+
+class tmtm_u_acu_plain_base: tmtm_u_acu_base
+{
+    scope=0;
+    hiddenSelections[] = {"Camo1", "Camo2"};
+};
+
 // AFU ACU (MM14)
 class tmtm_u_acu_mm14: tmtm_u_acu_plain_base
 {
