@@ -1,0 +1,7 @@
+#include "6b47/CfgWeapons.hpp"
+#include "cap/CfgWeapons.hpp"
+#include "ech/CfgWeapons.hpp"
+#include "fieldcap_m88/CfgWeapons.hpp"
+#include "M92/CfgWeapons.hpp"
+#include "patrolcap/CfgWeapons.hpp"
+#include "ssh68/CfgWeapons.hpp"
