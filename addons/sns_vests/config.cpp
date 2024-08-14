@@ -9,6 +9,7 @@ class CfgPatches {
 		requiredAddons[] = {
 			"tmtmpack_main",
 			"sns_uniform",
+			"sns_french_uniform",
 			"simc_nv_67_core",
 			"simc_uaf_81_core"
 		};
