@@ -816,6 +816,30 @@ class CfgWeapons
 		};
 	};
 
+	class tmtm_h_ssh68_covered_sfia: tmtm_h_ssh68_covered_base
+	{
+		author="erem2k";
+		
+		scope=2;
+		scopeCurator=2;
+		scopeArsenal=2;
+
+		displayName  = "SSh-68, Covered (SFIA)";
+		picture="\tmtm\pack\cup_headgear\Data\ui\icon_tmtm_h_ssh68_covered_berezkawhite.paa";
+
+		hiddenSelectionsTextures[] = {
+			"\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_sfia_co.paa",
+			"\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_sfia_co.paa"
+		};
+		class ItemInfo: ItemInfo
+		{
+			hiddenSelectionsTextures[] = {
+				"\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_sfia_co.paa",
+				"\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_sfia_co.paa"
+			};
+		};
+	};
+
 	class tmtm_h_ssh68_covered_lizardt: tmtm_h_ssh68_covered_base
 	{
 		author="erem2k";
