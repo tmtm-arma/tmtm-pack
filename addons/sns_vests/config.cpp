@@ -8,6 +8,8 @@ class CfgPatches {
 		requiredVersion = REQUIRED_VERSION;
 		requiredAddons[] = {
 			"tmtmpack_main",
+			"sns_uniform",
+			"simc_nv_67_core",
 			"simc_uaf_81_core"
 		};
 		author = MOD_AUTHOR;
@@ -20,4 +22,5 @@ class CfgPatches {
 	};
 };
 
+#include "CfgVehicles.hpp"
 #include "CfgWeapons.hpp"
