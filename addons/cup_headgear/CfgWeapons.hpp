@@ -507,7 +507,7 @@ class CfgWeapons
 		};
 	};
 
-	// Patches
+	// SSh-68 (CUP patches)
 	class CUP_H_RUS_SSH68_base;
 	class CUP_H_RUS_SSH68_cover_base : CUP_H_RUS_SSH68_base
 	{
@@ -598,7 +598,7 @@ class CfgWeapons
 		};
 	};
 
-	// SSh-68 (Berezka White/Covered)
+	// SSh-68 (Single colors)
 	class tmtm_h_ssh68_covered_olive: tmtm_h_ssh68_covered_base
 	{
 		author="erem2k";
@@ -647,6 +647,7 @@ class CfgWeapons
 		};
 	};
 
+	// SSh-68 (Camouflages)
 	class tmtm_h_ssh68_covered_berezkawhite: tmtm_h_ssh68_covered_base
 	{
 		author="erem2k";
@@ -888,7 +889,7 @@ class CfgWeapons
 		};
 	};
 
-	class tmtm_h_ssh68_covered_un_badge: tmtm_h_ssh68_covered_base
+	class tmtm_h_ssh68_covered_un_crest: tmtm_h_ssh68_covered_base
 	{
 		author="erem2k";
 		
@@ -896,12 +897,12 @@ class CfgWeapons
 		scopeCurator=2;
 		scopeArsenal=2;
 
-		displayName  = "SSh-68, Covered (UN, Badge)";
+		displayName  = "SSh-68, Covered (UN, Crest)";
 		picture="\tmtm\pack\cup_headgear\Data\ui\icon_tmtm_h_ssh68_covered_berezkawhite.paa";
 
 		hiddenSelectionsTextures[] = {
-			"\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_un_badge_co.paa",
-			"\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_un_badge_co.paa"
+			"\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_un_crest_co.paa",
+			"\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_un_crest_co.paa"
 		};
 		class ItemInfo: ItemInfo
 		{
