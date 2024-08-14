@@ -26,7 +26,7 @@ class tmtm_b_m58_satchel: tmtm_b_m58_bare
     scopeArsenal=2;
 
     displayName="M58 Harness (Satchel)";
-    model="\sns_dutch\sns_gear_m58_drop.p3d";
+    model="\sns_dutch\sns_gear_m58.p3d";
 
     maximumLoad=100;
 };

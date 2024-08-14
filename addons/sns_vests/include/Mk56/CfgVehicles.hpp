@@ -1,6 +1,3 @@
-class VestItem;
-class Vest_Camo_Base;
-
 // Reconfigs of chest rigs as backpacks
 class tmtm_b_mk56_ak_rig: Bag_Base
 {
