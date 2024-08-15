@@ -18,7 +18,11 @@ class tmtm_h_ssh68_base : ItemCore
         uniformModel = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\CUP_H_SSH68.p3d";
         allowedSlots[] = {UNIFORM_SLOT, BACKPACK_SLOT, VEST_SLOT, HEADGEAR_SLOT};
         modelSides[] = {6};
+
         hiddenSelections[] = {"camo"};
+        hiddenSelectionsMaterials[] = {
+            "\tmtm\pack\cup_headgear\Data\tmtm_ssh68.rvmat"
+        };
 
         class HitpointsProtectionInfo
         {
@@ -28,6 +32,24 @@ class tmtm_h_ssh68_base : ItemCore
                 armor=4;
                 passThrough=0.5;
             };
+        };
+    };
+};
+
+class tmtm_h_ssh68_net_base : tmtm_h_ssh68_base
+{
+    scope=0;
+    scopeCurator=0;
+    scopeArsenal=0;
+
+    hiddenSelectionsMaterials[] = {
+        "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_net.rvmat"
+    };
+
+    class ItemInfo: ItemInfo
+    {
+        hiddenSelectionsMaterials[] = {
+            "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_net.rvmat"
         };
     };
 };
@@ -53,7 +75,11 @@ class tmtm_h_ssh68_covered_base : tmtm_h_ssh68_base
     {
         mass = 20;
         uniformModel="\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\CUP_H_SSH68_cover.p3d";
+        
         hiddenSelections[] = {"camo", "camo1"};
+        hiddenSelectionsMaterials[] = {
+            "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered.rvmat"
+        };
     };
 };
 
@@ -255,6 +281,73 @@ class tmtm_h_ssh68_un: tmtm_h_ssh68_base
     {
         hiddenSelectionsTextures[] = {
             "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_un_co.paa"
+        };
+    };
+};
+
+// SSh-68 Net
+class tmtm_h_ssh68_net_khaki_green: tmtm_h_ssh68_net_base
+{
+    author="erem2k";
+    
+    scope=2;
+    scopeCurator=2;
+    scopeArsenal=2;
+
+    displayName  = "SSh-68, Net (Khaki/Green)";
+    picture="\tmtm\pack\cup_headgear\Data\ui\icon_tmtm_h_ssh68_covered_berezkawhite.paa";
+
+    hiddenSelectionsTextures[] = {
+        "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_net_khaki_green_co.paa"
+    };
+    class ItemInfo: ItemInfo
+    {
+        hiddenSelectionsTextures[] = {
+            "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_net_khaki_green_co.paa"
+        };
+    };
+};
+
+class tmtm_h_ssh68_net_olive_brown: tmtm_h_ssh68_net_base
+{
+    author="erem2k";
+    
+    scope=2;
+    scopeCurator=2;
+    scopeArsenal=2;
+
+    displayName  = "SSh-68, Net (Olive/Brown)";
+    picture="\tmtm\pack\cup_headgear\Data\ui\icon_tmtm_h_ssh68_covered_berezkawhite.paa";
+
+    hiddenSelectionsTextures[] = {
+        "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_net_olive_brown_co.paa"
+    };
+    class ItemInfo: ItemInfo
+    {
+        hiddenSelectionsTextures[] = {
+            "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_net_olive_brown_co.paa"
+        };
+    };
+};
+
+class tmtm_h_ssh68_net_olive_khaki: tmtm_h_ssh68_net_base
+{
+    author="erem2k";
+    
+    scope=2;
+    scopeCurator=2;
+    scopeArsenal=2;
+
+    displayName  = "SSh-68, Net (Olive/Khaki)";
+    picture="\tmtm\pack\cup_headgear\Data\ui\icon_tmtm_h_ssh68_covered_berezkawhite.paa";
+
+    hiddenSelectionsTextures[] = {
+        "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_net_olive_khaki_co.paa"
+    };
+    class ItemInfo: ItemInfo
+    {
+        hiddenSelectionsTextures[] = {
+            "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_net_olive_khaki_co.paa"
         };
     };
 };
