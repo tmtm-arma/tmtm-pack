@@ -149,6 +149,28 @@ class CUP_H_RUS_SSH68_cover_vsr98 : CUP_H_RUS_SSH68_cover_base
 };
 
 // SSh-68
+class tmtm_h_ssh68_black: tmtm_h_ssh68_base
+{
+    author="erem2k";
+    
+    scope=2;
+    scopeCurator=2;
+    scopeArsenal=2;
+
+    displayName  = "SSh-68 (Black)";
+    picture="\tmtm\pack\cup_headgear\Data\ui\icon_tmtm_h_ssh68_covered_berezkawhite.paa";
+
+    hiddenSelectionsTextures[] = {
+        "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_black_co.paa"
+    };
+    class ItemInfo: ItemInfo
+    {
+        hiddenSelectionsTextures[] = {
+            "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_black_co.paa"
+        };
+    };
+};
+
 class tmtm_h_ssh68_grey: tmtm_h_ssh68_base
 {
     author="erem2k";
@@ -193,6 +215,28 @@ class tmtm_h_ssh68_khaki: tmtm_h_ssh68_base
     };
 };
 
+class tmtm_h_ssh68_palegreen: tmtm_h_ssh68_base
+{
+    author="erem2k";
+    
+    scope=2;
+    scopeCurator=2;
+    scopeArsenal=2;
+
+    displayName  = "SSh-68 (Pale Green)";
+    picture="\tmtm\pack\cup_headgear\Data\ui\icon_tmtm_h_ssh68_covered_berezkawhite.paa";
+
+    hiddenSelectionsTextures[] = {
+        "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_palegreen_co.paa"
+    };
+    class ItemInfo: ItemInfo
+    {
+        hiddenSelectionsTextures[] = {
+            "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_palegreen_co.paa"
+        };
+    };
+};
+
 class tmtm_h_ssh68_un: tmtm_h_ssh68_base
 {
     author="erem2k";
@@ -202,28 +246,6 @@ class tmtm_h_ssh68_un: tmtm_h_ssh68_base
     scopeArsenal=2;
 
     displayName  = "SSh-68 (UN)";
-    picture="\tmtm\pack\cup_headgear\Data\ui\icon_tmtm_h_ssh68_covered_berezkawhite.paa";
-
-    hiddenSelectionsTextures[] = {
-        "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_un_co.paa"
-    };
-    class ItemInfo: ItemInfo
-    {
-        hiddenSelectionsTextures[] = {
-            "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_un_co.paa"
-        };
-    };
-};
-
-class tmtm_h_ssh68_un_sides: tmtm_h_ssh68_base
-{
-    author="erem2k";
-    
-    scope=2;
-    scopeCurator=2;
-    scopeArsenal=2;
-
-    displayName  = "SSh-68 (UN, Sides)";
     picture="\tmtm\pack\cup_headgear\Data\ui\icon_tmtm_h_ssh68_covered_berezkawhite.paa";
 
     hiddenSelectionsTextures[] = {
