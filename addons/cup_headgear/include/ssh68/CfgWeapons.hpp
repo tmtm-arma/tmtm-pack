@@ -259,6 +259,28 @@ class tmtm_h_ssh68_khaki: tmtm_h_ssh68_base
     };
 };
 
+class tmtm_h_ssh68_khaki_camo: tmtm_h_ssh68_base
+{
+    author="erem2k";
+    
+    scope=2;
+    scopeCurator=2;
+    scopeArsenal=2;
+
+    displayName  = "SSh-68 (Khaki/Camo)";
+    picture="\tmtm\pack\cup_headgear\Data\ui\icon_tmtm_h_ssh68_covered_berezkawhite.paa";
+
+    hiddenSelectionsTextures[] = {
+        "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_khaki_camo_co.paa"
+    };
+    class ItemInfo: ItemInfo
+    {
+        hiddenSelectionsTextures[] = {
+            "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_khaki_camo_co.paa"
+        };
+    };
+};
+
 class tmtm_h_ssh68_palegreen: tmtm_h_ssh68_base
 {
     author="erem2k";
@@ -277,6 +299,50 @@ class tmtm_h_ssh68_palegreen: tmtm_h_ssh68_base
     {
         hiddenSelectionsTextures[] = {
             "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_palegreen_co.paa"
+        };
+    };
+};
+
+class tmtm_h_ssh68_olive: tmtm_h_ssh68_base
+{
+    author="erem2k";
+    
+    scope=2;
+    scopeCurator=2;
+    scopeArsenal=2;
+
+    displayName  = "SSh-68 (Olive/Worn)";
+    picture="\tmtm\pack\cup_headgear\Data\ui\icon_tmtm_h_ssh68_covered_berezkawhite.paa";
+
+    hiddenSelectionsTextures[] = {
+        "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_olive_co.paa"
+    };
+    class ItemInfo: ItemInfo
+    {
+        hiddenSelectionsTextures[] = {
+            "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_olive_co.paa"
+        };
+    };
+};
+
+class tmtm_h_ssh68_olive_camo: tmtm_h_ssh68_base
+{
+    author="erem2k";
+    
+    scope=2;
+    scopeCurator=2;
+    scopeArsenal=2;
+
+    displayName  = "SSh-68 (Olive/Camo)";
+    picture="\tmtm\pack\cup_headgear\Data\ui\icon_tmtm_h_ssh68_covered_berezkawhite.paa";
+
+    hiddenSelectionsTextures[] = {
+        "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_olive_camo_co.paa"
+    };
+    class ItemInfo: ItemInfo
+    {
+        hiddenSelectionsTextures[] = {
+            "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_olive_camo_co.paa"
         };
     };
 };
