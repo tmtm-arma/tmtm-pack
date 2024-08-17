@@ -202,7 +202,7 @@ class tmtm_h_ssh68_black: tmtm_h_ssh68_base
     scopeArsenal=2;
 
     displayName  = "SSh-68 (Black)";
-    picture="\tmtm\pack\cup_headgear\Data\ui\icon_tmtm_h_ssh68_covered_berezkawhite.paa";
+    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
 
     hiddenSelectionsTextures[] = {
         "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_black_co.paa"
@@ -224,7 +224,7 @@ class tmtm_h_ssh68_grey: tmtm_h_ssh68_base
     scopeArsenal=2;
 
     displayName  = "SSh-68 (Grey)";
-    picture="\tmtm\pack\cup_headgear\Data\ui\icon_tmtm_h_ssh68_covered_berezkawhite.paa";
+    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
 
     hiddenSelectionsTextures[] = {
         "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_grey_co.paa"
@@ -246,7 +246,7 @@ class tmtm_h_ssh68_khaki: tmtm_h_ssh68_base
     scopeArsenal=2;
 
     displayName  = "SSh-68 (Khaki)";
-    picture="\tmtm\pack\cup_headgear\Data\ui\icon_tmtm_h_ssh68_covered_berezkawhite.paa";
+    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
 
     hiddenSelectionsTextures[] = {
         "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_khaki_co.paa"
@@ -268,7 +268,7 @@ class tmtm_h_ssh68_khaki_camo: tmtm_h_ssh68_base
     scopeArsenal=2;
 
     displayName  = "SSh-68 (Khaki/Camo)";
-    picture="\tmtm\pack\cup_headgear\Data\ui\icon_tmtm_h_ssh68_covered_berezkawhite.paa";
+    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
 
     hiddenSelectionsTextures[] = {
         "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_khaki_camo_co.paa"
@@ -290,7 +290,7 @@ class tmtm_h_ssh68_palegreen: tmtm_h_ssh68_base
     scopeArsenal=2;
 
     displayName  = "SSh-68 (Pale Green)";
-    picture="\tmtm\pack\cup_headgear\Data\ui\icon_tmtm_h_ssh68_covered_berezkawhite.paa";
+    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
 
     hiddenSelectionsTextures[] = {
         "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_palegreen_co.paa"
@@ -312,7 +312,7 @@ class tmtm_h_ssh68_olive: tmtm_h_ssh68_base
     scopeArsenal=2;
 
     displayName  = "SSh-68 (Olive/Worn)";
-    picture="\tmtm\pack\cup_headgear\Data\ui\icon_tmtm_h_ssh68_covered_berezkawhite.paa";
+    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
 
     hiddenSelectionsTextures[] = {
         "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_olive_co.paa"
@@ -334,7 +334,7 @@ class tmtm_h_ssh68_olive_camo: tmtm_h_ssh68_base
     scopeArsenal=2;
 
     displayName  = "SSh-68 (Olive/Camo)";
-    picture="\tmtm\pack\cup_headgear\Data\ui\icon_tmtm_h_ssh68_covered_berezkawhite.paa";
+    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
 
     hiddenSelectionsTextures[] = {
         "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_olive_camo_co.paa"
@@ -356,7 +356,7 @@ class tmtm_h_ssh68_un: tmtm_h_ssh68_base
     scopeArsenal=2;
 
     displayName  = "SSh-68 (UN)";
-    picture="\tmtm\pack\cup_headgear\Data\ui\icon_tmtm_h_ssh68_covered_berezkawhite.paa";
+    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
 
     hiddenSelectionsTextures[] = {
         "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_un_co.paa"
@@ -379,7 +379,7 @@ class tmtm_h_ssh68_net_khaki_green: tmtm_h_ssh68_net_base
     scopeArsenal=2;
 
     displayName  = "SSh-68, Net (Khaki/Green)";
-    picture="\tmtm\pack\cup_headgear\Data\ui\icon_tmtm_h_ssh68_covered_berezkawhite.paa";
+    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
 
     hiddenSelectionsTextures[] = {
         "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_net_khaki_green_co.paa"
@@ -401,7 +401,7 @@ class tmtm_h_ssh68_net_olive_brown: tmtm_h_ssh68_net_base
     scopeArsenal=2;
 
     displayName  = "SSh-68, Net (Olive/Brown)";
-    picture="\tmtm\pack\cup_headgear\Data\ui\icon_tmtm_h_ssh68_covered_berezkawhite.paa";
+    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
 
     hiddenSelectionsTextures[] = {
         "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_net_olive_brown_co.paa"
@@ -423,7 +423,7 @@ class tmtm_h_ssh68_net_olive_khaki: tmtm_h_ssh68_net_base
     scopeArsenal=2;
 
     displayName  = "SSh-68, Net (Olive/Khaki)";
-    picture="\tmtm\pack\cup_headgear\Data\ui\icon_tmtm_h_ssh68_covered_berezkawhite.paa";
+    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
 
     hiddenSelectionsTextures[] = {
         "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_net_olive_khaki_co.paa"
@@ -446,7 +446,7 @@ class tmtm_h_ssh68_covered_olive: tmtm_h_ssh68_covered_base
     scopeArsenal=2;
 
     displayName  = "SSh-68, Covered (Olive)";
-    picture="\tmtm\pack\cup_headgear\Data\ui\icon_tmtm_h_ssh68_covered_berezkawhite.paa";
+    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
 
     hiddenSelectionsTextures[] = {
         "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_olive_co.paa",
@@ -470,7 +470,7 @@ class tmtm_h_ssh68_covered_khaki: tmtm_h_ssh68_covered_base
     scopeArsenal=2;
 
     displayName  = "SSh-68, Covered (Khaki)";
-    picture="\tmtm\pack\cup_headgear\Data\ui\icon_tmtm_h_ssh68_covered_berezkawhite.paa";
+    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
 
     hiddenSelectionsTextures[] = {
         "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_khaki_co.paa",
@@ -519,7 +519,7 @@ class tmtm_h_ssh68_covered_aaf: tmtm_h_ssh68_covered_base
     scopeArsenal=2;
 
     displayName  = "SSh-68, Covered (Digital)";
-    picture="\tmtm\pack\cup_headgear\Data\ui\icon_tmtm_h_ssh68_covered_berezkawhite.paa";
+    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
 
     hiddenSelectionsTextures[] = {
         "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_aaf_co.paa",
@@ -543,7 +543,7 @@ class tmtm_h_ssh68_covered_csata: tmtm_h_ssh68_covered_base
     scopeArsenal=2;
 
     displayName  = "SSh-68, Covered (Hex, Arid)";
-    picture="\tmtm\pack\cup_headgear\Data\ui\icon_tmtm_h_ssh68_covered_berezkawhite.paa";
+    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
 
     hiddenSelectionsTextures[] = {
         "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_csata_co.paa", 
@@ -568,7 +568,7 @@ class tmtm_h_ssh68_covered_csatt: tmtm_h_ssh68_covered_base
     scopeArsenal=2;
 
     displayName  = "SSh-68, Covered (Hex, Temperate)";
-    picture="\tmtm\pack\cup_headgear\Data\ui\icon_tmtm_h_ssh68_covered_berezkawhite.paa";
+    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
 
     hiddenSelectionsTextures[] = {
         "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_csatt_co.paa",
@@ -592,7 +592,7 @@ class tmtm_h_ssh68_covered_butanb: tmtm_h_ssh68_covered_base
     scopeArsenal=2;
 
     displayName  = "SSh-68, Covered (TTsKO Brown)";
-    picture="\tmtm\pack\cup_headgear\Data\ui\icon_tmtm_h_ssh68_covered_berezkawhite.paa";
+    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
 
     hiddenSelectionsTextures[] = {
         "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_ttsko_brown_co.paa",
@@ -616,7 +616,7 @@ class tmtm_h_ssh68_covered_butano: tmtm_h_ssh68_covered_base
     scopeArsenal=2;
 
     displayName  = "SSh-68, Covered (TTsKO Oxblood)";
-    picture="\tmtm\pack\cup_headgear\Data\ui\icon_tmtm_h_ssh68_covered_berezkawhite.paa";
+    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
 
     hiddenSelectionsTextures[] = {
         "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_ttsko_oxblood_co.paa",
@@ -640,7 +640,7 @@ class tmtm_h_ssh68_covered_dubok: tmtm_h_ssh68_covered_base
     scopeArsenal=2;
 
     displayName  = "SSh-68, Covered (Dubok)";
-    picture="\tmtm\pack\cup_headgear\Data\ui\icon_tmtm_h_ssh68_covered_berezkawhite.paa";
+    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
 
     hiddenSelectionsTextures[] = {
         "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_dubok_co.paa",
@@ -664,7 +664,7 @@ class tmtm_h_ssh68_covered_sfia: tmtm_h_ssh68_covered_base
     scopeArsenal=2;
 
     displayName  = "SSh-68, Covered (SFIA)";
-    picture="\tmtm\pack\cup_headgear\Data\ui\icon_tmtm_h_ssh68_covered_berezkawhite.paa";
+    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
 
     hiddenSelectionsTextures[] = {
         "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_sfia_co.paa",
@@ -688,7 +688,7 @@ class tmtm_h_ssh68_covered_lizardt: tmtm_h_ssh68_covered_base
     scopeArsenal=2;
 
     displayName  = "SSh-68, Covered (Takistan Lizard)";
-    picture="\tmtm\pack\cup_headgear\Data\ui\icon_tmtm_h_ssh68_covered_berezkawhite.paa";
+    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
 
     hiddenSelectionsTextures[] = {
         "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_lizardt_co.paa",
@@ -712,7 +712,7 @@ class tmtm_h_ssh68_covered_un: tmtm_h_ssh68_covered_base
     scopeArsenal=2;
 
     displayName  = "SSh-68, Covered (UN)";
-    picture="\tmtm\pack\cup_headgear\Data\ui\icon_tmtm_h_ssh68_covered_berezkawhite.paa";
+    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
 
     hiddenSelectionsTextures[] = {
         "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_un_co.paa",
@@ -736,7 +736,7 @@ class tmtm_h_ssh68_covered_un_crest: tmtm_h_ssh68_covered_base
     scopeArsenal=2;
 
     displayName  = "SSh-68, Covered (UN, Crest)";
-    picture="\tmtm\pack\cup_headgear\Data\ui\icon_tmtm_h_ssh68_covered_berezkawhite.paa";
+    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
 
     hiddenSelectionsTextures[] = {
         "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_un_crest_co.paa",
@@ -760,7 +760,7 @@ class tmtm_h_ssh68_covered_wdl: tmtm_h_ssh68_covered_base
     scopeArsenal=2;
 
     displayName  = "SSh-68, Covered (Woodland)";
-    picture="\tmtm\pack\cup_headgear\Data\ui\icon_tmtm_h_ssh68_covered_berezkawhite.paa";
+    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
 
     hiddenSelectionsTextures[] = {
         "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_wdl_co.paa",
@@ -785,7 +785,7 @@ class tmtm_h_ssh68_covered_net_lizardt: tmtm_h_ssh68_covered_net_base
     scopeArsenal=2;
 
     displayName  = "SSh-68, Covered/Net (Takistan Lizard/Green)";
-    picture="\tmtm\pack\cup_headgear\Data\ui\icon_tmtm_h_ssh68_covered_berezkawhite.paa";
+    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
 
     hiddenSelectionsTextures[] = {
         "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_net_lizardt_co.paa",
