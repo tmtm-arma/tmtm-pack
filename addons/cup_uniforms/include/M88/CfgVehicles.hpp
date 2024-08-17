@@ -268,4 +268,156 @@ class tmtm_m88_vdv_rolled_gloves_base: tmtm_m88_vdv_rolled_base
     model = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\cup_rus_vdv_uniform_80s_rolled_up_gloves.p3d";
 };
 
+/* 
+    Content
+*/
 //////////////////////////////////////////////////////////////////////////////////////////////////////////
+// TTsKO/Butan family
+class tmtm_m88_butand: tmtm_m88_base
+{
+    scope=1;
+    scopeArsenal=2;
+    scopeCurator=0;
+    
+    author="erem2k";
+
+    displayName="Uniform M-88, TTsKO Dark";
+    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+
+    uniformClass="tmtm_u_m88_butand";
+
+    hiddenSelectionsTextures[]={
+        "\tmtm\pack\cup_uniforms\data\tmtm_m88_ttsko_dark_co.paa"
+    };
+};
+
+class tmtm_m88_butand_rolled: tmtm_m88_rolled_base
+{
+    scope=1;
+    scopeArsenal=2;
+    scopeCurator=0;
+    
+    author="erem2k";
+
+    displayName="Uniform M-88, TTsKO Dark (Rolled Up)";
+    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+
+    uniformClass="tmtm_u_m88_butand_rolled";
+
+    hiddenSelectionsTextures[]={
+        "\tmtm\pack\cup_uniforms\data\tmtm_m88_ttsko_dark_co.paa"
+    };
+};
+
+class tmtm_m88_butand_gloves: tmtm_m88_gloves_base
+{
+    scope=1;
+    scopeArsenal=2;
+    scopeCurator=0;
+    
+    author="erem2k";
+
+    displayName="Uniform M-88, TTsKO Dark (Gloves)";
+    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+
+    uniformClass="tmtm_u_m88_butand_gloves";
+
+    hiddenSelectionsTextures[]={
+        "\tmtm\pack\cup_uniforms\data\tmtm_m88_ttsko_dark_co.paa",
+        "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\data\oakley_co.paa" // uses "wool" part of the texture
+    };
+};
+
+class tmtm_m88_butand_rolled_gloves: tmtm_m88_rolled_gloves_base
+{
+    scope=1;
+    scopeArsenal=2;
+    scopeCurator=0;
+    
+    author="erem2k";
+
+    displayName="Uniform M-88, TTsKO Dark (Rolled Up, Gloves)";
+    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+
+    uniformClass="tmtm_u_m88_butand_rolled_gloves";
+
+    hiddenSelectionsTextures[]={
+        "\tmtm\pack\cup_uniforms\data\tmtm_m88_ttsko_dark_co.paa"
+    };
+};
+
+class tmtm_m88_butanl: tmtm_m88_base
+{
+    scope=1;
+    scopeArsenal=2;
+    scopeCurator=0;
+    
+    author="erem2k";
+
+    displayName="Uniform M-88, TTsKO Light";
+    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+
+    uniformClass="tmtm_u_m88_butanl";
+
+    hiddenSelectionsTextures[]={
+        "\tmtm\pack\cup_uniforms\data\tmtm_m88_ttsko_light_co.paa"
+    };
+};
+
+class tmtm_m88_butanl_rolled: tmtm_m88_rolled_base
+{
+    scope=1;
+    scopeArsenal=2;
+    scopeCurator=0;
+    
+    author="erem2k";
+
+    displayName="Uniform M-88, TTsKO Light (Rolled Up)";
+    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+
+    uniformClass="tmtm_u_m88_butanl_rolled";
+
+    hiddenSelectionsTextures[]={
+        "\tmtm\pack\cup_uniforms\data\tmtm_m88_ttsko_light_co.paa"
+    };
+};
+
+class tmtm_m88_butanl_gloves: tmtm_m88_gloves_base
+{
+    scope=1;
+    scopeArsenal=2;
+    scopeCurator=0;
+    
+    author="erem2k";
+
+    displayName="Uniform M-88, TTsKO Light (Gloves)";
+    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+
+    uniformClass="tmtm_u_m88_butanl_gloves";
+
+    hiddenSelectionsTextures[]={
+        "\tmtm\pack\cup_uniforms\data\tmtm_m88_ttsko_light_co.paa",
+        "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\data\oakley_co.paa" // uses "wool" part of the texture
+    };
+};
+
+class tmtm_m88_butanl_rolled_gloves: tmtm_m88_rolled_gloves_base
+{
+    scope=1;
+    scopeArsenal=2;
+    scopeCurator=0;
+    
+    author="erem2k";
+
+    displayName="Uniform M-88, TTsKO Light (Rolled Up, Gloves)";
+    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+
+    uniformClass="tmtm_u_m88_butanl_rolled_gloves";
+
+    hiddenSelectionsTextures[]={
+        "\tmtm\pack\cup_uniforms\data\tmtm_m88_ttsko_light_co.paa"
+    };
+};
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////
+// 
