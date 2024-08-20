@@ -8,7 +8,7 @@ class tmtm_m88_cdf_un: tmtm_m88_base
     scope=1;
     scopeArsenal=2;
     scopeCurator=0;
-    
+
     author="erem2k";
 
     displayName="CDF Uniform M-88, UN";
@@ -26,7 +26,7 @@ class tmtm_m88_cdf_un_rolled: tmtm_m88_rolled_base
     scope=1;
     scopeArsenal=2;
     scopeCurator=0;
-    
+
     author="erem2k";
 
     displayName="CDF Uniform M-88, UN (Rolled Up)";
@@ -44,7 +44,7 @@ class tmtm_m88_cdf_un_gloves: tmtm_m88_gloves_base
     scope=1;
     scopeArsenal=2;
     scopeCurator=0;
-    
+
     author="erem2k";
 
     displayName="CDF Uniform M-88, UN (Gloves)";
@@ -54,7 +54,7 @@ class tmtm_m88_cdf_un_gloves: tmtm_m88_gloves_base
 
     hiddenSelectionsTextures[]={
         "\tmtm\pack\faction_cdf_cup\characters\uniforms\data\tmtm_m88_cdf_un_co.paa",
-        "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\data\oakley_co.paa"
+        "\tmtm\pack\cup_uniforms\data\tmtm_m88_gloves_brown_co.paa"
     };
 };
 
@@ -63,7 +63,7 @@ class tmtm_m88_cdf_un_rolled_gloves: tmtm_m88_rolled_gloves_base
     scope=1;
     scopeArsenal=2;
     scopeCurator=0;
-    
+
     author="erem2k";
 
     displayName="CDF Uniform M-88, UN (Rolled Up, Gloves)";
