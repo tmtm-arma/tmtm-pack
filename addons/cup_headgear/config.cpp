@@ -9,11 +9,12 @@ class CfgPatches {
 		requiredAddons[] = {
 			"tmtmpack_main",
 			"CUP_Creatures_People_LoadOrder",
-			"CUP_Creatures_Military_Russia"
+			"CUP_Creatures_Military_Russia",
+			"CUP_Creatures_Military_Germany"
 		};
 		author = MOD_AUTHOR;
 		url = MOD_URL;
-		version = VERSION; 
+		version = VERSION;
 		versionStr = QUOTE(VERSION_STR);
 		versionAr[] = {QUOTE(VERSION_AR)};
 	};
