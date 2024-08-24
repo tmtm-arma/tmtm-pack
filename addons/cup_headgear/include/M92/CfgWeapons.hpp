@@ -152,6 +152,72 @@ class tmtm_h_m92_covered_goggles_b_base: tmtm_h_m92_covered_goggles_base
     };
 };
 
+class tmtm_h_m92_covered_net_base: tmtm_h_m92_base
+{
+    scope=0;
+    scopeCurator=0;
+    scopeArsenal=0;
+
+    hiddenSelections[]= { "Camo", "Camo1" };
+    hiddenSelectionsMaterials[] = {
+        "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Germany\Data\m92_helmet.rvmat",
+        "\tmtm\pack\cup_headgear\Data\tmtm_m92_covered_net.rvmat"
+    };
+
+    class ItemInfo: ItemInfo
+    {
+        hiddenSelections[]= { "Camo", "Camo1" };
+        hiddenSelectionsMaterials[] = {
+            "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Germany\Data\m92_helmet.rvmat",
+            "\tmtm\pack\cup_headgear\Data\tmtm_m92_covered_net.rvmat"
+        };
+    };
+};
+
+class tmtm_h_m92_covered_net_goggles_base: tmtm_h_m92_covered_net_base
+{
+    scope=0;
+    scopeCurator=0;
+    scopeArsenal=0;
+
+    model="\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Germany\CUP_Ger_M92_gog_helmet.p3d";
+    hiddenSelections[]= { "Camo", "Camo1", "_Cover_Back", "_Cover_Front" };
+
+    class ItemInfo: ItemInfo
+    {
+        uniformModel="\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Germany\CUP_Ger_M92_gog_helmet.p3d";
+        hiddenSelections[]= { "Camo", "Camo1", "_Cover_Back", "_Cover_Front" };
+    };
+};
+
+class tmtm_h_m92_covered_net_goggles_f_base: tmtm_h_m92_covered_net_goggles_base
+{
+    scope=0;
+    scopeCurator=0;
+    scopeArsenal=0;
+
+    hiddenSelections[]= { "Camo", "Camo1", "_Cover_Back" };
+
+    class ItemInfo: ItemInfo
+    {
+        hiddenSelections[]= { "Camo", "Camo1", "_Cover_Back" };
+    };
+};
+
+class tmtm_h_m92_covered_net_goggles_b_base: tmtm_h_m92_covered_net_goggles_base
+{
+    scope=0;
+    scopeCurator=0;
+    scopeArsenal=0;
+
+    hiddenSelections[]= { "Camo", "Camo1", "_Cover_Front" };
+
+    class ItemInfo: ItemInfo
+    {
+        hiddenSelections[]= { "Camo", "Camo1", "_Cover_Front" };
+    };
+};
+
 /*
     Content
 */
