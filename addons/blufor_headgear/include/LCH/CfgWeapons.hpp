@@ -1,7 +1,10 @@
 class tmtm_h_helmetLight_black: ItemCore
 {
-    scope=2;
     author="Trenchgun";
+
+    scope=2;
+    scopeArsenal=2;
+
     picture="\A3\Characters_F\data\ui\icon_H_HelmetB_light_ca.paa";
     displayName="LCH (Black)";
 
@@ -12,7 +15,7 @@ class tmtm_h_helmetLight_black: ItemCore
     };
 
     descriptionShort="$STR_A3_SP_AL_I";
-    class ItemInfo: ItemInfo
+    class ItemInfo: HeadgearItem
     {
         mass=20;
         uniformModel="\A3\Characters_F\BLUFOR\headgear_b_helmet_light";

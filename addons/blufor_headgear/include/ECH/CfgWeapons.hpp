@@ -1,7 +1,10 @@
 class tmtm_h_helmetEnhanced_black: ItemCore
 {
     author="Trenchgun";
+
     scope=2;
+    scopeArsenal=2;
+
     picture="\A3\characters_f\Data\UI\icon_H_HelmetB_CA.paa";
     displayName="ECH (Black)";
 
@@ -11,7 +14,7 @@ class tmtm_h_helmetEnhanced_black: ItemCore
         "\tmtm\pack\blufor_headgear\Data\tmtm_helmet_black_co.paa"
     };
 
-    class ItemInfo: ItemInfo
+    class ItemInfo: HeadgearItem
     {
         mass=50;
         uniformModel="\A3\Characters_F\BLUFOR\headgear_b_helmet_ballistic";
@@ -34,6 +37,8 @@ class tmtm_h_helmetEnhanced_black: ItemCore
 class tmtm_h_helmetEnhanced_grey: tmtm_h_helmetEnhanced_black
 {
     scope=2;
+    scopeArsenal=2;
+
     displayName="ECH (Grey)";
     hiddenSelectionsTextures[]=
     {
@@ -44,6 +49,8 @@ class tmtm_h_helmetEnhanced_grey: tmtm_h_helmetEnhanced_black
 class tmtm_h_helmetEnhanced_olive: tmtm_h_helmetEnhanced_black
 {
     scope=2;
+    scopeArsenal=2;
+
     displayName="ECH (Olive)";
     hiddenSelectionsTextures[]=
     {
@@ -54,6 +61,8 @@ class tmtm_h_helmetEnhanced_olive: tmtm_h_helmetEnhanced_black
 class tmtm_h_helmetEnhanced_coyote: tmtm_h_helmetEnhanced_black
 {
     scope=2;
+    scopeArsenal=2;
+
     displayName="ECH (Coyote)";
     hiddenSelectionsTextures[]=
     {
