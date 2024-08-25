@@ -2,13 +2,12 @@ class StageTI
 {
 	texture="a3\data_f\default_vehicle_ti_ca.paa";
 };
-
 ambient[]={1,1,1,1};
 diffuse[]={1,1,1,1};
-forcedDiffuse[]={0,0,0,0};
-emmisive[]={0,0,0,1};
-specular[]={1,1,1,1};
-specularPower=100;
+forcedDiffuse[]={0,0,0,1};
+emmisive[]={0,0,0,0};
+specular[]={0.1,0.1,0.1,0.25};
+specularPower=50;
 PixelShaderID="Super";
 VertexShaderID="Super";
 
@@ -26,7 +25,7 @@ class Stage1
 };
 class Stage2
 {
-	texture="#(argb,8,8,3)color(0.5,0.5,0.5,1,DT)";
+	texture="#(argb,8,8,3)color(0.5,0.5,0.5,0.5,DT)";
 	uvSource="tex";
 	class uvTransform
 	{
@@ -38,7 +37,7 @@ class Stage2
 };
 class Stage3
 {
-	texture="#(argb,8,8,3)color(0,0,0,0,MC)";
+	texture="#(argb,8,8,3)color(0.0,0.0,0.0,0.0,MC)";
 	uvSource="tex";
 	class uvTransform
 	{
@@ -74,13 +73,19 @@ class Stage5
 };
 class Stage6
 {
-	texture="#(ai,64,64,1)fresnel(1,0.3)";
-	uvSource="none";
+	texture="#(ai,64,64,1)fresnel(0.81,1.51)";
+	uvSource="tex";
+	class uvTransform
+	{
+		aside[]={1,0,0};
+		up[]={0,1,0};
+		dir[]={0,0,0};
+		pos[]={0,0,0};
+	};
 };
 class Stage7
 {
-	texture="A3\Data_F\env_land_ca.paa";
-	useWorldEnvMap=1;
+	texture="a3\data_f\env_land_co.paa";
 	uvSource="tex";
 	class uvTransform
 	{
