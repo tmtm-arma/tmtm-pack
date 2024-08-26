@@ -25,7 +25,7 @@ class tmtm_lightFatigues_base: O_Soldier_base_F
         tex[]={};
     };
 
-    class HitPoints
+    class HitPoints: HitPoints
     {
         class HitFace
         {
