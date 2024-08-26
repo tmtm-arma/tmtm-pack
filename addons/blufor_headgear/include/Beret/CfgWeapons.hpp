@@ -4,6 +4,9 @@ class tmtm_h_beret_base: HelmetBase
     scopeArsenal=0;
 
     model="\A3\Characters_F_Enoch\Headgear\H_Beret_EAF_01_F";
+    hiddenSelectionsMaterials[] = {
+        "\tmtm\pack\blufor_headgear\data\tmtm_beret.rvmat"
+    };
 
     class ItemInfo: ItemInfo
     {
@@ -13,6 +16,10 @@ class tmtm_h_beret_base: HelmetBase
         modelSides[]={3};
 
         allowedSlots[] = {UNIFORM_SLOT, BACKPACK_SLOT, VEST_SLOT, HEADGEAR_SLOT};
+
+        hiddenSelectionsMaterials[] = {
+            "\tmtm\pack\blufor_headgear\data\tmtm_beret.rvmat"
+        };
     };
 };
 

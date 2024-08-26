@@ -13,7 +13,7 @@ VertexShaderID="Super";
 
 class Stage1
 {
-	texture = "tmtm\pack\blufor_headgear\data\tmtm_beret_camo_nohq.paa";
+	texture = "tmtm\pack\blufor_headgear\data\tmtm_beret_nohq.paa";
 	uvSource="tex";
 	class uvTransform
 	{
