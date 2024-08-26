@@ -8,6 +8,11 @@ class tmtm_h_beret_camo_base: tmtm_h_beret_base
     class ItemInfo;
 };
 
+class tmtm_h_bandana_base: HelmetBase
+{
+    class ItemInfo;
+};
+
 ///////////////////////////////////////////////
 class tmtm_h_beret_glf_army: tmtm_h_beret_base
 {
@@ -87,6 +92,75 @@ class tmtm_h_beret_glf_camo_brushw: tmtm_h_beret_camo_base
     {
         hiddenSelectionsTextures[]= {
             "\tmtm\pack\faction_glf\characters\headgear\Data\tmtm_beret_glf_camo_brushw_co.paa"
+        };
+    };
+};
+
+class tmtm_h_bandana_glf_oak: tmtm_h_bandana_base
+{
+    author="erem2k";
+
+    scope=2;
+    scopeCurator=2;
+    scopeArsenal=2;
+
+    displayName="Bandana (Oak)";
+    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+
+    hiddenSelectionsTextures[]= {
+        "\tmtm\pack\faction_glf\characters\headgear\Data\tmtm_bandana_glf_oak_co.paa"
+    };
+
+    class ItemInfo: ItemInfo
+    {
+        hiddenSelectionsTextures[]= {
+            "\tmtm\pack\faction_glf\characters\headgear\Data\tmtm_bandana_glf_oak_co.paa"
+        };
+    };
+};
+
+class tmtm_h_bandana_glf_brushw: tmtm_h_bandana_base
+{
+    author="erem2k";
+
+    scope=2;
+    scopeCurator=2;
+    scopeArsenal=2;
+
+    displayName="Bandana (Brush Woodland)";
+    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+
+    hiddenSelectionsTextures[]= {
+        "\tmtm\pack\faction_glf\characters\headgear\Data\tmtm_bandana_glf_brushw_co.paa"
+    };
+
+    class ItemInfo: ItemInfo
+    {
+        hiddenSelectionsTextures[]= {
+            "\tmtm\pack\faction_glf\characters\headgear\Data\tmtm_bandana_glf_brushw_co.paa"
+        };
+    };
+};
+
+class tmtm_h_bandana_glf_brushu: tmtm_h_bandana_base
+{
+    author="erem2k";
+
+    scope=2;
+    scopeCurator=2;
+    scopeArsenal=2;
+
+    displayName="Bandana (Brush Urban)";
+    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+
+    hiddenSelectionsTextures[]= {
+        "\tmtm\pack\faction_glf\characters\headgear\Data\tmtm_bandana_glf_brushu_co.paa"
+    };
+
+    class ItemInfo: ItemInfo
+    {
+        hiddenSelectionsTextures[]= {
+            "\tmtm\pack\faction_glf\characters\headgear\Data\tmtm_bandana_glf_brushu_co.paa"
         };
     };
 };
