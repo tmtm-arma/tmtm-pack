@@ -8,11 +8,12 @@ class CfgPatches {
 		requiredVersion = REQUIRED_VERSION;
 		requiredAddons[] = {
 			"tmtmpack_main",
-			"characters_f_lxWS"
+			"Characters_1_f_lxWS_headgear",
+			"tmtmpack_blufor_headgear"
 		};
 		author = MOD_AUTHOR;
 		url = MOD_URL;
-		version = VERSION; 
+		version = VERSION;
 		versionStr = QUOTE(VERSION_STR);
 		versionAr[] = {QUOTE(VERSION_AR)};
 
