@@ -75,7 +75,7 @@ class tmtm_h_ssh68_covered_base : tmtm_h_ssh68_base
     {
         mass = 20;
         uniformModel="\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\CUP_H_SSH68_cover.p3d";
-        
+
         hiddenSelections[] = {"camo", "camo1"};
         hiddenSelectionsMaterials[] = {
             "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered.rvmat"
@@ -123,7 +123,7 @@ class CUP_H_RUS_SSH68_cover_berezka : CUP_H_RUS_SSH68_cover_base
 
     class ItemInfo: ItemInfo
     {
-        hiddenSelections[] = {"camo", "camo1"}; 
+        hiddenSelections[] = {"camo", "camo1"};
         hiddenSelectionsTextures[] = {
             "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_berezkayellow_co.paa",
             "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_berezkayellow_co.paa"
@@ -144,7 +144,7 @@ class CUP_H_RUS_SSH68_cover_vsr84_dubok : CUP_H_RUS_SSH68_cover_base
 
     class ItemInfo: ItemInfo
     {
-        hiddenSelections[] = {"camo", "camo1"}; 
+        hiddenSelections[] = {"camo", "camo1"};
         hiddenSelectionsTextures[] = {
             "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\data\ssh68_cover_vsr84_dubok_co.paa",
             "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\data\ssh68_cover_vsr84_dubok_co.paa"
@@ -164,7 +164,7 @@ class CUP_H_RUS_SSH68_cover_vsr93 : CUP_H_RUS_SSH68_cover_base
 
     class ItemInfo: ItemInfo
     {
-        hiddenSelections[] = {"camo", "camo1"}; 
+        hiddenSelections[] = {"camo", "camo1"};
         hiddenSelectionsTextures[] = {
             "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\data\ssh68_cover_vsr93_co.paa",
             "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\data\ssh68_cover_vsr93_co.paa"
@@ -184,7 +184,7 @@ class CUP_H_RUS_SSH68_cover_vsr98 : CUP_H_RUS_SSH68_cover_base
 
     class ItemInfo: ItemInfo
     {
-        hiddenSelections[] = {"camo", "camo1"}; 
+        hiddenSelections[] = {"camo", "camo1"};
         hiddenSelectionsTextures[] = {
             "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\data\ssh68_cover_vsr98_co.paa",
             "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\data\ssh68_cover_vsr98_co.paa"
@@ -196,7 +196,7 @@ class CUP_H_RUS_SSH68_cover_vsr98 : CUP_H_RUS_SSH68_cover_base
 class tmtm_h_ssh68_black: tmtm_h_ssh68_base
 {
     author="erem2k";
-    
+
     scope=2;
     scopeCurator=2;
     scopeArsenal=2;
@@ -218,7 +218,7 @@ class tmtm_h_ssh68_black: tmtm_h_ssh68_base
 class tmtm_h_ssh68_grey: tmtm_h_ssh68_base
 {
     author="erem2k";
-    
+
     scope=2;
     scopeCurator=2;
     scopeArsenal=2;
@@ -240,7 +240,7 @@ class tmtm_h_ssh68_grey: tmtm_h_ssh68_base
 class tmtm_h_ssh68_khaki: tmtm_h_ssh68_base
 {
     author="erem2k";
-    
+
     scope=2;
     scopeCurator=2;
     scopeArsenal=2;
@@ -262,7 +262,7 @@ class tmtm_h_ssh68_khaki: tmtm_h_ssh68_base
 class tmtm_h_ssh68_khaki_camo: tmtm_h_ssh68_base
 {
     author="erem2k";
-    
+
     scope=2;
     scopeCurator=2;
     scopeArsenal=2;
@@ -284,7 +284,7 @@ class tmtm_h_ssh68_khaki_camo: tmtm_h_ssh68_base
 class tmtm_h_ssh68_palegreen: tmtm_h_ssh68_base
 {
     author="erem2k";
-    
+
     scope=2;
     scopeCurator=2;
     scopeArsenal=2;
@@ -306,7 +306,7 @@ class tmtm_h_ssh68_palegreen: tmtm_h_ssh68_base
 class tmtm_h_ssh68_olive: tmtm_h_ssh68_base
 {
     author="erem2k";
-    
+
     scope=2;
     scopeCurator=2;
     scopeArsenal=2;
@@ -328,7 +328,7 @@ class tmtm_h_ssh68_olive: tmtm_h_ssh68_base
 class tmtm_h_ssh68_olive_camo: tmtm_h_ssh68_base
 {
     author="erem2k";
-    
+
     scope=2;
     scopeCurator=2;
     scopeArsenal=2;
@@ -350,7 +350,7 @@ class tmtm_h_ssh68_olive_camo: tmtm_h_ssh68_base
 class tmtm_h_ssh68_un: tmtm_h_ssh68_base
 {
     author="erem2k";
-    
+
     scope=2;
     scopeCurator=2;
     scopeArsenal=2;
@@ -373,7 +373,7 @@ class tmtm_h_ssh68_un: tmtm_h_ssh68_base
 class tmtm_h_ssh68_net_khaki_green: tmtm_h_ssh68_net_base
 {
     author="erem2k";
-    
+
     scope=2;
     scopeCurator=2;
     scopeArsenal=2;
@@ -395,7 +395,7 @@ class tmtm_h_ssh68_net_khaki_green: tmtm_h_ssh68_net_base
 class tmtm_h_ssh68_net_olive_brown: tmtm_h_ssh68_net_base
 {
     author="erem2k";
-    
+
     scope=2;
     scopeCurator=2;
     scopeArsenal=2;
@@ -417,7 +417,7 @@ class tmtm_h_ssh68_net_olive_brown: tmtm_h_ssh68_net_base
 class tmtm_h_ssh68_net_olive_khaki: tmtm_h_ssh68_net_base
 {
     author="erem2k";
-    
+
     scope=2;
     scopeCurator=2;
     scopeArsenal=2;
@@ -440,7 +440,7 @@ class tmtm_h_ssh68_net_olive_khaki: tmtm_h_ssh68_net_base
 class tmtm_h_ssh68_covered_olive: tmtm_h_ssh68_covered_base
 {
     author="erem2k";
-    
+
     scope=2;
     scopeCurator=2;
     scopeArsenal=2;
@@ -464,7 +464,7 @@ class tmtm_h_ssh68_covered_olive: tmtm_h_ssh68_covered_base
 class tmtm_h_ssh68_covered_khaki: tmtm_h_ssh68_covered_base
 {
     author="erem2k";
-    
+
     scope=2;
     scopeCurator=2;
     scopeArsenal=2;
@@ -489,7 +489,7 @@ class tmtm_h_ssh68_covered_khaki: tmtm_h_ssh68_covered_base
 class tmtm_h_ssh68_covered_berezkawhite: tmtm_h_ssh68_covered_base
 {
     author="erem2k";
-    
+
     scope=2;
     scopeCurator=2;
     scopeArsenal=2;
@@ -513,7 +513,7 @@ class tmtm_h_ssh68_covered_berezkawhite: tmtm_h_ssh68_covered_base
 class tmtm_h_ssh68_covered_aaf: tmtm_h_ssh68_covered_base
 {
     author="erem2k";
-    
+
     scope=2;
     scopeCurator=2;
     scopeArsenal=2;
@@ -537,7 +537,7 @@ class tmtm_h_ssh68_covered_aaf: tmtm_h_ssh68_covered_base
 class tmtm_h_ssh68_covered_csata: tmtm_h_ssh68_covered_base
 {
     author="erem2k";
-    
+
     scope=2;
     scopeCurator=2;
     scopeArsenal=2;
@@ -546,14 +546,14 @@ class tmtm_h_ssh68_covered_csata: tmtm_h_ssh68_covered_base
     picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
 
     hiddenSelectionsTextures[] = {
-        "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_csata_co.paa", 
+        "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_csata_co.paa",
         "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_csata_co.paa"
     };
 
     class ItemInfo: ItemInfo
     {
         hiddenSelectionsTextures[] = {
-            "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_csata_co.paa", 
+            "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_csata_co.paa",
             "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_csata_co.paa"
         };
     };
@@ -562,7 +562,7 @@ class tmtm_h_ssh68_covered_csata: tmtm_h_ssh68_covered_base
 class tmtm_h_ssh68_covered_csatt: tmtm_h_ssh68_covered_base
 {
     author="erem2k";
-    
+
     scope=2;
     scopeCurator=2;
     scopeArsenal=2;
@@ -583,50 +583,50 @@ class tmtm_h_ssh68_covered_csatt: tmtm_h_ssh68_covered_base
     };
 };
 
-class tmtm_h_ssh68_covered_butanb: tmtm_h_ssh68_covered_base
+class tmtm_h_ssh68_covered_butand: tmtm_h_ssh68_covered_base
 {
     author="erem2k";
-    
+
     scope=2;
     scopeCurator=2;
     scopeArsenal=2;
 
-    displayName  = "SSh-68, Covered (TTsKO Brown)";
+    displayName  = "SSh-68, Covered (TTsKO Dark)";
     picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
 
     hiddenSelectionsTextures[] = {
-        "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_ttsko_brown_co.paa",
-        "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_ttsko_brown_co.paa"
+        "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_ttsko_dark_co.paa",
+        "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_ttsko_dark_co.paa"
     };
     class ItemInfo: ItemInfo
     {
         hiddenSelectionsTextures[] = {
-            "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_ttsko_brown_co.paa",
-            "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_ttsko_brown_co.paa"
+            "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_ttsko_dark_co.paa",
+            "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_ttsko_dark_co.paa"
         };
     };
 };
 
-class tmtm_h_ssh68_covered_butano: tmtm_h_ssh68_covered_base
+class tmtm_h_ssh68_covered_butanl: tmtm_h_ssh68_covered_base
 {
     author="erem2k";
-    
+
     scope=2;
     scopeCurator=2;
     scopeArsenal=2;
 
-    displayName  = "SSh-68, Covered (TTsKO Oxblood)";
+    displayName  = "SSh-68, Covered (TTsKO Light)";
     picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
 
     hiddenSelectionsTextures[] = {
-        "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_ttsko_oxblood_co.paa",
-        "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_ttsko_oxblood_co.paa"
+        "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_ttsko_light_co.paa",
+        "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_ttsko_light_co.paa"
     };
     class ItemInfo: ItemInfo
     {
         hiddenSelectionsTextures[] = {
-            "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_ttsko_oxblood_co.paa",
-            "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_ttsko_oxblood_co.paa"
+            "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_ttsko_ligth_co.paa",
+            "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_ttsko_light_co.paa"
         };
     };
 };
@@ -634,7 +634,7 @@ class tmtm_h_ssh68_covered_butano: tmtm_h_ssh68_covered_base
 class tmtm_h_ssh68_covered_dubok: tmtm_h_ssh68_covered_base
 {
     author="erem2k";
-    
+
     scope=2;
     scopeCurator=2;
     scopeArsenal=2;
@@ -658,7 +658,7 @@ class tmtm_h_ssh68_covered_dubok: tmtm_h_ssh68_covered_base
 class tmtm_h_ssh68_covered_sfia: tmtm_h_ssh68_covered_base
 {
     author="erem2k";
-    
+
     scope=2;
     scopeCurator=2;
     scopeArsenal=2;
@@ -682,7 +682,7 @@ class tmtm_h_ssh68_covered_sfia: tmtm_h_ssh68_covered_base
 class tmtm_h_ssh68_covered_lizardt: tmtm_h_ssh68_covered_base
 {
     author="erem2k";
-    
+
     scope=2;
     scopeCurator=2;
     scopeArsenal=2;
@@ -706,7 +706,7 @@ class tmtm_h_ssh68_covered_lizardt: tmtm_h_ssh68_covered_base
 class tmtm_h_ssh68_covered_un: tmtm_h_ssh68_covered_base
 {
     author="erem2k";
-    
+
     scope=2;
     scopeCurator=2;
     scopeArsenal=2;
@@ -730,7 +730,7 @@ class tmtm_h_ssh68_covered_un: tmtm_h_ssh68_covered_base
 class tmtm_h_ssh68_covered_un_crest: tmtm_h_ssh68_covered_base
 {
     author="erem2k";
-    
+
     scope=2;
     scopeCurator=2;
     scopeArsenal=2;
@@ -754,7 +754,7 @@ class tmtm_h_ssh68_covered_un_crest: tmtm_h_ssh68_covered_base
 class tmtm_h_ssh68_covered_wdl: tmtm_h_ssh68_covered_base
 {
     author="erem2k";
-    
+
     scope=2;
     scopeCurator=2;
     scopeArsenal=2;
@@ -779,7 +779,7 @@ class tmtm_h_ssh68_covered_wdl: tmtm_h_ssh68_covered_base
 class tmtm_h_ssh68_covered_net_lizardt: tmtm_h_ssh68_covered_net_base
 {
     author="erem2k";
-    
+
     scope=2;
     scopeCurator=2;
     scopeArsenal=2;
