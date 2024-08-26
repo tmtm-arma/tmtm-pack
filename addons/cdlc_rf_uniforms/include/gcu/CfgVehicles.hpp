@@ -145,10 +145,11 @@ class tmtm_lightFatigues_combat_scarf_csata: tmtm_lightFatigues_combat_scarf_bas
     uniformClass="tmtm_u_lightFatigues_combat_scarf_csata";
 
     hiddenSelectionsTextures[]= {
-        "a3\characters_f_beta\INDEP\Data\ia_soldier_01_clothing_co.paa",
-        "\tmtm\pack\opfor_uniforms\data\tmtm_lightFatigues_csatt_co.paa",
-        "lxRF\characters_rf\uniform\data\fia_pants_kneepads_co.paa",
-        "\tmtm\pack\cdlc_rf_uniforms\data\tmtm_lcf_scarf_brown_co.paa"
+        "\a3\characters_f_beta\indep\data\ia_soldier_01_clothing_co.paa",
+        "\a3\characters_f\opfor\data\officer_noinsignia_hex_CO.paa",
+        "\a3\characters_F\opfor\data\clothing_co.paa",
+        "\a3\characters_f_gamma\civil\data\c_cloth1_black.paa",
+        "\a3\ui_f_tacops\data\CfgUnitInsignia\csat_scimitarRegiment_ca.paa"
     };
 };
 
@@ -169,8 +170,9 @@ class tmtm_lightFatigues_combat_scarf_csatt: tmtm_lightFatigues_combat_scarf_bas
     hiddenSelectionsTextures[]= {
         "a3\characters_f_beta\INDEP\Data\ia_soldier_01_clothing_co.paa",
         "\tmtm\pack\opfor_uniforms\data\tmtm_lightFatigues_csatt_co.paa",
-        "lxRF\characters_rf\uniform\data\fia_pants_kneepads_co.paa",
-        "\tmtm\pack\cdlc_rf_uniforms\data\tmtm_lcf_scarf_green_co.paa"
+        "\a3\characters_f_exp\opfor\data\clothing_tna_CO.paa",
+        "\a3\characters_f_gamma\civil\data\c_cloth1_black.paa",
+        ""
     };
 };
 
@@ -190,7 +192,8 @@ class tmtm_lightFatigues_combat_scarf_csatu: tmtm_lightFatigues_combat_scarf_bas
     hiddenSelectionsTextures[]= {
         "a3\characters_f_beta\INDEP\Data\ia_soldier_01_clothing_co.paa",
         "\tmtm\pack\opfor_uniforms\data\tmtm_lightFatigues_csatu_co.paa",
-        "lxRF\characters_rf\uniform\data\fia_pants_kneepads_co.paa",
-        "\tmtm\pack\cdlc_rf_uniforms\data\tmtm_lcf_scarf_white_co.paa"
+        "\a3\characters_F\opfor\Data\clothing_oucamo_co.paa",
+        "\tmtm\pack\cdlc_rf_uniforms\data\tmtm_lcf_scarf_white_co.paa",
+        ""
     };
 };
