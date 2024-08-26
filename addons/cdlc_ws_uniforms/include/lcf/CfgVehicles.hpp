@@ -1,4 +1,4 @@
-class tmtm_lightFatigues_combat_base: O_Soldier_F
+class tmtm_lightFatigues_combat_base: O_Soldier_base_F
 {
     scope=1;
     scopeCurator=0;
