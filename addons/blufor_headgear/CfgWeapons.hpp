@@ -7,6 +7,7 @@ class CfgWeapons
 		class ItemInfo;
 	};
 
+	#include "include/Bandana/CfgWeapons.hpp"
 	#include "include/Beret/CfgWeapons.hpp"
 	#include "include/CombatHelmet/CfgWeapons.hpp"
 	#include "include/ECH/CfgWeapons.hpp"
