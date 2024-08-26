@@ -8,11 +8,12 @@ class CfgPatches {
 		requiredVersion = REQUIRED_VERSION;
 		requiredAddons[] = {
 			"tmtmpack_main",
+			"tmtmpack_opfor_uniforms",
 			"rf_characters"
 		};
 		author = MOD_AUTHOR;
 		url = MOD_URL;
-		version = VERSION; 
+		version = VERSION;
 		versionStr = QUOTE(VERSION_STR);
 		versionAr[] = {QUOTE(VERSION_AR)};
 
