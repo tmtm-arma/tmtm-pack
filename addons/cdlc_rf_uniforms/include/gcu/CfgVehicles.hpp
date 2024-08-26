@@ -140,7 +140,7 @@ class tmtm_lightFatigues_combat_scarf_csata: tmtm_lightFatigues_combat_scarf_bas
     author="erem2k";
 
     displayName="Light Combat Fatigues, Scarf (Hex)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\A3\characters_F\data\ui\icon_U_OI_Officer_ocamo_ca.paa";
 
     uniformClass="tmtm_u_lightFatigues_combat_scarf_csata";
 
@@ -163,7 +163,7 @@ class tmtm_lightFatigues_combat_scarf_csatt: tmtm_lightFatigues_combat_scarf_bas
     author="erem2k";
 
     displayName="Light Combat Fatigues, Scarf (Green Hex)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\A3\characters_f_exp\data\ui\icon_U_OT_officer_F_ca.paa";
 
     uniformClass="tmtm_u_lightFatigues_combat_scarf_csatt";
 
@@ -185,7 +185,7 @@ class tmtm_lightFatigues_combat_scarf_csatu: tmtm_lightFatigues_combat_scarf_bas
     author="Ravenholme, erem2k";
 
     displayName="Light Combat Fatigues, Scarf (Urban)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\opfor_uniforms\data\ui\icon_tmtm_u_lightFatigues_csatu_ca.paa";
 
     uniformClass="tmtm_u_lightFatigues_combat_scarf_csatu";
 

@@ -25,7 +25,7 @@ class tmtm_u_lightFatigues_combat_scarf_csata: tmtm_u_lightFatigues_combat_scarf
 
     displayName="Light Combat Fatigues, Scarf (Hex)";
     descriptionShort="Light Fatigues, Combat, Scarf, Hex";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\A3\characters_F\data\ui\icon_U_OI_Officer_ocamo_ca.paa";
 
     hiddenSelectionsTextures[]= {
         "\a3\characters_f\opfor\Data\officer_noinsignia_hex_CO.paa"
@@ -46,7 +46,7 @@ class tmtm_u_lightFatigues_combat_scarf_csatt: tmtm_u_lightFatigues_combat_scarf
 
     displayName="Light Combat Fatigues, Scarf (Green Hex)";
     descriptionShort="Light Fatigues, Combat, Scarf, Green Hex";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\A3\characters_f_exp\data\ui\icon_U_OT_officer_F_ca.paa";
 
     hiddenSelectionsTextures[]= {
         "\tmtm\pack\opfor_uniforms\data\tmtm_lightFatigues_csatt_co.paa"
@@ -67,7 +67,7 @@ class tmtm_u_lightFatigues_combat_scarf_csatu: tmtm_u_lightFatigues_combat_scarf
 
     displayName="Light Combat Fatigues, Scarf (Urban)";
     descriptionShort="Light Fatigues, Combat, Scarf, Urban";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\opfor_uniforms\data\ui\icon_tmtm_u_lightFatigues_csatu_ca.paa";
 
     hiddenSelectionsTextures[]= {
         "\tmtm\pack\opfor_uniforms\data\tmtm_lightFatigues_csatu_co.paa"

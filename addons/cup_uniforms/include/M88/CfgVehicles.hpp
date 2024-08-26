@@ -209,7 +209,7 @@ class tmtm_m88_kneepads_base: tmtm_m88_base
 {
     scope=1;
     scopeCurator=0;
-    
+
     model="\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\CUP_RUS_Soldier_gloves_kneepads.p3d";
 
     hiddenSelections[]= { "Camo", "Camo1", "Camo5", "clan", "insignia" };
@@ -225,7 +225,7 @@ class tmtm_m88_kneepads_rolled_base: tmtm_m88_kneepads_base
 {
     scope=1;
     scopeCurator=0;
-    
+
     model="\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\CUP_RUS_Soldier_rolledup_gloves_kneepads.p3d";
 
     hiddenSelections[]= { "Camo", "Camo1", "Camo5", "clan", "insignia" };
@@ -236,7 +236,7 @@ class tmtm_m88_vdv_base: tmtm_m88_base
 {
     scope=1;
     scopeCurator=0;
-    
+
     model = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\cup_rus_vdv_uniform_80s.p3d";
     hiddenSelectionsMaterials[] = {
         "\tmtm\pack\cup_uniforms\Data\tmtm_m88_vdv.rvmat",
@@ -247,7 +247,7 @@ class tmtm_m88_vdv_rolled_base: tmtm_m88_vdv_base
 {
     scope=1;
     scopeCurator=0;
-    
+
     model = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\cup_rus_vdv_uniform_80s_rolled_up.p3d";
 };
 
@@ -255,7 +255,7 @@ class tmtm_m88_vdv_gloves_base: tmtm_m88_vdv_base
 {
     scope=1;
     scopeCurator=0;
-    
+
     model = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\cup_rus_vdv_uniform_80s_gloves.p3d";
     hiddenSelections[] = { "Camo", "camo1", "clan", "insignia" };
 };
@@ -264,11 +264,11 @@ class tmtm_m88_vdv_rolled_gloves_base: tmtm_m88_vdv_rolled_base
 {
     scope=1;
     scopeCurator=0;
-    
+
     model = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\cup_rus_vdv_uniform_80s_rolled_up_gloves.p3d";
 };
 
-/* 
+/*
     Content
 */
 //////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -278,11 +278,11 @@ class tmtm_m88_butand: tmtm_m88_base
     scope=1;
     scopeArsenal=2;
     scopeCurator=0;
-    
+
     author="erem2k";
 
     displayName="Uniform M-88, TTsKO Dark";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\cup_uniforms\data\ui\icon_tmtm_u_m88_butand_ca.paa";
 
     uniformClass="tmtm_u_m88_butand";
 
@@ -296,11 +296,11 @@ class tmtm_m88_butand_rolled: tmtm_m88_rolled_base
     scope=1;
     scopeArsenal=2;
     scopeCurator=0;
-    
+
     author="erem2k";
 
     displayName="Uniform M-88, TTsKO Dark (Rolled Up)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\cup_uniforms\data\ui\icon_tmtm_u_m88_butand_rolled_ca.paa";
 
     uniformClass="tmtm_u_m88_butand_rolled";
 
@@ -314,11 +314,11 @@ class tmtm_m88_butand_gloves: tmtm_m88_gloves_base
     scope=1;
     scopeArsenal=2;
     scopeCurator=0;
-    
+
     author="erem2k";
 
     displayName="Uniform M-88, TTsKO Dark (Gloves)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\cup_uniforms\data\ui\icon_tmtm_u_m88_butand_ca.paa";
 
     uniformClass="tmtm_u_m88_butand_gloves";
 
@@ -333,11 +333,11 @@ class tmtm_m88_butand_rolled_gloves: tmtm_m88_rolled_gloves_base
     scope=1;
     scopeArsenal=2;
     scopeCurator=0;
-    
+
     author="erem2k";
 
     displayName="Uniform M-88, TTsKO Dark (Rolled Up, Gloves)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\cup_uniforms\data\ui\icon_tmtm_u_m88_butand_rolled_ca.paa";
 
     uniformClass="tmtm_u_m88_butand_rolled_gloves";
 
@@ -351,11 +351,11 @@ class tmtm_m88_butanl: tmtm_m88_base
     scope=1;
     scopeArsenal=2;
     scopeCurator=0;
-    
+
     author="erem2k";
 
     displayName="Uniform M-88, TTsKO Light";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\cup_uniforms\data\ui\icon_tmtm_u_m88_butanl_ca.paa";
 
     uniformClass="tmtm_u_m88_butanl";
 
@@ -369,11 +369,11 @@ class tmtm_m88_butanl_rolled: tmtm_m88_rolled_base
     scope=1;
     scopeArsenal=2;
     scopeCurator=0;
-    
+
     author="erem2k";
 
     displayName="Uniform M-88, TTsKO Light (Rolled Up)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\cup_uniforms\data\ui\icon_tmtm_u_m88_butanl_rolled_ca.paa";
 
     uniformClass="tmtm_u_m88_butanl_rolled";
 
@@ -387,11 +387,11 @@ class tmtm_m88_butanl_gloves: tmtm_m88_gloves_base
     scope=1;
     scopeArsenal=2;
     scopeCurator=0;
-    
+
     author="erem2k";
 
     displayName="Uniform M-88, TTsKO Light (Gloves)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\cup_uniforms\data\ui\icon_tmtm_u_m88_butanl_ca.paa";
 
     uniformClass="tmtm_u_m88_butanl_gloves";
 
@@ -406,11 +406,11 @@ class tmtm_m88_butanl_rolled_gloves: tmtm_m88_rolled_gloves_base
     scope=1;
     scopeArsenal=2;
     scopeCurator=0;
-    
+
     author="erem2k";
 
     displayName="Uniform M-88, TTsKO Light (Rolled Up, Gloves)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\cup_uniforms\data\ui\icon_tmtm_u_m88_butanl_rolled_ca.paa";
 
     uniformClass="tmtm_u_m88_butanl_rolled_gloves";
 
@@ -420,4 +420,4 @@ class tmtm_m88_butanl_rolled_gloves: tmtm_m88_rolled_gloves_base
 };
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////
-// 
+//

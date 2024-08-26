@@ -176,7 +176,7 @@ class tmtm_lightFatigues_csatt: tmtm_lightFatigues_base
     author="erem2k";
 
     displayName="Light Fatigues (Green Hex)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\A3\characters_f_exp\data\ui\icon_U_OT_officer_F_ca.paa";
 
     uniformClass="tmtm_u_lightFatigues_csatt";
 
@@ -195,7 +195,7 @@ class tmtm_lightFatigues_csatu: tmtm_lightFatigues_base
     author="Ravenholme";
 
     displayName="Light Fatigues (Urban)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\opfor_uniforms\data\ui\icon_tmtm_u_lightFatigues_csatu_ca.paa";
 
     uniformClass="tmtm_u_lightFatigues_csatu";
 

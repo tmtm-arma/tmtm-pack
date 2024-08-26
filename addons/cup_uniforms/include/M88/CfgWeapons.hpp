@@ -14,7 +14,7 @@ class tmtm_u_m88_base: ItemCore
     };
 };
 
-/* 
+/*
     Content
 */
 //////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -28,7 +28,7 @@ class tmtm_u_m88_butand: tmtm_u_m88_base
 
     displayName="Uniform M-88, TTsKO Dark";
     descriptionShort="Uniform, Model 88, TTsKO";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\cup_uniforms\data\ui\icon_tmtm_u_m88_butand_ca.paa";
 
     class ItemInfo: ItemInfo
     {
@@ -45,7 +45,7 @@ class tmtm_u_m88_butand_rolled: tmtm_u_m88_base
 
     displayName="Uniform M-88, TTsKO Dark (Rolled Up)";
     descriptionShort="Uniform, Model 88, TTsKO";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\cup_uniforms\data\ui\icon_tmtm_u_m88_butand_rolled_ca.paa";
 
     class ItemInfo: ItemInfo
     {
@@ -62,7 +62,7 @@ class tmtm_u_m88_butand_gloves: tmtm_u_m88_base
 
     displayName="Uniform M-88, TTsKO Dark (Gloves)";
     descriptionShort="Uniform, Model 88, TTsKO";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\cup_uniforms\data\ui\icon_tmtm_u_m88_butand_ca.paa";
 
     class ItemInfo: ItemInfo
     {
@@ -79,7 +79,7 @@ class tmtm_u_m88_butand_rolled_gloves: tmtm_u_m88_base
 
     displayName="Uniform M-88, TTsKO Dark (Rolled Up, Gloves)";
     descriptionShort="Uniform, Model 88, TTsKO";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\cup_uniforms\data\ui\icon_tmtm_u_m88_butand_rolled_ca.paa";
 
     class ItemInfo: ItemInfo
     {
@@ -97,7 +97,7 @@ class tmtm_u_m88_butanl: tmtm_u_m88_base
 
     displayName="Uniform M-88, TTsKO Light";
     descriptionShort="Uniform, Model 88, TTsKO";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\cup_uniforms\data\ui\icon_tmtm_u_m88_butanl_ca.paa";
 
     class ItemInfo: ItemInfo
     {
@@ -114,7 +114,7 @@ class tmtm_u_m88_butanl_rolled: tmtm_u_m88_base
 
     displayName="Uniform M-88, TTsKO Light (Rolled Up)";
     descriptionShort="Uniform, Model 88, TTsKO";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\cup_uniforms\data\ui\icon_tmtm_u_m88_butanl_rolled_ca.paa";
 
     class ItemInfo: ItemInfo
     {
@@ -131,7 +131,7 @@ class tmtm_u_m88_butanl_gloves: tmtm_u_m88_base
 
     displayName="Uniform M-88, TTsKO Light (Gloves)";
     descriptionShort="Uniform, Model 88, TTsKO";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\cup_uniforms\data\ui\icon_tmtm_u_m88_butanl_ca.paa";
 
     class ItemInfo: ItemInfo
     {
@@ -148,7 +148,7 @@ class tmtm_u_m88_butanl_rolled_gloves: tmtm_u_m88_base
 
     displayName="Uniform M-88, TTsKO Light (Rolled Up, Gloves)";
     descriptionShort="Uniform, Model 88, TTsKO";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\cup_uniforms\data\ui\icon_tmtm_u_m88_butanl_rolled_ca.paa";
 
     class ItemInfo: ItemInfo
     {

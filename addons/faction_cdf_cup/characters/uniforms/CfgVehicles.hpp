@@ -12,7 +12,7 @@ class tmtm_m88_cdf_un: tmtm_m88_base
     author="erem2k";
 
     displayName="CDF Uniform M-88, UN";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\faction_cdf_cup\characters\uniforms\data\ui\icon_tmtm_u_m88_cdf_un_ca.paa";
 
     uniformClass="tmtm_u_m88_cdf_un";
 
@@ -30,7 +30,7 @@ class tmtm_m88_cdf_un_rolled: tmtm_m88_rolled_base
     author="erem2k";
 
     displayName="CDF Uniform M-88, UN (Rolled Up)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\faction_cdf_cup\characters\uniforms\data\ui\icon_tmtm_u_m88_cdf_un_rolled_ca.paa";
 
     uniformClass="tmtm_u_m88_cdf_un_rolled";
 
@@ -48,7 +48,7 @@ class tmtm_m88_cdf_un_gloves: tmtm_m88_gloves_base
     author="erem2k";
 
     displayName="CDF Uniform M-88, UN (Gloves)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\faction_cdf_cup\characters\uniforms\data\ui\icon_tmtm_u_m88_cdf_un_ca.paa";
 
     uniformClass="tmtm_u_m88_cdf_un_gloves";
 
@@ -67,8 +67,7 @@ class tmtm_m88_cdf_un_rolled_gloves: tmtm_m88_rolled_gloves_base
     author="erem2k";
 
     displayName="CDF Uniform M-88, UN (Rolled Up, Gloves)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
-
+    picture="\tmtm\pack\faction_cdf_cup\characters\uniforms\data\ui\icon_tmtm_u_m88_cdf_un_rolled_ca.paa";
     uniformClass="tmtm_u_m88_cdf_un_rolled_gloves";
 
     hiddenSelectionsTextures[]={

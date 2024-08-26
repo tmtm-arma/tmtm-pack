@@ -27,7 +27,7 @@ class tmtm_h_fieldcap_glf_oak: tmtm_h_fieldcap_base
     scopeArsenal=2;
 
     displayName="GLF Field Cap (Oak)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\faction_glf_sns\characters\headgear\data\ui\icon_tmtm_h_fieldcap_glf_oak_ca.paa";
 
     hiddenSelectionsTextures[]= {
         "\tmtm\pack\faction_glf_sns\characters\headgear\Data\tmtm_fieldcap_glf_oak_co.paa",
@@ -52,7 +52,7 @@ class tmtm_h_fieldcap_goggles_glf_oak: tmtm_h_fieldcap_goggles_base
     scopeArsenal=2;
 
     displayName="GLF Field Cap (Oak, Goggles)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\faction_glf_sns\characters\headgear\data\ui\icon_tmtm_h_fieldcap_goggles_glf_oak_ca.paa";
 
     hiddenSelectionsTextures[]= {
         "\tmtm\pack\faction_glf_sns\characters\headgear\Data\tmtm_fieldcap_glf_oak_co.paa",
@@ -77,7 +77,7 @@ class tmtm_h_fieldcap_goggles_back_glf_oak: tmtm_h_fieldcap_goggles_back_base
     scopeArsenal=2;
 
     displayName="GLF Field Cap (Oak, Goggles)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\faction_glf_sns\characters\headgear\data\ui\icon_tmtm_h_fieldcap_goggles_glf_oak_ca.paa";
 
     hiddenSelectionsTextures[]= {
         "\tmtm\pack\faction_glf_sns\characters\headgear\Data\tmtm_fieldcap_glf_oak_co.paa",

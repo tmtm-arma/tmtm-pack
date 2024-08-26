@@ -27,7 +27,7 @@ class tmtm_u_lightFatigues_combat_csatt: tmtm_u_lightFatigues_combat_base
 
     displayName="Light Combat Fatigues (Green Hex)";
     descriptionShort="Light Fatigues, Combat, Green Hex";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\A3\characters_f_exp\data\ui\icon_U_OT_officer_F_ca.paa";
 
     class ItemInfo: ItemInfo
     {
@@ -44,7 +44,7 @@ class tmtm_u_lightFatigues_combat_csatu: tmtm_u_lightFatigues_combat_base
 
     displayName="Light Combat Fatigues (Urban)";
     descriptionShort="Light Fatigues, Combat, Urban";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\opfor_uniforms\data\ui\icon_tmtm_u_lightFatigues_csatu_ca.paa";
 
     class ItemInfo: ItemInfo
     {

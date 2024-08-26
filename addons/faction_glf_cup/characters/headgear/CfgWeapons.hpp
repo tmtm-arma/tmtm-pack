@@ -73,7 +73,7 @@ class tmtm_h_m92_glf_olive: tmtm_h_m92_base
     scopeArsenal=2;
 
     displayName="GLF M92 Helmet (Olive)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\faction_glf_cup\characters\headgear\data\ui\icon_tmtm_h_m92_glf_olive_ca.paa";
 
     hiddenSelectionsTextures[]= {
         "\tmtm\pack\faction_glf_cup\characters\headgear\Data\tmtm_m92_glf_olive_co.paa"
@@ -96,7 +96,7 @@ class tmtm_h_m92_glf_olive_crest: tmtm_h_m92_base
     scopeArsenal=2;
 
     displayName="GLF M92 Helmet (Olive, Crest)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\faction_glf_cup\characters\headgear\data\ui\icon_tmtm_h_m92_glf_olive_crest_ca.paa";
 
     hiddenSelectionsTextures[]= {
         "\tmtm\pack\faction_glf_cup\characters\headgear\Data\tmtm_m92_glf_olive_crest_co.paa"
@@ -119,7 +119,7 @@ class tmtm_h_m92_net_glf_olive: tmtm_h_m92_net_base
     scopeArsenal=2;
 
     displayName="GLF M92 Helmet (Olive, Net)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\faction_glf_cup\characters\headgear\data\ui\icon_tmtm_h_m92_net_glf_olive_ca.paa";
 
     hiddenSelectionsTextures[]= {
         "\tmtm\pack\faction_glf_cup\characters\headgear\Data\tmtm_m92_net_glf_olive_co.paa"
@@ -142,7 +142,7 @@ class tmtm_h_m92_goggles_glf_olive: tmtm_h_m92_goggles_base
     scopeArsenal=2;
 
     displayName="GLF M92 Helmet (Olive, Goggles)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\faction_glf_cup\characters\headgear\data\ui\icon_tmtm_h_m92_goggles_glf_olive_ca.paa";
 
     hiddenSelectionsTextures[]= {
         "\tmtm\pack\faction_glf_cup\characters\headgear\Data\tmtm_m92_glf_olive_co.paa"
@@ -165,7 +165,7 @@ class tmtm_h_m92_goggles_f_glf_olive: tmtm_h_m92_goggles_f_base
     scopeArsenal=2;
 
     displayName="GLF M92 Helmet (Olive, Goggles)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\faction_glf_cup\characters\headgear\data\ui\icon_tmtm_h_m92_goggles_glf_olive_ca.paa";
 
     hiddenSelectionsTextures[]= {
         "\tmtm\pack\faction_glf_cup\characters\headgear\Data\tmtm_m92_glf_olive_co.paa"
@@ -188,7 +188,7 @@ class tmtm_h_m92_goggles_b_glf_olive: tmtm_h_m92_goggles_b_base
     scopeArsenal=2;
 
     displayName="GLF M92 Helmet (Olive, Goggles)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\faction_glf_cup\characters\headgear\data\ui\icon_tmtm_h_m92_goggles_glf_olive_ca.paa";
 
     hiddenSelectionsTextures[]= {
         "\tmtm\pack\faction_glf_cup\characters\headgear\Data\tmtm_m92_glf_olive_co.paa"
@@ -212,7 +212,7 @@ class tmtm_h_m92_covered_glf_oak: tmtm_h_m92_covered_base
     scopeArsenal=2;
 
     displayName="GLF M92 Helmet, Covered (Oak)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\faction_glf_cup\characters\headgear\data\ui\icon_tmtm_h_m92_covered_glf_oak_ca.paa";
 
     hiddenSelectionsTextures[]= {
         "\tmtm\pack\faction_glf_cup\characters\headgear\Data\tmtm_m92_glf_olive_co.paa",
@@ -237,7 +237,7 @@ class tmtm_h_m92_covered_goggles_glf_oak: tmtm_h_m92_covered_goggles_base
     scopeArsenal=2;
 
     displayName="GLF M92 Helmet, Covered (Oak, Goggles)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\faction_glf_cup\characters\headgear\data\ui\icon_tmtm_h_m92_covered_goggles_glf_oak_ca.paa";
 
     hiddenSelectionsTextures[]= {
         "\tmtm\pack\faction_glf_cup\characters\headgear\Data\tmtm_m92_glf_olive_co.paa",
@@ -262,7 +262,7 @@ class tmtm_h_m92_covered_goggles_f_glf_oak: tmtm_h_m92_covered_goggles_f_base
     scopeArsenal=2;
 
     displayName="GLF M92 Helmet, Covered (Oak, Goggles)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\faction_glf_cup\characters\headgear\data\ui\icon_tmtm_h_m92_covered_goggles_glf_oak_ca.paa";
 
     hiddenSelectionsTextures[]= {
         "\tmtm\pack\faction_glf_cup\characters\headgear\Data\tmtm_m92_glf_olive_co.paa",
@@ -287,7 +287,7 @@ class tmtm_h_m92_covered_goggles_b_glf_oak: tmtm_h_m92_covered_goggles_b_base
     scopeArsenal=2;
 
     displayName="GLF M92 Helmet, Covered (Oak, Goggles)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\faction_glf_cup\characters\headgear\data\ui\icon_tmtm_h_m92_covered_goggles_glf_oak_ca.paa";
 
     hiddenSelectionsTextures[]= {
         "\tmtm\pack\faction_glf_cup\characters\headgear\Data\tmtm_m92_glf_olive_co.paa",
@@ -313,7 +313,7 @@ class tmtm_h_m92_covered_glf_oak_flag: tmtm_h_m92_covered_base
     scopeArsenal=2;
 
     displayName="GLF M92 Helmet, Covered (Oak/Flag)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\faction_glf_cup\characters\headgear\data\ui\icon_tmtm_h_m92_covered_glf_oak_ca.paa";
 
     hiddenSelectionsTextures[]= {
         "\tmtm\pack\faction_glf_cup\characters\headgear\Data\tmtm_m92_glf_olive_co.paa",
@@ -338,7 +338,7 @@ class tmtm_h_m92_covered_goggles_glf_oak_flag: tmtm_h_m92_covered_goggles_base
     scopeArsenal=2;
 
     displayName="GLF M92 Helmet, Covered (Oak/Flag, Goggles)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\faction_glf_cup\characters\headgear\data\ui\icon_tmtm_h_m92_covered_goggles_glf_oak_ca.paa";
 
     hiddenSelectionsTextures[]= {
         "\tmtm\pack\faction_glf_cup\characters\headgear\Data\tmtm_m92_glf_olive_co.paa",
@@ -363,7 +363,7 @@ class tmtm_h_m92_covered_goggles_f_glf_oak_flag: tmtm_h_m92_covered_goggles_f_ba
     scopeArsenal=2;
 
     displayName="GLF M92 Helmet, Covered (Oak/Flag, Goggles)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\faction_glf_cup\characters\headgear\data\ui\icon_tmtm_h_m92_covered_goggles_glf_oak_ca.paa";
 
     hiddenSelectionsTextures[]= {
         "\tmtm\pack\faction_glf_cup\characters\headgear\Data\tmtm_m92_glf_olive_co.paa",
@@ -388,7 +388,7 @@ class tmtm_h_m92_covered_goggles_b_glf_oak_flag: tmtm_h_m92_covered_goggles_b_ba
     scopeArsenal=2;
 
     displayName="GLF M92 Helmet, Covered (Oak/Flag, Goggles)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\faction_glf_cup\characters\headgear\data\ui\icon_tmtm_h_m92_covered_goggles_glf_oak_ca.paa";
 
     hiddenSelectionsTextures[]= {
         "\tmtm\pack\faction_glf_cup\characters\headgear\Data\tmtm_m92_glf_olive_co.paa",
@@ -414,7 +414,7 @@ class tmtm_h_m92_covered_glf_brushw: tmtm_h_m92_covered_net_base
     scopeArsenal=2;
 
     displayName="GLF M92 Helmet, Covered (Brush Woodland)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\faction_glf_cup\characters\headgear\data\ui\icon_tmtm_h_m92_covered_glf_brushw_ca.paa";
 
     hiddenSelectionsTextures[]= {
         "\tmtm\pack\faction_glf_cup\characters\headgear\Data\tmtm_m92_glf_olive_co.paa",
@@ -439,7 +439,7 @@ class tmtm_h_m92_covered_goggles_glf_brushw: tmtm_h_m92_covered_net_goggles_base
     scopeArsenal=2;
 
     displayName="GLF M92 Helmet, Covered (Brush Woodland, Goggles)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\faction_glf_cup\characters\headgear\data\ui\icon_tmtm_h_m92_covered_goggles_glf_brushw_ca.paa";
 
     hiddenSelectionsTextures[]= {
         "\tmtm\pack\faction_glf_cup\characters\headgear\Data\tmtm_m92_glf_olive_co.paa",
@@ -464,7 +464,7 @@ class tmtm_h_m92_covered_goggles_f_glf_brushw: tmtm_h_m92_covered_net_goggles_f_
     scopeArsenal=2;
 
     displayName="GLF M92 Helmet, Covered (Brush Woodland, Goggles)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\faction_glf_cup\characters\headgear\data\ui\icon_tmtm_h_m92_covered_goggles_glf_brushw_ca.paa";
 
     hiddenSelectionsTextures[]= {
         "\tmtm\pack\faction_glf_cup\characters\headgear\Data\tmtm_m92_glf_olive_co.paa",
@@ -489,7 +489,7 @@ class tmtm_h_m92_covered_goggles_b_glf_brushw: tmtm_h_m92_covered_net_goggles_b_
     scopeArsenal=2;
 
     displayName="GLF M92 Helmet, Covered (Brush Woodland, Goggles)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\faction_glf_cup\characters\headgear\data\ui\icon_tmtm_h_m92_covered_goggles_glf_brushw_ca.paa";
 
     hiddenSelectionsTextures[]= {
         "\tmtm\pack\faction_glf_cup\characters\headgear\Data\tmtm_m92_glf_olive_co.paa",

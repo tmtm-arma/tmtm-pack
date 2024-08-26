@@ -24,7 +24,7 @@ class tmtm_h_bandana_darkolive: tmtm_h_bandana_base
     scopeArsenal=2;
 
     displayName="Bandana (Dark Olive)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\blufor_headgear\data\ui\icon_tmtm_h_bandana_darkolive_ca.paa";
 
     hiddenSelectionsTextures[]= {
         "\tmtm\pack\blufor_headgear\Data\tmtm_bandana_darkolive_co.paa"
