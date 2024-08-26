@@ -5,4 +5,5 @@ class CfgWeapons
 	class Uniform_Base;
 
 	#include "include/csatFatigues/CfgWeapons.hpp"
+	#include "include/lightFatigues/CfgWeapons.hpp"
 };
