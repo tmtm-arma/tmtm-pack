@@ -6,3 +6,6 @@ Retextures of vanilla BLUFOR faction headgear.
 	- Coyote
 	- Grey
 	- Olive
+
+## Bandana
+	- Dark Olive

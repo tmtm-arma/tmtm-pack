@@ -1,8 +1,14 @@
 # SNS Vests
 Retextures of Service & Supply vests.
 
-## PASGT
-	- CPD Black
-	- CPD Olive
-	- CPD Dubok
-	- CPD Ameba
+## Chicom AK Rig
+	- Added as backpack
+
+## Chicom SKS Rig
+	- Added as backpack
+
+## Dutch M58 Webbing
+	- Added as backpack
+
+## French MAS-49 Webbing
+	- Addded as backpack

@@ -6,3 +6,6 @@ BLUFOR faction facewear retextures.
 	- Coyote
 	- Grey
 	- Olive
+
+## Balaclava, 3 Hole
+	- Vanilla variants, headgear slot reconfig

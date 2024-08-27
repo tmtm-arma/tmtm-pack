@@ -147,7 +147,7 @@ class CfgWeapons
 		author="erem2k";
 
 		displayName="Balaclava, Slit (Blue)";
-		picture="\tmtm\pack\cup_facewear\data\ui\icon_tmtm_f_balaclava_slit_black_ca.paa";
+		picture="\tmtm\pack\cup_facewear\data\ui\icon_tmtm_f_balaclava_slit_blue_ca.paa";
 
 		hiddenSelectionsTextures[] = {
 			"\tmtm\pack\cup_facewear\data\tmtm_balaclava_slit_blue_co.paa"

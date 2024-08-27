@@ -19,11 +19,6 @@ Adds several variants of the Russian Altyn helmet.
 
 ## K6-3
 	- Black
-	- CPD (Ameba)
-	- CPD (Black)
-	- CPD (Dubok Blue)
-	- CPD (Dubok Gray)
-	- CPD (Olive)
 	- CSAT
 	- CSAT (Arid)
 	- EMR

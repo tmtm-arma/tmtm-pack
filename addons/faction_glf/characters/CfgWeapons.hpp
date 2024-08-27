@@ -1,0 +1,1 @@
+#include "headgear/CfgWeapons.hpp"
