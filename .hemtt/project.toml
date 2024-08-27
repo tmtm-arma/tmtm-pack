@@ -24,9 +24,9 @@ path = "addons/main/script_version.hpp"
 git_hash = 0
 
 major = 1
-minor = 3
+minor = 4
 patch = 0
-build = 5
+build = 6
 
 [hemtt.release]
 sign = true
