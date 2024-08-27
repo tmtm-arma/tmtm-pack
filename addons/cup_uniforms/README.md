@@ -19,3 +19,4 @@ Adds retextures of CUP Uniforms.
 	- CDF Forest Digital
 	- CDF Mountain Digital
 	- CDF Oxblood Digital
+	- Black Jacket variants of above

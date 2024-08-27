@@ -1174,11 +1174,12 @@ class CfgWeapons
 		descriptionShort = "NIJ Level III";
 		picture="";
 		model="\tmtm\pack\headgear\tmtm_fast_mt_cover_headset.p3d";
-		hiddenSelections[]={"camo", "camoHeadset", "camoCover"};
+		hiddenSelections[]={"camo", "camoHeadset", "camoCover", "camoPatchRight"};
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\headgear\Data\tmtm_fast_mt_helmet_olive_co.paa", 
 			"\tmtm\pack\headgear\Data\tmtm_fast_mt_headset_olive_co.paa", 
-			"\tmtm\pack\headgear\Data\tmtm_fast_mt_cover_olive_co.paa"
+			"\tmtm\pack\headgear\Data\tmtm_fast_mt_cover_olive_co.paa",
+			"\tmtm\pack\headgear\Data\tmtm_fast_mt_patch_co.paa"
 		};
 		class ItemInfo: HeadgearItem
 		{
@@ -1189,7 +1190,7 @@ class CfgWeapons
 			hiddenSelectionsTextures[]={
 				"\tmtm\pack\headgear\Data\tmtm_fast_mt_helmet_olive_co.paa", 
 				"\tmtm\pack\headgear\Data\tmtm_fast_mt_headset_olive_co.paa", 
-				"\tmtm\pack\headgear\Data\tmtm_fast_mt_cover_olive_co.paa"
+				"\tmtm\pack\headgear\Data\tmtm_fast_mt_patch_co.paa"
 			};
 			class HitpointsProtectionInfo
 			{
@@ -1258,7 +1259,8 @@ class CfgWeapons
 		hiddenSelectionsTextures[]={
 			"\tmtm\pack\headgear\Data\tmtm_fast_mt_helmet_olive_co.paa", 
 			"\tmtm\pack\headgear\Data\tmtm_fast_mt_headset_olive_co.paa",
-			"\tmtm\pack\headgear\Data\tmtm_fast_mt_cover_olive_co.paa"
+			"\tmtm\pack\headgear\Data\tmtm_fast_mt_cover_olive_co.paa",
+			"\tmtm\pack\headgear\Data\tmtm_fast_mt_patch_co.paa"
 		};
 		picture="";
 		class ItemInfo: ItemInfo
@@ -1266,7 +1268,8 @@ class CfgWeapons
 			hiddenSelectionsTextures[]={
 			"\tmtm\pack\headgear\Data\tmtm_fast_mt_helmet_olive_co.paa", 
 			"\tmtm\pack\headgear\Data\tmtm_fast_mt_headset_olive_co.paa",
-			"\tmtm\pack\headgear\Data\tmtm_fast_mt_cover_olive_co.paa"
+			"\tmtm\pack\headgear\Data\tmtm_fast_mt_cover_olive_co.paa",
+			"\tmtm\pack\headgear\Data\tmtm_fast_mt_patch_co.paa"
 		};
 		};
 	};
