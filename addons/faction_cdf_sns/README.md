@@ -3,5 +3,7 @@ Retextures of S&S gear for CDF.
 
 ## Vests
 ### PASGT
-	- Chernarus Police Department (Olive, Black, Ameba, Dubok)
-
+	- CPD Black
+	- CPD Olive
+	- CPD Dubok
+	- CPD Ameba

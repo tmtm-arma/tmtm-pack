@@ -1,11 +1,12 @@
 # GLF: S&S Retextures
 Retextures of S&S gear for GLF.
 
+## Headgear
+### Field Cap
+    - Oak
+
 ## Vests
-
-### Vz. 65 Harness
-- Canvas
-
-### Vz. 77 Vest
-- Olive
-- Oakleaf
+### Type 90 Vest
+    - Oak
+    - Olive
+    - Brush Woodland

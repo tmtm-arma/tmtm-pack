@@ -3,6 +3,5 @@ Retextures of WS CDLC gear for GLF.
 
 ## Headgear
 ### Beret (Headset)
-- Army
-- Airborne
-- Brush Woodland
+    - Army
+    - Brush Woodland

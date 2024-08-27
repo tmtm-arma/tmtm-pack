@@ -4,11 +4,15 @@ Retextures of CUP gear for GLF.
 ## Uniforms
 
 ### Uniform M-88
-- Oakleaf
-- DPM
-- DPM (Urban)
+    - Oak
+    - Brush Woodland
+    - Brush Urban
 
 ## Headgear
 ### M92 Helmet
-- Teal (GLF)
-- Teal (GLF, Net)
+    - Olive
+    - Olive (Crest)
+    - Olive (Net)
+    - Oak (Covered)
+    - Oak (Covered, Flag)
+    - Brush Woodland (Covered)

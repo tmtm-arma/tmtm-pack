@@ -1,6 +1,6 @@
 # CUP Uniforms
 Adds retextures of CUP Uniforms.
-	
+
 ## NAPA Anorak/Uniform
     - Maskhalat (Berezka White)
     - Maskhalat (Berezka White/Loose)
@@ -13,6 +13,10 @@ Adds retextures of CUP Uniforms.
 	- MM14 Camo
 	- Dark Olive Camo
 	- Dark Olive Camo w/o flags
+
+## M-88 Uniform
+	- TTsKO Dark
+	- TTsKO Light
 
 ## VKPO Winter Jacket (with variants)
 	- MTP

@@ -15,8 +15,7 @@ Retextures of vanilla OPFOR uniforms.
 	- SURPAT
 	- LDF
 	- NATO Woodland
-	
-	
-	
-	
-	
+
+## Light Fatigues
+	- Green Hex
+	- Urban Hex
