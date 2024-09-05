@@ -5,5 +5,5 @@ class CfgWeapons
 	class Uniform_Base;
 
 	#include "include/commandoSweater/CfgWeapons.hpp"
-	#include "include/tankOveralls/CfgWeapons.hpp"
+	#include "include/oversuit/CfgWeapons.hpp"
 };
