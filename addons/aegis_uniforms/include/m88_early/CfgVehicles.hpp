@@ -4,149 +4,14 @@ class tmtm_m88_early_base: O_Soldier_base_F
     scopeCurator=0;
 
     model="\tmtm\pack\aegis_uniforms\tmtm_u_m88_early.p3d";
-    hiddenSelections[]= { "camo", "insignia" };
+    hiddenSelections[]= { "camo_jacket", "camo_pants", "insignia" };
 
     modelSides[]={0, 3};
     camouflage=1.6;
 
     class HitPoints: HitPoints
     {
-        class HitFace
-        {
-            armor=1;
-            material=-1;
-            name="face_hub";
-            passThrough=0.80000001;
-            radius=0.079999998;
-            explosionShielding=0.1;
-            minimalHit=0.0099999998;
-        };
-        class HitNeck: HitFace
-        {
-            armor=1;
-            material=-1;
-            name="neck";
-            passThrough=0.80000001;
-            radius=0.1;
-            explosionShielding=0.5;
-            minimalHit=0.0099999998;
-        };
-        class HitHead: HitNeck
-        {
-            armor=1;
-            material=-1;
-            name="head";
-            passThrough=0.80000001;
-            radius=0.2;
-            explosionShielding=0.5;
-            minimalHit=0.0099999998;
-            depends="HitFace max HitNeck";
-        };
-        class HitPelvis: HitHead
-        {
-            armor=6;
-            material=-1;
-            name="pelvis";
-            passThrough=0.80000001;
-            radius=0.23999999;
-            explosionShielding=1;
-            visual="injury_body";
-            minimalHit=0.0099999998;
-            depends="0";
-        };
-        class HitAbdomen: HitPelvis
-        {
-            armor=1;
-            material=-1;
-            name="spine1";
-            passThrough=0.80000001;
-            radius=0.16;
-            explosionShielding=1;
-            visual="injury_body";
-            minimalHit=0.0099999998;
-        };
-        class HitDiaphragm: HitAbdomen
-        {
-            armor=1;
-            material=-1;
-            name="spine2";
-            passThrough=0.80000001;
-            radius=0.18000001;
-            explosionShielding=6;
-            visual="injury_body";
-            minimalHit=0.0099999998;
-        };
-        class HitChest: HitDiaphragm
-        {
-            armor=1;
-            material=-1;
-            name="spine3";
-            passThrough=0.80000001;
-            radius=0.18000001;
-            explosionShielding=6;
-            visual="injury_body";
-            minimalHit=0.0099999998;
-        };
-        class HitBody: HitChest
-        {
-            armor=1000;
-            material=-1;
-            name="body";
-            passThrough=1;
-            radius=0;
-            explosionShielding=6;
-            visual="injury_body";
-            minimalHit=0.0099999998;
-            depends="HitPelvis max HitAbdomen max HitDiaphragm max HitChest";
-        };
-        class HitArms: HitBody
-        {
-            armor=3;
-            material=-1;
-            name="arms";
-            passThrough=1;
-            radius=0.1;
-            explosionShielding=1;
-            visual="injury_hands";
-            minimalHit=0.0099999998;
-            depends="0";
-        };
-        class HitHands: HitArms
-        {
-            armor=3;
-            material=-1;
-            name="hands";
-            passThrough=1;
-            radius=0.1;
-            explosionShielding=1;
-            visual="injury_hands";
-            minimalHit=0.0099999998;
-            depends="HitArms";
-        };
-        class HitLegs: HitHands
-        {
-            armor=6;
-            material=-1;
-            name="legs";
-            passThrough=0.89999998;
-            radius=0.14;
-            explosionShielding=0.30000001;
-            visual="injury_legs";
-            minimalHit=0.0099999998;
-            depends="0";
-        };
-        class Incapacitated: HitLegs
-        {
-            armor=1000;
-            material=-1;
-            name="body";
-            passThrough=1;
-            radius=0;
-            explosionShielding=1;
-            visual="";
-            minimalHit=0;
-            depends="(((Total - 0.25) max 0) + ((HitHead - 0.25) max 0) + ((HitBody - 0.25) max 0)) * 2";
-        };
+        HITPOINTS_UNIFORM_NOARMOR
     };
 
     class Wounds
@@ -189,7 +54,6 @@ class tmtm_m88_early_base: O_Soldier_base_F
             "A3\Characters_F_Exp\Heads\Data\hl_asian_02_bald_muscular_injury.rvmat"
         };
     };
-
 };
 
 class tmtm_m88_early_rolled_base: tmtm_m88_early_base
@@ -206,7 +70,7 @@ class tmtm_m88_early_gloves_base: tmtm_m88_early_base
     scopeCurator=0;
 
     model="\tmtm\pack\aegis_uniforms\tmtm_u_m88_early_gloves.p3d";
-    hiddenSelections[]= { "camo", "camo1", "insignia" };
+    hiddenSelections[]= { "camo_jacket", "camo_pants", "camo_gloves", "insignia" };
 };
 
 class tmtm_m88_early_rolled_gloves_base: tmtm_m88_early_base
@@ -215,7 +79,7 @@ class tmtm_m88_early_rolled_gloves_base: tmtm_m88_early_base
     scopeCurator=0;
 
     model="\tmtm\pack\aegis_uniforms\tmtm_u_m88_early_rolled_gloves.p3d";
-    hiddenSelections[]= { "camo", "camo1", "insignia" };
+    hiddenSelections[]= { "camo_jacket", "camo_pants", "camo_gloves", "insignia" };
 };
 
 // content
@@ -233,6 +97,7 @@ class tmtm_m88_early_khaki: tmtm_m88_early_base
     uniformClass="tmtm_u_m88_early_khaki";
 
     hiddenSelectionsTextures[]={
+        "\tmtm\pack\aegis_uniforms\data\tmtm_m88_early_khaki_co.paa",
         "\tmtm\pack\aegis_uniforms\data\tmtm_m88_early_khaki_co.paa"
     };
 };
@@ -251,6 +116,7 @@ class tmtm_m88_early_rolled_khaki: tmtm_m88_early_rolled_base
     uniformClass="tmtm_u_m88_early_rolled_khaki";
 
     hiddenSelectionsTextures[]={
+        "\tmtm\pack\aegis_uniforms\data\tmtm_m88_early_khaki_co.paa",
         "\tmtm\pack\aegis_uniforms\data\tmtm_m88_early_khaki_co.paa"
     };
 };
@@ -269,6 +135,7 @@ class tmtm_m88_early_gloves_khaki: tmtm_m88_early_gloves_base
     uniformClass="tmtm_u_m88_early_gloves_khaki";
 
     hiddenSelectionsTextures[]={
+        "\tmtm\pack\aegis_uniforms\data\tmtm_m88_early_khaki_co.paa",
         "\tmtm\pack\aegis_uniforms\data\tmtm_m88_early_khaki_co.paa",
         "\tmtm\pack\aegis_uniforms\data\tmtm_tacGloves_black_co.paa"
     };
@@ -289,6 +156,7 @@ class tmtm_m88_early_rolled_gloves_khaki: tmtm_m88_early_rolled_gloves_base
     uniformClass="tmtm_u_m88_early_rolled_gloves_khaki";
 
     hiddenSelectionsTextures[]={
+        "\tmtm\pack\aegis_uniforms\data\tmtm_m88_early_khaki_co.paa",
         "\tmtm\pack\aegis_uniforms\data\tmtm_m88_early_khaki_co.paa",
         "\tmtm\pack\aegis_uniforms\data\tmtm_tacGloves_black_co.paa"
     };
