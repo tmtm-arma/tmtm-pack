@@ -102,7 +102,7 @@ class tmtm_m88_early_khaki: tmtm_m88_early_base
     };
 };
 
-class tmtm_m88_early_rolled_khaki: tmtm_m88_early_rolled_base
+class tmtm_m88_early_khaki_rolled: tmtm_m88_early_rolled_base
 {
     scope=1;
     scopeArsenal=2;
@@ -113,7 +113,7 @@ class tmtm_m88_early_rolled_khaki: tmtm_m88_early_rolled_base
     displayName="Uniform M-88 Early, Khaki (Rolled)";
     picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
 
-    uniformClass="tmtm_u_m88_early_rolled_khaki";
+    uniformClass="tmtm_u_m88_early_khaki_rolled";
 
     hiddenSelectionsTextures[]={
         "\tmtm\pack\aegis_uniforms\data\tmtm_m88_early_khaki_co.paa",
@@ -121,7 +121,7 @@ class tmtm_m88_early_rolled_khaki: tmtm_m88_early_rolled_base
     };
 };
 
-class tmtm_m88_early_ttsko_light: tmtm_m88_early_base
+class tmtm_m88_early_ttskoe: tmtm_m88_early_base
 {
     scope=1;
     scopeArsenal=2;
@@ -129,18 +129,18 @@ class tmtm_m88_early_ttsko_light: tmtm_m88_early_base
 
     author="OokamiJamie, erem2k";
 
-    displayName="Uniform M-88 Early, TTsKO Light";
+    displayName="Uniform M-88 Early, TTsKO Early";
     picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
 
-    uniformClass="tmtm_u_m88_early_ttsko_light";
+    uniformClass="tmtm_u_m88_early_ttskoe";
 
     hiddenSelectionsTextures[]={
-        "\tmtm\pack\aegis_uniforms\data\tmtm_m88_early_ttsko_light_co.paa",
-        "\tmtm\pack\aegis_uniforms\data\tmtm_m88_early_ttsko_light_co.paa"
+        "\tmtm\pack\aegis_uniforms\data\tmtm_m88_early_ttsko_early_co.paa",
+        "\tmtm\pack\aegis_uniforms\data\tmtm_m88_early_ttsko_early_co.paa"
     };
 };
 
-class tmtm_m88_early_rolled_ttsko_light: tmtm_m88_early_rolled_base
+class tmtm_m88_early_ttskoe_rolled: tmtm_m88_early_rolled_base
 {
     scope=1;
     scopeArsenal=2;
@@ -148,18 +148,18 @@ class tmtm_m88_early_rolled_ttsko_light: tmtm_m88_early_rolled_base
 
     author="OokamiJamie, erem2k";
 
-    displayName="Uniform M-88 Early, TTsKO Light (Rolled)";
+    displayName="Uniform M-88 Early, TTsKO Early (Rolled)";
     picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
 
-    uniformClass="tmtm_u_m88_early_rolled_ttsko_light";
+    uniformClass="tmtm_u_m88_early_ttskoe_rolled";
 
     hiddenSelectionsTextures[]={
-        "\tmtm\pack\aegis_uniforms\data\tmtm_m88_early_ttsko_light_co.paa",
-        "\tmtm\pack\aegis_uniforms\data\tmtm_m88_early_ttsko_light_co.paa"
+        "\tmtm\pack\aegis_uniforms\data\tmtm_m88_early_ttsko_early_co.paa",
+        "\tmtm\pack\aegis_uniforms\data\tmtm_m88_early_ttsko_early_co.paa"
     };
 };
 
-class tmtm_m88_early_ttsko_dark: tmtm_m88_early_base
+class tmtm_m88_early_ttskol: tmtm_m88_early_base
 {
     scope=1;
     scopeArsenal=2;
@@ -167,18 +167,18 @@ class tmtm_m88_early_ttsko_dark: tmtm_m88_early_base
 
     author="OokamiJamie, erem2k";
 
-    displayName="Uniform M-88 Early, TTsKO Dark";
+    displayName="Uniform M-88 Early, TTsKO Late";
     picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
 
-    uniformClass="tmtm_u_m88_early_ttsko_dark";
+    uniformClass="tmtm_u_m88_early_ttskol";
 
     hiddenSelectionsTextures[]={
-        "\tmtm\pack\aegis_uniforms\data\tmtm_m88_early_ttsko_dark_co.paa",
-        "\tmtm\pack\aegis_uniforms\data\tmtm_m88_early_ttsko_dark_co.paa"
+        "\tmtm\pack\aegis_uniforms\data\tmtm_m88_early_ttsko_late_co.paa",
+        "\tmtm\pack\aegis_uniforms\data\tmtm_m88_early_ttsko_late_co.paa"
     };
 };
 
-class tmtm_m88_early_rolled_ttsko_dark: tmtm_m88_early_rolled_base
+class tmtm_m88_early_ttskol_rolled: tmtm_m88_early_rolled_base
 {
     scope=1;
     scopeArsenal=2;
@@ -186,14 +186,14 @@ class tmtm_m88_early_rolled_ttsko_dark: tmtm_m88_early_rolled_base
 
     author="OokamiJamie, erem2k";
 
-    displayName="Uniform M-88 Early, TTsKO Dark (Rolled)";
+    displayName="Uniform M-88 Early, TTsKO Late (Rolled)";
     picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
 
-    uniformClass="tmtm_u_m88_early_rolled_ttsko_dark";
+    uniformClass="tmtm_u_m88_early_ttskol_rolled";
 
     hiddenSelectionsTextures[]={
-        "\tmtm\pack\aegis_uniforms\data\tmtm_m88_early_ttsko_dark_co.paa",
-        "\tmtm\pack\aegis_uniforms\data\tmtm_m88_early_ttsko_dark_co.paa"
+        "\tmtm\pack\aegis_uniforms\data\tmtm_m88_early_ttsko_late_co.paa",
+        "\tmtm\pack\aegis_uniforms\data\tmtm_m88_early_ttsko_late_co.paa"
     };
 };
 
@@ -216,7 +216,7 @@ class tmtm_m88_early_bg: tmtm_m88_early_base
     };
 };
 
-class tmtm_m88_early_rolled_bg: tmtm_m88_early_rolled_base
+class tmtm_m88_early_bg_rolled: tmtm_m88_early_rolled_base
 {
     scope=1;
     scopeArsenal=2;
@@ -227,7 +227,7 @@ class tmtm_m88_early_rolled_bg: tmtm_m88_early_rolled_base
     displayName="Uniform M-88 Early, Border Guard (Rolled)";
     picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
 
-    uniformClass="tmtm_u_m88_early_rolled_bg";
+    uniformClass="tmtm_u_m88_early_bg_rolled";
 
     hiddenSelectionsTextures[]={
         "\tmtm\pack\aegis_uniforms\data\tmtm_m88_early_bg_co.paa",

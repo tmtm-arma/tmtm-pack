@@ -32,7 +32,7 @@ class tmtm_u_m88_early_khaki: tmtm_u_m88_early_base
     };
 };
 
-class tmtm_u_m88_early_rolled_khaki: tmtm_u_m88_early_base
+class tmtm_u_m88_early_khaki_rolled: tmtm_u_m88_early_base
 {
     scope=2;
     scopeArsenal=2;
@@ -45,75 +45,75 @@ class tmtm_u_m88_early_rolled_khaki: tmtm_u_m88_early_base
 
     class ItemInfo: ItemInfo
     {
-        uniformClass="tmtm_m88_early_rolled_khaki";
+        uniformClass="tmtm_m88_early_khaki_rolled";
     };
 };
 
-class tmtm_u_m88_early_ttsko_light: tmtm_u_m88_early_base
+class tmtm_u_m88_early_ttskoe: tmtm_u_m88_early_base
 {
     scope=2;
     scopeArsenal=2;
 
     author="OokamiJamie, erem2k";
 
-    displayName="Uniform M-88 Early, TTsKO Light";
-    descriptionShort="Uniform, Model 88 Early, Butan";
+    displayName="Uniform M-88 Early, TTsKO Early";
+    descriptionShort="Uniform, Model 88 Early, Camo, Three Color";
     picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
 
     class ItemInfo: ItemInfo
     {
-        uniformClass="tmtm_m88_early_ttsko_light";
+        uniformClass="tmtm_m88_early_ttskoe";
     };
 };
 
-class tmtm_u_m88_early_rolled_ttsko_light: tmtm_u_m88_early_base
+class tmtm_u_m88_early_ttskoe_rolled: tmtm_u_m88_early_base
 {
     scope=2;
     scopeArsenal=2;
 
     author="OokamiJamie, erem2k";
 
-    displayName="Uniform M-88 Early, TTsKO Light (Rolled)";
-    descriptionShort="Uniform, Model 88 Early, Butan";
+    displayName="Uniform M-88 Early, TTsKO Early (Rolled)";
+    descriptionShort="Uniform, Model 88 Early, Camo, Three Color";
     picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
 
     class ItemInfo: ItemInfo
     {
-        uniformClass="tmtm_m88_early_rolled_ttsko_light";
+        uniformClass="tmtm_m88_early_ttskoe_rolled";
     };
 };
 
-class tmtm_u_m88_early_ttsko_dark: tmtm_u_m88_early_base
+class tmtm_u_m88_early_ttskol: tmtm_u_m88_early_base
 {
     scope=2;
     scopeArsenal=2;
 
     author="OokamiJamie, erem2k";
 
-    displayName="Uniform M-88 Early, TTsKO Dark";
-    descriptionShort="Uniform, Model 88 Early, Butan";
+    displayName="Uniform M-88 Early, TTsKO Late";
+    descriptionShort="Uniform, Model 88 Early, Camo, Three Color";
     picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
 
     class ItemInfo: ItemInfo
     {
-        uniformClass="tmtm_m88_early_ttsko_dark";
+        uniformClass="tmtm_m88_early_ttskol";
     };
 };
 
-class tmtm_u_m88_early_rolled_ttsko_dark: tmtm_u_m88_early_base
+class tmtm_u_m88_early_ttskol_rolled: tmtm_u_m88_early_base
 {
     scope=2;
     scopeArsenal=2;
 
     author="OokamiJamie, erem2k";
 
-    displayName="Uniform M-88 Early, TTsKO Dark (Rolled)";
-    descriptionShort="Uniform, Model 88 Early, Butan";
+    displayName="Uniform M-88 Early, TTsKO Late (Rolled)";
+    descriptionShort="Uniform, Model 88 Early, Camo, Three Color";
     picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
 
     class ItemInfo: ItemInfo
     {
-        uniformClass="tmtm_m88_early_rolled_ttsko_dark";
+        uniformClass="tmtm_m88_early_ttskol_rolled";
     };
 };
 
@@ -134,7 +134,7 @@ class tmtm_u_m88_early_bg: tmtm_u_m88_early_base
     };
 };
 
-class tmtm_u_m88_early_rolled_bg: tmtm_u_m88_early_base
+class tmtm_u_m88_early_bg_rolled: tmtm_u_m88_early_base
 {
     scope=2;
     scopeArsenal=2;
@@ -147,6 +147,6 @@ class tmtm_u_m88_early_rolled_bg: tmtm_u_m88_early_base
 
     class ItemInfo: ItemInfo
     {
-        uniformClass="tmtm_m88_early_rolled_bg";
+        uniformClass="tmtm_m88_early_bg_rolled";
     };
 };
