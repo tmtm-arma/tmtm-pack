@@ -49,36 +49,104 @@ class tmtm_u_m88_early_rolled_khaki: tmtm_u_m88_early_base
     };
 };
 
-class tmtm_u_m88_early_rolled_gloves_khaki: tmtm_u_m88_early_base
+class tmtm_u_m88_early_ttsko_light: tmtm_u_m88_early_base
 {
     scope=2;
     scopeArsenal=2;
 
     author="OokamiJamie, erem2k";
 
-    displayName="Uniform M-88 Early, Khaki (Rolled, Gloves)";
-    descriptionShort="Uniform, Model 88 Early, Khaki";
+    displayName="Uniform M-88 Early, TTsKO Light";
+    descriptionShort="Uniform, Model 88 Early, Butan";
     picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
 
     class ItemInfo: ItemInfo
     {
-        uniformClass="tmtm_m88_early_rolled_gloves_khaki";
+        uniformClass="tmtm_m88_early_ttsko_light";
     };
 };
 
-class tmtm_u_m88_early_gloves_khaki: tmtm_u_m88_early_base
+class tmtm_u_m88_early_rolled_ttsko_light: tmtm_u_m88_early_base
 {
     scope=2;
     scopeArsenal=2;
 
     author="OokamiJamie, erem2k";
 
-    displayName="Uniform M-88 Early, Khaki (Gloves)";
-    descriptionShort="Uniform, Model 88 Early, Khaki";
+    displayName="Uniform M-88 Early, TTsKO Light (Rolled)";
+    descriptionShort="Uniform, Model 88 Early, Butan";
     picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
 
     class ItemInfo: ItemInfo
     {
-        uniformClass="tmtm_m88_early_gloves_khaki";
+        uniformClass="tmtm_m88_early_rolled_ttsko_light";
+    };
+};
+
+class tmtm_u_m88_early_ttsko_dark: tmtm_u_m88_early_base
+{
+    scope=2;
+    scopeArsenal=2;
+
+    author="OokamiJamie, erem2k";
+
+    displayName="Uniform M-88 Early, TTsKO Dark";
+    descriptionShort="Uniform, Model 88 Early, Butan";
+    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+
+    class ItemInfo: ItemInfo
+    {
+        uniformClass="tmtm_m88_early_ttsko_dark";
+    };
+};
+
+class tmtm_u_m88_early_rolled_ttsko_dark: tmtm_u_m88_early_base
+{
+    scope=2;
+    scopeArsenal=2;
+
+    author="OokamiJamie, erem2k";
+
+    displayName="Uniform M-88 Early, TTsKO Dark (Rolled)";
+    descriptionShort="Uniform, Model 88 Early, Butan";
+    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+
+    class ItemInfo: ItemInfo
+    {
+        uniformClass="tmtm_m88_early_rolled_ttsko_dark";
+    };
+};
+
+class tmtm_u_m88_early_bg: tmtm_u_m88_early_base
+{
+    scope=2;
+    scopeArsenal=2;
+
+    author="OokamiJamie, erem2k";
+
+    displayName="Uniform M-88 Early, Border Guard";
+    descriptionShort="Uniform, Model 88 Early, Border Guard";
+    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+
+    class ItemInfo: ItemInfo
+    {
+        uniformClass="tmtm_m88_early_bg";
+    };
+};
+
+class tmtm_u_m88_early_rolled_bg: tmtm_u_m88_early_base
+{
+    scope=2;
+    scopeArsenal=2;
+
+    author="OokamiJamie, erem2k";
+
+    displayName="Uniform M-88 Early, Border Guard (Rolled)";
+    descriptionShort="Uniform, Model 88 Early, Border Guard";
+    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+
+    class ItemInfo: ItemInfo
+    {
+        uniformClass="tmtm_m88_early_rolled_bg";
     };
 };

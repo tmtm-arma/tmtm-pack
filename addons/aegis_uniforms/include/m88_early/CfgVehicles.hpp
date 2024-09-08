@@ -121,7 +121,7 @@ class tmtm_m88_early_rolled_khaki: tmtm_m88_early_rolled_base
     };
 };
 
-class tmtm_m88_early_gloves_khaki: tmtm_m88_early_gloves_base
+class tmtm_m88_early_ttsko_light: tmtm_m88_early_base
 {
     scope=1;
     scopeArsenal=2;
@@ -129,20 +129,18 @@ class tmtm_m88_early_gloves_khaki: tmtm_m88_early_gloves_base
 
     author="OokamiJamie, erem2k";
 
-    displayName="Uniform M-88 Early, Khaki (Gloves)";
+    displayName="Uniform M-88 Early, TTsKO Light";
     picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
 
-    uniformClass="tmtm_u_m88_early_gloves_khaki";
+    uniformClass="tmtm_u_m88_early_ttsko_light";
 
     hiddenSelectionsTextures[]={
-        "\tmtm\pack\aegis_uniforms\data\tmtm_m88_early_khaki_co.paa",
-        "\tmtm\pack\aegis_uniforms\data\tmtm_m88_early_khaki_co.paa",
-        "\tmtm\pack\aegis_uniforms\data\tmtm_tacGloves_black_co.paa"
+        "\tmtm\pack\aegis_uniforms\data\tmtm_m88_early_ttsko_light_co.paa",
+        "\tmtm\pack\aegis_uniforms\data\tmtm_m88_early_ttsko_light_co.paa"
     };
 };
 
-
-class tmtm_m88_early_rolled_gloves_khaki: tmtm_m88_early_rolled_gloves_base
+class tmtm_m88_early_rolled_ttsko_light: tmtm_m88_early_rolled_base
 {
     scope=1;
     scopeArsenal=2;
@@ -150,14 +148,89 @@ class tmtm_m88_early_rolled_gloves_khaki: tmtm_m88_early_rolled_gloves_base
 
     author="OokamiJamie, erem2k";
 
-    displayName="Uniform M-88 Early, Khaki (Rolled, Gloves)";
+    displayName="Uniform M-88 Early, TTsKO Light (Rolled)";
     picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
 
-    uniformClass="tmtm_u_m88_early_rolled_gloves_khaki";
+    uniformClass="tmtm_u_m88_early_rolled_ttsko_light";
 
     hiddenSelectionsTextures[]={
-        "\tmtm\pack\aegis_uniforms\data\tmtm_m88_early_khaki_co.paa",
-        "\tmtm\pack\aegis_uniforms\data\tmtm_m88_early_khaki_co.paa",
-        "\tmtm\pack\aegis_uniforms\data\tmtm_tacGloves_black_co.paa"
+        "\tmtm\pack\aegis_uniforms\data\tmtm_m88_early_ttsko_light_co.paa",
+        "\tmtm\pack\aegis_uniforms\data\tmtm_m88_early_ttsko_light_co.paa"
+    };
+};
+
+class tmtm_m88_early_ttsko_dark: tmtm_m88_early_base
+{
+    scope=1;
+    scopeArsenal=2;
+    scopeCurator=0;
+
+    author="OokamiJamie, erem2k";
+
+    displayName="Uniform M-88 Early, TTsKO Dark";
+    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+
+    uniformClass="tmtm_u_m88_early_ttsko_dark";
+
+    hiddenSelectionsTextures[]={
+        "\tmtm\pack\aegis_uniforms\data\tmtm_m88_early_ttsko_dark_co.paa",
+        "\tmtm\pack\aegis_uniforms\data\tmtm_m88_early_ttsko_dark_co.paa"
+    };
+};
+
+class tmtm_m88_early_rolled_ttsko_dark: tmtm_m88_early_rolled_base
+{
+    scope=1;
+    scopeArsenal=2;
+    scopeCurator=0;
+
+    author="OokamiJamie, erem2k";
+
+    displayName="Uniform M-88 Early, TTsKO Dark (Rolled)";
+    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+
+    uniformClass="tmtm_u_m88_early_rolled_ttsko_dark";
+
+    hiddenSelectionsTextures[]={
+        "\tmtm\pack\aegis_uniforms\data\tmtm_m88_early_ttsko_dark_co.paa",
+        "\tmtm\pack\aegis_uniforms\data\tmtm_m88_early_ttsko_dark_co.paa"
+    };
+};
+
+class tmtm_m88_early_bg: tmtm_m88_early_base
+{
+    scope=1;
+    scopeArsenal=2;
+    scopeCurator=0;
+
+    author="OokamiJamie, erem2k";
+
+    displayName="Uniform M-88 Early, Border Guard";
+    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+
+    uniformClass="tmtm_u_m88_early_bg";
+
+    hiddenSelectionsTextures[]={
+        "\tmtm\pack\aegis_uniforms\data\tmtm_m88_early_bg_co.paa",
+        "\tmtm\pack\aegis_uniforms\data\tmtm_m88_early_bg_co.paa"
+    };
+};
+
+class tmtm_m88_early_rolled_bg: tmtm_m88_early_rolled_base
+{
+    scope=1;
+    scopeArsenal=2;
+    scopeCurator=0;
+
+    author="OokamiJamie, erem2k";
+
+    displayName="Uniform M-88 Early, Border Guard (Rolled)";
+    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+
+    uniformClass="tmtm_u_m88_early_rolled_bg";
+
+    hiddenSelectionsTextures[]={
+        "\tmtm\pack\aegis_uniforms\data\tmtm_m88_early_bg_co.paa",
+        "\tmtm\pack\aegis_uniforms\data\tmtm_m88_early_bg_co.paa"
     };
 };
