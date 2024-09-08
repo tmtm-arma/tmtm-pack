@@ -82,6 +82,25 @@ class tmtm_m88_early_rolled_gloves_base: tmtm_m88_early_base
     hiddenSelections[]= { "camo_jacket", "camo_pants", "camo_gloves", "insignia" };
 };
 
+class tmtm_m88_early_tacgloves_base: tmtm_m88_early_base
+{
+    scope=1;
+    scopeCurator=0;
+
+    model="\tmtm\pack\aegis_uniforms\tmtm_u_m88_early_tacgloves.p3d";
+    hiddenSelections[]= { "camo_jacket", "camo_pants", "camo_gloves", "insignia" };
+};
+
+class tmtm_m88_early_rolled_tacgloves_base: tmtm_m88_early_base
+{
+    scope=1;
+    scopeCurator=0;
+
+    model="\tmtm\pack\aegis_uniforms\tmtm_u_m88_early_rolled_tacgloves.p3d";
+    hiddenSelections[]= { "camo_jacket", "camo_pants", "camo_gloves", "insignia" };
+};
+
+
 // content
 class tmtm_m88_early_khaki: tmtm_m88_early_base
 {
@@ -118,6 +137,46 @@ class tmtm_m88_early_khaki_rolled: tmtm_m88_early_rolled_base
     hiddenSelectionsTextures[]={
         "\tmtm\pack\aegis_uniforms\data\tmtm_m88_early_khaki_co.paa",
         "\tmtm\pack\aegis_uniforms\data\tmtm_m88_early_khaki_co.paa"
+    };
+};
+
+class tmtm_m88_early_khaki_gloves: tmtm_m88_early_gloves_base
+{
+    scope=1;
+    scopeArsenal=2;
+    scopeCurator=0;
+
+    author="OokamiJamie, erem2k";
+
+    displayName="Uniform M-88 Early, Khaki (Gloves)";
+    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+
+    uniformClass="tmtm_u_m88_early_khaki_gloves";
+
+    hiddenSelectionsTextures[]={
+        "\tmtm\pack\aegis_uniforms\data\tmtm_m88_early_khaki_co.paa",
+        "\tmtm\pack\aegis_uniforms\data\tmtm_m88_early_khaki_co.paa",
+        "\tmtm\pack\aegis_uniforms\data\tmtm_woolGloves_brown_co.paa"
+    };
+};
+
+class tmtm_m88_early_khaki_rolled_gloves: tmtm_m88_early_rolled_gloves_base
+{
+    scope=1;
+    scopeArsenal=2;
+    scopeCurator=0;
+
+    author="OokamiJamie, erem2k";
+
+    displayName="Uniform M-88 Early, Khaki (Rolled, Gloves)";
+    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+
+    uniformClass="tmtm_u_m88_early_khaki_rolled_gloves";
+
+    hiddenSelectionsTextures[]={
+        "\tmtm\pack\aegis_uniforms\data\tmtm_m88_early_khaki_co.paa",
+        "\tmtm\pack\aegis_uniforms\data\tmtm_m88_early_khaki_co.paa",
+        "\tmtm\pack\aegis_uniforms\data\tmtm_woolGloves_brown_co.paa"
     };
 };
 
@@ -159,6 +218,46 @@ class tmtm_m88_early_ttskoe_rolled: tmtm_m88_early_rolled_base
     };
 };
 
+class tmtm_m88_early_ttskoe_gloves: tmtm_m88_early_gloves_base
+{
+    scope=1;
+    scopeArsenal=2;
+    scopeCurator=0;
+
+    author="OokamiJamie, erem2k";
+
+    displayName="Uniform M-88 Early, TTsKO Early (Gloves)";
+    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+
+    uniformClass="tmtm_u_m88_early_ttskoe_gloves";
+
+    hiddenSelectionsTextures[]={
+        "\tmtm\pack\aegis_uniforms\data\tmtm_m88_early_ttsko_early_co.paa",
+        "\tmtm\pack\aegis_uniforms\data\tmtm_m88_early_ttsko_early_co.paa",
+        "\tmtm\pack\aegis_uniforms\data\tmtm_woolGloves_brown_co.paa"
+    };
+};
+
+class tmtm_m88_early_ttskoe_rolled_gloves: tmtm_m88_early_rolled_gloves_base
+{
+    scope=1;
+    scopeArsenal=2;
+    scopeCurator=0;
+
+    author="OokamiJamie, erem2k";
+
+    displayName="Uniform M-88 Early, TTsKO Early (Rolled, Gloves)";
+    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+
+    uniformClass="tmtm_u_m88_early_ttskoe_rolled_gloves";
+
+    hiddenSelectionsTextures[]={
+        "\tmtm\pack\aegis_uniforms\data\tmtm_m88_early_ttsko_early_co.paa",
+        "\tmtm\pack\aegis_uniforms\data\tmtm_m88_early_ttsko_early_co.paa",
+        "\tmtm\pack\aegis_uniforms\data\tmtm_woolGloves_brown_co.paa"
+    };
+};
+
 class tmtm_m88_early_ttskol: tmtm_m88_early_base
 {
     scope=1;
@@ -197,6 +296,46 @@ class tmtm_m88_early_ttskol_rolled: tmtm_m88_early_rolled_base
     };
 };
 
+class tmtm_m88_early_ttskol_gloves: tmtm_m88_early_gloves_base
+{
+    scope=1;
+    scopeArsenal=2;
+    scopeCurator=0;
+
+    author="OokamiJamie, erem2k";
+
+    displayName="Uniform M-88 Early, TTsKO Late (Gloves)";
+    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+
+    uniformClass="tmtm_u_m88_early_ttskol_gloves";
+
+    hiddenSelectionsTextures[]={
+        "\tmtm\pack\aegis_uniforms\data\tmtm_m88_early_ttsko_late_co.paa",
+        "\tmtm\pack\aegis_uniforms\data\tmtm_m88_early_ttsko_late_co.paa",
+        "\tmtm\pack\aegis_uniforms\data\tmtm_woolGloves_black_co.paa"
+    };
+};
+
+class tmtm_m88_early_ttskol_rolled_gloves: tmtm_m88_early_rolled_gloves_base
+{
+    scope=1;
+    scopeArsenal=2;
+    scopeCurator=0;
+
+    author="OokamiJamie, erem2k";
+
+    displayName="Uniform M-88 Early, TTsKO Late (Rolled, Gloves)";
+    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+
+    uniformClass="tmtm_u_m88_early_ttskol_rolled_gloves";
+
+    hiddenSelectionsTextures[]={
+        "\tmtm\pack\aegis_uniforms\data\tmtm_m88_early_ttsko_late_co.paa",
+        "\tmtm\pack\aegis_uniforms\data\tmtm_m88_early_ttsko_late_co.paa",
+        "\tmtm\pack\aegis_uniforms\data\tmtm_woolGloves_black_co.paa"
+    };
+};
+
 class tmtm_m88_early_bg: tmtm_m88_early_base
 {
     scope=1;
@@ -232,5 +371,45 @@ class tmtm_m88_early_bg_rolled: tmtm_m88_early_rolled_base
     hiddenSelectionsTextures[]={
         "\tmtm\pack\aegis_uniforms\data\tmtm_m88_early_bg_co.paa",
         "\tmtm\pack\aegis_uniforms\data\tmtm_m88_early_bg_co.paa"
+    };
+};
+
+class tmtm_m88_early_bg_gloves: tmtm_m88_early_gloves_base
+{
+    scope=1;
+    scopeArsenal=2;
+    scopeCurator=0;
+
+    author="OokamiJamie, erem2k";
+
+    displayName="Uniform M-88 Early, Border Guard (Gloves)";
+    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+
+    uniformClass="tmtm_u_m88_early_bg_gloves";
+
+    hiddenSelectionsTextures[]={
+        "\tmtm\pack\aegis_uniforms\data\tmtm_m88_early_bg_co.paa",
+        "\tmtm\pack\aegis_uniforms\data\tmtm_m88_early_bg_co.paa",
+        "\tmtm\pack\aegis_uniforms\data\tmtm_woolGloves_brown_co.paa"
+    };
+};
+
+class tmtm_m88_early_bg_rolled_gloves: tmtm_m88_early_rolled_gloves_base
+{
+    scope=1;
+    scopeArsenal=2;
+    scopeCurator=0;
+
+    author="OokamiJamie, erem2k";
+
+    displayName="Uniform M-88 Early, Border Guard (Rolled, Gloves)";
+    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+
+    uniformClass="tmtm_u_m88_early_bg_rolled_gloves";
+
+    hiddenSelectionsTextures[]={
+        "\tmtm\pack\aegis_uniforms\data\tmtm_m88_early_bg_co.paa",
+        "\tmtm\pack\aegis_uniforms\data\tmtm_m88_early_bg_co.paa",
+        "\tmtm\pack\aegis_uniforms\data\tmtm_woolGloves_brown_co.paa"
     };
 };
