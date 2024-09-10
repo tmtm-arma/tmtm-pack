@@ -1,7 +1,7 @@
 class tmtm_m88_early_base;
 class tmtm_m88_early_rolled_base;
-class tmtm_m88_early_gloves_base;
-class tmtm_m88_early_rolled_gloves_base;
+class tmtm_m88_early_gloves_wool_base;
+class tmtm_m88_early_rolled_gloves_wool_base;
 
 class tmtm_m88_early_ins_butan: tmtm_m88_early_base
 {
@@ -22,7 +22,7 @@ class tmtm_m88_early_ins_butan: tmtm_m88_early_base
     };
 };
 
-class tmtm_m88_early_ins_butan_gloves: tmtm_m88_early_gloves_base
+class tmtm_m88_early_ins_butan_gloves: tmtm_m88_early_gloves_wool_base
 {
     scope=1;
     scopeArsenal=2;
@@ -80,7 +80,7 @@ class tmtm_m88_early_ins_butang: tmtm_m88_early_base
     };
 };
 
-class tmtm_m88_early_ins_butang_gloves: tmtm_m88_early_gloves_base
+class tmtm_m88_early_ins_butang_gloves: tmtm_m88_early_gloves_wool_base
 {
     scope=1;
     scopeArsenal=2;
@@ -138,7 +138,7 @@ class tmtm_m88_early_ins_barvikha: tmtm_m88_early_base
     };
 };
 
-class tmtm_m88_early_ins_barvikha_gloves: tmtm_m88_early_gloves_base
+class tmtm_m88_early_ins_barvikha_gloves: tmtm_m88_early_gloves_wool_base
 {
     scope=1;
     scopeArsenal=2;
@@ -196,7 +196,7 @@ class tmtm_m88_early_ins_birch: tmtm_m88_early_base
     };
 };
 
-class tmtm_m88_early_ins_birch_gloves: tmtm_m88_early_gloves_base
+class tmtm_m88_early_ins_birch_gloves: tmtm_m88_early_gloves_wool_base
 {
     scope=1;
     scopeArsenal=2;
@@ -254,7 +254,7 @@ class tmtm_m88_early_ins_firg: tmtm_m88_early_base
     };
 };
 
-class tmtm_m88_early_ins_firg_gloves: tmtm_m88_early_gloves_base
+class tmtm_m88_early_ins_firg_gloves: tmtm_m88_early_gloves_wool_base
 {
     scope=1;
     scopeArsenal=2;
@@ -312,7 +312,7 @@ class tmtm_m88_early_ins_firt: tmtm_m88_early_base
     };
 };
 
-class tmtm_m88_early_ins_firt_gloves: tmtm_m88_early_gloves_base
+class tmtm_m88_early_ins_firt_gloves: tmtm_m88_early_gloves_wool_base
 {
     scope=1;
     scopeArsenal=2;
@@ -370,7 +370,7 @@ class tmtm_m88_early_ins_fir: tmtm_m88_early_base
     };
 };
 
-class tmtm_m88_early_ins_fir_gloves: tmtm_m88_early_gloves_base
+class tmtm_m88_early_ins_fir_gloves: tmtm_m88_early_gloves_wool_base
 {
     scope=1;
     scopeArsenal=2;
@@ -428,7 +428,7 @@ class tmtm_m88_early_ins_makaronid: tmtm_m88_early_base
     };
 };
 
-class tmtm_m88_early_ins_makaronid_gloves: tmtm_m88_early_gloves_base
+class tmtm_m88_early_ins_makaronid_gloves: tmtm_m88_early_gloves_wool_base
 {
     scope=1;
     scopeArsenal=2;
