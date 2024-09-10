@@ -69,7 +69,7 @@ class tmtm_m88_early_gloves_base: tmtm_m88_early_base
     scope=1;
     scopeCurator=0;
 
-    model="\tmtm\pack\aegis_uniforms\tmtm_u_m88_early_gloves.p3d";
+    model="\tmtm\pack\aegis_uniforms\tmtm_u_m88_early_gloves_wool.p3d";
     hiddenSelections[]= { "camo_jacket", "camo_pants", "camo_gloves", "insignia" };
 };
 
@@ -78,25 +78,43 @@ class tmtm_m88_early_rolled_gloves_base: tmtm_m88_early_base
     scope=1;
     scopeCurator=0;
 
-    model="\tmtm\pack\aegis_uniforms\tmtm_u_m88_early_rolled_gloves.p3d";
+    model="\tmtm\pack\aegis_uniforms\tmtm_u_m88_early_rolled_gloves_wool.p3d";
     hiddenSelections[]= { "camo_jacket", "camo_pants", "camo_gloves", "insignia" };
 };
 
-class tmtm_m88_early_tacgloves_base: tmtm_m88_early_base
+class tmtm_m88_early_gloves_tactical_base: tmtm_m88_early_base
 {
     scope=1;
     scopeCurator=0;
 
-    model="\tmtm\pack\aegis_uniforms\tmtm_u_m88_early_tacgloves.p3d";
+    model="\tmtm\pack\aegis_uniforms\tmtm_u_m88_early_gloves_tactical.p3d";
     hiddenSelections[]= { "camo_jacket", "camo_pants", "camo_gloves", "insignia" };
 };
 
-class tmtm_m88_early_rolled_tacgloves_base: tmtm_m88_early_base
+class tmtm_m88_early_rolled_gloves_tactical_base: tmtm_m88_early_base
 {
     scope=1;
     scopeCurator=0;
 
-    model="\tmtm\pack\aegis_uniforms\tmtm_u_m88_early_rolled_tacgloves.p3d";
+    model="\tmtm\pack\aegis_uniforms\tmtm_u_m88_early_rolled_gloves_tactical.p3d";
+    hiddenSelections[]= { "camo_jacket", "camo_pants", "camo_gloves", "insignia" };
+};
+
+class tmtm_m88_early_gloves_leather_base: tmtm_m88_early_base
+{
+    scope=1;
+    scopeCurator=0;
+
+    model="\tmtm\pack\aegis_uniforms\tmtm_u_m88_early_gloves_leather.p3d";
+    hiddenSelections[]= { "camo_jacket", "camo_pants", "camo_gloves", "insignia" };
+};
+
+class tmtm_m88_early_rolled_gloves_leather_base: tmtm_m88_early_base
+{
+    scope=1;
+    scopeCurator=0;
+
+    model="\tmtm\pack\aegis_uniforms\tmtm_u_m88_early_rolled_gloves_leather.p3d";
     hiddenSelections[]= { "camo_jacket", "camo_pants", "camo_gloves", "insignia" };
 };
 
@@ -156,7 +174,7 @@ class tmtm_m88_early_khaki_gloves: tmtm_m88_early_gloves_base
     hiddenSelectionsTextures[]={
         "\tmtm\pack\aegis_uniforms\data\tmtm_m88_early_khaki_co.paa",
         "\tmtm\pack\aegis_uniforms\data\tmtm_m88_early_khaki_co.paa",
-        "\tmtm\pack\aegis_uniforms\data\tmtm_woolGloves_brown_co.paa"
+        "\tmtm\pack\aegis_uniforms\data\tmtm_gloves_wool_brown_co.paa"
     };
 };
 
@@ -176,7 +194,7 @@ class tmtm_m88_early_khaki_rolled_gloves: tmtm_m88_early_rolled_gloves_base
     hiddenSelectionsTextures[]={
         "\tmtm\pack\aegis_uniforms\data\tmtm_m88_early_khaki_co.paa",
         "\tmtm\pack\aegis_uniforms\data\tmtm_m88_early_khaki_co.paa",
-        "\tmtm\pack\aegis_uniforms\data\tmtm_woolGloves_brown_co.paa"
+        "\tmtm\pack\aegis_uniforms\data\tmtm_gloves_wool_brown_co.paa"
     };
 };
 
@@ -234,7 +252,7 @@ class tmtm_m88_early_ttskoe_gloves: tmtm_m88_early_gloves_base
     hiddenSelectionsTextures[]={
         "\tmtm\pack\aegis_uniforms\data\tmtm_m88_early_ttsko_early_co.paa",
         "\tmtm\pack\aegis_uniforms\data\tmtm_m88_early_ttsko_early_co.paa",
-        "\tmtm\pack\aegis_uniforms\data\tmtm_woolGloves_brown_co.paa"
+        "\tmtm\pack\aegis_uniforms\data\tmtm_gloves_wool_brown_co.paa"
     };
 };
 
@@ -254,7 +272,7 @@ class tmtm_m88_early_ttskoe_rolled_gloves: tmtm_m88_early_rolled_gloves_base
     hiddenSelectionsTextures[]={
         "\tmtm\pack\aegis_uniforms\data\tmtm_m88_early_ttsko_early_co.paa",
         "\tmtm\pack\aegis_uniforms\data\tmtm_m88_early_ttsko_early_co.paa",
-        "\tmtm\pack\aegis_uniforms\data\tmtm_woolGloves_brown_co.paa"
+        "\tmtm\pack\aegis_uniforms\data\tmtm_gloves_wool_brown_co.paa"
     };
 };
 
@@ -312,7 +330,7 @@ class tmtm_m88_early_ttskol_gloves: tmtm_m88_early_gloves_base
     hiddenSelectionsTextures[]={
         "\tmtm\pack\aegis_uniforms\data\tmtm_m88_early_ttsko_late_co.paa",
         "\tmtm\pack\aegis_uniforms\data\tmtm_m88_early_ttsko_late_co.paa",
-        "\tmtm\pack\aegis_uniforms\data\tmtm_woolGloves_black_co.paa"
+        "\tmtm\pack\aegis_uniforms\data\tmtm_gloves_wool_black_co.paa"
     };
 };
 
@@ -332,7 +350,7 @@ class tmtm_m88_early_ttskol_rolled_gloves: tmtm_m88_early_rolled_gloves_base
     hiddenSelectionsTextures[]={
         "\tmtm\pack\aegis_uniforms\data\tmtm_m88_early_ttsko_late_co.paa",
         "\tmtm\pack\aegis_uniforms\data\tmtm_m88_early_ttsko_late_co.paa",
-        "\tmtm\pack\aegis_uniforms\data\tmtm_woolGloves_black_co.paa"
+        "\tmtm\pack\aegis_uniforms\data\tmtm_gloves_wool_black_co.paa"
     };
 };
 
@@ -390,7 +408,7 @@ class tmtm_m88_early_bg_gloves: tmtm_m88_early_gloves_base
     hiddenSelectionsTextures[]={
         "\tmtm\pack\aegis_uniforms\data\tmtm_m88_early_bg_co.paa",
         "\tmtm\pack\aegis_uniforms\data\tmtm_m88_early_bg_co.paa",
-        "\tmtm\pack\aegis_uniforms\data\tmtm_woolGloves_brown_co.paa"
+        "\tmtm\pack\aegis_uniforms\data\tmtm_gloves_wool_brown_co.paa"
     };
 };
 
@@ -410,6 +428,6 @@ class tmtm_m88_early_bg_rolled_gloves: tmtm_m88_early_rolled_gloves_base
     hiddenSelectionsTextures[]={
         "\tmtm\pack\aegis_uniforms\data\tmtm_m88_early_bg_co.paa",
         "\tmtm\pack\aegis_uniforms\data\tmtm_m88_early_bg_co.paa",
-        "\tmtm\pack\aegis_uniforms\data\tmtm_woolGloves_brown_co.paa"
+        "\tmtm\pack\aegis_uniforms\data\tmtm_gloves_wool_brown_co.paa"
     };
 };

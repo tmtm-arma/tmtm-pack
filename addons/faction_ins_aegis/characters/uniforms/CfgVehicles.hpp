@@ -38,7 +38,7 @@ class tmtm_m88_early_ins_butan_gloves: tmtm_m88_early_gloves_base
     hiddenSelectionsTextures[]={
         "\tmtm\pack\faction_ins_aegis\characters\uniforms\data\m88_early_ins_butan_co.paa",
         "\tmtm\pack\faction_ins_aegis\characters\uniforms\data\m88_early_ins_butan_co.paa",
-        "\tmtm\pack\faction_ins_aegis\characters\uniforms\data\tmtm_woolGloves_dirty_olive_co.paa"
+        "\tmtm\pack\faction_ins_aegis\characters\uniforms\data\tmtm_gloves_wool_dirty_olive_co.paa"
     };
 };
 
@@ -96,7 +96,7 @@ class tmtm_m88_early_ins_butang_gloves: tmtm_m88_early_gloves_base
     hiddenSelectionsTextures[]={
         "\tmtm\pack\faction_ins_aegis\characters\uniforms\data\m88_early_ins_butan_green_co.paa",
         "\tmtm\pack\faction_ins_aegis\characters\uniforms\data\m88_early_ins_fir_green_co.paa",
-        "\tmtm\pack\faction_ins_aegis\characters\uniforms\data\tmtm_woolGloves_dirty_olive_co.paa"
+        "\tmtm\pack\faction_ins_aegis\characters\uniforms\data\tmtm_gloves_wool_dirty_olive_co.paa"
     };
 };
 
@@ -154,7 +154,7 @@ class tmtm_m88_early_ins_barvikha_gloves: tmtm_m88_early_gloves_base
     hiddenSelectionsTextures[]={
         "\tmtm\pack\faction_ins_aegis\characters\uniforms\data\m88_early_ins_barvikha_co.paa",
         "\tmtm\pack\faction_ins_aegis\characters\uniforms\data\m88_early_ins_birch_co.paa",
-        "\tmtm\pack\faction_ins_aegis\characters\uniforms\data\tmtm_woolGloves_dirty_brown_co.paa"
+        "\tmtm\pack\faction_ins_aegis\characters\uniforms\data\tmtm_gloves_wool_dirty_brown_co.paa"
     };
 };
 
@@ -212,7 +212,7 @@ class tmtm_m88_early_ins_birch_gloves: tmtm_m88_early_gloves_base
     hiddenSelectionsTextures[]={
         "\tmtm\pack\faction_ins_aegis\characters\uniforms\data\m88_early_ins_birch_co.paa",
         "\tmtm\pack\faction_ins_aegis\characters\uniforms\data\m88_early_ins_makaronid_co.paa",
-        "\tmtm\pack\faction_ins_aegis\characters\uniforms\data\tmtm_woolGloves_dirty_black_co.paa"
+        "\tmtm\pack\faction_ins_aegis\characters\uniforms\data\tmtm_gloves_wool_dirty_black_co.paa"
     };
 };
 
@@ -270,7 +270,7 @@ class tmtm_m88_early_ins_firg_gloves: tmtm_m88_early_gloves_base
     hiddenSelectionsTextures[]={
         "\tmtm\pack\faction_ins_aegis\characters\uniforms\data\m88_early_ins_fir_green_co.paa",
         "\tmtm\pack\faction_ins_aegis\characters\uniforms\data\m88_early_ins_butan_green_co.paa",
-        "\tmtm\pack\faction_ins_aegis\characters\uniforms\data\tmtm_woolGloves_dirty_olive_co.paa"
+        "\tmtm\pack\faction_ins_aegis\characters\uniforms\data\tmtm_gloves_wool_dirty_olive_co.paa"
     };
 };
 
@@ -328,7 +328,7 @@ class tmtm_m88_early_ins_firt_gloves: tmtm_m88_early_gloves_base
     hiddenSelectionsTextures[]={
         "\tmtm\pack\faction_ins_aegis\characters\uniforms\data\m88_early_ins_fir_tan_co.paa",
         "\tmtm\pack\faction_ins_aegis\characters\uniforms\data\m88_early_ins_butan_co.paa",
-        "\tmtm\pack\faction_ins_aegis\characters\uniforms\data\tmtm_woolGloves_dirty_brown_co.paa"
+        "\tmtm\pack\faction_ins_aegis\characters\uniforms\data\tmtm_gloves_wool_dirty_brown_co.paa"
     };
 };
 
@@ -386,7 +386,7 @@ class tmtm_m88_early_ins_fir_gloves: tmtm_m88_early_gloves_base
     hiddenSelectionsTextures[]={
         "\tmtm\pack\faction_ins_aegis\characters\uniforms\data\m88_early_ins_fir_green_co.paa",
         "\tmtm\pack\faction_ins_aegis\characters\uniforms\data\m88_early_ins_fir_tan_co.paa",
-        "\tmtm\pack\faction_ins_aegis\characters\uniforms\data\tmtm_woolGloves_dirty_black_co.paa"
+        "\tmtm\pack\faction_ins_aegis\characters\uniforms\data\tmtm_gloves_wool_dirty_black_co.paa"
     };
 };
 
@@ -444,7 +444,7 @@ class tmtm_m88_early_ins_makaronid_gloves: tmtm_m88_early_gloves_base
     hiddenSelectionsTextures[]={
         "\tmtm\pack\faction_ins_aegis\characters\uniforms\data\m88_early_ins_makaronid_co.paa",
         "\tmtm\pack\faction_ins_aegis\characters\uniforms\data\m88_early_ins_butan_green_co.paa",
-        "\tmtm\pack\faction_ins_aegis\characters\uniforms\data\tmtm_woolGloves_dirty_black_co.paa"
+        "\tmtm\pack\faction_ins_aegis\characters\uniforms\data\tmtm_gloves_wool_dirty_black_co.paa"
     };
 };
 
