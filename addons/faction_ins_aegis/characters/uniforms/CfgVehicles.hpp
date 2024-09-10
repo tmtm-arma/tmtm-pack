@@ -1,7 +1,9 @@
 class tmtm_m88_early_base;
 class tmtm_m88_early_rolled_base;
 class tmtm_m88_early_gloves_wool_base;
+class tmtm_m88_early_gloves_leather_base;
 class tmtm_m88_early_rolled_gloves_wool_base;
+class tmtm_m88_early_rolled_gloves_leather_base;
 
 class tmtm_m88_early_ins_butan: tmtm_m88_early_base
 {
@@ -58,6 +60,26 @@ class tmtm_m88_early_ins_butan_rolled: tmtm_m88_early_rolled_base
     hiddenSelectionsTextures[]={
         "\tmtm\pack\faction_ins_aegis\characters\uniforms\data\m88_early_ins_butan_co.paa",
         "\tmtm\pack\faction_ins_aegis\characters\uniforms\data\m88_early_ins_butan_co.paa"
+    };
+};
+
+class tmtm_m88_early_ins_butan_rolled_gloves: tmtm_m88_early_rolled_gloves_wool_base
+{
+    scope=1;
+    scopeArsenal=2;
+    scopeCurator=0;
+
+    author="OokamiJamie, erem2k";
+
+    displayName="Guerilla Field Uniform, Butan (Rolled, Gloves)";
+    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+
+    uniformClass="tmtm_u_m88_early_ins_butan_rolled_gloves";
+
+    hiddenSelectionsTextures[]={
+        "\tmtm\pack\faction_ins_aegis\characters\uniforms\data\m88_early_ins_butan_co.paa",
+        "\tmtm\pack\faction_ins_aegis\characters\uniforms\data\m88_early_ins_butan_co.paa",
+        "\tmtm\pack\faction_ins_aegis\characters\uniforms\data\tmtm_gloves_wool_dirty_olive_co.paa"
     };
 };
 
@@ -119,6 +141,26 @@ class tmtm_m88_early_ins_butang_rolled: tmtm_m88_early_rolled_base
     };
 };
 
+class tmtm_m88_early_ins_butang_rolled_gloves: tmtm_m88_early_rolled_gloves_leather_base
+{
+    scope=1;
+    scopeArsenal=2;
+    scopeCurator=0;
+
+    author="OokamiJamie, erem2k";
+
+    displayName="Guerilla Field Uniform, Butan Green (Rolled, Gloves)";
+    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+
+    uniformClass="tmtm_u_m88_early_ins_butang_rolled_gloves";
+
+    hiddenSelectionsTextures[]={
+        "\tmtm\pack\faction_ins_aegis\characters\uniforms\data\m88_early_ins_butan_green_co.paa",
+        "\tmtm\pack\faction_ins_aegis\characters\uniforms\data\m88_early_ins_fir_green_co.paa",
+        "\tmtm\pack\faction_ins_aegis\characters\uniforms\data\tmtm_gloves_leather_worker_blue_co.paa"
+    };
+};
+
 class tmtm_m88_early_ins_barvikha: tmtm_m88_early_base
 {
     scope=1;
@@ -174,6 +216,26 @@ class tmtm_m88_early_ins_barvikha_rolled: tmtm_m88_early_rolled_base
     hiddenSelectionsTextures[]={
         "\tmtm\pack\faction_ins_aegis\characters\uniforms\data\m88_early_ins_barvikha_co.paa",
         "\tmtm\pack\faction_ins_aegis\characters\uniforms\data\m88_early_ins_birch_co.paa"
+    };
+};
+
+class tmtm_m88_early_ins_barvikha_rolled_gloves: tmtm_m88_early_rolled_gloves_leather_base
+{
+    scope=1;
+    scopeArsenal=2;
+    scopeCurator=0;
+
+    author="OokamiJamie, erem2k";
+
+    displayName="Guerilla Field Uniform, Barvikha (Rolled, Gloves)";
+    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+
+    uniformClass="tmtm_u_m88_early_ins_barvikha_rolled_gloves";
+
+    hiddenSelectionsTextures[]={
+        "\tmtm\pack\faction_ins_aegis\characters\uniforms\data\m88_early_ins_barvikha_co.paa",
+        "\tmtm\pack\faction_ins_aegis\characters\uniforms\data\m88_early_ins_birch_co.paa",
+        "\tmtm\pack\faction_ins_aegis\characters\uniforms\data\tmtm_gloves_leather_worker_yellow_co.paa"
     };
 };
 
@@ -235,6 +297,26 @@ class tmtm_m88_early_ins_birch_rolled: tmtm_m88_early_rolled_base
     };
 };
 
+class tmtm_m88_early_ins_birch_rolled_gloves: tmtm_m88_early_rolled_gloves_leather_base
+{
+    scope=1;
+    scopeArsenal=2;
+    scopeCurator=0;
+
+    author="OokamiJamie, erem2k";
+
+    displayName="Guerilla Field Uniform, Birch (Rolled, Gloves)";
+    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+
+    uniformClass="tmtm_u_m88_early_ins_birch_rolled_gloves";
+
+    hiddenSelectionsTextures[]={
+        "\tmtm\pack\faction_ins_aegis\characters\uniforms\data\m88_early_ins_birch_co.paa",
+        "\tmtm\pack\faction_ins_aegis\characters\uniforms\data\m88_early_ins_makaronid_co.paa",
+        "\tmtm\pack\faction_ins_aegis\characters\uniforms\data\tmtm_gloves_leather_dirty_black_co.paa"
+    };
+};
+
 class tmtm_m88_early_ins_firg: tmtm_m88_early_base
 {
     scope=1;
@@ -290,6 +372,26 @@ class tmtm_m88_early_ins_firg_rolled: tmtm_m88_early_rolled_base
     hiddenSelectionsTextures[]={
         "\tmtm\pack\faction_ins_aegis\characters\uniforms\data\m88_early_ins_fir_green_co.paa",
         "\tmtm\pack\faction_ins_aegis\characters\uniforms\data\m88_early_ins_butan_green_co.paa"
+    };
+};
+
+class tmtm_m88_early_ins_firg_rolled_gloves: tmtm_m88_early_rolled_gloves_leather_base
+{
+    scope=1;
+    scopeArsenal=2;
+    scopeCurator=0;
+
+    author="OokamiJamie, erem2k";
+
+    displayName="Guerilla Field Uniform, Fir Green (Rolled, Gloves)";
+    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+
+    uniformClass="tmtm_u_m88_early_ins_firg_rolled_gloves";
+
+    hiddenSelectionsTextures[]={
+        "\tmtm\pack\faction_ins_aegis\characters\uniforms\data\m88_early_ins_fir_green_co.paa",
+        "\tmtm\pack\faction_ins_aegis\characters\uniforms\data\m88_early_ins_butan_green_co.paa",
+        "\tmtm\pack\faction_ins_aegis\characters\uniforms\data\tmtm_gloves_leather_worker_blue_co.paa"
     };
 };
 
@@ -351,6 +453,26 @@ class tmtm_m88_early_ins_firt_rolled: tmtm_m88_early_rolled_base
     };
 };
 
+class tmtm_m88_early_ins_firt_rolled_gloves: tmtm_m88_early_rolled_gloves_leather_base
+{
+    scope=1;
+    scopeArsenal=2;
+    scopeCurator=0;
+
+    author="OokamiJamie, erem2k";
+
+    displayName="Guerilla Field Uniform, Fir Tan (Rolled, Gloves)";
+    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+
+    uniformClass="tmtm_u_m88_early_ins_firt_rolled_gloves";
+
+    hiddenSelectionsTextures[]={
+        "\tmtm\pack\faction_ins_aegis\characters\uniforms\data\m88_early_ins_fir_tan_co.paa",
+        "\tmtm\pack\faction_ins_aegis\characters\uniforms\data\m88_early_ins_butan_co.paa",
+        "\tmtm\pack\faction_ins_aegis\characters\uniforms\data\tmtm_gloves_leather_worker_yellow_co.paa"
+    };
+};
+
 class tmtm_m88_early_ins_fir: tmtm_m88_early_base
 {
     scope=1;
@@ -409,6 +531,26 @@ class tmtm_m88_early_ins_fir_rolled: tmtm_m88_early_rolled_base
     };
 };
 
+class tmtm_m88_early_ins_fir_rolled_gloves: tmtm_m88_early_rolled_gloves_wool_base
+{
+    scope=1;
+    scopeArsenal=2;
+    scopeCurator=0;
+
+    author="OokamiJamie, erem2k";
+
+    displayName="Guerilla Field Uniform, Fir (Rolled, Gloves)";
+    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+
+    uniformClass="tmtm_u_m88_early_ins_fir_rolled_gloves";
+
+    hiddenSelectionsTextures[]={
+        "\tmtm\pack\faction_ins_aegis\characters\uniforms\data\m88_early_ins_fir_green_co.paa",
+        "\tmtm\pack\faction_ins_aegis\characters\uniforms\data\m88_early_ins_fir_tan_co.paa",
+        "\tmtm\pack\faction_ins_aegis\characters\uniforms\data\tmtm_gloves_wool_dirty_brown_co.paa"
+    };
+};
+
 class tmtm_m88_early_ins_makaronid: tmtm_m88_early_base
 {
     scope=1;
@@ -428,7 +570,7 @@ class tmtm_m88_early_ins_makaronid: tmtm_m88_early_base
     };
 };
 
-class tmtm_m88_early_ins_makaronid_gloves: tmtm_m88_early_gloves_wool_base
+class tmtm_m88_early_ins_makaronid_gloves: tmtm_m88_early_gloves_leather_base
 {
     scope=1;
     scopeArsenal=2;
@@ -444,7 +586,7 @@ class tmtm_m88_early_ins_makaronid_gloves: tmtm_m88_early_gloves_wool_base
     hiddenSelectionsTextures[]={
         "\tmtm\pack\faction_ins_aegis\characters\uniforms\data\m88_early_ins_makaronid_co.paa",
         "\tmtm\pack\faction_ins_aegis\characters\uniforms\data\m88_early_ins_butan_green_co.paa",
-        "\tmtm\pack\faction_ins_aegis\characters\uniforms\data\tmtm_gloves_wool_dirty_black_co.paa"
+        "\tmtm\pack\faction_ins_aegis\characters\uniforms\data\tmtm_gloves_leather_dirty_black_co.paa"
     };
 };
 
@@ -464,5 +606,26 @@ class tmtm_m88_early_ins_makaronid_rolled: tmtm_m88_early_rolled_base
     hiddenSelectionsTextures[]={
         "\tmtm\pack\faction_ins_aegis\characters\uniforms\data\m88_early_ins_makaronid_co.paa",
         "\tmtm\pack\faction_ins_aegis\characters\uniforms\data\m88_early_ins_butan_green_co.paa"
+    };
+};
+
+
+class tmtm_m88_early_ins_makaronid_rolled_gloves: tmtm_m88_early_rolled_gloves_wool_base
+{
+    scope=1;
+    scopeArsenal=2;
+    scopeCurator=0;
+
+    author="OokamiJamie, erem2k";
+
+    displayName="Guerilla Field Uniform, Needles (Rolled, Gloves)";
+    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+
+    uniformClass="tmtm_u_m88_early_ins_makaronid_rolled_gloves";
+
+    hiddenSelectionsTextures[]={
+        "\tmtm\pack\faction_ins_aegis\characters\uniforms\data\m88_early_ins_makaronid_co.paa",
+        "\tmtm\pack\faction_ins_aegis\characters\uniforms\data\m88_early_ins_butan_green_co.paa",
+        "\tmtm\pack\faction_ins_aegis\characters\uniforms\data\tmtm_gloves_wool_dirty_olive_co.paa"
     };
 };
