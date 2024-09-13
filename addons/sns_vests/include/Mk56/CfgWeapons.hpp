@@ -35,7 +35,7 @@ class tmtm_v_mk56_ak_rig_base: Vest_Camo_Base
         uniformModel="\simc_nv_67\rig_mk56_hoch.p3d";
         hiddenSelections[]= { "camo" };
 
-        containerClass="Supply90";
+        containerClass="Supply120";
         mass=15;
     };
 };
@@ -68,7 +68,7 @@ class tmtm_v_mk56_sks_rig_base: Vest_Camo_Base
         hiddenSelections[]= { "camo" };
 
         containerClass="Supply90";
-        mass=15;
+        mass=10;
     };
 };
 

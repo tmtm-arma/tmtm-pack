@@ -7,7 +7,7 @@ class tmtm_b_mk56_ak_rig_base: Bag_Base
     model="\simc_nv_67\rig_mk56_hoch.p3d";
     hiddenSelections[]= {"camo"};
 
-    maximumLoad=90;
+    maximumLoad=120;
     mass=15;
 };
 
@@ -29,7 +29,7 @@ class tmtm_b_mk56_sks_rig_base: Bag_Base
     hiddenSelections[]= { "camo" };
 
     maximumLoad=90;
-    mass=15;
+    mass=10;
 };
 
 class tmtm_b_mk56_sks_rig_canteen_base: tmtm_b_mk56_sks_rig_base
