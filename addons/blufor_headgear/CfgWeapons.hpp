@@ -13,4 +13,5 @@ class CfgWeapons
 	#include "include/CombatHelmet/CfgWeapons.hpp"
 	#include "include/ECH/CfgWeapons.hpp"
 	#include "include/LCH/CfgWeapons.hpp"
+	#include "include/SafariHat/CfgWeapons.hpp"
 };
