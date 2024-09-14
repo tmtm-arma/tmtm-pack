@@ -46,3 +46,31 @@ class tmtm_h_beretField_ins_butang: tmtm_h_beretField_base
         };
     };
 };
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////
+class tmtm_h_safariHat_field_base: HelmetBase
+{
+    class ItemInfo;
+};
+
+class tmtm_h_safariHat_ins_birch: tmtm_h_safariHat_field_base
+{
+    author="erem2k";
+
+    scope=2;
+    scopeArsenal=2;
+
+    displayName="Guerilla Safari Hat (Birch)";
+    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+
+    hiddenSelectionsTextures[]= {
+        "\tmtm\pack\faction_ins\characters\headgear\Data\tmtm_safariHat_ins_birch_co.paa"
+    };
+
+    class ItemInfo: ItemInfo
+    {
+        hiddenSelectionsTextures[]= {
+            "\tmtm\pack\faction_glf\characters\headgear\Data\tmtm_safariHat_ins_birch_co.paa"
+        };
+    };
+};
