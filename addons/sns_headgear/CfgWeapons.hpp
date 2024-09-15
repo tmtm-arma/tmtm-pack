@@ -6,4 +6,5 @@ class CfgWeapons
     };
 
     #include "include/fieldcap/CfgWeapons.hpp"
+    #include "include/hwcap/CfgWeapons.hpp"
 };

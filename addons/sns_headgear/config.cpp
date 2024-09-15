@@ -9,7 +9,8 @@ class CfgPatches {
 		requiredAddons[] = {
 			"tmtmpack_main",
 			"A3_Characters_F",
-            "simc_uaf_69_core"
+            "simc_uaf_69_core",
+			"simc_uaf68_core"
 		};
 		author = MOD_AUTHOR;
 		url = MOD_URL;
