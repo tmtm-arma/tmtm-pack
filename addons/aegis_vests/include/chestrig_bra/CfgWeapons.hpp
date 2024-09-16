@@ -6,7 +6,7 @@ class tmtm_v_chestrig_bra_base: Vest_Camo_Base
     model="\tmtm\pack\aegis_vests\tmtm_v_chestrig_bra.p3d";
     hiddenSelections[]= { "camo" };
 
-    class ItemInfo: VestItem
+    class ItemInfo: ItemInfo
     {
         uniformModel="\tmtm\pack\aegis_vests\tmtm_v_chestrig_bra.p3d";
         hiddenSelections[]= { "camo" };
@@ -52,6 +52,27 @@ class tmtm_v_chestrig_bra_khaki: tmtm_v_chestrig_bra_base
     {
         hiddenSelectionsTextures[] = {
             "\tmtm\pack\sns_vests\data\tmtm_chestrig_bra_khaki_co.paa"
+        };
+    };
+};
+
+class tmtm_v_chestrig_bra_green: tmtm_v_chestrig_bra_base
+{
+    author="OokamiJamie";
+    scope=2;
+    scopeArsenal=2;
+
+    displayName="Bra Chestrig, Green";
+    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+
+    hiddenSelectionsTextures[] = {
+        "\tmtm\pack\aegis_vests\data\tmtm_chestrig_bra_green_co.paa"
+    };
+
+    class ItemInfo: ItemInfo
+    {
+        hiddenSelectionsTextures[] = {
+            "\tmtm\pack\sns_vests\data\tmtm_chestrig_bra_green_co.paa"
         };
     };
 };
