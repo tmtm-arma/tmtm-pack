@@ -28,6 +28,9 @@ minor = 3
 patch = 0
 build = 5
 
+[hemtt.build]
+pdrive = "require"
+
 [hemtt.release]
 sign = true
 archive = true
