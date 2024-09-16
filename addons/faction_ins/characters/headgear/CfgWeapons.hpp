@@ -74,3 +74,78 @@ class tmtm_h_safariHat_ins_birch: tmtm_h_safariHat_field_base
         };
     };
 };
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////
+class tmtm_h_bandana_base: HelmetBase
+{
+    class ItemInfo;
+};
+
+class tmtm_h_bandana_ins_barvikha: tmtm_h_bandana_base
+{
+    author="erem2k";
+
+    scope=2;
+    scopeCurator=2;
+    scopeArsenal=2;
+
+    displayName="Bandana (Barvikha)";
+    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+
+    hiddenSelectionsTextures[]= {
+        "\tmtm\pack\faction_ins\characters\headgear\Data\tmtm_bandana_ins_barvikha_co.paa"
+    };
+
+    class ItemInfo: ItemInfo
+    {
+        hiddenSelectionsTextures[]= {
+            "\tmtm\pack\faction_ins\characters\headgear\Data\tmtm_bandana_ins_barvikha_co.paa"
+        };
+    };
+};
+
+class tmtm_h_bandana_ins_firt: tmtm_h_bandana_base
+{
+    author="erem2k";
+
+    scope=2;
+    scopeCurator=2;
+    scopeArsenal=2;
+
+    displayName="Bandana (Fir Tan)";
+    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+
+    hiddenSelectionsTextures[]= {
+        "\tmtm\pack\faction_ins\characters\headgear\Data\tmtm_bandana_ins_fir_tan_co.paa"
+    };
+
+    class ItemInfo: ItemInfo
+    {
+        hiddenSelectionsTextures[]= {
+            "\tmtm\pack\faction_ins\characters\headgear\Data\tmtm_bandana_ins_fir_tan_co.paa"
+        };
+    };
+};
+
+class tmtm_h_bandana_ins_makaronid: tmtm_h_bandana_base
+{
+    author="erem2k";
+
+    scope=2;
+    scopeCurator=2;
+    scopeArsenal=2;
+
+    displayName="Bandana (Needles)";
+    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+
+    hiddenSelectionsTextures[]= {
+        "\tmtm\pack\faction_ins\characters\headgear\Data\tmtm_bandana_ins_makaronid_co.paa"
+    };
+
+    class ItemInfo: ItemInfo
+    {
+        hiddenSelectionsTextures[]= {
+            "\tmtm\pack\faction_ins\characters\headgear\Data\tmtm_bandana_ins_makaronid_co.paa"
+        };
+    };
+};
