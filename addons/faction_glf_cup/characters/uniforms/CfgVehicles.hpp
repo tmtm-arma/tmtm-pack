@@ -1,3 +1,5 @@
+/////////////////////////////////////////////
+// M88s
 class tmtm_m88_base;
 class tmtm_m88_rolled_base;
 class tmtm_m88_gloves_base;
@@ -225,5 +227,116 @@ class tmtm_m88_glf_brushu_rolled_gloves: tmtm_m88_vdv_rolled_gloves_base
 
     hiddenSelectionsTextures[]={
         "\tmtm\pack\faction_glf_cup\characters\uniforms\data\tmtm_m88_glf_brushu_co.paa"
+    };
+};
+
+/////////////////////////////////////////////
+// Recon suit
+class tmtm_reconSuit_base;
+class tmtm_reconSuit_gloves_base;
+
+class tmtm_reconSuit_glf_branch: tmtm_reconSuit_base
+{
+    scope=1;
+    scopeArsenal=2;
+    scopeCurator=0;
+
+    author="erem2k";
+
+    displayName="GLF Recon Suit, Branch";
+    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+
+    uniformClass="tmtm_u_reconSuit_glf_branch";
+
+    hiddenSelectionsTextures[]={
+        "\tmtm\pack\faction_glf_cup\characters\uniforms\data\tmtm_reconsuit_jacket_glf_branch_co.paa",
+        "\tmtm\pack\faction_glf_cup\characters\uniforms\data\tmtm_reconsuit_arms_glf_branch_co.paa",
+        "\tmtm\pack\faction_glf_cup\characters\uniforms\data\tmtm_reconsuit_pants_glf_branch_co.paa",
+        "\tmtm\pack\faction_glf_cup\characters\uniforms\data\tmtm_reconsuit_boots_dirty_co.paa"
+    };
+};
+
+class tmtm_reconSuit_glf_branch_gloves: tmtm_reconSuit_gloves_base
+{
+    scope=1;
+    scopeArsenal=2;
+    scopeCurator=0;
+
+    author="erem2k";
+
+    displayName="GLF Recon Suit, Branch (Gloves)";
+    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+
+    uniformClass="tmtm_u_reconSuit_glf_branch_gloves";
+
+    hiddenSelectionsTextures[]={
+        "\tmtm\pack\faction_glf_cup\characters\uniforms\data\tmtm_reconsuit_jacket_glf_branch_co.paa",
+        "\tmtm\pack\faction_glf_cup\characters\uniforms\data\tmtm_reconsuit_arms_glf_branch_co.paa",
+        "\tmtm\pack\faction_glf_cup\characters\uniforms\data\tmtm_reconsuit_pants_glf_branch_co.paa",
+        "\tmtm\pack\faction_glf_cup\characters\uniforms\data\tmtm_reconsuit_boots_dirty_co.paa",
+        "\tmtm\pack\faction_glf_cup\characters\uniforms\data\tmtm_reconsuit_gloves_dirty_co.paa",
+        ""
+    };
+
+    hiddenSelectionsMaterials[] = {
+        "tmtm\pack\cup_uniforms\data\tmtm_reconSuit_jacket.rvmat",
+        "CUP\Creatures\People\Military\CUP_Creatures_People_Military_RussiaModern\Outfit\6Sh122\data\ra_6sh122_jacket_hands.rvmat",
+        "CUP\Creatures\People\Military\CUP_Creatures_People_Military_RussiaModern\Outfit\6Sh122\data\ra_6sh122_pants.rvmat",
+        "CUP\Creatures\People\Military\CUP_Creatures_People_Military_RussiaModern\Outfit\data\ra_vkpo_shoes_s",
+        "tmtm\pack\cup_uniforms\data\tmtm_reconSuit_gloves.rvmat",
+        ""
+    };
+};
+
+class tmtm_reconSuit_glf_mixed: tmtm_reconSuit_base
+{
+    scope=1;
+    scopeArsenal=2;
+    scopeCurator=0;
+
+    author="erem2k";
+
+    displayName="GLF Recon Suit, Mixed";
+    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+
+    uniformClass="tmtm_u_reconSuit_glf_mixed";
+
+    hiddenSelectionsTextures[]={
+        "\tmtm\pack\faction_glf_cup\characters\uniforms\data\tmtm_reconsuit_jacket_glf_branch_co.paa",
+        "\tmtm\pack\faction_glf_cup\characters\uniforms\data\tmtm_reconsuit_arms_glf_branch_co.paa",
+        "\tmtm\pack\faction_glf_cup\characters\uniforms\data\tmtm_reconsuit_pants_glf_oak_co.paa",
+        "\tmtm\pack\faction_glf_cup\characters\uniforms\data\tmtm_reconsuit_boots_dirty_co.paa"
+    };
+};
+
+class tmtm_reconSuit_glf_mixed_gloves: tmtm_reconSuit_gloves_base
+{
+    scope=1;
+    scopeArsenal=2;
+    scopeCurator=0;
+
+    author="erem2k";
+
+    displayName="GLF Recon Suit, Mixed (Gloves)";
+    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+
+    uniformClass="tmtm_u_reconSuit_glf_mixed_gloves";
+
+    hiddenSelectionsTextures[]={
+        "\tmtm\pack\faction_glf_cup\characters\uniforms\data\tmtm_reconsuit_jacket_glf_branch_co.paa",
+        "\tmtm\pack\faction_glf_cup\characters\uniforms\data\tmtm_reconsuit_arms_glf_branch_co.paa",
+        "\tmtm\pack\faction_glf_cup\characters\uniforms\data\tmtm_reconsuit_pants_glf_oak_co.paa",
+        "\tmtm\pack\faction_glf_cup\characters\uniforms\data\tmtm_reconsuit_boots_dirty_co.paa",
+        "\tmtm\pack\faction_glf_cup\characters\uniforms\data\tmtm_reconsuit_gloves_dirty_co.paa",
+        ""
+    };
+
+    hiddenSelectionsMaterials[] = {
+        "tmtm\pack\cup_uniforms\data\tmtm_reconSuit_jacket.rvmat",
+        "CUP\Creatures\People\Military\CUP_Creatures_People_Military_RussiaModern\Outfit\6Sh122\data\ra_6sh122_jacket_hands.rvmat",
+        "CUP\Creatures\People\Military\CUP_Creatures_People_Military_RussiaModern\Outfit\6Sh122\data\ra_6sh122_pants.rvmat",
+        "CUP\Creatures\People\Military\CUP_Creatures_People_Military_RussiaModern\Outfit\data\ra_vkpo_shoes_s",
+        "tmtm\pack\cup_uniforms\data\tmtm_reconSuit_gloves.rvmat",
+        ""
     };
 };

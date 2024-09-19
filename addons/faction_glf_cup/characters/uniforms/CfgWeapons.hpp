@@ -1,3 +1,6 @@
+/////////////////////////////////////////////
+// M88s
+
 class tmtm_u_m88_base: ItemCore
 {
     class ItemInfo;
@@ -204,5 +207,80 @@ class tmtm_u_m88_glf_brushu_rolled_gloves: tmtm_u_m88_base
     class ItemInfo: ItemInfo
     {
         uniformClass="tmtm_m88_glf_brushu_rolled_gloves";
+    };
+};
+
+/////////////////////////////////////////////
+// Recon Suits
+class tmtm_u_reconSuit_base: ItemCore
+{
+    class ItemInfo;
+};
+
+class tmtm_u_reconSuit_glf_branch: tmtm_u_reconSuit_base
+{
+    scope=2;
+    scopeArsenal=2;
+
+    author="erem2k";
+
+    displayName="GLF Recon Suit, Branch";
+    descriptionShort="Oversuit, Recon, Branch Pattern";
+    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+
+    class ItemInfo: ItemInfo
+    {
+        uniformClass="tmtm_reconSuit_glf_branch";
+    };
+};
+
+class tmtm_u_reconSuit_glf_branch_gloves: tmtm_u_reconSuit_base
+{
+    scope=2;
+    scopeArsenal=2;
+
+    author="erem2k";
+
+    displayName="GLF Recon Suit, Branch (Gloves)";
+    descriptionShort="Oversuit, Recon, Branch Pattern";
+    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+
+    class ItemInfo: ItemInfo
+    {
+        uniformClass="tmtm_reconSuit_glf_branch_gloves";
+    };
+};
+
+class tmtm_u_reconSuit_glf_mixed: tmtm_u_reconSuit_base
+{
+    scope=2;
+    scopeArsenal=2;
+
+    author="erem2k";
+
+    displayName="GLF Recon Suit, Mixed";
+    descriptionShort="Oversuit, Recon, Mixed Pattern";
+    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+
+    class ItemInfo: ItemInfo
+    {
+        uniformClass="tmtm_reconSuit_glf_mixed";
+    };
+};
+
+class tmtm_u_reconSuit_glf_mixed_gloves: tmtm_u_reconSuit_base
+{
+    scope=2;
+    scopeArsenal=2;
+
+    author="erem2k";
+
+    displayName="GLF Recon Suit, Mixed (Gloves)";
+    descriptionShort="Oversuit, Recon, Mixed Pattern";
+    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+
+    class ItemInfo: ItemInfo
+    {
+        uniformClass="tmtm_reconSuit_glf_mixed_gloves";
     };
 };
