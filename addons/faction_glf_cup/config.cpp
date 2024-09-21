@@ -8,6 +8,7 @@ class CfgPatches {
 		requiredVersion = REQUIRED_VERSION;
 		requiredAddons[] = {
 			"tmtmpack_main",
+			"tmtmpack_cup_facewear",
 			"tmtmpack_cup_headgear",
 			"tmtmpack_cup_uniforms"
 		};
@@ -21,5 +22,6 @@ class CfgPatches {
 	};
 };
 
+#include "CfgGlasses.hpp"
 #include "CfgVehicles.hpp"
 #include "CfgWeapons.hpp"
