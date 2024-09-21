@@ -5,10 +5,10 @@ class CfgWeapons
 	{
 		class ItemInfo;
 	};
-    
+
     class tmtm_h_balaclava_slit_base: HelmetBase
 	{
-		scope=0;
+		scope=1;
 
 		descriptionShort="$STR_A3_SP_NOARMOR";
 
@@ -40,7 +40,7 @@ class CfgWeapons
 
     class tmtm_h_balaclava_slit_loose_base: tmtm_h_balaclava_slit_base
     {
-        scope=0;
+        scope=1;
 
 		model="\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\RatnikV2\Balaclava\CUP_Balaclava_c_v2.p3d";
 		hiddenSelections[]= {
