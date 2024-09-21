@@ -164,3 +164,26 @@ class tmtm_h_bandana_glf_brushu: tmtm_h_bandana_base
         };
     };
 };
+
+class tmtm_h_bandana_glf_branch: tmtm_h_bandana_base
+{
+    author="erem2k";
+
+    scope=2;
+    scopeCurator=2;
+    scopeArsenal=2;
+
+    displayName="Bandana (Branch)";
+    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+
+    hiddenSelectionsTextures[]= {
+        "\tmtm\pack\faction_glf\characters\headgear\Data\tmtm_bandana_glf_branch_co.paa"
+    };
+
+    class ItemInfo: ItemInfo
+    {
+        hiddenSelectionsTextures[]= {
+            "\tmtm\pack\faction_glf\characters\headgear\Data\tmtm_bandana_glf_branch_co.paa"
+        };
+    };
+};
