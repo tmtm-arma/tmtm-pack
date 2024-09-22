@@ -8,4 +8,5 @@ class CfgWeapons
 
     #include "include/belt_ammo/CfgWeapons.hpp"
     #include "include/chestrig_bra/CfgWeapons.hpp"
+    #include "include/lbv_type06/CfgWeapons.hpp"
 };

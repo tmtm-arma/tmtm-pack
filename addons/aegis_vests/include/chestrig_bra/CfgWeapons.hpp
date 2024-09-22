@@ -39,7 +39,7 @@ class tmtm_v_chestrig_bra_vintage_base: tmtm_v_chestrig_bra_base
 // Content
 class tmtm_v_chestrig_bra_khaki: tmtm_v_chestrig_bra_vintage_base
 {
-    author="OokamiJamie";
+    author="OokamiJamie, erem2k";
     scope=2;
     scopeArsenal=2;
 

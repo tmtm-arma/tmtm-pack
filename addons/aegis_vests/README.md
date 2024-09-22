@@ -4,4 +4,14 @@ Repacks and retextures of vests kindly provided by Arma: Aegis mod team as publi
 ## Cartridge Belt
 - Vest and Backpack configuration
 
-## Bra Chestrig
+## Bra Chest Rig
+- Brown
+- Green
+- Khaki
+Also configured in backpack variant
+
+## Type 06 LBV
+- Black
+- Hex
+- Khaki
+- Olive
