@@ -14,7 +14,7 @@ class tmtm_m88_early_ins_butan: tmtm_m88_early_base
     author="OokamiJamie, erem2k";
 
     displayName="Guerilla Field Uniform, Butan";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\faction_ins_aegis\characters\uniforms\data\ui\icon_tmtm_u_m88_early_ins_butan_ca.paa";
 
     uniformClass="tmtm_u_m88_early_ins_butan";
 
@@ -33,7 +33,7 @@ class tmtm_m88_early_ins_butan_gloves: tmtm_m88_early_gloves_wool_base
     author="OokamiJamie, erem2k";
 
     displayName="Guerilla Field Uniform, Butan (Gloves)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\faction_ins_aegis\characters\uniforms\data\ui\icon_tmtm_u_m88_early_ins_butan_ca.paa";
 
     uniformClass="tmtm_u_m88_early_ins_butan_gloves";
 
@@ -53,7 +53,7 @@ class tmtm_m88_early_ins_butan_rolled: tmtm_m88_early_rolled_base
     author="OokamiJamie, erem2k";
 
     displayName="Guerilla Field Uniform, Butan (Rolled)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\faction_ins_aegis\characters\uniforms\data\ui\icon_tmtm_u_m88_early_ins_butan_rolled_ca.paa";
 
     uniformClass="tmtm_u_m88_early_ins_butan_rolled";
 
@@ -72,7 +72,7 @@ class tmtm_m88_early_ins_butan_rolled_gloves: tmtm_m88_early_rolled_gloves_wool_
     author="OokamiJamie, erem2k";
 
     displayName="Guerilla Field Uniform, Butan (Rolled, Gloves)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\faction_ins_aegis\characters\uniforms\data\ui\icon_tmtm_u_m88_early_ins_butan_rolled_ca.paa";
 
     uniformClass="tmtm_u_m88_early_ins_butan_rolled_gloves";
 
@@ -92,7 +92,7 @@ class tmtm_m88_early_ins_butang: tmtm_m88_early_base
     author="OokamiJamie, erem2k";
 
     displayName="Guerilla Field Uniform, Butan Green";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\faction_ins_aegis\characters\uniforms\data\ui\icon_tmtm_u_m88_early_ins_butang_ca.paa";
 
     uniformClass="tmtm_u_m88_early_ins_butang";
 
@@ -111,7 +111,7 @@ class tmtm_m88_early_ins_butang_gloves: tmtm_m88_early_gloves_wool_base
     author="OokamiJamie, erem2k";
 
     displayName="Guerilla Field Uniform, Butan Green (Gloves)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\faction_ins_aegis\characters\uniforms\data\ui\icon_tmtm_u_m88_early_ins_butang_ca.paa";
 
     uniformClass="tmtm_u_m88_early_ins_butang_gloves";
 
@@ -131,7 +131,7 @@ class tmtm_m88_early_ins_butang_rolled: tmtm_m88_early_rolled_base
     author="OokamiJamie, erem2k";
 
     displayName="Guerilla Field Uniform, Butan Green (Rolled)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\faction_ins_aegis\characters\uniforms\data\ui\icon_tmtm_u_m88_early_ins_butang_rolled_ca.paa";
 
     uniformClass="tmtm_u_m88_early_ins_butang_rolled";
 
@@ -150,7 +150,7 @@ class tmtm_m88_early_ins_butang_rolled_gloves: tmtm_m88_early_rolled_gloves_leat
     author="OokamiJamie, erem2k";
 
     displayName="Guerilla Field Uniform, Butan Green (Rolled, Gloves)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\faction_ins_aegis\characters\uniforms\data\ui\icon_tmtm_u_m88_early_ins_butang_rolled_ca.paa";
 
     uniformClass="tmtm_u_m88_early_ins_butang_rolled_gloves";
 
@@ -170,7 +170,7 @@ class tmtm_m88_early_ins_barvikha: tmtm_m88_early_base
     author="OokamiJamie, erem2k";
 
     displayName="Guerilla Field Uniform, Barvikha";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\faction_ins_aegis\characters\uniforms\data\ui\icon_tmtm_u_m88_early_ins_barvikha_ca.paa";
 
     uniformClass="tmtm_u_m88_early_ins_barvikha";
 
@@ -189,7 +189,7 @@ class tmtm_m88_early_ins_barvikha_gloves: tmtm_m88_early_gloves_wool_base
     author="OokamiJamie, erem2k";
 
     displayName="Guerilla Field Uniform, Barvikha (Gloves)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\faction_ins_aegis\characters\uniforms\data\ui\icon_tmtm_u_m88_early_ins_barvikha_ca.paa";
 
     uniformClass="tmtm_u_m88_early_ins_barvikha_gloves";
 
@@ -209,7 +209,7 @@ class tmtm_m88_early_ins_barvikha_rolled: tmtm_m88_early_rolled_base
     author="OokamiJamie, erem2k";
 
     displayName="Guerilla Field Uniform, Barvikha (Rolled)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\faction_ins_aegis\characters\uniforms\data\ui\icon_tmtm_u_m88_early_ins_barvikha_rolled_ca.paa";
 
     uniformClass="tmtm_u_m88_early_ins_barvikha_rolled";
 
@@ -228,7 +228,7 @@ class tmtm_m88_early_ins_barvikha_rolled_gloves: tmtm_m88_early_rolled_gloves_le
     author="OokamiJamie, erem2k";
 
     displayName="Guerilla Field Uniform, Barvikha (Rolled, Gloves)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\faction_ins_aegis\characters\uniforms\data\ui\icon_tmtm_u_m88_early_ins_barvikha_rolled_ca.paa";
 
     uniformClass="tmtm_u_m88_early_ins_barvikha_rolled_gloves";
 
@@ -248,7 +248,7 @@ class tmtm_m88_early_ins_birch: tmtm_m88_early_base
     author="OokamiJamie, erem2k";
 
     displayName="Guerilla Field Uniform, Birch";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\faction_ins_aegis\characters\uniforms\data\ui\icon_tmtm_u_m88_early_ins_birch_ca.paa";
 
     uniformClass="tmtm_u_m88_early_ins_birch";
 
@@ -267,7 +267,7 @@ class tmtm_m88_early_ins_birch_gloves: tmtm_m88_early_gloves_wool_base
     author="OokamiJamie, erem2k";
 
     displayName="Guerilla Field Uniform, Birch (Gloves)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\faction_ins_aegis\characters\uniforms\data\ui\icon_tmtm_u_m88_early_ins_birch_ca.paa";
 
     uniformClass="tmtm_u_m88_early_ins_birch_gloves";
 
@@ -287,7 +287,7 @@ class tmtm_m88_early_ins_birch_rolled: tmtm_m88_early_rolled_base
     author="OokamiJamie, erem2k";
 
     displayName="Guerilla Field Uniform, Birch (Rolled)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\faction_ins_aegis\characters\uniforms\data\ui\icon_tmtm_u_m88_early_ins_birch_rolled_ca.paa";
 
     uniformClass="tmtm_u_m88_early_ins_birch_rolled";
 
@@ -306,7 +306,7 @@ class tmtm_m88_early_ins_birch_rolled_gloves: tmtm_m88_early_rolled_gloves_leath
     author="OokamiJamie, erem2k";
 
     displayName="Guerilla Field Uniform, Birch (Rolled, Gloves)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\faction_ins_aegis\characters\uniforms\data\ui\icon_tmtm_u_m88_early_ins_birch_rolled_ca.paa";
 
     uniformClass="tmtm_u_m88_early_ins_birch_rolled_gloves";
 
@@ -326,7 +326,7 @@ class tmtm_m88_early_ins_firg: tmtm_m88_early_base
     author="OokamiJamie, erem2k";
 
     displayName="Guerilla Field Uniform, Fir Green";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\faction_ins_aegis\characters\uniforms\data\ui\icon_tmtm_u_m88_early_ins_firg_ca.paa";
 
     uniformClass="tmtm_u_m88_early_ins_firg";
 
@@ -345,7 +345,7 @@ class tmtm_m88_early_ins_firg_gloves: tmtm_m88_early_gloves_wool_base
     author="OokamiJamie, erem2k";
 
     displayName="Guerilla Field Uniform, Fir Green (Gloves)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\faction_ins_aegis\characters\uniforms\data\ui\icon_tmtm_u_m88_early_ins_firg_ca.paa";
 
     uniformClass="tmtm_u_m88_early_ins_firg_gloves";
 
@@ -365,7 +365,7 @@ class tmtm_m88_early_ins_firg_rolled: tmtm_m88_early_rolled_base
     author="OokamiJamie, erem2k";
 
     displayName="Guerilla Field Uniform, Fir Green (Rolled)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\faction_ins_aegis\characters\uniforms\data\ui\icon_tmtm_u_m88_early_ins_firg_rolled_ca.paa";
 
     uniformClass="tmtm_u_m88_early_ins_firg_rolled";
 
@@ -384,7 +384,7 @@ class tmtm_m88_early_ins_firg_rolled_gloves: tmtm_m88_early_rolled_gloves_leathe
     author="OokamiJamie, erem2k";
 
     displayName="Guerilla Field Uniform, Fir Green (Rolled, Gloves)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\faction_ins_aegis\characters\uniforms\data\ui\icon_tmtm_u_m88_early_ins_firg_rolled_ca.paa";
 
     uniformClass="tmtm_u_m88_early_ins_firg_rolled_gloves";
 
@@ -404,7 +404,7 @@ class tmtm_m88_early_ins_firt: tmtm_m88_early_base
     author="OokamiJamie, erem2k";
 
     displayName="Guerilla Field Uniform, Fir Tan";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\faction_ins_aegis\characters\uniforms\data\ui\icon_tmtm_u_m88_early_ins_firt_ca.paa";
 
     uniformClass="tmtm_u_m88_early_ins_firt";
 
@@ -423,7 +423,7 @@ class tmtm_m88_early_ins_firt_gloves: tmtm_m88_early_gloves_wool_base
     author="OokamiJamie, erem2k";
 
     displayName="Guerilla Field Uniform, Fir Tan (Gloves)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\faction_ins_aegis\characters\uniforms\data\ui\icon_tmtm_u_m88_early_ins_firt_ca.paa";
 
     uniformClass="tmtm_u_m88_early_ins_firt_gloves";
 
@@ -443,7 +443,7 @@ class tmtm_m88_early_ins_firt_rolled: tmtm_m88_early_rolled_base
     author="OokamiJamie, erem2k";
 
     displayName="Guerilla Field Uniform, Fir Tan (Rolled)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\faction_ins_aegis\characters\uniforms\data\ui\icon_tmtm_u_m88_early_ins_firt_rolled_ca.paa";
 
     uniformClass="tmtm_u_m88_early_ins_firt_rolled";
 
@@ -462,7 +462,7 @@ class tmtm_m88_early_ins_firt_rolled_gloves: tmtm_m88_early_rolled_gloves_leathe
     author="OokamiJamie, erem2k";
 
     displayName="Guerilla Field Uniform, Fir Tan (Rolled, Gloves)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\faction_ins_aegis\characters\uniforms\data\ui\icon_tmtm_u_m88_early_ins_firt_rolled_ca.paa";
 
     uniformClass="tmtm_u_m88_early_ins_firt_rolled_gloves";
 
@@ -482,7 +482,7 @@ class tmtm_m88_early_ins_fir: tmtm_m88_early_base
     author="OokamiJamie, erem2k";
 
     displayName="Guerilla Field Uniform, Fir";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\faction_ins_aegis\characters\uniforms\data\ui\icon_tmtm_u_m88_early_ins_fir_ca.paa";
 
     uniformClass="tmtm_u_m88_early_ins_fir";
 
@@ -501,7 +501,7 @@ class tmtm_m88_early_ins_fir_gloves: tmtm_m88_early_gloves_wool_base
     author="OokamiJamie, erem2k";
 
     displayName="Guerilla Field Uniform, Fir (Gloves)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\faction_ins_aegis\characters\uniforms\data\ui\icon_tmtm_u_m88_early_ins_fir_ca.paa";
 
     uniformClass="tmtm_u_m88_early_ins_fir";
 
@@ -521,7 +521,7 @@ class tmtm_m88_early_ins_fir_rolled: tmtm_m88_early_rolled_base
     author="OokamiJamie, erem2k";
 
     displayName="Guerilla Field Uniform, Fir (Rolled)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\faction_ins_aegis\characters\uniforms\data\ui\icon_tmtm_u_m88_early_ins_fir_rolled_ca.paa";
 
     uniformClass="tmtm_u_m88_early_ins_fir_rolled";
 
@@ -540,7 +540,7 @@ class tmtm_m88_early_ins_fir_rolled_gloves: tmtm_m88_early_rolled_gloves_wool_ba
     author="OokamiJamie, erem2k";
 
     displayName="Guerilla Field Uniform, Fir (Rolled, Gloves)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\faction_ins_aegis\characters\uniforms\data\ui\icon_tmtm_u_m88_early_ins_fir_rolled_ca.paa";
 
     uniformClass="tmtm_u_m88_early_ins_fir_rolled_gloves";
 
@@ -560,7 +560,7 @@ class tmtm_m88_early_ins_makaronid: tmtm_m88_early_base
     author="OokamiJamie, erem2k";
 
     displayName="Guerilla Field Uniform, Needles";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\faction_ins_aegis\characters\uniforms\data\ui\icon_tmtm_u_m88_early_ins_makaronid_ca.paa";
 
     uniformClass="tmtm_u_m88_early_ins_makaronid";
 
@@ -579,7 +579,7 @@ class tmtm_m88_early_ins_makaronid_gloves: tmtm_m88_early_gloves_leather_base
     author="OokamiJamie, erem2k";
 
     displayName="Guerilla Field Uniform, Needles (Gloves)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\faction_ins_aegis\characters\uniforms\data\ui\icon_tmtm_u_m88_early_ins_makaronid_ca.paa";
 
     uniformClass="tmtm_u_m88_early_ins_makaronid_gloves";
 
@@ -599,7 +599,7 @@ class tmtm_m88_early_ins_makaronid_rolled: tmtm_m88_early_rolled_base
     author="OokamiJamie, erem2k";
 
     displayName="Guerilla Field Uniform, Needles (Rolled)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\faction_ins_aegis\characters\uniforms\data\ui\icon_tmtm_u_m88_early_ins_makaronid_rolled_ca.paa";
 
     uniformClass="tmtm_u_m88_early_ins_makaronid_rolled";
 
@@ -619,7 +619,7 @@ class tmtm_m88_early_ins_makaronid_rolled_gloves: tmtm_m88_early_rolled_gloves_w
     author="OokamiJamie, erem2k";
 
     displayName="Guerilla Field Uniform, Needles (Rolled, Gloves)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\faction_ins_aegis\characters\uniforms\data\ui\icon_tmtm_u_m88_early_ins_makaronid_rolled_ca.paa";
 
     uniformClass="tmtm_u_m88_early_ins_makaronid_rolled_gloves";
 

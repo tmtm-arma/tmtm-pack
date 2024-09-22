@@ -23,7 +23,7 @@ class tmtm_v_lbv_type06_black: tmtm_v_lbv_type06_base
     scopeArsenal=2;
 
     displayName="Type 06 LBV, Black";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\aegis_vests\data\ui\icon_tmtm_v_lbv_type06_black_ca.paa";
 
     hiddenSelectionsTextures[] = {
         "\tmtm\pack\aegis_vests\data\tmtm_lbv_type06_black_co.paa",
@@ -46,7 +46,7 @@ class tmtm_v_lbv_type06_csata: tmtm_v_lbv_type06_base
     scopeArsenal=2;
 
     displayName="Type 06 LBV, Hex";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\aegis_vests\data\ui\icon_tmtm_v_lbv_type06_csata_ca.paa";
 
     hiddenSelectionsTextures[] = {
         "\tmtm\pack\aegis_vests\data\tmtm_lbv_type06_csata_co.paa",
@@ -69,7 +69,7 @@ class tmtm_v_lbv_type06_khaki: tmtm_v_lbv_type06_base
     scopeArsenal=2;
 
     displayName="Type 06 LBV, Khaki";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\aegis_vests\data\ui\icon_tmtm_v_lbv_type06_khaki_ca.paa";
 
     hiddenSelectionsTextures[] = {
         "\tmtm\pack\aegis_vests\data\tmtm_lbv_type06_khaki_co.paa",
@@ -92,7 +92,7 @@ class tmtm_v_lbv_type06_olive: tmtm_v_lbv_type06_base
     scopeArsenal=2;
 
     displayName="Type 06 LBV, Olive";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\aegis_vests\data\ui\icon_tmtm_v_lbv_type06_olive_ca.paa";
 
     hiddenSelectionsTextures[] = {
         "\tmtm\pack\aegis_vests\data\tmtm_lbv_type06_olive_co.paa",

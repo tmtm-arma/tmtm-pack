@@ -30,7 +30,7 @@ class tmtm_b_chestrig_bra_khaki: tmtm_b_chestrig_bra_vintage_base
     scopeArsenal=2;
 
     displayName="Bra Chest Rig, Khaki";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\aegis_vests\data\ui\icon_tmtm_v_chestrig_bra_khaki_ca.paa";
 
     hiddenSelectionsTextures[]= {
         "\tmtm\pack\aegis_vests\data\tmtm_chestrig_bra_khaki_co.paa",
@@ -45,7 +45,7 @@ class tmtm_b_chestrig_bra_khaki_flak: tmtm_b_chestrig_bra_vintage_base
     scopeArsenal=0;
 
     displayName="Bra Chest Rig, Khaki (Flak)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\aegis_vests\data\ui\icon_tmtm_v_chestrig_bra_khaki_ca.paa";
 
     hiddenSelectionsTextures[]= {
         "",
@@ -65,7 +65,7 @@ class tmtm_b_chestrig_bra_brown: tmtm_b_chestrig_bra_vintage_base
     scopeArsenal=2;
 
     displayName="Bra Chest Rig, Brown";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\aegis_vests\data\ui\icon_tmtm_v_chestrig_bra_brown_ca.paa";
 
     hiddenSelectionsTextures[]= {
         "\tmtm\pack\aegis_vests\data\tmtm_chestrig_bra_brown_co.paa",
@@ -80,7 +80,7 @@ class tmtm_b_chestrig_bra_brown_flak: tmtm_b_chestrig_bra_vintage_base
     scopeArsenal=0;
 
     displayName="Bra Chest Rig, Brown (Flak)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\aegis_vests\data\ui\icon_tmtm_v_chestrig_bra_brown_ca.paa";
 
     hiddenSelectionsTextures[]= {
         "",
@@ -100,7 +100,7 @@ class tmtm_b_chestrig_bra_green: tmtm_b_chestrig_bra_vintage_base
     scopeArsenal=2;
 
     displayName="Bra Chest Rig, Green";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\aegis_vests\data\ui\icon_tmtm_v_chestrig_bra_olive_ca.paa";
 
     hiddenSelectionsTextures[]= {
         "\tmtm\pack\aegis_vests\data\tmtm_chestrig_bra_green_co.paa",
@@ -115,7 +115,7 @@ class tmtm_b_chestrig_bra_green_flak: tmtm_b_chestrig_bra_vintage_base
     scopeArsenal=0;
 
     displayName="Bra Chest Rig, Green (Flak)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\aegis_vests\data\ui\icon_tmtm_v_chestrig_bra_olive_ca.paa";
 
     hiddenSelectionsTextures[]= {
         "",

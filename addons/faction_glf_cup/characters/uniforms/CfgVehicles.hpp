@@ -244,7 +244,7 @@ class tmtm_reconSuit_glf_branch: tmtm_reconSuit_base
     author="erem2k";
 
     displayName="GLF Recon Suit, Branch";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\faction_glf_cup\characters\uniforms\data\ui\icon_tmtm_u_reconSuit_glf_branch_ca.paa";
 
     uniformClass="tmtm_u_reconSuit_glf_branch";
 
@@ -265,7 +265,7 @@ class tmtm_reconSuit_glf_branch_gloves: tmtm_reconSuit_gloves_base
     author="erem2k";
 
     displayName="GLF Recon Suit, Branch (Gloves)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\faction_glf_cup\characters\uniforms\data\ui\icon_tmtm_u_reconSuit_glf_branch_ca.paa";
 
     uniformClass="tmtm_u_reconSuit_glf_branch_gloves";
 
@@ -297,7 +297,7 @@ class tmtm_reconSuit_glf_mixed: tmtm_reconSuit_base
     author="erem2k";
 
     displayName="GLF Recon Suit, Mixed";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\faction_glf_cup\characters\uniforms\data\ui\icon_tmtm_u_reconSuit_glf_mixed_ca.paa";
 
     uniformClass="tmtm_u_reconSuit_glf_mixed";
 
@@ -318,7 +318,7 @@ class tmtm_reconSuit_glf_mixed_gloves: tmtm_reconSuit_gloves_base
     author="erem2k";
 
     displayName="GLF Recon Suit, Mixed (Gloves)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\faction_glf_cup\characters\uniforms\data\ui\icon_tmtm_u_reconSuit_glf_mixed_ca.paa";
 
     uniformClass="tmtm_u_reconSuit_glf_mixed_gloves";
 

@@ -174,7 +174,7 @@ class tmtm_h_bandana_glf_branch: tmtm_h_bandana_base
     scopeArsenal=2;
 
     displayName="Bandana (Branch)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\faction_glf\characters\headgear\data\ui\icon_tmtm_h_bandana_glf_branch_ca.paa";
 
     hiddenSelectionsTextures[]= {
         "\tmtm\pack\faction_glf\characters\headgear\Data\tmtm_bandana_glf_branch_co.paa"

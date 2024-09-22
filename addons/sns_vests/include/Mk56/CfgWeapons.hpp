@@ -3,21 +3,25 @@ class V_Simc_chicom_basic;
 class V_Simc_mk56: V_Simc_chicom_basic
 {
     displayName="Chicom 56 Rig, Green (AK, Canteen)";
+    picture="\tmtm\pack\sns_vests\data\ui\icon_tmtm_v_chicom_ak_green_ca.paa";
 };
 
 class V_Simc_mk56_alt: V_Simc_mk56
 {
     displayName="Chicom 56 Rig, Green (AK)";
+    picture="\tmtm\pack\sns_vests\data\ui\icon_tmtm_v_chicom_ak_green_ca.paa";
 };
 
 class V_Simc_mk56_sks: V_Simc_mk56
 {
     displayName="Chicom 56 Rig, Green (SKS, Canteen)";
+    picture="\tmtm\pack\sns_vests\data\ui\icon_tmtm_v_chicom_sks_green_ca.paa";
 };
 
 class V_Simc_mk56_sks_alt: V_Simc_mk56_sks
 {
     displayName="Chicom 56 Rig, Green (SKS)";
+    picture="\tmtm\pack\sns_vests\data\ui\icon_tmtm_v_chicom_sks_green_ca.paa";
 };
 
 /////////////////////////////////////////////
@@ -141,7 +145,7 @@ class tmtm_v_mk56_ak_rig_low: tmtm_v_mk56_ak_rig_low_base
     scopeArsenal=2;
 
     displayName = "Chicom 56 Rig, Green (AK, Low)";
-    picture="\simc_uaf_67_preview\icons\sns_mk56_ca.paa";
+    picture="\tmtm\pack\sns_vests\data\ui\icon_tmtm_v_chicom_ak_green_ca.paa";
 
     hiddenSelectionsTextures[] = {
         "\simc_nv_67\data\sns_chatrig_co.paa"
@@ -162,7 +166,7 @@ class tmtm_v_mk56_sks_rig_low: tmtm_v_mk56_sks_rig_low_base
     scopeArsenal=2;
 
     displayName = "Chicom 56 Rig, Green (SKS, Low)";
-    picture="\simc_uaf_67_preview\icons\sns_mk56_sks_ca.paa";
+    picture="\tmtm\pack\sns_vests\data\ui\icon_tmtm_v_chicom_sks_green_ca.paa";
 
     hiddenSelectionsTextures[] = {
         "\simc_nv_67\data\sns_chatrig_co.paa"
@@ -183,7 +187,7 @@ class tmtm_v_mk56_ak_rig_black: tmtm_v_mk56_ak_rig_base
     scopeArsenal=2;
 
     displayName = "Chicom 56 Rig, Black (AK)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\sns_vests\data\ui\icon_tmtm_v_chicom_ak_black_ca.paa";
 
     hiddenSelectionsTextures[] = {
         "\tmtm\pack\sns_vests\data\tmtm_v_chicom_black_co.paa"
@@ -204,7 +208,7 @@ class tmtm_v_mk56_ak_rig_low_black: tmtm_v_mk56_ak_rig_low_base
     scopeArsenal=2;
 
     displayName = "Chicom 56 Rig, Black (AK, Low)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\sns_vests\data\ui\icon_tmtm_v_chicom_ak_black_ca.paa";
 
     hiddenSelectionsTextures[] = {
         "\tmtm\pack\sns_vests\data\tmtm_v_chicom_black_co.paa"
@@ -225,7 +229,7 @@ class tmtm_v_mk56_sks_rig_black: tmtm_v_mk56_sks_rig_base
     scopeArsenal=2;
 
     displayName = "Chicom 56 Rig, Black (SKS)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\sns_vests\data\ui\icon_tmtm_v_chicom_sks_black_ca.paa";
 
     hiddenSelectionsTextures[] = {
         "\tmtm\pack\sns_vests\data\tmtm_v_chicom_black_co.paa"
@@ -246,7 +250,7 @@ class tmtm_v_mk56_sks_rig_low_black: tmtm_v_mk56_sks_rig_low_base
     scopeArsenal=2;
 
     displayName = "Chicom 56 Rig, Black (SKS, Low)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\sns_vests\data\ui\icon_tmtm_v_chicom_sks_black_ca.paa";
 
     hiddenSelectionsTextures[] = {
         "\tmtm\pack\sns_vests\data\tmtm_v_chicom_black_co.paa"
@@ -267,7 +271,7 @@ class tmtm_v_mk56_ak_rig_khaki: tmtm_v_mk56_ak_rig_base
     scopeArsenal=2;
 
     displayName = "Chicom 56 Rig, Khaki (AK)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\sns_vests\data\ui\icon_tmtm_v_chicom_ak_khaki_ca.paa";
 
     hiddenSelectionsTextures[] = {
         "\tmtm\pack\sns_vests\data\tmtm_v_chicom_khaki_co.paa"
@@ -288,7 +292,7 @@ class tmtm_v_mk56_ak_rig_low_khaki: tmtm_v_mk56_ak_rig_low_base
     scopeArsenal=2;
 
     displayName = "Chicom 56 Rig, Khaki (AK, Low)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\sns_vests\data\ui\icon_tmtm_v_chicom_ak_khaki_ca.paa";
 
     hiddenSelectionsTextures[] = {
         "\tmtm\pack\sns_vests\data\tmtm_v_chicom_khaki_co.paa"
@@ -309,7 +313,7 @@ class tmtm_v_mk56_sks_rig_khaki: tmtm_v_mk56_sks_rig_base
     scopeArsenal=2;
 
     displayName = "Chicom 56 Rig, Khaki (SKS)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\sns_vests\data\ui\icon_tmtm_v_chicom_sks_khaki_ca.paa";
 
     hiddenSelectionsTextures[] = {
         "\tmtm\pack\sns_vests\data\tmtm_v_chicom_khaki_co.paa"
@@ -330,7 +334,7 @@ class tmtm_v_mk56_sks_rig_low_khaki: tmtm_v_mk56_sks_rig_low_base
     scopeArsenal=2;
 
     displayName = "Chicom 56 Rig, Khaki (SKS, Low)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\sns_vests\data\ui\icon_tmtm_v_chicom_sks_khaki_ca.paa";
 
     hiddenSelectionsTextures[] = {
         "\tmtm\pack\sns_vests\data\tmtm_v_chicom_khaki_co.paa"
@@ -351,7 +355,7 @@ class tmtm_v_mk56_ak_rig_khaki_camo: tmtm_v_mk56_ak_rig_base
     scopeArsenal=2;
 
     displayName = "Chicom 56 Rig, Khaki Camo (AK)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\sns_vests\data\ui\icon_tmtm_v_chicom_ak_khaki_camo_ca.paa";
 
     hiddenSelectionsTextures[] = {
         "\tmtm\pack\sns_vests\data\tmtm_v_chicom_khaki_camo_co.paa"
@@ -372,7 +376,7 @@ class tmtm_v_mk56_ak_rig_low_khaki_camo: tmtm_v_mk56_ak_rig_low_base
     scopeArsenal=2;
 
     displayName = "Chicom 56 Rig, Khaki Camo (AK, Low)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\sns_vests\data\ui\icon_tmtm_v_chicom_ak_khaki_camo_ca.paa";
 
     hiddenSelectionsTextures[] = {
         "\tmtm\pack\sns_vests\data\tmtm_v_chicom_khaki_camo_co.paa"
@@ -393,7 +397,7 @@ class tmtm_v_mk56_sks_rig_khaki_camo: tmtm_v_mk56_sks_rig_base
     scopeArsenal=2;
 
     displayName = "Chicom 56 Rig, Khaki Camo (SKS)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\sns_vests\data\ui\icon_tmtm_v_chicom_sks_khaki_camo_ca.paa";
 
     hiddenSelectionsTextures[] = {
         "\tmtm\pack\sns_vests\data\tmtm_v_chicom_khaki_camo_co.paa"
@@ -414,7 +418,7 @@ class tmtm_v_mk56_sks_rig_low_khaki_camo: tmtm_v_mk56_sks_rig_low_base
     scopeArsenal=2;
 
     displayName = "Chicom 56 Rig, Khaki Camo (SKS, Low)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\sns_vests\data\ui\icon_tmtm_v_chicom_sks_khaki_camo_ca.paa";
 
     hiddenSelectionsTextures[] = {
         "\tmtm\pack\sns_vests\data\tmtm_v_chicom_khaki_camo_co.paa"
@@ -435,7 +439,7 @@ class tmtm_v_mk56_ak_rig_khaki_reinforced: tmtm_v_mk56_ak_rig_base
     scopeArsenal=2;
 
     displayName = "Chicom 56 Rig, Khaki Alt (AK)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\sns_vests\data\ui\icon_tmtm_v_chicom_ak_khaki_reinforced_ca.paa";
 
     hiddenSelectionsTextures[] = {
         "\tmtm\pack\sns_vests\data\tmtm_v_chicom_khaki_reinforced_co.paa"
@@ -456,7 +460,7 @@ class tmtm_v_mk56_ak_rig_low_khaki_reinforced: tmtm_v_mk56_ak_rig_low_base
     scopeArsenal=2;
 
     displayName = "Chicom 56 Rig, Khaki Alt (AK, Low)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\sns_vests\data\ui\icon_tmtm_v_chicom_ak_khaki_reinforced_ca.paa";
 
     hiddenSelectionsTextures[] = {
         "\tmtm\pack\sns_vests\data\tmtm_v_chicom_khaki_reinforced_co.paa"
@@ -477,7 +481,7 @@ class tmtm_v_mk56_sks_rig_khaki_reinforced: tmtm_v_mk56_sks_rig_base
     scopeArsenal=2;
 
     displayName = "Chicom 56 Rig, Khaki Alt (SKS)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\sns_vests\data\ui\icon_tmtm_v_chicom_sks_khaki_reinforced_ca.paa";
 
     hiddenSelectionsTextures[] = {
         "\tmtm\pack\sns_vests\data\tmtm_v_chicom_khaki_reinforced_co.paa"
@@ -498,7 +502,7 @@ class tmtm_v_mk56_sks_rig_low_khaki_reinforced: tmtm_v_mk56_sks_rig_low_base
     scopeArsenal=2;
 
     displayName = "Chicom 56 Rig, Khaki Alt (SKS, Low)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\sns_vests\data\ui\icon_tmtm_v_chicom_sks_khaki_reinforced_ca.paa";
 
     hiddenSelectionsTextures[] = {
         "\tmtm\pack\sns_vests\data\tmtm_v_chicom_khaki_reinforced_co.paa"
@@ -519,7 +523,7 @@ class tmtm_v_mk56_ak_rig_olive: tmtm_v_mk56_ak_rig_base
     scopeArsenal=2;
 
     displayName = "Chicom 56 Rig, Olive (AK)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\sns_vests\data\ui\icon_tmtm_v_chicom_ak_olive_ca.paa";
 
     hiddenSelectionsTextures[] = {
         "\tmtm\pack\sns_vests\data\tmtm_v_chicom_olive_co.paa"
@@ -540,7 +544,7 @@ class tmtm_v_mk56_ak_rig_low_olive: tmtm_v_mk56_ak_rig_low_base
     scopeArsenal=2;
 
     displayName = "Chicom 56 Rig, Olive (AK, Low)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\sns_vests\data\ui\icon_tmtm_v_chicom_ak_olive_ca.paa";
 
     hiddenSelectionsTextures[] = {
         "\tmtm\pack\sns_vests\data\tmtm_v_chicom_olive_co.paa"
@@ -561,7 +565,7 @@ class tmtm_v_mk56_sks_rig_olive: tmtm_v_mk56_sks_rig_base
     scopeArsenal=2;
 
     displayName = "Chicom 56 Rig, Olive (SKS)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\sns_vests\data\ui\icon_tmtm_v_chicom_sks_olive_ca.paa";
 
     hiddenSelectionsTextures[] = {
         "\tmtm\pack\sns_vests\data\tmtm_v_chicom_olive_co.paa"
@@ -582,7 +586,7 @@ class tmtm_v_mk56_sks_rig_low_olive: tmtm_v_mk56_sks_rig_low_base
     scopeArsenal=2;
 
     displayName = "Chicom 56 Rig, Olive (SKS, Low)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\sns_vests\data\ui\icon_tmtm_v_chicom_sks_olive_ca.paa";
 
     hiddenSelectionsTextures[] = {
         "\tmtm\pack\sns_vests\data\tmtm_v_chicom_olive_co.paa"
@@ -603,7 +607,7 @@ class tmtm_v_mk56_ak_rig_olive_camo: tmtm_v_mk56_ak_rig_base
     scopeArsenal=2;
 
     displayName = "Chicom 56 Rig, Olive Camo (AK)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\sns_vests\data\ui\icon_tmtm_v_chicom_ak_olive_camo_ca.paa";
 
     hiddenSelectionsTextures[] = {
         "\tmtm\pack\sns_vests\data\tmtm_v_chicom_olive_camo_co.paa"
@@ -624,7 +628,7 @@ class tmtm_v_mk56_ak_rig_low_olive_camo: tmtm_v_mk56_ak_rig_low_base
     scopeArsenal=2;
 
     displayName = "Chicom 56 Rig, Olive Camo (AK, Low)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\sns_vests\data\ui\icon_tmtm_v_chicom_ak_olive_camo_ca.paa";
 
     hiddenSelectionsTextures[] = {
         "\tmtm\pack\sns_vests\data\tmtm_v_chicom_olive_camo_co.paa"
@@ -645,7 +649,7 @@ class tmtm_v_mk56_sks_rig_olive_camo: tmtm_v_mk56_sks_rig_base
     scopeArsenal=2;
 
     displayName = "Chicom 56 Rig, Olive Camo (SKS)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\sns_vests\data\ui\icon_tmtm_v_chicom_sks_olive_camo_ca.paa";
 
     hiddenSelectionsTextures[] = {
         "\tmtm\pack\sns_vests\data\tmtm_v_chicom_olive_camo_co.paa"
@@ -666,7 +670,7 @@ class tmtm_v_mk56_sks_rig_low_olive_camo: tmtm_v_mk56_sks_rig_low_base
     scopeArsenal=2;
 
     displayName = "Chicom 56 Rig, Olive Camo (SKS, Low)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\sns_vests\data\ui\icon_tmtm_v_chicom_sks_olive_camo_ca.paa";
 
     hiddenSelectionsTextures[] = {
         "\tmtm\pack\sns_vests\data\tmtm_v_chicom_olive_camo_co.paa"
@@ -687,7 +691,7 @@ class tmtm_v_mk56_ak_rig_olive_reinforced: tmtm_v_mk56_ak_rig_base
     scopeArsenal=2;
 
     displayName = "Chicom 56 Rig, Olive Alt (AK)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\sns_vests\data\ui\icon_tmtm_v_chicom_ak_olive_reinforced_ca.paa";
 
     hiddenSelectionsTextures[] = {
         "\tmtm\pack\sns_vests\data\tmtm_v_chicom_olive_reinforced_co.paa"
@@ -708,7 +712,7 @@ class tmtm_v_mk56_ak_rig_low_olive_reinforced: tmtm_v_mk56_ak_rig_low_base
     scopeArsenal=2;
 
     displayName = "Chicom 56 Rig, Olive Alt (AK, Low)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\sns_vests\data\ui\icon_tmtm_v_chicom_ak_olive_reinforced_ca.paa";
 
     hiddenSelectionsTextures[] = {
         "\tmtm\pack\sns_vests\data\tmtm_v_chicom_olive_reinforced_co.paa"
@@ -729,7 +733,7 @@ class tmtm_v_mk56_sks_rig_olive_reinforced: tmtm_v_mk56_sks_rig_base
     scopeArsenal=2;
 
     displayName = "Chicom 56 Rig, Olive Alt (SKS)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\sns_vests\data\ui\icon_tmtm_v_chicom_sks_olive_reinforced_ca.paa";
 
     hiddenSelectionsTextures[] = {
         "\tmtm\pack\sns_vests\data\tmtm_v_chicom_olive_reinforced_co.paa"
@@ -750,7 +754,7 @@ class tmtm_v_mk56_sks_rig_low_olive_reinforced: tmtm_v_mk56_sks_rig_low_base
     scopeArsenal=2;
 
     displayName = "Chicom 56 Rig, Olive Alt (SKS, Low)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\sns_vests\data\ui\icon_tmtm_v_chicom_sks_olive_reinforced_ca.paa";
 
     hiddenSelectionsTextures[] = {
         "\tmtm\pack\sns_vests\data\tmtm_v_chicom_olive_reinforced_co.paa"

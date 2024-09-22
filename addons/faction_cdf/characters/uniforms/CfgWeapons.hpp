@@ -12,7 +12,7 @@ class tmtm_u_oversuit_cdf_aircrew: tmtm_u_oversuit_base
 
     displayName="CDF Crew Oversuit, Aircraft";
     descriptionShort="Oversuit, Crew, Flight";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\faction_cdf\characters\uniforms\data\ui\icon_tmtm_u_oversuit_cdf_aircrew_ca.paa";
 
     class ItemInfo: ItemInfo
     {
@@ -29,7 +29,7 @@ class tmtm_u_oversuit_cdf_tankcrew: tmtm_u_oversuit_base
 
     displayName="CDF Crew Oversuit, Armor";
     descriptionShort="Oversuit, Crew, Tank";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\faction_cdf\characters\uniforms\data\ui\icon_tmtm_u_oversuit_cdf_tankcrew_ca.paa";
 
     class ItemInfo: ItemInfo
     {

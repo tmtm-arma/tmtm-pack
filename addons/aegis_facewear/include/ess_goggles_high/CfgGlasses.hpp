@@ -19,7 +19,7 @@ class tmtm_g_ess_goggles_high_brown: tmtm_g_ess_goggles_high_base
     scopeArsenal=2;
 
     displayName="ESS Goggles, High (Brown)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\aegis_facewear\data\ui\icon_tmtm_g_ess_goggles_high_brown_ca.paa";
 
     hiddenSelectionsTextures[]= {
         "\tmtm\pack\aegis_facewear\data\tmtm_goggles_high_brown_co.paa",
@@ -34,7 +34,7 @@ class tmtm_g_ess_goggles_high_green: tmtm_g_ess_goggles_high_base
     scopeArsenal=2;
 
     displayName="ESS Goggles, High (Green)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\aegis_facewear\data\ui\icon_tmtm_g_ess_goggles_high_green_ca.paa";
 
     hiddenSelectionsTextures[]= {
         "\tmtm\pack\aegis_facewear\data\tmtm_goggles_high_green_co.paa",

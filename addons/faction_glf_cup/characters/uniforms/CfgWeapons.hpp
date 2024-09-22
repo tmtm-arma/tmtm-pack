@@ -226,7 +226,7 @@ class tmtm_u_reconSuit_glf_branch: tmtm_u_reconSuit_base
 
     displayName="GLF Recon Suit, Branch";
     descriptionShort="Oversuit, Recon, Branch Pattern";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\faction_glf_cup\characters\uniforms\data\ui\icon_tmtm_u_reconSuit_glf_branch_ca.paa";
 
     class ItemInfo: ItemInfo
     {
@@ -243,7 +243,7 @@ class tmtm_u_reconSuit_glf_branch_gloves: tmtm_u_reconSuit_base
 
     displayName="GLF Recon Suit, Branch (Gloves)";
     descriptionShort="Oversuit, Recon, Branch Pattern";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\faction_glf_cup\characters\uniforms\data\ui\icon_tmtm_u_reconSuit_glf_branch_ca.paa";
 
     class ItemInfo: ItemInfo
     {
@@ -260,7 +260,7 @@ class tmtm_u_reconSuit_glf_mixed: tmtm_u_reconSuit_base
 
     displayName="GLF Recon Suit, Mixed";
     descriptionShort="Oversuit, Recon, Mixed Pattern";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\faction_glf_cup\characters\uniforms\data\ui\icon_tmtm_u_reconSuit_glf_mixed_ca.paa";
 
     class ItemInfo: ItemInfo
     {
@@ -277,7 +277,7 @@ class tmtm_u_reconSuit_glf_mixed_gloves: tmtm_u_reconSuit_base
 
     displayName="GLF Recon Suit, Mixed (Gloves)";
     descriptionShort="Oversuit, Recon, Mixed Pattern";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\faction_glf_cup\characters\uniforms\data\ui\icon_tmtm_u_reconSuit_glf_mixed_ca.paa";
 
     class ItemInfo: ItemInfo
     {

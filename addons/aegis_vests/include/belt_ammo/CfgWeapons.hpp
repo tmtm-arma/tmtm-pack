@@ -23,7 +23,7 @@ class tmtm_v_belt_ammo: tmtm_v_belt_ammo_base
     scopeArsenal=2;
 
     displayName = "Cartridge Belt, MG";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\aegis_vests\data\ui\icon_tmtm_v_belt_ammo_ca.paa";
 
     hiddenSelectionsTextures[]= {
         "a3\weapons_f_exp\machineguns\lmg_03\data\lmg_03_f_body_co.paa"
@@ -44,7 +44,7 @@ class tmtm_v_belt_ammo_long: tmtm_v_belt_ammo_base
     scopeArsenal=2;
 
     displayName = "Cartridge Belt, MG (Long)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\aegis_vests\data\ui\icon_tmtm_v_belt_ammo_long_ca.paa";
 
     hiddenSelectionsTextures[]= {
         "a3\weapons_f_exp\machineguns\lmg_03\data\lmg_03_f_body_co.paa"

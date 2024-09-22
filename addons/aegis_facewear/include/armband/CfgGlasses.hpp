@@ -27,7 +27,7 @@ class tmtm_g_armband_blue: tmtm_g_armband_base
     scopeArsenal=2;
 
     displayName="Armband (Blue)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\aegis_facewear\data\ui\icon_tmtm_g_armband_blue_ca.paa";
 
     hiddenSelectionsTextures[]= {
         "\tmtm\pack\aegis_facewear\data\tmtm_armband_blue_co.paa"
@@ -41,7 +41,7 @@ class tmtm_g_armband_blue_wide: tmtm_g_armband_wide_base
     scopeArsenal=2;
 
     displayName="Armband (Blue, Wide)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\aegis_facewear\data\ui\icon_tmtm_g_armband_blue_ca.paa";
 
     hiddenSelectionsTextures[]= {
         "\tmtm\pack\aegis_facewear\data\tmtm_armband_blue_co.paa"
@@ -55,7 +55,7 @@ class tmtm_g_armband_green: tmtm_g_armband_base
     scopeArsenal=2;
 
     displayName="Armband (Green)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\aegis_facewear\data\ui\icon_tmtm_g_armband_green_ca.paa";
 
     hiddenSelectionsTextures[]= {
         "\tmtm\pack\aegis_facewear\data\tmtm_armband_green_co.paa"
@@ -69,7 +69,7 @@ class tmtm_g_armband_green_wide: tmtm_g_armband_wide_base
     scopeArsenal=2;
 
     displayName="Armband (Green, Wide)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\aegis_facewear\data\ui\icon_tmtm_g_armband_green_ca.paa";
 
     hiddenSelectionsTextures[]= {
         "\tmtm\pack\aegis_facewear\data\tmtm_armband_green_co.paa"
@@ -83,7 +83,7 @@ class tmtm_g_armband_red: tmtm_g_armband_base
     scopeArsenal=2;
 
     displayName="Armband (Red)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\aegis_facewear\data\ui\icon_tmtm_g_armband_red_ca.paa";
 
     hiddenSelectionsTextures[]= {
         "\tmtm\pack\aegis_facewear\data\tmtm_armband_red_co.paa"
@@ -97,7 +97,7 @@ class tmtm_g_armband_red_wide: tmtm_g_armband_wide_base
     scopeArsenal=2;
 
     displayName="Armband (Red, Wide)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\aegis_facewear\data\ui\icon_tmtm_g_armband_red_ca.paa";
 
     hiddenSelectionsTextures[]= {
         "\tmtm\pack\aegis_facewear\data\tmtm_armband_red_co.paa"
@@ -111,7 +111,7 @@ class tmtm_g_armband_yellow: tmtm_g_armband_base
     scopeArsenal=2;
 
     displayName="Armband (Yellow)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\aegis_facewear\data\ui\icon_tmtm_g_armband_yellow_ca.paa";
 
     hiddenSelectionsTextures[]= {
         "\tmtm\pack\aegis_facewear\data\tmtm_armband_yellow_co.paa"
@@ -125,7 +125,7 @@ class tmtm_g_armband_yellow_wide: tmtm_g_armband_wide_base
     scopeArsenal=2;
 
     displayName="Armband (Yellow, Wide)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\aegis_facewear\data\ui\icon_tmtm_g_armband_yellow_ca.paa";
 
     hiddenSelectionsTextures[]= {
         "\tmtm\pack\aegis_facewear\data\tmtm_armband_yellow_co.paa"

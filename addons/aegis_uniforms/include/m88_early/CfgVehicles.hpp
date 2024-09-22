@@ -129,7 +129,7 @@ class tmtm_m88_early_khaki: tmtm_m88_early_base
     author="OokamiJamie, erem2k";
 
     displayName="Uniform M-88 Early, Khaki";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\aegis_uniforms\data\ui\icon_tmtm_u_m88_early_khaki_ca.paa";
 
     uniformClass="tmtm_u_m88_early_khaki";
 
@@ -148,7 +148,7 @@ class tmtm_m88_early_khaki_rolled: tmtm_m88_early_rolled_base
     author="OokamiJamie, erem2k";
 
     displayName="Uniform M-88 Early, Khaki (Rolled)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\aegis_uniforms\data\ui\icon_tmtm_u_m88_early_khaki_rolled_ca.paa";
 
     uniformClass="tmtm_u_m88_early_khaki_rolled";
 
@@ -167,7 +167,7 @@ class tmtm_m88_early_khaki_gloves: tmtm_m88_early_gloves_wool_base
     author="OokamiJamie, erem2k";
 
     displayName="Uniform M-88 Early, Khaki (Gloves)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\aegis_uniforms\data\ui\icon_tmtm_u_m88_early_khaki_ca.paa";
 
     uniformClass="tmtm_u_m88_early_khaki_gloves";
 
@@ -187,7 +187,7 @@ class tmtm_m88_early_khaki_rolled_gloves: tmtm_m88_early_rolled_gloves_wool_base
     author="OokamiJamie, erem2k";
 
     displayName="Uniform M-88 Early, Khaki (Rolled, Gloves)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\aegis_uniforms\data\ui\icon_tmtm_u_m88_early_khaki_rolled_ca.paa";
 
     uniformClass="tmtm_u_m88_early_khaki_rolled_gloves";
 
@@ -207,7 +207,7 @@ class tmtm_m88_early_ttskoe: tmtm_m88_early_base
     author="OokamiJamie, erem2k";
 
     displayName="Uniform M-88 Early, TTsKO Early";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\aegis_uniforms\data\ui\icon_tmtm_u_m88_early_ttskoe_ca.paa";
 
     uniformClass="tmtm_u_m88_early_ttskoe";
 
@@ -226,7 +226,7 @@ class tmtm_m88_early_ttskoe_rolled: tmtm_m88_early_rolled_base
     author="OokamiJamie, erem2k";
 
     displayName="Uniform M-88 Early, TTsKO Early (Rolled)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\aegis_uniforms\data\ui\icon_tmtm_u_m88_early_ttskoe_rolled_ca.paa";
 
     uniformClass="tmtm_u_m88_early_ttskoe_rolled";
 
@@ -245,7 +245,7 @@ class tmtm_m88_early_ttskoe_gloves: tmtm_m88_early_gloves_wool_base
     author="OokamiJamie, erem2k";
 
     displayName="Uniform M-88 Early, TTsKO Early (Gloves)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\aegis_uniforms\data\ui\icon_tmtm_u_m88_early_ttskoe_ca.paa";
 
     uniformClass="tmtm_u_m88_early_ttskoe_gloves";
 
@@ -265,7 +265,7 @@ class tmtm_m88_early_ttskoe_rolled_gloves: tmtm_m88_early_rolled_gloves_wool_bas
     author="OokamiJamie, erem2k";
 
     displayName="Uniform M-88 Early, TTsKO Early (Rolled, Gloves)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\aegis_uniforms\data\ui\icon_tmtm_u_m88_early_ttskoe_rolled_ca.paa";
 
     uniformClass="tmtm_u_m88_early_ttskoe_rolled_gloves";
 
@@ -285,7 +285,7 @@ class tmtm_m88_early_ttskol: tmtm_m88_early_base
     author="OokamiJamie, erem2k";
 
     displayName="Uniform M-88 Early, TTsKO Late";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\aegis_uniforms\data\ui\icon_tmtm_u_m88_early_ttskol_ca.paa";
 
     uniformClass="tmtm_u_m88_early_ttskol";
 
@@ -304,7 +304,7 @@ class tmtm_m88_early_ttskol_rolled: tmtm_m88_early_rolled_base
     author="OokamiJamie, erem2k";
 
     displayName="Uniform M-88 Early, TTsKO Late (Rolled)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\aegis_uniforms\data\ui\icon_tmtm_u_m88_early_ttskol_rolled_ca.paa";
 
     uniformClass="tmtm_u_m88_early_ttskol_rolled";
 
@@ -323,7 +323,7 @@ class tmtm_m88_early_ttskol_gloves: tmtm_m88_early_gloves_wool_base
     author="OokamiJamie, erem2k";
 
     displayName="Uniform M-88 Early, TTsKO Late (Gloves)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\aegis_uniforms\data\ui\icon_tmtm_u_m88_early_ttskol_ca.paa";
 
     uniformClass="tmtm_u_m88_early_ttskol_gloves";
 
@@ -343,7 +343,7 @@ class tmtm_m88_early_ttskol_rolled_gloves: tmtm_m88_early_rolled_gloves_wool_bas
     author="OokamiJamie, erem2k";
 
     displayName="Uniform M-88 Early, TTsKO Late (Rolled, Gloves)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\aegis_uniforms\data\ui\icon_tmtm_u_m88_early_ttskol_rolled_ca.paa";
 
     uniformClass="tmtm_u_m88_early_ttskol_rolled_gloves";
 
@@ -363,7 +363,7 @@ class tmtm_m88_early_bg: tmtm_m88_early_base
     author="OokamiJamie, erem2k";
 
     displayName="Uniform M-88 Early, Border Guard";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\aegis_uniforms\data\ui\icon_tmtm_u_m88_early_bg_ca.paa";
 
     uniformClass="tmtm_u_m88_early_bg";
 
@@ -382,7 +382,7 @@ class tmtm_m88_early_bg_rolled: tmtm_m88_early_rolled_base
     author="OokamiJamie, erem2k";
 
     displayName="Uniform M-88 Early, Border Guard (Rolled)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\aegis_uniforms\data\ui\icon_tmtm_u_m88_early_bg_rolled_ca.paa";
 
     uniformClass="tmtm_u_m88_early_bg_rolled";
 
@@ -401,7 +401,7 @@ class tmtm_m88_early_bg_gloves: tmtm_m88_early_gloves_wool_base
     author="OokamiJamie, erem2k";
 
     displayName="Uniform M-88 Early, Border Guard (Gloves)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\aegis_uniforms\data\ui\icon_tmtm_u_m88_early_bg_ca.paa";
 
     uniformClass="tmtm_u_m88_early_bg_gloves";
 
@@ -421,7 +421,7 @@ class tmtm_m88_early_bg_rolled_gloves: tmtm_m88_early_rolled_gloves_wool_base
     author="OokamiJamie, erem2k";
 
     displayName="Uniform M-88 Early, Border Guard (Rolled, Gloves)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\aegis_uniforms\data\ui\icon_tmtm_u_m88_early_bg_rolled_ca.paa";
 
     uniformClass="tmtm_u_m88_early_bg_rolled_gloves";
 

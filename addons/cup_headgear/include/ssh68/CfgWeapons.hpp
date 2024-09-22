@@ -513,7 +513,7 @@ class tmtm_h_ssh68_covered_berezkawhite: tmtm_h_ssh68_covered_base
     scopeArsenal=2;
 
     displayName  = "SSh-68, Covered (Berezka White)";
-    picture="\tmtm\pack\cup_headgear\Data\ui\icon_tmtm_h_ssh68_covered_berezkawhite.paa";
+    picture="\tmtm\pack\cup_headgear\Data\ui\icon_tmtm_h_ssh68_covered_berezkawhite_ca.paa";
 
     hiddenSelectionsTextures[] = {
         "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_berezkawhite_co.paa",
@@ -610,7 +610,7 @@ class tmtm_h_ssh68_covered_csatu: tmtm_h_ssh68_covered_base
     scopeArsenal=2;
 
     displayName  = "SSh-68, Covered (Hex, Urban)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\cup_headgear\data\ui\icon_tmtm_h_ssh68_covered_csatu_ca.paa";
 
     hiddenSelectionsTextures[] = {
         "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_csatu_co.paa",
@@ -634,7 +634,7 @@ class tmtm_h_ssh68_covered_ttskoe: tmtm_h_ssh68_covered_base
     scopeArsenal=2;
 
     displayName  = "SSh-68, Covered (TTsKO Early)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\cup_headgear\data\ui\icon_tmtm_h_ssh68_covered_ttskoe_ca.paa";
 
     hiddenSelectionsTextures[] = {
         "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_ttsko_early_co.paa",
@@ -658,7 +658,7 @@ class tmtm_h_ssh68_covered_ttskol: tmtm_h_ssh68_covered_base
     scopeArsenal=2;
 
     displayName  = "SSh-68, Covered (TTsKO Late)";
-    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+    picture="\tmtm\pack\cup_headgear\data\ui\icon_tmtm_h_ssh68_covered_ttskol_ca.paa";
 
     hiddenSelectionsTextures[] = {
         "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_ttsko_late_co.paa",
