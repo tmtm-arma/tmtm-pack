@@ -140,7 +140,7 @@ class tmtm_lightFatigues_combat_base: O_Soldier_base_F
 
     class HitPoints: HitPoints
     {
-        class HitFace: HitFace
+        class HitFace
         {
             armor=1;
             material=-1;
