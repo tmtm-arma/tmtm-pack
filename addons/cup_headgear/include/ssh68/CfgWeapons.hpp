@@ -83,6 +83,24 @@ class tmtm_h_ssh68_covered_base : tmtm_h_ssh68_base
     };
 };
 
+class tmtm_h_ssh68_covered_burlap_base : tmtm_h_ssh68_covered_base
+{
+    scope=0;
+    scopeCurator=0;
+    scopeArsenal=0;
+
+    hiddenSelectionsMaterials[] = {
+        "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_burlap.rvmat"
+    };
+
+    class ItemInfo: ItemInfo
+    {
+        hiddenSelectionsMaterials[] = {
+            "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_burlap.rvmat"
+        };
+    };
+};
+
 class tmtm_h_ssh68_covered_net_base : tmtm_h_ssh68_covered_base
 {
     scope=0;
@@ -461,7 +479,7 @@ class tmtm_h_ssh68_covered_olive: tmtm_h_ssh68_covered_base
     };
 };
 
-class tmtm_h_ssh68_covered_khaki: tmtm_h_ssh68_covered_base
+class tmtm_h_ssh68_covered_khaki: tmtm_h_ssh68_covered_burlap_base
 {
     author="erem2k";
 
@@ -579,6 +597,30 @@ class tmtm_h_ssh68_covered_csatt: tmtm_h_ssh68_covered_base
         hiddenSelectionsTextures[] = {
             "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_csatt_co.paa",
             "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_csatt_co.paa"
+        };
+    };
+};
+
+class tmtm_h_ssh68_covered_csatu: tmtm_h_ssh68_covered_base
+{
+    author="erem2k";
+
+    scope=2;
+    scopeCurator=2;
+    scopeArsenal=2;
+
+    displayName  = "SSh-68, Covered (Hex, Urban)";
+    picture="\tmtm\pack\main\data\ui\icon_tmtm_wip_ca.paa";
+
+    hiddenSelectionsTextures[] = {
+        "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_csatu_co.paa",
+        "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_csatu_co.paa"
+    };
+    class ItemInfo: ItemInfo
+    {
+        hiddenSelectionsTextures[] = {
+            "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_csatu_co.paa",
+            "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_csatu_co.paa"
         };
     };
 };
