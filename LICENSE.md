@@ -3,12 +3,14 @@ https://www.bohemia.net/community/licenses/arma-public-license-share-alike
 
 ![Arma Public License - Share Alike Icon](https://www.bohemia.net/assets/img/licenses/APL-SA.png)
 
-<style type="text/css">
+<!-- The CSS below fixes list numbering, but doesn't work on Github.
+It is commented out to avoid showing up when previewing the license on Github. -->
+<!-- <style type="text/css">
     ol { list-style-type: lower-alpha; }
     ol > li > ol { list-style-type: decimal; }
     ol > li > ol > li > ol { list-style-type: lower-alpha; }
     ol > li > ol > li > ol > li > ol { list-style-type: lower-roman; }
-</style>
+</style> -->
 
 # Brief summary of this Licence
 PLEASE, NOTE THAT THIS SUMMARY HAS NO LEGAL EFFECT AND IS ONLY OF AN INFORMATORY NATURE DESIGNED FOR YOU TO GET THE BASIC INFORMATION ABOUT THE CONTENT OF THIS LICENCE. THE ONLY LEGALLY BINDING PROVISIONS ARE THOSE IN THE ORIGINAL AND FULL TEXT OF THIS LICENCE.
