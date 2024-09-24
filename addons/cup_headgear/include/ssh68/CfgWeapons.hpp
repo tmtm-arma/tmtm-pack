@@ -83,6 +83,24 @@ class tmtm_h_ssh68_covered_base : tmtm_h_ssh68_base
     };
 };
 
+class tmtm_h_ssh68_covered_burlap_base : tmtm_h_ssh68_covered_base
+{
+    scope=0;
+    scopeCurator=0;
+    scopeArsenal=0;
+
+    hiddenSelectionsMaterials[] = {
+        "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_burlap.rvmat"
+    };
+
+    class ItemInfo: ItemInfo
+    {
+        hiddenSelectionsMaterials[] = {
+            "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_burlap.rvmat"
+        };
+    };
+};
+
 class tmtm_h_ssh68_covered_net_base : tmtm_h_ssh68_covered_base
 {
     scope=0;
@@ -110,12 +128,12 @@ class CUP_H_RUS_SSH68_cover_base : CUP_H_RUS_SSH68_base
 
 class CUP_H_RUS_SSH68_cover_berezka : CUP_H_RUS_SSH68_cover_base
 {
-    displayName = "SSh-68, Covered (Berezka Yellow)";
+    displayName = "SSh-68, Covered (Border Guard)";
 
     hiddenSelections[] = {"camo", "camo1"};
     hiddenSelectionsTextures[] = {
-        "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_berezkayellow_co.paa",
-        "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_berezkayellow_co.paa"
+        "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_bg_co.paa",
+        "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_bg_co.paa"
     };
     hiddenSelectionsMaterials[] = {
         "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered.rvmat"
@@ -125,8 +143,8 @@ class CUP_H_RUS_SSH68_cover_berezka : CUP_H_RUS_SSH68_cover_base
     {
         hiddenSelections[] = {"camo", "camo1"};
         hiddenSelectionsTextures[] = {
-            "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_berezkayellow_co.paa",
-            "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_berezkayellow_co.paa"
+            "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_bg_co.paa",
+            "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_bg_co.paa"
         };
     };
 };
@@ -461,7 +479,7 @@ class tmtm_h_ssh68_covered_olive: tmtm_h_ssh68_covered_base
     };
 };
 
-class tmtm_h_ssh68_covered_khaki: tmtm_h_ssh68_covered_base
+class tmtm_h_ssh68_covered_khaki: tmtm_h_ssh68_covered_burlap_base
 {
     author="erem2k";
 
@@ -495,7 +513,7 @@ class tmtm_h_ssh68_covered_berezkawhite: tmtm_h_ssh68_covered_base
     scopeArsenal=2;
 
     displayName  = "SSh-68, Covered (Berezka White)";
-    picture="\tmtm\pack\cup_headgear\Data\ui\icon_tmtm_h_ssh68_covered_berezkawhite.paa";
+    picture="\tmtm\pack\cup_headgear\Data\ui\icon_tmtm_h_ssh68_covered_berezkawhite_ca.paa";
 
     hiddenSelectionsTextures[] = {
         "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_berezkawhite_co.paa",
@@ -583,7 +601,7 @@ class tmtm_h_ssh68_covered_csatt: tmtm_h_ssh68_covered_base
     };
 };
 
-class tmtm_h_ssh68_covered_butand: tmtm_h_ssh68_covered_base
+class tmtm_h_ssh68_covered_csatu: tmtm_h_ssh68_covered_base
 {
     author="erem2k";
 
@@ -591,23 +609,23 @@ class tmtm_h_ssh68_covered_butand: tmtm_h_ssh68_covered_base
     scopeCurator=2;
     scopeArsenal=2;
 
-    displayName  = "SSh-68, Covered (TTsKO Dark)";
-    picture="\tmtm\pack\cup_headgear\data\ui\icon_tmtm_h_ssh68_covered_butand_ca.paa";
+    displayName  = "SSh-68, Covered (Hex, Urban)";
+    picture="\tmtm\pack\cup_headgear\data\ui\icon_tmtm_h_ssh68_covered_csatu_ca.paa";
 
     hiddenSelectionsTextures[] = {
-        "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_ttsko_dark_co.paa",
-        "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_ttsko_dark_co.paa"
+        "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_csatu_co.paa",
+        "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_csatu_co.paa"
     };
     class ItemInfo: ItemInfo
     {
         hiddenSelectionsTextures[] = {
-            "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_ttsko_dark_co.paa",
-            "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_ttsko_dark_co.paa"
+            "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_csatu_co.paa",
+            "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_csatu_co.paa"
         };
     };
 };
 
-class tmtm_h_ssh68_covered_butanl: tmtm_h_ssh68_covered_base
+class tmtm_h_ssh68_covered_ttskoe: tmtm_h_ssh68_covered_base
 {
     author="erem2k";
 
@@ -615,18 +633,42 @@ class tmtm_h_ssh68_covered_butanl: tmtm_h_ssh68_covered_base
     scopeCurator=2;
     scopeArsenal=2;
 
-    displayName  = "SSh-68, Covered (TTsKO Light)";
-    picture="\tmtm\pack\cup_headgear\data\ui\icon_tmtm_h_ssh68_covered_butanl_ca.paa";
+    displayName  = "SSh-68, Covered (TTsKO Early)";
+    picture="\tmtm\pack\cup_headgear\data\ui\icon_tmtm_h_ssh68_covered_ttskoe_ca.paa";
 
     hiddenSelectionsTextures[] = {
-        "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_ttsko_light_co.paa",
-        "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_ttsko_light_co.paa"
+        "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_ttsko_early_co.paa",
+        "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_ttsko_early_co.paa"
     };
     class ItemInfo: ItemInfo
     {
         hiddenSelectionsTextures[] = {
-            "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_ttsko_ligth_co.paa",
-            "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_ttsko_light_co.paa"
+            "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_ttsko_early_co.paa",
+            "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_ttsko_early_co.paa"
+        };
+    };
+};
+
+class tmtm_h_ssh68_covered_ttskol: tmtm_h_ssh68_covered_base
+{
+    author="erem2k";
+
+    scope=2;
+    scopeCurator=2;
+    scopeArsenal=2;
+
+    displayName  = "SSh-68, Covered (TTsKO Late)";
+    picture="\tmtm\pack\cup_headgear\data\ui\icon_tmtm_h_ssh68_covered_ttskol_ca.paa";
+
+    hiddenSelectionsTextures[] = {
+        "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_ttsko_late_co.paa",
+        "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_ttsko_late_co.paa"
+    };
+    class ItemInfo: ItemInfo
+    {
+        hiddenSelectionsTextures[] = {
+            "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_ttsko_late_co.paa",
+            "\tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_ttsko_late_co.paa"
         };
     };
 };

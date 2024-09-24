@@ -3,13 +3,13 @@ class CfgVehicles
 	class SoldierEB;
 	class SoldierWB;
 	class SoldierGB;
-	
+
 	class O_Soldier_base_F : SoldierEB
 	{
 		class HitPoints;
 	};
 
-	class B_Soldier_base_F : SoldierWB 
+	class B_Soldier_base_F : SoldierWB
 	{
 		class HitPoints;
 	};
@@ -23,5 +23,6 @@ class CfgVehicles
 	#include "include/M88/CfgVehicles.hpp"
 	#include "include/maskhalat/CfgVehicles.hpp"
 	#include "include/Nomex/CfgVehicles.hpp"
+	#include "include/reconSuit/CfgVehicles.hpp"
 	#include "include/VKPO/CfgVehicles.hpp"
 };

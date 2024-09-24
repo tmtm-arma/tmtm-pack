@@ -1,15 +1,15 @@
 ambient[]={1,1,1,0.5};
-diffuse[]={1,1,1,0.5};
+diffuse[]={1,1,1,0.1};
 forcedDiffuse[]={0,0,0,0};
 emmisive[]={0,0,0,0};
-specular[]={0.1, 0.1, 0.1, 1};
-specularPower=53.599998;
+specular[]={0.1, 0.1, 0.1, 0.5};
+specularPower=5;
 PixelShaderID="Super";
 VertexShaderID="Super";
 
 class Stage1
 {
-	texture="CUP\Creatures\People\Military\CUP_Creatures_People_Military_Russia\data\ssh68_cover_nohq.paa";
+	texture = "tmtm\pack\cup_headgear\Data\tmtm_ssh68_covered_nohq.paa";
 	uvSource="tex";
 	class uvTransform
 	{

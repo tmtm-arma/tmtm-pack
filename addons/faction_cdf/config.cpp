@@ -8,14 +8,18 @@ class CfgPatches {
 		requiredVersion = REQUIRED_VERSION;
 		requiredAddons[] = {
 			"tmtmpack_main",
-			"tmtmpack_headgear"
+			"tmtmpack_headgear",
+			"tmtmpack_indfor_uniforms"
 		};
 		author = MOD_AUTHOR;
 		url = MOD_URL;
 		version = VERSION;
 		versionStr = QUOTE(VERSION_STR);
 		versionAr[] = {QUOTE(VERSION_AR)};
+
+		skipWhenMissingDependencies=1;
 	};
 };
 
+#include "CfgVehicles.hpp"
 #include "CfgWeapons.hpp"

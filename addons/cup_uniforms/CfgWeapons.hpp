@@ -9,5 +9,6 @@ class CfgWeapons
 	#include "include/M88/CfgWeapons.hpp"
 	#include "include/maskhalat/CfgWeapons.hpp"
 	#include "include/Nomex/CfgWeapons.hpp"
+	#include "include/reconSuit/CfgWeapons.hpp"
 	#include "include/VKPO/CfgWeapons.hpp"
 };

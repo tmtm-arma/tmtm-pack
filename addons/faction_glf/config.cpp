@@ -15,6 +15,8 @@ class CfgPatches {
 		version = VERSION;
 		versionStr = QUOTE(VERSION_STR);
 		versionAr[] = {QUOTE(VERSION_AR)};
+
+		skipWhenMissingDependencies=1;
 	};
 };
 

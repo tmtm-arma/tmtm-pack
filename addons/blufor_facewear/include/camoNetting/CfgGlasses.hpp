@@ -129,3 +129,24 @@ class tmtm_f_camoNetting_jungle_5: tmtm_f_camoNetting_jungle_1
     scopeArsenal = 2;
     hiddenSelectionsTextures[] = {"", "\tmtm\pack\blufor_facewear\Data\tmtm_camoNet_jungle_5_ca.paa"};
 };
+
+class tmtm_f_camoNetting_wdl_1: None
+{
+    author = "AveryTheKitty";
+    scope = 2;
+    scopeArsenal = 2;
+
+    displayName = "Camo Netting (Woodland 1)";
+    picture = "\tmtm\pack\blufor_facewear\Data\UI\tmtm_icon_camoNet_jungle_ca.paa";
+
+    identityTypes[] =
+    {
+        "NoGlasses",0,"G_NATO_default",0,"G_NATO_casual",0,"G_NATO_pilot",0,"G_NATO_recon",50,"G_NATO_SF",0,"G_NATO_sniper",0,
+        "G_NATO_diver",0,"G_IRAN_default",0,"G_IRAN_diver",0,"G_GUERIL_default",0,"G_HAF_default",0,"G_CIVIL_female",0,"G_CIVIL_male",0
+    };
+    mass = 0.1;
+
+    model = "\A3\Characters_F\BLUFOR\headgear_b_helmet_camo";
+    hiddenSelections[] = {"camo1", "camo2"};
+    hiddenSelectionsTextures[] = {"", "\tmtm\pack\blufor_facewear\Data\tmtm_camoNet_woodland_1_ca.paa"};
+};

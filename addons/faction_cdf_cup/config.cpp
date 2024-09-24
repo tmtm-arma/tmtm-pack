@@ -12,9 +12,11 @@ class CfgPatches {
 		};
 		author = MOD_AUTHOR;
 		url = MOD_URL;
-		version = VERSION; 
+		version = VERSION;
 		versionStr = QUOTE(VERSION_STR);
 		versionAr[] = {QUOTE(VERSION_AR)};
+
+		skipWhenMissingDependencies=1;
 	};
 };
 
