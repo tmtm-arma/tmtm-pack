@@ -11,7 +11,7 @@ class CfgVehicles {
 		class TextureSources {
 			class tmtmpack_uaf_olive {
 				displayName = "UAF (Olive)";
-				autor = "erem2k";
+				author = "erem2k";
 				textures[] = {
 					"\tmtm\pack\bis_vehicles\Data\tmtm_apc_wheeled_01_body_uaf_co.paa",
 					"\tmtm\pack\bis_vehicles\Data\tmtm_apc_wheeled_01_adds_uaf_co.paa",
@@ -155,11 +155,14 @@ class CfgVehicles {
 
 	// Tempest
 	class Truck_03_base_F;
-	class O_Truck_03_transport_F: Truck_03_base_F {
-		class TextureSources {
-			class tmtmpack_fia {
+	class O_Truck_03_transport_F: Truck_03_base_F
+	{
+		class TextureSources
+		{
+			class tmtmpack_fia
+			{
 				displayName = "FIA";
-				autor = "erem2k";
+				author = "erem2k";
 				textures[] = {
 					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_ext01_fia_co.paa",
 					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_ext02_fia_co.paa",
@@ -167,13 +170,177 @@ class CfgVehicles {
 				};
 				factions[] = {};
 			};
+
+			class tmtmpack_green
+			{
+				displayName = "Generic, Green";
+				author = "erem2k";
+				textures[] = {
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_ext01_green_co.paa",
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_ext02_green_co.paa",
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_cargo_green_co.paa"
+				};
+				factions[] = {};
+			};
+
+			class tmtmpack_wblack
+			{
+				displayName = "Generic, Winter Black";
+				author = "erem2k";
+				textures[] = {
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_ext01_wblack_co.paa",
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_ext02_wblack_co.paa",
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_cargo_wblack_co.paa"
+				};
+				factions[] = {};
+			};
+
+			class tmtmpack_wgreen
+			{
+				displayName = "Generic, Winter Green";
+				author = "erem2k";
+				textures[] = {
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_ext01_wgreen_co.paa",
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_ext02_wgreen_co.paa",
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_cargo_wgreen_co.paa"
+				};
+				factions[] = {};
+			};
+
+			class tmtmpack_wgrey
+			{
+				displayName = "Generic, Winter Grey";
+				author = "erem2k";
+				textures[] = {
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_ext01_wgrey_co.paa",
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_ext02_wgrey_co.paa",
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_cargo_wgrey_co.paa"
+				};
+				factions[] = {};
+			};
 		};
 	};
-	class O_Truck_03_ammo_F: Truck_03_base_F {
-		class TextureSources {
-			class tmtmpack_fia {
+
+	class O_Truck_03_covered_F: Truck_03_base_F
+	{
+		class TextureSources
+		{
+			class tmtmpack_green
+			{
+				displayName = "Generic, Green";
+				author = "erem2k";
+				textures[] = {
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_ext01_green_co.paa",
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_ext02_green_co.paa",
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_cargo_green_co.paa",
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_cover_green_co.paa"
+				};
+				factions[] = {};
+			};
+
+			class tmtmpack_wblack
+			{
+				displayName = "Generic, Winter Black";
+				author = "erem2k";
+				textures[] = {
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_ext01_wblack_co.paa",
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_ext02_wblack_co.paa",
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_cargo_wblack_co.paa",
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_cover_wblack_co.paa"
+				};
+				factions[] = {};
+			};
+
+			class tmtmpack_wgreen
+			{
+				displayName = "Generic, Winter Green";
+				author = "erem2k";
+				textures[] = {
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_ext01_wgreen_co.paa",
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_ext02_wgreen_co.paa",
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_cargo_wgreen_co.paa",
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_cover_wgreen_co.paa"
+				};
+				factions[] = {};
+			};
+
+			class tmtmpack_wgrey
+			{
+				displayName = "Generic, Winter Grey";
+				author = "erem2k";
+				textures[] = {
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_ext01_wgrey_co.paa",
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_ext02_wgrey_co.paa",
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_cargo_wgrey_co.paa",
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_cover_wgrey_co.paa"
+				};
+				factions[] = {};
+			};
+		};
+	};
+
+	class O_Truck_03_repair_F: Truck_03_base_F
+	{
+		class TextureSources
+		{
+			class tmtmpack_green
+			{
+				displayName = "Generic, Green";
+				author = "erem2k";
+				textures[] = {
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_ext01_green_co.paa",
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_ext02_green_co.paa",
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_repair_green_co.paa"
+				};
+				factions[] = {};
+			};
+
+			class tmtmpack_wblack
+			{
+				displayName = "Generic, Winter Black";
+				author = "erem2k";
+				textures[] = {
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_ext01_wblack_co.paa",
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_ext02_wblack_co.paa",
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_repair_wblack_co.paa"
+				};
+				factions[] = {};
+			};
+
+			class tmtmpack_wgreen
+			{
+				displayName = "Generic, Winter Green";
+				author = "erem2k";
+				textures[] = {
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_ext01_wgreen_co.paa",
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_ext02_wgreen_co.paa",
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_repair_wgreen_co.paa"
+				};
+				factions[] = {};
+			};
+
+			class tmtmpack_wgrey
+			{
+				displayName = "Generic, Winter Grey";
+				author = "erem2k";
+				textures[] = {
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_ext01_wgrey_co.paa",
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_ext02_wgrey_co.paa",
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_repair_wgrey_co.paa"
+				};
+				factions[] = {};
+			};
+		};
+	};
+
+	class O_Truck_03_ammo_F: Truck_03_base_F
+	{
+		class TextureSources
+		{
+			class tmtmpack_fia
+			{
 				displayName = "FIA";
-				autor = "erem2k";
+				author = "erem2k";
 				textures[] = {
 					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_ext01_fia_co.paa",
 					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_ext02_fia_co.paa",
@@ -182,13 +349,69 @@ class CfgVehicles {
 				};
 				factions[] = {};
 			};
+
+			class tmtmpack_green
+			{
+				displayName = "Generic, Green";
+				author = "erem2k";
+				textures[] = {
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_ext01_green_co.paa",
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_ext02_green_co.paa",
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_cargo_green_co.paa",
+					"\A3\Structures_F\Data\Metal\Containers\Containers_02_set_CO.paa"
+				};
+				factions[] = {};
+			};
+
+			class tmtmpack_wblack
+			{
+				displayName = "Generic, Winter Black";
+				author = "erem2k";
+				textures[] = {
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_ext01_wblack_co.paa",
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_ext02_wblack_co.paa",
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_cargo_wblack_co.paa",
+					"\A3\Structures_F\Data\Metal\Containers\Containers_02_set_CO.paa"
+				};
+				factions[] = {};
+			};
+
+			class tmtmpack_wgreen
+			{
+				displayName = "Generic, Winter Green";
+				author = "erem2k";
+				textures[] = {
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_ext01_wgreen_co.paa",
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_ext02_wgreen_co.paa",
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_cargo_wgreen_co.paa",
+					"\A3\Structures_F\Data\Metal\Containers\Containers_02_set_CO.paa"
+				};
+				factions[] = {};
+			};
+
+			class tmtmpack_wgrey
+			{
+				displayName = "Generic, Winter Grey";
+				author = "erem2k";
+				textures[] = {
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_ext01_wgrey_co.paa",
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_ext02_wgrey_co.paa",
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_cargo_wgrey_co.paa",
+					"\A3\Structures_F\Data\Metal\Containers\Containers_02_set_CO.paa"
+				};
+				factions[] = {};
+			};
 		};
 	};
-	class O_Truck_03_fuel_F: Truck_03_base_F {
-		class TextureSources {
-			class tmtmpack_fia {
+
+	class O_Truck_03_fuel_F: Truck_03_base_F
+	{
+		class TextureSources
+		{
+			class tmtmpack_fia
+			{
 				displayName = "FIA";
-				autor = "erem2k";
+				author = "erem2k";
 				textures[] = {
 					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_ext01_fia_co.paa",
 					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_ext02_fia_co.paa",
@@ -196,9 +419,190 @@ class CfgVehicles {
 				};
 				factions[] = {};
 			};
+
+			class tmtmpack_green
+			{
+				displayName = "Generic, Green";
+				author = "erem2k";
+				textures[] = {
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_ext01_green_co.paa",
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_ext02_green_co.paa",
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_fuel_green_co.paa"
+				};
+				factions[] = {};
+			};
+
+			class tmtmpack_wblack
+			{
+				displayName = "Generic, Winter Black";
+				author = "erem2k";
+				textures[] = {
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_ext01_wblack_co.paa",
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_ext02_wblack_co.paa",
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_fuel_wblack_co.paa"
+				};
+				factions[] = {};
+			};
+
+			class tmtmpack_wgreen
+			{
+				displayName = "Generic, Winter Green";
+				author = "erem2k";
+				textures[] = {
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_ext01_wgreen_co.paa",
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_ext02_wgreen_co.paa",
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_fuel_wgreen_co.paa"
+				};
+				factions[] = {};
+			};
+
+			class tmtmpack_wgrey
+			{
+				displayName = "Generic, Winter Grey";
+				author = "erem2k";
+				textures[] = {
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_ext01_wgrey_co.paa",
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_ext02_wgrey_co.paa",
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_fuel_wgrey_co.paa"
+				};
+				factions[] = {};
+			};
 		};
 	};
 
+	class O_Truck_03_medical_F: Truck_03_base_F
+	{
+		class TextureSources
+		{
+			class tmtmpack_green
+			{
+				displayName = "Generic, Green";
+				author = "erem2k";
+				textures[] = {
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_ext01_green_co.paa",
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_ext02_green_co.paa",
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_cargo_green_co.paa",
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_cover_green_co.paa"
+				};
+				factions[] = {};
+			};
+
+			class tmtmpack_wblack
+			{
+				displayName = "Generic, Winter Black";
+				author = "erem2k";
+				textures[] = {
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_ext01_wblack_co.paa",
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_ext02_wblack_co.paa",
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_cargo_wblack_co.paa",
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_cover_wblack_co.paa"
+				};
+				factions[] = {};
+			};
+
+			class tmtmpack_wgreen
+			{
+				displayName = "Generic, Winter Green";
+				author = "erem2k";
+				textures[] = {
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_ext01_wgreen_co.paa",
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_ext02_wgreen_co.paa",
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_cargo_wgreen_co.paa",
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_cover_wgreen_co.paa"
+				};
+				factions[] = {};
+			};
+
+			class tmtmpack_wgrey
+			{
+				displayName = "Generic, Winter Grey";
+				author = "erem2k";
+				textures[] = {
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_ext01_wgrey_co.paa",
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_ext02_wgrey_co.paa",
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_cargo_wgrey_co.paa",
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_cover_wgrey_co.paa"
+				};
+				factions[] = {};
+			};
+		};
+	};
+
+	class O_Truck_03_device_F: Truck_03_base_F
+	{
+		class TextureSources
+		{
+			class tmtmpack_fia
+			{
+				displayName = "FIA";
+				author = "erem2k";
+				textures[] = {
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_ext01_fia_co.paa",
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_ext02_fia_co.paa",
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_cargo_fia_co.paa",
+					"\A3\Structures_F_EPC\Items\Electronics\Data\The_Device_02_CO.paa",
+					"\A3\Structures_F_EPC\Items\Electronics\Data\The_Device_03_CO.paa"
+				};
+				factions[] = {};
+			};
+
+			class tmtmpack_green
+			{
+				displayName = "Generic, Green";
+				author = "erem2k";
+				textures[] = {
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_ext01_green_co.paa",
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_ext02_green_co.paa",
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_cargo_green_co.paa",
+					"\A3\Structures_F_EPC\Items\Electronics\Data\The_Device_02_CO.paa",
+					"\A3\Structures_F_EPC\Items\Electronics\Data\The_Device_03_CO.paa"
+				};
+				factions[] = {};
+			};
+
+			class tmtmpack_wblack
+			{
+				displayName = "Generic, Winter Black";
+				author = "erem2k";
+				textures[] = {
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_ext01_wblack_co.paa",
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_ext02_wblack_co.paa",
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_cargo_wblack_co.paa",
+					"\A3\Structures_F_EPC\Items\Electronics\Data\The_Device_02_CO.paa",
+					"\A3\Structures_F_EPC\Items\Electronics\Data\The_Device_03_CO.paa"
+				};
+				factions[] = {};
+			};
+
+			class tmtmpack_wgreen
+			{
+				displayName = "Generic, Winter Green";
+				author = "erem2k";
+				textures[] = {
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_ext01_wgreen_co.paa",
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_ext02_wgreen_co.paa",
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_cargo_wgreen_co.paa",
+					"\A3\Structures_F_EPC\Items\Electronics\Data\The_Device_02_CO.paa",
+					"\A3\Structures_F_EPC\Items\Electronics\Data\The_Device_03_CO.paa"
+				};
+				factions[] = {};
+			};
+
+			class tmtmpack_wgrey
+			{
+				displayName = "Generic, Winter Grey";
+				author = "erem2k";
+				textures[] = {
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_ext01_wgrey_co.paa",
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_ext02_wgrey_co.paa",
+					"\tmtm\pack\bis_vehicles\Data\tmtm_truck_03_cargo_wgrey_co.paa",
+					"\A3\Structures_F_EPC\Items\Electronics\Data\The_Device_02_CO.paa",
+					"\A3\Structures_F_EPC\Items\Electronics\Data\The_Device_03_CO.paa"
+				};
+				factions[] = {};
+			};
+		};
+	};
 
 	// Strider
 	class MRAP_03_base_F;
